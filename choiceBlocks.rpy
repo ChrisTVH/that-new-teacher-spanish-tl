@@ -76,7 +76,7 @@ translate spanish GloryHole_0211ab06:
 translate spanish GloryHole_7e798e93:
 
     # nobodyT "This is what happens when they deprive me of masculine attention! God damn you, Sinergy!"
-    nobodyT "¡Esto es lo que pasa cuando me privan de atención masculina! ¡Maldita seas, Sinergia!"
+    nobodyT "¡Esto es lo que pasa cuando me privan de atención masculina! ¡Maldita seas, Sinergy!"
 
 # game/choiceBlocks.rpy:48
 translate spanish GloryHole_cc15b284:

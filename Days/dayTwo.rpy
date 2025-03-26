@@ -2536,7 +2536,7 @@ translate spanish D2_Morgana_Swim_86a83b14:
 translate spanish D2_Morgana_Swim_31b5d7ad:
 
     # principal "Sinergy. They provide us with {b}a lot{/b} of money to make this institute the best it can be." id D2_Morgana_Swim_31b5d7ad
-    principal "Sinergia. Nos proporcionan {b}mucho{/b} dinero para que este instituto sea lo mejor posible." id D2_Morgana_Swim_31b5d7ad
+    principal "Sinergy. Nos proporcionan {b}mucho{/b} dinero para que este instituto sea lo mejor posible." id D2_Morgana_Swim_31b5d7ad
 
 # game/Days/dayTwo.rpy:1085
 translate spanish D2_Morgana_Swim_260da5d4:
@@ -3922,7 +3922,7 @@ translate spanish D2_Morgana_Nurse_529b9de5:
 translate spanish D2_Morgana_Nurse_0b392d12:
 
     # sin "Welcome [player_name]. Welcome to Sinergy."
-    sin "Bienvenido [player_name]. Bienvenidos a Sinergia."
+    sin "Bienvenido [player_name]. Bienvenidos a Sinergy."
 
 # game/Days/dayTwo.rpy:1621
 translate spanish D2_Morgana_Nurse_95ce3a0c:
@@ -4018,7 +4018,7 @@ translate spanish D2_Morgana_Nurse_89d3cdc1:
 translate spanish D2_Morgana_Nurse_712339a3:
 
     # sin "Ah yes. Welcome to Sinergy [player_name]!"
-    sin "Ah si. ¡Bienvenido a Sinergia [player_name]!"
+    sin "Ah si. ¡Bienvenido a Sinergy [player_name]!"
 
 # game/Days/dayTwo.rpy:1666
 translate spanish D2_Morgana_Nurse_fc9c6b04:

@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/characters.rpy:93
     old "Rebecca"
-    new "Rebeca"
+    new "Rebecca"
 
     # game/characters.rpy:96
     old "David"
@@ -32,7 +32,7 @@ translate spanish strings:
 
     # game/characters.rpy:100
     old "Sinergy Representitive"
-    new "Representante de Sinergia"
+    new "Representante de Sinergy"
 
     # game/characters.rpy:112
     old "Emily"
@@ -44,7 +44,7 @@ translate spanish strings:
 
     # game/characters.rpy:120
     old "Lucy"
-    new "Lucía"
+    new "Lucy"
 
     # game/characters.rpy:124
     old "Ciarara"
@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/characters.rpy:109
     old "The Director"
-    new "The Director"
+    new "La Directora"
 
     # game/characters.rpy:138
     old "Lilith"
@@ -104,5 +104,5 @@ translate spanish strings:
 
     # game/characters.rpy:163
     old "Girl"
-    new "Girl"
+    new "Chica"
 

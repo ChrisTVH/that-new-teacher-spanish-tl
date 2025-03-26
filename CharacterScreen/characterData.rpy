@@ -4,35 +4,35 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:39
     old "Japanese"
-    new "Japonesa"
+    new "Japonés(a)"
 
     # game/CharacterScreen/characterData.rpy:42
     old "{name} has been added to the Characters Page."
-    new "{name} se ha agregado a la Página de Personajes."
+    new "{name} ha sido añadido(a) a la Página de Personajes."
 
     # game/CharacterScreen/characterData.rpy:46
     old "{name} has been added to the Special Guests Page."
-    new "{name} se ha agregado a la Página de Invitados Especiales."
+    new "{name} ha sido añadido(a) a la Página de Invitados Especiales."
 
     # game/CharacterScreen/characterData.rpy:51
     old "{name}'s information has been updated on the Characters Page."
-    new "La información de {name} se ha actualizado en la Página de Personajes."
+    new "La información de {name} ha sido actualizada en la Página de Personajes."
 
     # game/CharacterScreen/characterData.rpy:56
     old "Punishments Given: "
-    new "Castigos dados:"
+    new "Castigos Aplicados: "
 
     # game/CharacterScreen/characterData.rpy:56
     old "Rewards Given: "
-    new "Recompensas dadas:"
+    new "Recompensas Otorgadas: "
 
     # game/CharacterScreen/characterData.rpy:56
     old "Times Punished: "
-    new "Veces castigada:"
+    new "Veces Castigada: "
 
     # game/CharacterScreen/characterData.rpy:56
     old "Times Rewarded: "
-    new "Veces recompensada:"
+    new "Veces Recompensada: "
 
     # game/CharacterScreen/characterData.rpy:90
     old "6'0\""
@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:90
     old "Hands-on"
-    new "Trabajándoselo"
+    new "Práctico(a)"
 
     # game/CharacterScreen/characterData.rpy:91
     old "5'5.8\""
@@ -48,7 +48,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:91
     old "Married"
-    new "Casado/a"
+    new "Casado(a)"
 
     # game/CharacterScreen/characterData.rpy:91
     old "Office Worker"
@@ -60,7 +60,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:92
     old "Single"
-    new "Soltero/a"
+    new "Soltero(a)"
 
     # game/CharacterScreen/characterData.rpy:92
     old "Student"
@@ -72,7 +72,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:93
     old "Cheeky Student"
-    new "Estudiante Pícara"
+    new "Estudiante Descarada"
 
     # game/CharacterScreen/characterData.rpy:94
     old "5'4.1\""
@@ -84,7 +84,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:95
     old "South Korean"
-    new "Surcoreano/a"
+    new "SurCoreano(a)"
 
     # game/CharacterScreen/characterData.rpy:96
     old "5'3\""
@@ -92,7 +92,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:96
     old "Half Japanese"
-    new "Mitad japonesa"
+    new "Mitad japonés(a)"
 
     # game/CharacterScreen/characterData.rpy:97
     old "5'4.4\""
@@ -100,15 +100,15 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:97
     old "[darius_name!t]' Girlfriend"
-    new "Novia de [darius_name!t]'"
+    new "Pareja de [darius_name!t]"
 
     # game/CharacterScreen/characterData.rpy:97
     old "???"
-    new "???"
+    new "¿?¿?"
 
     # game/CharacterScreen/characterData.rpy:97
     old "British"
-    new "Británico/a"
+    new "Británico(a)"
 
     # game/CharacterScreen/characterData.rpy:98
     old "5'2.85\""
@@ -116,7 +116,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:98
     old "Half French"
-    new "Medio francesa"
+    new "Mitad Francés(a)"
 
     # game/CharacterScreen/characterData.rpy:100
     old "5'1\""
@@ -124,7 +124,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:100
     old "Danish"
-    new "Danés/a"
+    new "Danés(a)"
 
     # game/CharacterScreen/characterData.rpy:101
     old "5'4\""
@@ -132,7 +132,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:101
     old "Bratty Student"
-    new "Estudiante Rebelde"
+    new "Estudiante Maleducado"
 
     # game/CharacterScreen/characterData.rpy:102
     old "Jackson"
@@ -148,7 +148,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:103
     old "School Principal"
-    new "Directora de la Escuela"
+    new "Director de la Universidad"
 
     # game/CharacterScreen/characterData.rpy:104
     old "5'5\""
@@ -168,7 +168,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:105
     old "Sports Teacher"
-    new "Profesora de E.F"
+    new "Profesora de Deportes"
 
     # game/CharacterScreen/characterData.rpy:106
     old "5'8.9\""
@@ -176,7 +176,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:106
     old "Divorced"
-    new "Divorciado/a"
+    new "Divorciado(a)"
 
     # game/CharacterScreen/characterData.rpy:106
     old "Maths & History Teacher"
@@ -192,15 +192,15 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:108
     old "Store Worker"
-    new "Trabajadora de la Tienda"
+    new "Trabajadora de La Tienda"
 
     # game/CharacterScreen/characterData.rpy:108
     old "French"
-    new "Francés/a"
+    new "Francés(a)"
 
     # game/CharacterScreen/characterData.rpy:109
     old "School Nurse?"
-    new "¿Enfermera de la Escuela?"
+    new "¿Enfermera de la Universidad?"
 
     # game/CharacterScreen/characterData.rpy:110
     old "5'6\""
@@ -208,7 +208,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:110
     old "Sinergy Representative"
-    new "Representante de Sinergia"
+    new "Representante de Sinergy"
 
     # game/CharacterScreen/characterData.rpy:111
     old "Bar Receptionist"
@@ -224,7 +224,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:112
     old "American"
-    new "Americano/a"
+    new "Americano(a)"
 
     # game/CharacterScreen/characterData.rpy:113
     old "5'4.8"
@@ -232,7 +232,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:113
     old "Soon-to-be Nun."
-    new "Futura monja."
+    new "Futura Monja."
 
     # game/CharacterScreen/characterData.rpy:114
     old "Shay"
@@ -240,11 +240,11 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:114
     old "Egyptian"
-    new "Egipcio/a"
+    new "Egipcio(a)"
 
     # game/CharacterScreen/characterData.rpy:114
     old "Met in one of the local porn store try-before-you-buy rooms."
-    new "Conocida en la habitación prueba-antes-de-comprar de la tienda porno."
+    new "Nos conocimos en una de las salas de prueba-antes-de-comprar de la tienda porno local."
 
     # game/CharacterScreen/characterData.rpy:116
     old "5'8\""
@@ -260,7 +260,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:117
     old "Board Director"
-    new "Director de la Junta"
+    new "Director del Consejo"
 
     # game/CharacterScreen/characterData.rpy:118
     old "6'1\""
@@ -268,7 +268,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:118
     old "Bartender"
-    new "Barman"
+    new "Cantinero"
 
     # game/CharacterScreen/characterData.rpy:119
     old "5'7.9\""
@@ -280,7 +280,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:119
     old "Being A Cuck"
-    new "Ser un Cornudo"
+    new "Ser un(a) Cornudo(a)"
 
     # game/CharacterScreen/characterData.rpy:119
     old "1-X"
@@ -288,19 +288,19 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:119
     old "Cuckasian"
-    new "Cornudés"
+    new "Cuckasian"
 
     # game/CharacterScreen/characterData.rpy:120
     old "Tower Sized"
-    new "Como una Torre"
+    new "Tower Sized"
 
     # game/CharacterScreen/characterData.rpy:120
     old "Apex Predator"
-    new "Depredador Ápex"
+    new "Apex el Depreador"
 
     # game/CharacterScreen/characterData.rpy:120
     old "Being Scary"
-    new "Dar miedo"
+    new "Ser Aterrador"
 
     # game/CharacterScreen/characterData.rpy:121
     old "Barber"
@@ -308,7 +308,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:121
     old "Married to [ver]. Owns a barber shop but is struggling with money to keep everything afloat..."
-    new "Casado con [ver]. Es el dueño de una peluquería, pero le esta costando mantenerse todo a flote..."
+    new "Casado con [ver]. Es el dueño de una barbería, pero le esta costando mantenerse flote..."
 
     # game/CharacterScreen/characterData.rpy:132
     old "{color=#57feff}Emily{/color}"
@@ -408,7 +408,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:267
     old "You don't know much about this character yet."
-    new "Aún no sabes mucho sobre este personaje."
+    new "Aún no sabes mucho de este personaje."
 
 # TODO: Translation updated at 2025-03-11 11:15
 
@@ -416,59 +416,59 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:92
     old "Student{#Female}"
-    new "Student{#Female}"
+    new "Estudiante{#Female}"
 
     # game/CharacterScreen/characterData.rpy:93
     old "Cheeky Student{#Female}"
-    new "Cheeky Student{#Female}"
+    new "Estudiante Descarado{#Female}"
 
     # game/CharacterScreen/characterData.rpy:93
     old "Japanese{#Person}"
-    new "Japanese{#Person}"
+    new "Japonés(a){#Person}"
 
     # game/CharacterScreen/characterData.rpy:95
     old "South Korean{#Person}"
-    new "South Korean{#Person}"
+    new "SurCoreano(a){#Person}"
 
     # game/CharacterScreen/characterData.rpy:96
     old "Half Japanese{#Person}"
-    new "Half Japanese{#Person}"
+    new "Mitad Japonés(a){#Person}"
 
     # game/CharacterScreen/characterData.rpy:97
     old "British{#Person}"
-    new "British{#Person}"
+    new "Británico(a){#Person}"
 
     # game/CharacterScreen/characterData.rpy:98
     old "Half French{#Person}"
-    new "Half French{#Person}"
+    new "Mitad Francés(a){#Person}"
 
     # game/CharacterScreen/characterData.rpy:100
     old "Danish{#Person}"
-    new "Danish{#Person}"
+    new "Danés{#Person}"
 
     # game/CharacterScreen/characterData.rpy:101
     old "Bratty Student{#Female}"
-    new "Bratty Student{#Female}"
+    new "Estudiante Maleducado{#Female}"
 
     # game/CharacterScreen/characterData.rpy:104
     old "Canadian{#Person}"
-    new "Canadian{#Person}"
+    new "Canadiense{#Person}"
 
     # game/CharacterScreen/characterData.rpy:108
     old "French{#Person}"
-    new "French{#Person}"
+    new "Francés(a){#Person}"
 
     # game/CharacterScreen/characterData.rpy:112
     old "American{#Person}"
-    new "American{#Person}"
+    new "Americano(a){#Person}"
 
     # game/CharacterScreen/characterData.rpy:114
     old "Egyptian{#Person}"
-    new "Egyptian{#Person}"
+    new "Egipcio(a){#Person}"
 
     # game/CharacterScreen/characterData.rpy:116
     old "Student{#Male}"
-    new "Student{#Male}"
+    new "Estudiante{#Male}"
 
     # game/CharacterScreen/characterData.rpy:137
     old "{color=#1fb4ff}Cassie{/color} & {color=#ff802b}Riley{/color}"

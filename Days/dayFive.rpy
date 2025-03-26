@@ -3388,7 +3388,7 @@ translate spanish dayFiveStart_0df3569a:
 translate spanish dayFiveStart_41d1a898:
 
     # mcT "Thank you for this opportunity, Sinergy."
-    mcT "Gracias por esta oportunidad, Sinergia."
+    mcT "Gracias por esta oportunidad, Sinergy."
 
 # game/Days/dayFive.rpy:1390
 translate spanish dayFiveStart_5f061a9b_3:
@@ -7942,7 +7942,7 @@ translate spanish D5_Nova_54b919ee:
 translate spanish D5_Nova_a851c521:
 
     # mc "I can't really get away with letting you off. Sinergy expect results." id D5_Nova_a851c521
-    mc "Realmente no puedo dejarte ir. Sinergia espera resultados." id D5_Nova_a851c521
+    mc "Realmente no puedo dejarte ir. Sinergy espera resultados." id D5_Nova_a851c521
 
 # game/Days/dayFive.rpy:3681
 translate spanish D5_Nova_f8db67aa:

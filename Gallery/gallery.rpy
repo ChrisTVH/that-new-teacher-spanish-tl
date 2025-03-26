@@ -4,23 +4,23 @@ translate spanish strings:
 
     # game/Gallery/gallery.rpy:36
     old "Detention Duty"
-    new "Tarea de Castigo"
+    new "Servicio de Detención"
 
     # game/Gallery/gallery.rpy:36
     old "Embarrassing Act"
-    new "Acto vergonzoso"
+    new "Acto Vergonzoso"
 
     # game/Gallery/gallery.rpy:36
     old "Stuck Daphne"
-    new "Dafne Atascada"
+    new "Daphne Atascada"
 
     # game/Gallery/gallery.rpy:36
     old "Watchers Eye"
-    new "Ojo Vigía"
+    new "Ojo Observador"
 
     # game/Gallery/gallery.rpy:36
     old "King Of Clubs"
-    new "Rey del Club"
+    new "Rey de los Clubes"
 
     # game/Gallery/gallery.rpy:36
     old "Swimming Lesson"
@@ -28,7 +28,7 @@ translate spanish strings:
 
     # game/Gallery/gallery.rpy:36
     old "Morgana's A Slut"
-    new "Morgana es una Puta"
+    new "Morgana Es Una Puta"
 
     # game/Gallery/gallery.rpy:36
     old "Squeaky Clean"
@@ -40,11 +40,11 @@ translate spanish strings:
 
     # game/Gallery/gallery.rpy:36
     old "What To Wear?"
-    new "¿Qué Ponerse?"
+    new "¿Qué debería ponerse?"
 
     # game/Gallery/gallery.rpy:36
     old "69 Shades Of White"
-    new "69 Sombras de Blanco"
+    new "69 Tonos De Blanco"
 
     # game/Gallery/gallery.rpy:36
     old "Return To Sender"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/Gallery/gallery.rpy:36
     old "Red Cheeks"
-    new "Culo Escaldado"
+    new "Mejillas Rojas"
 
     # game/Gallery/gallery.rpy:36
     old "Erotic Fanfiction"
@@ -84,15 +84,15 @@ translate spanish strings:
 
     # game/Gallery/gallery.rpy:36
     old "Lustful Visions"
-    new "Visiones lujuriosas"
+    new "Visiones Lujuriosas"
 
     # game/Gallery/gallery.rpy:36
     old "Punishment Platform"
-    new "Estación de Castigo"
+    new "Plataforma de Castigo"
 
     # game/Gallery/gallery.rpy:36
     old "Spikes & Spanks"
-    new "Remates y Azotes"
+    new "Golpes y Azotes"
 
     # game/Gallery/gallery.rpy:163
     old "{size=30} Locked. {/size}"
@@ -108,7 +108,7 @@ translate spanish strings:
 
     # game/Gallery/gallery.rpy:229
     old "{size=+20}Replayable Scenes{/size}"
-    new "{size=+20}Escenas Reproducibles{/size}"
+    new "{size=+20}Escenas Repetibles{/size}"
 
     # game/Gallery/gallery.rpy:230
     old "[SCu]/[SCl]"
@@ -120,9 +120,9 @@ translate spanish strings:
 
     # game/Gallery/gallery.rpy:42
     old "Slippery When Wet"
-    new "Slippery When Wet"
+    new "Resbaladizo y Húmedo"
 
     # game/Gallery/gallery.rpy:42
     old "Refill?"
-    new "Refill?"
+    new "¿Rellenar?"
 

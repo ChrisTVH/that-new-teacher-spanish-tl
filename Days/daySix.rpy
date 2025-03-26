@@ -7612,7 +7612,7 @@ translate spanish D6_Sophia_78313ce7:
 translate spanish D6_Sophia_e961b06e:
 
     # ella "You see, I'm an important person at this big company; Sinergy. Have you heard of it?"
-    ella "Verá, soy una persona importante en esta gran empresa; Sinergia. ¿Has oído hablar de él?"
+    ella "Verá, soy una persona importante en esta gran empresa; Sinergy. ¿Has oído hablar de él?"
 
 # game/Days/daySix.rpy:3138
 translate spanish D6_Sophia_6aa9b3c2:

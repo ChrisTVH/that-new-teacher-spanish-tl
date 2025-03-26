@@ -796,7 +796,7 @@ translate spanish start_b35c2b76:
 translate spanish start_4b6d5786:
 
     # principal "{b}Sinergy{/b}. They provide us with {b}a lot{/b} of money to make this institute the best it can be." id start_4b6d5786
-    principal "{b}Sinergia{/b}. Nos proporcionan {b}mucho{/b} dinero para que este instituto sea lo mejor posible." id start_4b6d5786
+    principal "{b}Sinergy{/b}. Nos proporcionan {b}mucho{/b} dinero para que este instituto sea lo mejor posible." id start_4b6d5786
 
 # game/Days/dayOne.rpy:322
 translate spanish start_413d68a5:

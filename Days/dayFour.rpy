@@ -6826,7 +6826,7 @@ translate spanish D4_Yoga_8b1b077c:
 translate spanish D4_Yoga_5317031e:
 
     # mich "Reginald?"
-    mich "¿Reginaldo?"
+    mich "¿Reginald?"
 
 # game/Days/dayFour.rpy:2940
 translate spanish D4_Yoga_bb41f4ba:
@@ -7228,7 +7228,7 @@ translate spanish D4_Yoga_edff704a:
 translate spanish D4_Yoga_a8d671be:
 
     # mich "Ah yes. About Reginald..."
-    mich "Ah si. Sobre Reginaldo..."
+    mich "Ah si. Sobre Reginald..."
 
 # game/Days/dayFour.rpy:3104
 translate spanish D4_Yoga_e5f8f35b:

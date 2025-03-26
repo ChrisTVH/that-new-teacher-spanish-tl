@@ -36,7 +36,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:95
     old "Suzie"
-    new "Susie"
+    new "Suzie"
 
     # game/CharacterScreen/characterScreen.rpy:95
     old "Nova"
@@ -68,7 +68,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:95
     old "Chrissy"
-    new "Crissy"
+    new "Chrissy"
 
     # game/CharacterScreen/characterScreen.rpy:95
     old "Raya"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:95
     old "Belle"
-    new "Bel"
+    new "Belle"
 
     # game/CharacterScreen/characterScreen.rpy:95
     old "Mrs. Jackson"
@@ -84,7 +84,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:95
     old "Clarissa"
-    new "Clarisa"
+    new "Clarissa"
 
     # game/CharacterScreen/characterScreen.rpy:116
     old "{size=+100}{color=#c6005c}Main Girls{/color}{/size}"
@@ -92,11 +92,11 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:171
     old "Stella"
-    new "Estela"
+    new "Stella"
 
     # game/CharacterScreen/characterScreen.rpy:171
     old "Veronica"
-    new "Verónica"
+    new "Veronica"
 
     # game/CharacterScreen/characterScreen.rpy:171
     old "Melany"
@@ -112,15 +112,15 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:171
     old "Roxanne"
-    new "Roxana"
+    new "Roxanne"
 
     # game/CharacterScreen/characterScreen.rpy:171
     old "Daphne"
-    new "Dafne"
+    new "Daphne"
 
     # game/CharacterScreen/characterScreen.rpy:171
     old "Ella"
-    new "Ela"
+    new "Ella"
 
     # game/CharacterScreen/characterScreen.rpy:186
     old "{size=+100}{color=#c6005c}Side Girls{/color}{/size}"
@@ -132,15 +132,15 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:232
     old "Darius"
-    new "Darío"
+    new "Darius"
 
     # game/CharacterScreen/characterScreen.rpy:232
     old "Simon"
-    new "Simón"
+    new "Simon"
 
     # game/CharacterScreen/characterScreen.rpy:232
     old "Reginald"
-    new "Reginaldo"
+    new "Reginald"
 
     # game/CharacterScreen/characterScreen.rpy:232
     old "Big Man Bill"
@@ -148,7 +148,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:232
     old "Apex"
-    new "Ápex"
+    new "Apex"
 
     # game/CharacterScreen/characterScreen.rpy:232
     old "Kenshi 'Ken'"
@@ -276,15 +276,15 @@ translate spanish strings:
 
     # game/CharacterScreen/characterScreen.rpy:386
     old "{b}Relationship: {/b}[charData.relationship!ti]"
-    new "{b}Relationship: {/b}[charData.relationship!ti]"
+    new "{b}Relación: {/b}[charData.relationship!ti]"
 
     # game/CharacterScreen/characterScreen.rpy:387
     old "{b}Occupation: {/b}[charData.occupation!ti]"
-    new "{b}Occupation: {/b}[charData.occupation!ti]"
+    new "{b}Ocupación: {/b}[charData.occupation!ti]"
 
     # game/CharacterScreen/characterScreen.rpy:389
     old "{b}Class: {/b}[charData.className!ti]"
-    new "{b}Class: {/b}[charData.className!ti]"
+    new "{b}Clase: {/b}[charData.className!ti]"
 
     # game/CharacterScreen/characterScreen.rpy:418
     old "IP Studios has taken over development of Stray Incubus."
