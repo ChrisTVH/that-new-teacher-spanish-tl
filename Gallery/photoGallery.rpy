@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/Gallery/photoGallery.rpy:39
     old "A new photo has been added to the gallery!"
-    new "¡Se ha agregado una nueva foto a la galería!"
+    new "¡Se ha Añadido una Nueva Foto a la Galería!"
 
     # game/Gallery/photoGallery.rpy:108
     old "{size=22} Locked. {/size}"

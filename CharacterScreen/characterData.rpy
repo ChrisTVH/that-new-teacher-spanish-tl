@@ -148,7 +148,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterData.rpy:103
     old "School Principal"
-    new "Director de la Universidad"
+    new "Directora de la Universidad"
 
     # game/CharacterScreen/characterData.rpy:104
     old "5'5\""

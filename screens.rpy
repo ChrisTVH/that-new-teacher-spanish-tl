@@ -122,7 +122,7 @@ translate spanish strings:
 
     # game/screens.rpy:1110
     old "Return"
-    new "Regresar"
+    new "Volver"
 
     # game/screens.rpy:1199
     old "About"

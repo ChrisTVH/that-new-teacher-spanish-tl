@@ -4,11 +4,11 @@ translate spanish strings:
 
     # game/LanguageSelection/languageSelection.rpy:36
     old "{b}{size=+18}Select your Language{/size}{/b}"
-    new "{b}{size=+18}Selecciona tu idioma{/size}{/b}"
+    new "{b}{size=+18}Selecciona tu Idioma{/size}{/b}"
 
     # game/LanguageSelection/languageSelection.rpy:37
     old "{i}Languages marked with a machine icon have been machine translated.\nWant to improve the translations? Join the discord!{/i}"
-    new "{i}Los idiomas marcados con el icono de un robot se han traducido automáticamente.\n¿Quieres mejorar las traducciones? ¡Únete al discord!{/i}"
+    new "{i}Los idiomas marcados con un icono de máquina han sido traducidos automáticamente.\n¿Quieres mejorar las traducciones? ¡Únete a nuestro Discord!{/i}"
 
     # game/LanguageSelection/languageSelection.rpy:40
     old "{size=+18}Selected: English{/size}"

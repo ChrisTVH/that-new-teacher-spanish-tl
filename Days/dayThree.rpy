@@ -556,7 +556,7 @@ translate spanish D3_Pretend_Sleep_a57794d3:
 translate spanish D3_Pretend_Sleep_9283b6b0:
 
     # mc "*Whispers* It's 10am..."
-    mc "*susurra* Son las 10 de la mañana..."
+    mc "*susurro* Son las 10 de la mañana..."
 
 # game/Days/dayThree.rpy:240
 translate spanish D3_Pretend_Sleep_31a1b223:
@@ -4078,7 +4078,7 @@ translate spanish D3_Stella_f54f2b66:
 translate spanish D3_Stella_707acd2e:
 
     # esme "*giggles* You sound super excited [si]!"
-    esme "*risas* ¡Suenas súper emocionado [si]!"
+    esme "*risitas* ¡Suenas súper emocionado [si]!"
 
 # game/Days/dayThree.rpy:1702
 translate spanish D3_Stella_7d2fd7a5:
@@ -4708,7 +4708,7 @@ translate spanish D3_Stella_ab5bd31c:
 translate spanish D3_Stella_e11b1c03:
 
     # esme "*giggles* Yeah of course you were..."
-    esme "*risas* Sí, por supuesto que lo estabas..."
+    esme "*risitas* Sí, por supuesto que lo estabas..."
 
 # game/Days/dayThree.rpy:2007
 translate spanish D3_Stella_9f105ba3:
@@ -7696,13 +7696,13 @@ translate spanish D3_Esme_89992953:
 translate spanish D3_Esme_65c54d34:
 
     # soph "Maybe it's {i}you{/i} who needs punishing, and not the students? *giggles*"
-    soph "¿Quizás eres {i}tú{/i} quien necesita ser castigado y no los estudiantes? *risas*"
+    soph "¿Quizás eres {i}tú{/i} quien necesita ser castigado y no los estudiantes? *risitas*"
 
 # game/Days/dayThree.rpy:3224
 translate spanish D3_Sophia_65c54d34:
 
     # soph "Maybe it's {i}you{/i} who needs punishing, and not the students? *giggles*"
-    soph "¿Quizás eres {i}tú{/i} quien necesita ser castigado y no los estudiantes? *risas*"
+    soph "¿Quizás eres {i}tú{/i} quien necesita ser castigado y no los estudiantes? *risitas*"
 
 # game/Days/dayThree.rpy:3225
 translate spanish D3_Sophia_944388dc:

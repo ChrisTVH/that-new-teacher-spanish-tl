@@ -4,37 +4,37 @@
 translate spanish WakeUp_cfa0e5d1:
 
     # mc "{b}SUUUUZIIIIIIEEEE!{/b}"
-    mc "{b}¡SUUUUSIIIIIIEEEE!{/b}"
+    mc "{b}¡SUUUUZIIIIIIEEEE!{/b}"
 
 # game/choiceBlocks.rpy:18
 translate spanish WakeUp_5e2d7f23:
 
     # mc "{b}WAKE UUUP!{/b}"
-    mc "{b}¡DESPIERTA!{/b}"
+    mc "{b}¡DESPIERTAAAA!{/b}"
 
 # game/choiceBlocks.rpy:19
 translate spanish WakeUp_306e7c03:
 
     # mc "Come on, get up. It's time to go to school!"
-    mc "Vamos, levántate. ¡Es hora de ir a la escuela!"
+    mc "Vamos, levántate. ¡Es hora de ir a la universidad!"
 
 # game/choiceBlocks.rpy:21
 translate spanish WakeUp_13a74d28:
 
     # suz "{b}AAAAAA! OKAY, OKAY! GET OUT!"
-    suz "{b}¡AAAAAA! ¡Está bien, está bien! ¡DÉJAME!"
+    suz "{b}¡AAAAAA! ¡VALE, VALE! ¡DEJAME!"
 
 # game/choiceBlocks.rpy:34
 translate spanish GloryHole_1bc2c90d:
 
     # mcT "I can't believe I'm actually doing this..."
-    mcT "No puedo creer que realmente esté haciendo esto..."
+    mcT "No me puedo creer que esté haciendo algo como esto..."
 
 # game/choiceBlocks.rpy:35
 translate spanish GloryHole_7276f71c:
 
     # nobodyT "One-two, buckle my shoe."
-    nobodyT "Uno-dos, la hebilla abroché."
+    nobodyT "Uno-dos, me abrocho el zapato."
 
 # game/choiceBlocks.rpy:36
 translate spanish GloryHole_abb3c81d:
@@ -46,7 +46,7 @@ translate spanish GloryHole_abb3c81d:
 translate spanish GloryHole_f13df804:
 
     # nobodyT "Huh, what's this?"
-    nobodyT "Eh, ¿qué es esto?"
+    nobodyT "¿Eh, qué es esto?"
 
 # game/choiceBlocks.rpy:39
 translate spanish GloryHole_f6d190b4:
@@ -58,7 +58,7 @@ translate spanish GloryHole_f6d190b4:
 translate spanish GloryHole_2b1c35b5:
 
     # nobodyT "Best. Detention. Ever!"
-    nobodyT "¡Mejor. Detención. Posible!"
+    nobodyT "¡Es la Mejor. Detención. Posible!"
 
 # game/choiceBlocks.rpy:41
 translate spanish GloryHole_a7da1717:
@@ -76,13 +76,13 @@ translate spanish GloryHole_0211ab06:
 translate spanish GloryHole_7e798e93:
 
     # nobodyT "This is what happens when they deprive me of masculine attention! God damn you, Sinergy!"
-    nobodyT "¡Esto es lo que pasa cuando me privan de atención masculina! ¡Maldita seas, Sinergy!"
+    nobodyT "¡Esto es lo que pasa cuando me privan de atención masculina! ¡Es tu culpa Sinergy!"
 
 # game/choiceBlocks.rpy:48
 translate spanish GloryHole_cc15b284:
 
     # nobodyT "I wonder who it is. Will it even fit? *sniffs*"
-    nobodyT "Me pregunto quién es. ¿Caberá siquiera? *olfatea*"
+    nobodyT "Me pregunto de quién es. ¿Caberá siquiera? *olfatea*"
 
 # game/choiceBlocks.rpy:50
 translate spanish GloryHole_faac583f:
@@ -100,13 +100,13 @@ translate spanish GloryHole_3902111f:
 translate spanish GloryHole_7ebc27a6:
 
     # nobodyT "I thought this hole was just a joke, so why is there this big fucking cock right in front of my face?"
-    nobodyT "Pensé que este agujero era sólo una broma, entonces, ¿por qué hay esta gran polla justo frente a mi cara?"
+    nobodyT "Pensé que este agujero era sólo una broma, entonces, ¿por qué hay una gran polla justo frente a mi cara?"
 
 # game/choiceBlocks.rpy:60
 translate spanish GloryHole_dbdf46c6:
 
     # nobodyT "It can't be another student. It's just too big..."
-    nobodyT "No puede ser otro estudiante. Es demasiado grande..."
+    nobodyT "No puede ser de otro estudiante. Es demasiado grande..."
 
 # game/choiceBlocks.rpy:63
 translate spanish GloryHole_70624a26:
@@ -166,7 +166,7 @@ translate spanish GloryHole_9fb20e4d:
 translate spanish GloryHole_892da99c:
 
     # nobody "Come on. Give it to me! I want to taste your nectar!"
-    nobody "Vamos. ¡DÁMELO! ¡Quiero saborear tu néctar!"
+    nobody "Vamos. ¡DÁMELO! ¡Quiero saborear tu dulce néctar!"
 
 # game/choiceBlocks.rpy:76
 translate spanish GloryHole_50067801:
@@ -208,7 +208,7 @@ translate spanish GloryHole_e9c506be:
 translate spanish RefuseGloryHole_d1bdce04:
 
     # mcT "Nope. I'm not risking it."
-    mcT "Nope. No me la juego."
+    mcT "Nop. No me la juego."
 
 # game/choiceBlocks.rpy:128
 translate spanish AcceptJob_50794a58:
@@ -220,7 +220,7 @@ translate spanish AcceptJob_50794a58:
 translate spanish AcceptJob_661c56ab:
 
     # mc "Thank you, [principal], for your trust. I hope I can match your expectations."
-    mc "Gracias, [principal], por tu confianza. Espero poder cumplir con tus expectativas."
+    mc "Gracias, [principal], por tu confianza. Espero estar a la altura de tus expectativas."
 
 # game/choiceBlocks.rpy:131
 translate spanish AcceptJob_fad66f0f:

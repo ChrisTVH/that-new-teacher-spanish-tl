@@ -358,7 +358,7 @@ translate spanish dayTwoStart_c8074175:
 translate spanish dayTwoStart_49c77a58:
 
     # suz "Yes sir... *giggles*"
-    suz "Sí señor... *risas*"
+    suz "Sí señor... *risitas*"
 
 # game/Days/dayTwo.rpy:200
 translate spanish dayTwoStart_c27c6448:
@@ -502,7 +502,7 @@ translate spanish dayTwoStart_6f54d14b:
 translate spanish dayTwoStart_92f58a2f:
 
     # soph "Too methodical [player_name]. Live a little! {i}*laughs*{/i}"
-    soph "Demasiado metódico [player_name]. ¡Vive un poco! {i}*risas*{/i}"
+    soph "Demasiado metódico [player_name]. ¡Vive un poco! {i}*risitas*{/i}"
 
 # game/Days/dayTwo.rpy:269
 translate spanish dayTwoStart_2b35b6fe_1:
@@ -1258,7 +1258,7 @@ translate spanish dayTwoStart_0898a670:
 translate spanish dayTwoStart_36409a19:
 
     # morg "OH! Right~right I should get changed! *giggles*"
-    morg "¡OH! ¡Bien~bien, debería cambiarme! *risas*"
+    morg "¡OH! ¡Bien~bien, debería cambiarme! *risitas*"
 
 # game/Days/dayTwo.rpy:582
 translate spanish dayTwoStart_77667d1b:
@@ -5590,7 +5590,7 @@ translate spanish D2_Morgana_Nurse_965ce28b:
 translate spanish D2_Morgana_Nurse_bf07e22c:
 
     # nova "*giggles* See you soon [school_player_name]."
-    nova "*risas* Nos vemos pronto [school_player_name]."
+    nova "*risitas* Nos vemos pronto [school_player_name]."
 
 # game/Days/dayTwo.rpy:2326
 translate spanish D2_Morgana_Nurse_1c7a3a92_4:
@@ -6460,7 +6460,7 @@ translate spanish D2_Nova_Shower_c14e37dd:
 translate spanish D2_Nova_Shower_41eb0f5e:
 
     # nova "I hope it won't be the last!! *giggles*"
-    nova "Espero que no sea el último!! *risas*"
+    nova "Espero que no sea el último!! *risitas*"
 
 # game/Days/dayTwo.rpy:2697
 translate spanish D2_Nova_Shower_d34bc987:

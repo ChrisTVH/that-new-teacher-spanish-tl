@@ -4,25 +4,25 @@ translate spanish strings:
 
     # game/phone/apps/applications.rpy:306
     old "message"
-    new "mensaje"
+    new "Mensajes"
 
     # game/phone/apps/applications.rpy:316
     old "calendar"
-    new "calendario"
+    new "Calendario"
 
     # game/phone/apps/applications.rpy:346
     old "call"
-    new "llamar"
+    new "Teléfono"
 
     # game/phone/apps/applications.rpy:356
     old "characters"
-    new "personajes"
+    new "Personajes"
 
     # game/phone/apps/applications.rpy:376
     old "gallery"
-    new "galería"
+    new "Galería"
 
     # game/phone/apps/applications.rpy:386
     old "photos"
-    new "fotos"
+    new "Fotos"
 

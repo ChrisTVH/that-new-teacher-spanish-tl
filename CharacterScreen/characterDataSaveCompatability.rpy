@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/CharacterScreen/characterDataSaveCompatability.rpy:15
     old "Smith"
-    new "Smith"
+    new "Mochizuki"
 
     # game/CharacterScreen/characterDataSaveCompatability.rpy:19
     old "Miller"

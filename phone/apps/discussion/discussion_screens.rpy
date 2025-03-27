@@ -28,5 +28,5 @@ translate spanish strings:
 
     # game/phone/apps/discussion/discussion_screens.rpy:260
     old "Go Back"
-    new "Volver"
+    new "Ir atrás"
 

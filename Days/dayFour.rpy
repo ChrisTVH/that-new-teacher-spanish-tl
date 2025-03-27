@@ -1102,7 +1102,7 @@ translate spanish dayFourStart_4735ea66:
 translate spanish dayFourStart_36e98041:
 
     # soph "*Giggles* It'll do you good!"
-    soph "*risas* ¡Te hará bien!"
+    soph "*risitas* ¡Te hará bien!"
 
 # game/Days/dayFour.rpy:503
 translate spanish dayFourStart_d6097a51:
@@ -2680,7 +2680,7 @@ translate spanish D4_Suzie_55b8be79:
 translate spanish D4_Suzie_bad3e576:
 
     # suz "*Giggles*"
-    suz "*risas*"
+    suz "*risitas*"
 
 # game/Days/dayFour.rpy:1181
 translate spanish D4_Suzie_80982c53:
@@ -10444,7 +10444,7 @@ translate spanish d4_pizza_noPeak_c50fbd83:
 translate spanish d4_pizza_noPeak_bad3e576:
 
     # suz "*Giggles*"
-    suz "*risas*"
+    suz "*risitas*"
 
 # game/Days/dayFour.rpy:4680
 translate spanish d4_pizza_noPeak_dd561fda:

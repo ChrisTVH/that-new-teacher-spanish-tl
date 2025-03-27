@@ -6118,7 +6118,7 @@ translate spanish D5_Principal_3_e7d1a2ca:
 translate spanish D5_Principal_3_eea73b21:
 
     # stella "*Giggles*"
-    stella "*risas*"
+    stella "*risitas*"
 
 # game/Days/dayFive.rpy:2924
 translate spanish D5_Principal_3_b9c5afe5:
@@ -11518,7 +11518,7 @@ translate spanish D5_Esme_92eee832:
 translate spanish D5_Esme_4eea8291:
 
     # ver "I hope so! *giggles*"
-    ver "¡Eso espero! *risas*"
+    ver "¡Eso espero! *risitas*"
 
 # game/Days/dayFive.rpy:5426
 translate spanish D5_Esme_012e1673:
@@ -11536,7 +11536,7 @@ translate spanish D5_Esme_7dfaea0c:
 translate spanish D5_Esme_73856a35:
 
     # ver "Front-trunk! *giggles*"
-    ver "¡Maletero delantero! *risas*"
+    ver "¡Maletero delantero! *risitas*"
 
 # game/Days/dayFive.rpy:5433
 translate spanish D5_Esme_68a02cdd:

@@ -10186,7 +10186,7 @@ translate spanish D7_Sophia_Footjob_488d99c9:
 translate spanish D7_Sophia_Footjob_3dbd93a3:
 
     # soph "{size=-10}*Giggles*{/size} That tickles, [player_name]!"
-    soph "{size=-10}*risas*{/size} que hace cosquillas, [player_name]!"
+    soph "{size=-10}*risitas*{/size} que hace cosquillas, [player_name]!"
 
 # game/Days/daySeven.rpy:4087
 translate spanish D7_Sophia_Footjob_5c79fdd7:

@@ -16,7 +16,7 @@ translate spanish strings:
 
     # game/phone/definitions/01definitions.rpy:52
     old "Previous Messages cannot be loaded."
-    new "No se pueden cargar los Mensajes Anteriores."
+    new "No se pueden cargar los mensajes anteriores."
 
     # game/phone/definitions/01definitions.rpy:52
     old "Merry Christmas!"
@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/phone/definitions/01definitions.rpy:52
     old "You're still asleep... Aren't you..."
-    new "Todavía estás durmiendo... ¿Verdad...?"
+    new "Todavía estás durmiendo... No estás..."
 
     # game/phone/definitions/01definitions.rpy:52
     old "Merry Christmas, [suz]."
@@ -32,11 +32,11 @@ translate spanish strings:
 
     # game/phone/definitions/01definitions.rpy:52
     old "When I'm back at Sophia's, I have a present for you!"
-    new "Cuando vuelva a lo de Sofía, ¡Tengo un regalo para ti!"
+    new "¡Cuando vuelva a casa con [soph], te daré un regalo para ti!"
 
     # game/phone/definitions/01definitions.rpy:52
     old "I have one for you too, [suz]. Enjoy your christmas, Have fun with your family!"
-    new "Yo también tengo uno para ti, [suz]. Disfruta la Navidad, ¡Diviértete con tu familia!"
+    new "Yo también tengo uno para ti, [suz]. Disfruta de la Navidad y diviértete con tu familia."
 
     # game/phone/definitions/01definitions.rpy:71
     old "[si]"
@@ -56,13 +56,13 @@ translate spanish strings:
 
     # game/phone/definitions/01definitions.rpy:97
     old "Previous messages cannot be loaded."
-    new "No se pueden cargar los Mensajes Anteriores."
+    new "No se pueden cargar los mensajes anteriores."
 
     # game/phone/definitions/01definitions.rpy:97
     old "Thanks for Thursday, man! I had a blast... Literally! 😆"
-    new "¡Gracias por lo del jueves, hombre! Acabé reventada... ¡Literalmente! 😆"
+    new "¡Gracias por el jueves, amigo! Me lo pasé pipa.... ¡Literalmente! 😆"
 
     # game/phone/definitions/01definitions.rpy:97
     old "In the elevator now my friend. Be there in two ticks."
-    new "Por el ascensor amigo mío. Estaré allí en dos tics."
+    new "Estoy en el ascensor amigo. Estaré allí en dos tics."
 
