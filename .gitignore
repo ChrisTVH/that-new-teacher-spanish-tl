@@ -1,1 +1,4 @@
 *.rpyc
+*.sublime-project
+*.vscode-proyect
+*.vscode
