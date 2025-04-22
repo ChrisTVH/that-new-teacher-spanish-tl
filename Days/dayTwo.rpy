@@ -1,4 +1,5 @@
-﻿# TODO: Translation updated at 2024-12-09 22:04
+﻿# TODO: Translation updated at 2025-04-22 15:56
+
 
 # game/Days/dayTwo.rpy:6
 translate spanish dayTwoStart_a20cefa7:
@@ -82,7 +83,7 @@ translate spanish dayTwoStart_b2f4a41c:
 translate spanish dayTwoStart_29e5d0aa:
 
     # mcT "Did [soph] buy a duck? Why is there pitter patters running down the hall?"
-    mcT "¿[soph] compró un pato? ¿Por qué se oyen ruidos resonantes por el pasillo?"
+    mcT "¿[soph] ha comprado un pato? ¿Por qué se oyen esos ruidos resonantes por el pasillo?"
 
 # game/Days/dayTwo.rpy:57
 translate spanish dayTwoStart_a20cefa7_1:
@@ -6540,11 +6541,13 @@ translate spanish D2_Nova_Shower_97c9f0d1:
     # mcT "For fuck's sake... I DIDN'T TURN OFF THE LIGHT... {b}AGAIN.{/b}"
     mcT "Joder... NO APAGUE LA LUZ... {b}OTRA VEZ.{/b}"
 
+
+#Traducido por SneakyBaker 2025-04-22
 translate spanish strings:
 
     # game/Days/dayTwo.rpy:95
     old "You look pretty just as you are!"
-    new "¡Te ves bonita tal como eres!"
+    new "¡Te ves guapa tal y como eres!"
 
     # game/Days/dayTwo.rpy:96
     old "Long hair would suit you!"
@@ -6556,11 +6559,11 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:248
     old "\n{u}{b}Day 2:{/b}{/u}\nShe asked me if her ass looks big in her spandex, of course I said yes!"
-    new "\n{u}{b}Día 2:{/b}{/u}\nMe preguntó si su trasero se ve grande con su spandex, ¡por supuesto que dije que sí!"
+    new "\n{u}{b}Día 2:{/b}{/u}\nMe preguntó si su culo se ve grande con su spandex, ¡por supuesto que dije que sí!"
 
     # game/Days/dayTwo.rpy:357
     old "\n{u}{b}Day 2:{/b}{/u}\nShe asked me if her ass looks big in her spandex, I didn't comment on it..."
-    new "\n{u}{b}Día 2:{/b}{/u}\nMe preguntó si su trasero se ve grande con su spandex, no comenté al respecto..."
+    new "\n{u}{b}Día 2:{/b}{/u}\nMe preguntó si su culo se ve grande con su spandex, no comenté nada al respecto..."
 
     # game/Days/dayTwo.rpy:419
     old "\n{u}{b}Day 2:{/b}{/u}\nI met the Physical Education teacher and it looks like she's married. I wonder if I could get inbetween that?"
@@ -6576,7 +6579,7 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:584
     old "\n{u}{b}Day 2:{/b}{/u}\nThere was a hidden hole in one of the lockers in the boys changing room that looked into the girls changing room...... and I peeked on Suzie changing..."
-    new "\n{u}{b}Día 2:{/b}{/u}\nHabía un agujero oculto en uno de los casilleros del vestuario de niños que daba al vestuario de niñas... y me asomé. Suzie cambiando..."
+    new "\n{u}{b}Día 2:{/b}{/u}\nHabía un agujero oculto en uno de los casilleros del vestuario de chicos que daba al vestuario de niñas... y me asomé. Suzie se estaba cambiando..."
 
     # game/Days/dayTwo.rpy:585
     old "\n{u}{b}Day 2:{/b}{/u}\nThere was a hidden hole in one of the lockers in the boys changing room that looked into the girls changing room... and I peeked on Morgana changing..."
@@ -6584,7 +6587,7 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:889
     old "Give her some more support."
-    new "Dale un poco más de apoyo."
+    new "Darle un poco más de apoyo."
 
     # game/Days/dayTwo.rpy:890
     old "It's too risky!"
@@ -6592,7 +6595,7 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:901
     old "\nAs I was teaching Morgana how to swim, I couldn't help myself and started playing with her tits as she was concentrating on not drowning."
-    new "\nMientras le enseñaba a nadar a Morgana, no pude evitarlo y comencé a jugar con sus tetas mientras ella se concentraba en no ahogarse."
+    new "\nMientras le enseñaba a nadar a Morgana, no me pude contener y comencé a jugar con sus tetas mientras ella se concentraba en no ahogarse."
 
     # game/Days/dayTwo.rpy:970
     old "\nI should have taught her how to stop swimming..."
@@ -6608,7 +6611,7 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:1074
     old "Please remind me."
-    new "Por favor recuérdamelo."
+    new "Por favor, recuérdamelo."
 
     # game/Days/dayTwo.rpy:1075
     old "Fresh in the memory! I remember them."
@@ -6632,7 +6635,7 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:1448
     old "\nMorgana took the pain medication Daphne prescribed her that apparently was made with my hair I gave her on my first day here. It ended up with me getting a tit job from her huge tits. It was amazing!"
-    new "\nMorgana tomó el analgésico que Daphne le recetó y que aparentemente estaba hecho con mi cabello que le di el primer día aquí. Terminó con una paja de sus enormes tetas. ¡Fue increíble!"
+    new "\nMorgana tomó el analgésico que Daphne le recetó y que aparentemente estaba hecho con el pelo que le di el primer día aquí. Terminó con una paja entre sus enormes tetas. ¡Fue increíble!"
 
     # game/Days/dayTwo.rpy:1524
     old "\n{u}{b}Day 2:{/b}{/u}\nEsme invited me to go to the cinema for her and Simon's first date. What could go wrong..."
@@ -6656,11 +6659,11 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:1838
     old "\"Accidentally\" act like you didn't see her."
-    new "\"Accidentalmente\" actúa como si no la hubieras visto."
+    new "\"Accidentalmente\" actúar como si no la hubieras visto."
 
     # game/Days/dayTwo.rpy:1856
     old "\n{u}{b}Day 2:{/b}{/u}\nI noticed her bending down, so I pretended I didn't see her so I could get a handful of that ass!"
-    new "\n{u}{b}Día 2:{/b}{/u}\nLa noté agachada, ¡así que fingí no verla para poder darle un puñado de ese trasero!"
+    new "\n{u}{b}Día 2:{/b}{/u}\nLa noté agachada, ¡así que fingí no verla para poder cogerle buena parte de su culo!"
 
     # game/Days/dayTwo.rpy:1985
     old "No problem. I know it must have come as a suprise."
@@ -6688,7 +6691,7 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:2687
     old "\n{u}{b}Day 2:{/b}{/u}\nNova came to the apartment for dinner, and it ended with us showering together and she gave me an amazing thighjob!"
-    new "\n{u}{b}Día 2:{/b}{/u}\nNova vino al apartamento a cenar y terminó duchándonos juntas y ¡ella me hizo una increíble paja en los muslos!"
+    new "\n{u}{b}Día 2:{/b}{/u}\nNova vino al apartamento a cenar y terminnamos duchándonos juntos y ¡ella me hizo una increíble paja con los muslos!"
 
     # game/Days/dayTwo.rpy:2718
     old "\n{u}{b}Day 2:{/b}{/u}\nNova came to the apartment for dinner, but she barged into the bathroom and wanted to shower with me. I had to let her down and she started crying... I need to make it up to her somehow."
