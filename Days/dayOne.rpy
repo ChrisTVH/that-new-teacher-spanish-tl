@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-09 22:04
+﻿# TODO: Translation updated at 2025-04-22 15:56
 
 # game/Days/dayOne.rpy:8
 translate spanish start_577f33b3:
@@ -5148,6 +5148,7 @@ translate spanish D1_ClubActivitives_76274e47:
     # mcT "Right! Time to get some shut-eye. Until tomorrow..."
     mcT "¡Bien! Es hora de dormir un poco. Hasta mañana..."
 
+#Traducido por SneakyBaker 2025-04-22
 translate spanish strings:
 
     # game/Days/dayOne.rpy:261
@@ -5176,11 +5177,11 @@ translate spanish strings:
 
     # game/Days/dayOne.rpy:423
     old "Raise your voice to them."
-    new "Alzad vuestra voz hacia ellos."
+    new "Alza tu voz hacia ellos."
 
     # game/Days/dayOne.rpy:423
     old "Take them out of the class."
-    new "Sácalos de la clase."
+    new "Sacarlas fuera de clase."
 
     # game/Days/dayOne.rpy:460
     old "Accept."
@@ -5196,7 +5197,7 @@ translate spanish strings:
 
     # game/Days/dayOne.rpy:461
     old "Game Over Scene!"
-    new "¡Escena de juego terminado!"
+    new "¡Escena de juego terminada!"
 
     # game/Days/dayOne.rpy:816
     old "Absolutely!"
@@ -5204,27 +5205,27 @@ translate spanish strings:
 
     # game/Days/dayOne.rpy:869
     old "\n{u}{b}Day 1:{/b}{/u}\nNova just played with her class mates tits right in front of me. I mean, I'm not complaining, but I didn't expect it!"
-    new "\n{u}{b}Día 1:{/b}{/u}\nNova acaba de jugar con las tetas de sus compañeros de clase justo delante de mí. Quiero decir, no me quejo, ¡pero no me lo esperaba!"
+    new "\n{u}{b}Día 1:{/b}{/u}\nNova acaba de jugar con las tetas de sus compañeras de clase justo delante de mí. Quiero decir, no me quejo, ¡pero no me lo esperaba!"
 
     # game/Days/dayOne.rpy:870
     old "\n{u}{b}Day 1:{/b}{/u}\nBella got really embarrassed when Nova played with her tits. I can see why, but by god does she have a big rack!"
-    new "\n{u}{b}Día 1:{/b}{/u}\nBella se avergonzó mucho cuando Nova jugó con sus tetas. Puedo ver por qué, pero ¡por Dios, tiene un gran trasero!"
+    new "\n{u}{b}Día 1:{/b}{/u}\nBella se avergonzó mucho cuando Nova jugó con sus tetas. Puedo ver por qué, pero ¡por Dios, tiene un culo enorme!"
 
     # game/Days/dayOne.rpy:991
     old "\n{u}{b}Day 1:{/b}{/u}\nRegretably... Daphne is the Nurse here and she some-how got stuck in the bedframe in the nurses office, and I had to get her out of it..."
-    new "\n{u}{b}Día 1:{/b}{/u}\nLamentablemente... Daphne es la enfermera aquí y de alguna manera se quedó atrapada en la cabecera de la cama en la oficina de enfermería, y tuve que sacarla de él..."
+    new "\n{u}{b}Día 1:{/b}{/u}\nLamentablemente... Daphne es la enfermera aquí y de alguna manera se quedó atrapada en la cabecera de la cama en la oficina de enfermería, y tuve que desatascarla..."
 
     # game/Days/dayOne.rpy:1117
     old "\nShe then wanted some of my hair to make something...unique to me?"
-    new "\nLuego quiso que un poco de mi cabello hiciera algo... ¿único para mí?"
+    new "\nLuego quiso un poco de mi pelo para hacer algo... ¿único para mí?"
 
     # game/Days/dayOne.rpy:1364
     old "Simon and Esme are dating... I didn't know he had it in him!"
-    new "Simon y Esme están saliendo... ¡No sabía que él lo tenía!"
+    new "Simon y Esme están saliendo... ¡No sabía que ella gustaba!"
 
     # game/Days/dayOne.rpy:1365
     old "He's dating Esme?? I didn't know he had it in him!"
-    new "¿Está saliendo con Esme? ¡No sabía que lo tenía dentro!"
+    new "¿Está saliendo con Esme? ¡No sabía que ella le gustaba!"
 
     # game/Days/dayOne.rpy:1492
     old "Look after Bill's daughter on the weekend."
@@ -5252,15 +5253,15 @@ translate spanish strings:
 
     # game/Days/dayOne.rpy:1826
     old "Creampie"
-    new "cremita"
+    new "Creampie"
 
     # game/Days/dayOne.rpy:1826
     old "Paint her back"
-    new "pintarle la espalda"
+    new "Pintarle la espalda"
 
     # game/Days/dayOne.rpy:1853
     old "\n{u}{b}Day 1:{/b}{/u}\nJust fucked this girl silly in the exotic night club, and her boyfriend found us in the act..."
-    new "\n{u}{b}Día 1:{/b}{/u}\nAcabo de follar a esta chica tontamente en el exótico club nocturno, y su novio nos encontró en el acto..."
+    new "\n{u}{b}Día 1:{/b}{/u}\nAcabo de follar a esta chica tontamente en este exótico club nocturno, y su novio nos descubrió haciéndolo..."
 
     # game/Days/dayOne.rpy:1922
     old "\"Accidentally\" go lower."
@@ -5272,11 +5273,11 @@ translate spanish strings:
 
     # game/Days/dayOne.rpy:1938
     old "\n{u}{b}Day 1:{/b}{/u}\nI Squeezed her big juicy ass while Simon went to get me a glass of water. He was totally oblivious."
-    new "\n{u}{b}Día 1:{/b}{/u}\nApreté su gran y jugoso culo mientras Simon iba a buscarme un vaso de agua. Él estaba totalmente ajeno."
+    new "\n{u}{b}Día 1:{/b}{/u}\nApreté su gran y jugoso culo mientras Simon iba a buscarme un vaso de agua. Él era totalmente inconsciente."
 
     # game/Days/dayOne.rpy:1991
     old "Hmm... What should I call class 1-B? ([esme]'s class)"
-    new "Hmm... ¿Cómo debería llamar clase 1-B? (clase de [esme])"
+    new "Hmm... ¿Cómo debería llamar a la clase 1-B? (clase de [esme])"
 
     # game/Days/dayOne.rpy:1991
     old "1-B"
@@ -5284,7 +5285,7 @@ translate spanish strings:
 
     # game/Days/dayOne.rpy:1993
     old "And what should I call class 1-A? ([suz]'s class)"
-    new "¿Y cómo debería llamar clase 1-A? (clase de [suz])"
+    new "¿Y cómo debería llamar a la clase 1-A? (clase de [suz])"
 
     # game/Days/dayOne.rpy:1993
     old "1-A"

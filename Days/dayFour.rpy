@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-09 22:04
+﻿# TODO: Translation updated at 2025-04-22 15:56
 
 # game/Days/dayFour.rpy:4
 translate spanish dayFourStart_fef7d9e3:
@@ -11334,11 +11334,12 @@ translate spanish NoPhoneCall_1b9a2d7c:
     # soph "*Panting*. . ."
     soph "*Jadeo*. . ."
 
+#Traducido por SneakyBaker 2025-04-22
 translate spanish strings:
 
     # game/Days/dayFour.rpy:53
     old "Kick her out!"
-    new "¡Echala!"
+    new "¡Échala!"
 
     # game/Days/dayFour.rpy:54
     old "Let her sleep, and get ready."
@@ -11362,7 +11363,7 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:656
     old "\"I promise.\""
-    new "\"Prometo."
+    new "\"Te lo prometo."
 
     # game/Days/dayFour.rpy:694
     old "Even though I'm looking forward to it..."
@@ -11414,7 +11415,7 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:987
     old "\nOf course I beat her in play fighting, there is no way she can beat me, even if she tried her hardest."
-    new "\nPor supuesto que la gané en el juego de pelea, no hay manera de que ella pueda vencerme, incluso si lo intentara con todas sus fuerzas."
+    new "\nPor supuesto que le gané en el juego de pelea, no hay manera de que ella pueda vencerme, incluso si lo intentara con todas sus fuerzas."
 
     # game/Days/dayFour.rpy:1107
     old "Kiss her."
@@ -11434,7 +11435,7 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:1143
     old "\nI let her win in play fighting and then kissed her as that's what she wanted, she didn't specify where, so I went for the lips."
-    new "\nLa dejé ganar en el juego peleando y luego la besé porque eso era lo que ella quería, no especificó dónde, así que fui por los labios."
+    new "\nLe dejé ganar en el juego peleando y luego la besé porque eso era lo que ella quería, no especificó dónde, así que fui a por los labios."
 
     # game/Days/dayFour.rpy:1195
     old "\nI let her win in play fighting and as a reward, she wanted to kiss me, I pushed her to go for the lips, and she did after some initial denial."
@@ -11486,7 +11487,7 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:1988
     old "Hold on..."
-    new "Esperar..."
+    new "Espera..."
 
     # game/Days/dayFour.rpy:2106
     old "I just wish..."
@@ -11506,11 +11507,11 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:2442
     old "She'll make a good fuck-buddy."
-    new "Ella será una buena compañera de sexo."
+    new "Ella será una buena compañera sexual."
 
     # game/Days/dayFour.rpy:2442
     old "Opt out of that kink for shay in future content."
-    new "Opte por no participar en ese problema para shay en contenido futuro."
+    new "Opté por no participar en ese problema para shay en contenido futuro."
 
     # game/Days/dayFour.rpy:2447
     old "\n{u}{b}Day 4:{/b}{/u}\nFucked her silly on the floor, but she didn't let me cum inside. Maybe if I see her again, she'll let me impregnate her."
@@ -11538,7 +11539,7 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:3409
     old "\nMichelle wanted me to come kneel behind Sophia to give her some support, of course I had other ideas and began grinding on her as she was in the doggy position, when she turned around she was all wet, so I put my phone on it to conceal it, then Bill rang..."
-    new "\nMichelle quería que me arrodillara detrás de Sophia para darle un poco de apoyo, por supuesto que tenía otras ideas y comencé a frotarla mientras estaba en posición de perrito, cuando se dio la vuelta estaba toda mojada, así que puse mi teléfono encima. para ocultarlo, entonces Bill llamó..."
+    new "\nMichelle quería que me arrodillara detrás de Sophia para darle un poco de apoyo, por supuesto que tenía otras ideas y comencé a frotarla mientras estaba en posición de perrito, cuando se dio la vuelta estaba toda mojada, así que puse mi teléfono encima para ocultarlo, entonces Bill llamó..."
 
     # game/Days/dayFour.rpy:3426
     old "Answer the phone."
@@ -11666,11 +11667,11 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:4704
     old "\nAfter winning, she thought she owned the place and wanted to sleep in my bed for the night. I couldn't refuse her."
-    new "\nDespués de ganar, pensó que era dueña del lugar y quería dormir en mi cama por la noche. No podía rechazarla."
+    new "\nDespués de ganar, pensó que ella era dueña del lugar y quería dormir en mi cama por la noche. No podía rechazarla."
 
     # game/Days/dayFour.rpy:4718
     old "\nBecause I won the fight, my {i}extra{/i} reward was that she was to spend the night in my room tonight, and right on time she arrived and we slept peacefully."
-    new "\nComo gané la pelea, mi recompensa {i}extra{/i} fue que ella pasaría la noche en mi habitación esta noche, y llegó justo a tiempo y dormimos tranquilamente."
+    new "\nComo gané la pelea, mi recompensa {i}extra{/i} fue que ella pasaría la noche en mi habitación, y llegó justo a tiempo y dormimos tranquilamente."
 
     # game/Days/dayFour.rpy:4743
     old "Never!"

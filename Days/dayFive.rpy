@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-09 22:04
+﻿# TODO: Translation updated at 2025-04-22 15:56
 
 # game/Days/dayFive.rpy:6
 translate spanish dayFiveStart_a20cefa7:
@@ -11964,6 +11964,7 @@ translate spanish d5_too_much_vibration_73bdc6fd:
     # mcT "She has to beg me for that release."
     mcT "Ella tiene que rogarme por esa liberación."
 
+#Traducido por SneakyBaker 2025-04-22
 translate spanish strings:
 
     # game/Days/dayFive.rpy:90
@@ -11980,7 +11981,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:421
     old "Nova..?"
-    new "Estrella nueva..?"
+    new "Nova..?"
 
     # game/Days/dayFive.rpy:426
     old "... How do you have my number?"
@@ -12032,11 +12033,11 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:640
     old "{font=[headingsFont]}After the failed wingman attempt, you both head over to your office to start the day.{/font}"
-    new "{font=[headingsFont]}Después del intento fallido del compañero, ambos se dirigen a su oficina para comenzar el día.{/font}"
+    new "{font=[headingsFont]}Después del intento fallido de su compañero, ambos se dirigen a la oficina para comenzar el día.{/font}"
 
     # game/Days/dayFive.rpy:800
     old "\nClarissa might not have been treated well while working under Ella... She's very timid and has anxiety when she thinks she's going to be reprimanded..."
-    new "\nEs posible que Clarissa no haya sido tratada bien mientras trabajaba con Ella... Es muy tímida y siente ansiedad cuando piensa que la van a reprender..."
+    new "\nEs posible que Clarissa no haya sido tratada bien mientras trabajaba con ella... Es muy tímida y siente ansiedad cuando piensa que la van a regañar..."
 
     # game/Days/dayFive.rpy:871
     old "Hit me."
@@ -12060,7 +12061,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:949
     old "+1 Reward | Clarissa"
-    new "+1 Recompensa | clarisa"
+    new "+1 Recompensa | Clarisa"
 
     # game/Days/dayFive.rpy:950
     old "+1 Reward Given"
@@ -12096,7 +12097,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1152
     old "Be more dominant."
-    new "Sea más dominante."
+    new "Se más dominante."
 
     # game/Days/dayFive.rpy:1153
     old "Stay silent."
@@ -12108,11 +12109,11 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1158
     old "\n{u}{b}Day 5:{/b}{/u}\nI didn't like how she raised her voice to Georgia, and also to me... So I put my foot down and told her who's in charge now."
-    new "\n{u}{b}Día 5:{/b}{/u}\nNo me gustó cómo le levantó la voz a Georgia, y tampoco a mí... Así que me puse firme y le dije quién está a cargo. ahora."
+    new "\n{u}{b}Día 5:{/b}{/u}\nNo me gustó cómo le levantó la voz a Georgia, y tampoco a mí... Así que me puse firme y le dije quién está a cargo ahora."
 
     # game/Days/dayFive.rpy:1198
     old "\n{u}{b}Day 5:{/b}{/u}\nI didn't like how she raised her voice to Georgia, and also to me... But I didn't feel like combating it, and let it slide."
-    new "\n{u}{b}Día 5:{/b}{/u}\nNo me gustó cómo le levantó la voz a Georgia, y también a mí... Pero no tenía ganas de combatirlo y dejé que se desliza."
+    new "\n{u}{b}Día 5:{/b}{/u}\nNo me gustó cómo le levantó la voz a Georgia, y también a mí... Pero no tenía ganas de combatirla y no le di importancia."
 
     # game/Days/dayFive.rpy:1306
     old "\nI went to the porn store yesterday to get a vibrator for Mrs. Jackson's first punishment, but she was being stubborn, so I used belle as leverage, I wouldn't actually unjustly punish a student like that, but the mear mention of Belle prompted a...fruitful response from the Principal."
@@ -12120,7 +12121,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1368
     old "Peek."
-    new "Ojeada."
+    new "Ojear."
 
     # game/Days/dayFive.rpy:1369
     old "Don't."
@@ -12128,11 +12129,11 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1375
     old "\nOnce she agreed, I of course peeked at her putting the vibe on, and got a full view of her juicy ass. Panties intact; But it'll do for now."
-    new "\nUna vez que ella estuvo de acuerdo, por supuesto, la eché un vistazo mientras ponía la vibra y obtuve una vista completa de su jugoso trasero. Bragas intactas; Pero servirá por ahora."
+    new "\nUna vez que ella estuvo de acuerdo, por supuesto, la eché un vistazo mientras ponía el vibrador y obtuve una vista completa de su jugoso trasero. Bragas intactas; Pero servirá por ahora."
 
     # game/Days/dayFive.rpy:1386
     old "\nI decided I wouldn't peek at her while she was putting on the vibe."
-    new "\nDecidí que no la miraría mientras ella ponía la vibra."
+    new "\nDecidí que no la miraría mientras ella ponía el vibrador."
 
     # game/Days/dayFive.rpy:1459
     old "Pick a number? I...don't really have any other options..."
@@ -12144,7 +12145,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1540
     old "\nI thought it'd be fun to play a little game, I let her pick the vibration power for the vibe herself. I didn't tell her what she was picking, but once she found out what it was for, she regretted picking power level [d5_vibrationPower]..."
-    new "\nPensé que sería divertido jugar un pequeño juego, le dejé elegir ella misma la potencia de vibración. No le dije qué estaba escogiendo, pero una vez que descubrió para qué servía, se arrepintió de haber elegido el nivel de potencia [d5_vibrationPower]..."
+    new "\nPensé que sería divertido jugar un pequeño juego, le dejé elegir a ella misma la potencia de vibración. No le dije qué estaba escogiendo, pero una vez que descubrió para qué servía, se arrepintió de haber elegido el nivel de potencia [d5_vibrationPower]..."
 
     # game/Days/dayFive.rpy:1566
     old "Turn it on."
@@ -12196,7 +12197,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1737
     old "Wait! It's sending everything I'm saying!?!?"
-    new "¡Esperar! ¿¡Está enviando todo lo que digo!?!?"
+    new "¡Espera! ¿¡Está enviando todo lo que digo!?!?"
 
     # game/Days/dayFive.rpy:1738
     old "I need to pee."
@@ -12292,7 +12293,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1768
     old "There should be a microphone icon on your screen somewhere. Press it to turn it off, and the keypad should come up..."
-    new "Debería haber un ícono de micrófono en alguna parte de tu pantalla. Presiónelo para apagarlo y el teclado debería aparecer..."
+    new "Debería haber un ícono de micrófono en alguna parte de tu pantalla. Presiónalo para apagarlo y el teclado debería aparecer..."
 
     # game/Days/dayFive.rpy:1769
     old "Ah. Hehe. I'm such a klutz! 🤓"
@@ -12312,7 +12313,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1773
     old "Okay! 😊😊😊"
-    new "¡Bueno! 😊😊😊"
+    new "¡Recibido! 😊😊😊"
 
     # game/Days/dayFive.rpy:1774
     old "\nApparently, Clarrisa doesn't know how to use a mobile phone properly, so I let her know how to use the phone... I felt bad for her."
@@ -12388,11 +12389,11 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:2229
     old "But it's no different if we were to just print more contracts, so I don't see an issue. 😇"
-    new "Pero no sería diferente si imprimiéramos más contratos, así que no veo ningún problema. 😇"
+    new "Pero no sería muy diferente si imprimiéramos más contratos, así que no veo ningún problema. 😇"
 
     # game/Days/dayFive.rpy:2230
     old "For your other points, this isn't something I can say to you right now!"
-    new "Para tus otros puntos, ¡esto no es algo que pueda decirte ahora mismo!"
+    new "Para tus otros puntos, ¡esto no es algo que pueda te decir ahora mismo!"
 
     # game/Days/dayFive.rpy:2231
     old "But, we're missing what [principal] is saying!"
@@ -12408,7 +12409,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:2236
     old "OMG! 😵😵 I'm so sorry I was totally out of it!"
-    new "¡DIOS MÍO! 😵😵 ¡Lamento mucho haber estado totalmente fuera de lugar!"
+    new "¡DIOS MÍO! 😵😵 ¡Lamento mucho haber estado totalmente despistada!"
 
     # game/Days/dayFive.rpy:2237
     old "These little pictures I can send are kinda cool, aren't they?"
@@ -12428,7 +12429,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:2350
     old "\nOver the course of the lecture, I kept periodically turning on the vibrator as she was speaking, It was funny and erotic to listen, She was getting pleasured in front of everyone!"
-    new "\nDurante el transcurso de la conferencia, seguí encendiendo periódicamente el vibrador mientras ella hablaba. Fue divertido y erótico escucharlo. ¡Ella estaba recibiendo placer frente a todos!"
+    new "\nDurante el transcurso de la conferencia, seguí encendiendo periódicamente el vibrador mientras ella hablaba. Fue divertido y erótico escucharla. ¡Ella estaba recibiendo placer frente a todos!"
 
     # game/Days/dayFive.rpy:2479
     old "{font=[headingsFont]}{color=[d5_nurseColor]}[nurse]{/color} gets {color=[d5_principalColor]}[principal]{/color} on her feet, and starts to walk to the exit.{/font}"
@@ -12464,11 +12465,11 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:2629
     old "\n{u}{b}Day 5:{/b}{/u}\nThe moment Daphne heard the mention of Neko Ears in the Lecture Hall, she pounced and let me know about her extensive \"collection\" of Neko Ears and...Tails..."
-    new "\n{u}{b}Día 5:{/b}{/u}\nEn el momento en que Daphne escuchó la mención de Neko Ears en la sala de conferencias, se abalanzó sobre mí y me contó acerca de su extensa \"colección\" de Neko Ears y ...Cruz..."
+    new "\n{u}{b}Día 5:{/b}{/u}\nEn el momento en que Daphne escuchó la mención de Neko Ears en la sala de conferencias, se abalanzó sobre mí y me contó acerca de su extensa \"colección\" de Neko Ears y ...Colas..."
 
     # game/Days/dayFive.rpy:2643
     old "Allllll"
-    new "Todollll"
+    new "Todooooo"
 
     # game/Days/dayFive.rpy:2673
     old "\n{u}{b}Day 5:{/b}{/u}\nThe moment Daphne heard the mention of Neko Ears in the lecture hall, she pounced and let me know about her extensive \"collection\" of Neko Ears and...tails..."
@@ -12484,7 +12485,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:3023
     old "{color=#1fb4ff}Cassie{/color} & {color=#ff802b}Riley{/color} have been added to the Special Guests Page!"
-    new "¡Se han agregado {color=#1fb4ff}Cassie{/color} y {color=#ff802b}Riley{/color} a la página de invitados especiales!"
+    new "¡Se han agregado a {color=#1fb4ff}Cassie{/color} y {color=#ff802b}Riley{/color} a la página de invitados especiales!"
 
     # game/Days/dayFive.rpy:3048
     old "Be Authorative."
@@ -12584,7 +12585,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:4624
     old "+1 Stupid."
-    new "+1 Estúpido."
+    new "+1 Estupidez."
 
     # game/Days/dayFive.rpy:4630
     old "-1 Sanity."
@@ -12600,7 +12601,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:4667
     old "\nNote to self: I'm fucking RICH! Clarissa just let me know that I'm being paid $200,000 TBux per year to be the Enforcer! What the fuck."
-    new "\nNota personal: ¡Soy jodidamente RICO! ¡Clarissa acaba de decirme que me pagan 200.000 TBux al año por ser Enforcer! Que carajo."
+    new "\nNota personal: ¡Soy jodidamente RICO! ¡Clarissa acaba de decirme que me pagan 200.000 TBux al año por ser Enforcer! Que cojones."
 
     # game/Days/dayFive.rpy:4794
     old "\n{u}{b}Day 5:{/b}{/u}\nI noticed Esme in the library, I went to say hi but I spooked her, she fell and landed right on my face. I was in heaven for like 5 seconds."
@@ -12684,7 +12685,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:5442
     old "S hiiiiiiiiiiiiiiiit!!"
-    new "¡¡S holaiiiiiiiiiiii!!"
+    new "¡¡Jodeeeeeeeeeeeeeee!!"
 
     # game/Days/dayFive.rpy:5484
     old "{color=#39e16b98}Casper{/color} has been added to the Special Guests Page!"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-12-09 22:04
+﻿# TODO: Translation updated at 2025-04-22 15:56
 
 # game/Days/dayThree.rpy:2
 translate spanish dayThreeStart_ad9fa193:
@@ -8604,19 +8604,20 @@ translate spanish D3_Sophia_4edd6fcf:
     # mc "Motherf-{p=0.5}{nw}"
     mc "Madre-{p=0.5}{nw}"
 
+#Traducido por SneakyBaker 2025-04-22
 translate spanish strings:
 
     # game/Days/dayThree.rpy:25
     old "Let her know you're awake."
-    new "Hazle saber que estás despierto."
+    new "Hacerle saber que estás despierto."
 
     # game/Days/dayThree.rpy:26
     old "Pretend to be asleep."
-    new "Finge estar dormido."
+    new "Fingir estar dormido."
 
     # game/Days/dayThree.rpy:98
     old "\n{u}{b}Day 3:{/b}{/u}\nSophia came to wake me up, but I pretended to still be asleep. When she took the covers off me to try and make me get up, she was caught by suprise by my big cock in her face. She couldn't resist playing with it!"
-    new "\n{u}{b}Día 3:{/b}{/u}\nSofía vino a despertarme, pero fingí que todavía estaba dormido. Cuando me quitó las mantas para intentar hacerme levantar, se sorprendió al ver mi gran polla en su cara. ¡No pudo resistirse a jugar con él!"
+    new "\n{u}{b}Día 3:{/b}{/u}\nSofía vino a despertarme, pero fingí que todavía estaba dormido. Cuando me quitó las mantas para intentar levantarme, se sorprendió al ver mi gran polla en su cara. ¡No pudo resistirse a jugar con ella!"
 
     # game/Days/dayThree.rpy:310
     old "\n{u}{b}Day 3:{/b}{/u}\nI made amends with Nova after the shower incident yesterday..."
@@ -8632,11 +8633,11 @@ translate spanish strings:
 
     # game/Days/dayThree.rpy:768
     old "\n{u}{b}Day 3:{/b}{/u}\nI knew I've heard this voice before! Stella is the girl from the glory hole! She pulled me into the changing room in the mall, as a result, she's now going to be calling me [stella_player_name]."
-    new "\n{u}{b}Día 3:{/b}{/u}\n¡Sabía que había escuchado esta voz antes! ¡Stella es la chica del agujero de la gloria! Ella me llevó al vestuario del centro comercial y, como resultado, ahora me llamará [stella_player_name]."
+    new "\n{u}{b}Día 3:{/b}{/u}\n¡Sabía que había escuchado esta voz antes! ¡Stella es la chica del 'Glory Hole'! Ella me llevó al vestuario del centro comercial y, como resultado, ahora me llamará [stella_player_name]."
 
     # game/Days/dayThree.rpy:774
     old "Let Stella off the hook."
-    new "Deja que Stella se salga del apuro."
+    new "Dejar que Stella se salga del apuro."
 
     # game/Days/dayThree.rpy:775
     old "Punish Stella."
@@ -8660,19 +8661,19 @@ translate spanish strings:
 
     # game/Days/dayThree.rpy:1509
     old "Be Direct."
-    new "Sea directo."
+    new "Ser directo."
 
     # game/Days/dayThree.rpy:1510
     old "Be Vague."
-    new "Sea vago."
+    new "Ser vago."
 
     # game/Days/dayThree.rpy:1793
     old "Enter Second."
-    new "Ingrese Segundo."
+    new "Entrar Segundo."
 
     # game/Days/dayThree.rpy:1794
     old "Enter Last."
-    new "Ingrese el último."
+    new "Entrar el último."
 
     # game/Days/dayThree.rpy:1973
     old "Wake Simon up."
@@ -8684,19 +8685,19 @@ translate spanish strings:
 
     # game/Days/dayThree.rpy:2485
     old "Eat it."
-    new "Cómelo."
+    new "Cometelo."
 
     # game/Days/dayThree.rpy:2486
     old "Wipe it off."
-    new "Límpielo."
+    new "Limmpiatelo."
 
     # game/Days/dayThree.rpy:2495
     old "\nIn the aftermath, Esme noticed that her juices soaked into my pants, so I decided to taste it. She tastes amazing."
-    new "\nDespués, Esme notó que sus jugos empaparon mis pantalones, así que decidí probarlo. Tiene un sabor increíble."
+    new "\nDespués, Esme notó que su corrida empapó mis pantalones, así que decidí probarlo. Tiene un sabor increíble."
 
     # game/Days/dayThree.rpy:2661
     old "Grab Sophia's ass."
-    new "Agarra el culo de Sophia."
+    new "Agarrar el culo de Sophia."
 
     # game/Days/dayThree.rpy:2967
     old "Tell her the truth."
@@ -8720,7 +8721,7 @@ translate spanish strings:
 
     # game/Days/dayThree.rpy:3184
     old "Turn your head"
-    new "gira tu cabeza"
+    new "Gira tu cabeza"
 
     # game/Days/dayThree.rpy:3507
     old "\nAfter a nice meal and a bottle of expensive wine drank, we returned home and played with each other on the living room sofa...until Reginald arrived, shocked, I shoved my hands down and Sophia's mouth wrapped tightly around my rock hard cock. It was the best blowjob I've had yet."
@@ -8732,5 +8733,5 @@ translate spanish strings:
 
     # game/Days/dayThree.rpy:98
     old "\n{u}{b}Day 3:{/b}{/u}\nSophia came to wake me up, but I pretended to still be asleep. When she took the covers off me to try and make me get up, she was caught by surprise by my big cock in her face. She couldn't resist playing with it!"
-    new "\n{u}{b}Día 3:{/b}{/u}\nSophia vino a despertarme, pero fingí que todavía estaba dormido. Cuando me quitó las mantas para intentar hacerme levantar, mi gran polla la tomó por sorpresa en su cara. ¡No pudo resistirse a jugar con él!"
+    new "\n{u}{b}Día 3:{/b}{/u}\nSophia vino a despertarme, pero fingí que todavía estaba dormido. Cuando me quitó las mantas para intentar levantarme, mi gran polla la tomó por sorpresa en su cara. ¡No pudo resistirse a jugar con ella!"
 
