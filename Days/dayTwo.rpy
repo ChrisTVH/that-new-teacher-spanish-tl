@@ -59,19 +59,19 @@ translate spanish dayTwoStart_1f7c7dd6:
 translate spanish dayTwoStart_7d5ac3fc:
 
     # mc "Urg, I feel rough. I shouldn't have drank on a weekday..."
-    mc "Urg, me siento mal. No debería haber bebido en un día laborable..."
+    mc "Urg, me siento fatal. No debería beber en un días laborables..."
 
 # game/Days/dayTwo.rpy:44
 translate spanish dayTwoStart_98d19fe6:
 
     # mc "Oh hey, I actually woke up on time though. Thank god for automatic alarms."
-    mc "Oh, oye, en realidad me desperté a tiempo. Gracias a Dios por las alarmas automáticas."
+    mc "Oh, oye, en realidad me desperté a tiempo. Gracias a Dios por crear las alarmas automáticas."
 
 # game/Days/dayTwo.rpy:49
 translate spanish dayTwoStart_70a435cd:
 
     # "You start hearing pitter patter sounds down the hall."
-    "Empiezas a escuchar sonidos de golpes en el pasillo."
+    "Empiezas a escuchar golpes por el pasillo."
 
 # game/Days/dayTwo.rpy:53
 translate spanish dayTwoStart_b2f4a41c:
@@ -83,7 +83,7 @@ translate spanish dayTwoStart_b2f4a41c:
 translate spanish dayTwoStart_29e5d0aa:
 
     # mcT "Did [soph] buy a duck? Why is there pitter patters running down the hall?"
-    mcT "¿[soph] ha comprado un pato? ¿Por qué se oyen esos ruidos resonantes por el pasillo?"
+    mcT "¿[soph] ha comprado un pato? ¿Por qué se oyen esos ruidos molestos por el pasillo?"
 
 # game/Days/dayTwo.rpy:57
 translate spanish dayTwoStart_a20cefa7_1:
@@ -119,7 +119,7 @@ translate spanish dayTwoStart_ed3d37b6:
 translate spanish dayTwoStart_baff216a:
 
     # suz "Wake up! It's time for college!" id dayTwoStart_baff216a
-    suz "¡Despertar! ¡Es hora de ir a la universidad!" id dayTwoStart_baff216a
+    suz "¡Despierta! ¡Es hora de ir a la universidad!" id dayTwoStart_baff216a
 
 # game/Days/dayTwo.rpy:77
 translate spanish dayTwoStart_ecf37606:
@@ -131,7 +131,7 @@ translate spanish dayTwoStart_ecf37606:
 translate spanish dayTwoStart_07b868fa:
 
     # suz "Hehe. I'm sure you'd much rather have me wake you up, hmm?"
-    suz "Jeje. Estoy seguro de que preferirías que te despierte, ¿eh?"
+    suz "Jeje. Estaba segura de que preferirías que te despertara yo, ¿eh?"
 
 # game/Days/dayTwo.rpy:83
 translate spanish dayTwoStart_2b35b6fe:
@@ -143,13 +143,13 @@ translate spanish dayTwoStart_2b35b6fe:
 translate spanish dayTwoStart_308ffc1a:
 
     # suz "What if I grew my hair long? Would I be cute enough to be your alarm then?" id dayTwoStart_308ffc1a
-    suz "¿Qué pasa si me dejo el pelo largo? ¿Entonces sería lo suficientemente lindo como para ser tu alarma?" id dayTwoStart_308ffc1a
+    suz "¿Qué pasa si me dejo el pelo largo? ¿Entonces sería lo suficientemente linda como para ser tu alarma?" id dayTwoStart_308ffc1a
 
 # game/Days/dayTwo.rpy:99
 translate spanish dayTwoStart_63f52601:
 
     # mc "You're always cute to me, [suz]."
-    mc "Siempre eres lindo conmigo, [suz]."
+    mc "Siempre te ves guapa conmigo, [suz]."
 
 # game/Days/dayTwo.rpy:101
 translate spanish dayTwoStart_8e90c544:
@@ -173,7 +173,7 @@ translate spanish dayTwoStart_1c7a3a92:
 translate spanish dayTwoStart_60d91361:
 
     # mc "I think long hair would suit you. But whatever you're most happy with [suz]."
-    mc "Creo que el pelo largo te quedaría bien. Pero lo que sea con lo que estés más contento [suz]."
+    mc "Creo que el pelo largo te quedaría bien. Pero hazte lo que sea con lo que estés más contenta [suz]."
 
 # game/Days/dayTwo.rpy:111
 translate spanish dayTwoStart_f33227be:
@@ -221,7 +221,7 @@ translate spanish dayTwoStart_d40a933b:
 translate spanish dayTwoStart_34e59509:
 
     # suz "Th--thank you aahh."
-    suz "E-gracias aahh."
+    suz "Gr-gracias aahh."
 
 # game/Days/dayTwo.rpy:131
 translate spanish dayTwoStart_7fd0a412:
@@ -233,37 +233,37 @@ translate spanish dayTwoStart_7fd0a412:
 translate spanish dayTwoStart_6a05eee5:
 
     # mc "True. I did shout at you to wake you up yesterday. It's only fair I'd get the return of it."
-    mc "Verdadero. Ayer te grité para que te despertaras. Es justo que me lo devuelvan."
+    mc "Cierto. Ayer te grité para que te despertaras. Es justo que me lo devuelvas."
 
 # game/Days/dayTwo.rpy:136
 translate spanish dayTwoStart_39e4b1d0:
 
     # mc "But I must be victorious! In everything I do, even if that does include annoying you!"
-    mc "¡Pero debo salir victorioso! ¡En todo lo que hago, incluso si eso incluye molestarte!"
+    mc "¡Pero tengo que ganar! ¡En todo lo que hago, incluso si eso incluye molestarte!"
 
 # game/Days/dayTwo.rpy:139
 translate spanish dayTwoStart_9a3170c3:
 
     # mc "True. I did elbow drop you yesterday. So It's a given you'd want some form of payback."
-    mc "Verdadero. Ayer te dejé caer con el codo. Entonces es un hecho que querrás alguna forma de venganza."
+    mc "Cierto. Ayer te dejé caer con el codo. Entonces es un hecho que querrás alguna forma de venganza."
 
 # game/Days/dayTwo.rpy:141
 translate spanish dayTwoStart_39e4b1d0_1:
 
     # mc "But I must be victorious! In everything I do, even if that does include annoying you!"
-    mc "¡Pero debo salir victorioso! ¡En todo lo que hago, incluso si eso incluye molestarte!"
+    mc "¡Pero tengo que ganar! ¡En todo lo que hago, incluso si eso incluye molestarte!"
 
 # game/Days/dayTwo.rpy:143
 translate spanish dayTwoStart_8b0af857:
 
     # mc "I'm a little disappointed though. This is quite tame. Surely you could have come up with a better plan of attack?"
-    mc "Aunque estoy un poco decepcionado. Esto es bastante manso. ¿Seguramente se te habría ocurrido un mejor plan de ataque?"
+    mc "Aunque estoy un poco decepcionado. Esto es bastante tranquilo. ¿Seguramente podrías habría pensado un mejor plan de ataque?"
 
 # game/Days/dayTwo.rpy:145
 translate spanish dayTwoStart_6f345b64:
 
     # suz "Hmmm. I'll remember that for next time [player_name]. I might even bring reinforcements. I do remember you being incredibly ticklish..."
-    suz "Mmm. Lo recordaré para la próxima vez [player_name]. Incluso podría traer refuerzos. Recuerdo que eras increíblemente cosquilloso..."
+    suz "Mmm. Lo recordaré para la próxima vez [player_name]. Incluso podría traer refuerzos. Recuerdo que eras temías muchas cosquillas..."
 
 # game/Days/dayTwo.rpy:149
 translate spanish dayTwoStart_c854bc43:
@@ -293,7 +293,7 @@ translate spanish dayTwoStart_706b3190:
 translate spanish dayTwoStart_a9b0a88a:
 
     # mc "... Rocks er, shouldn't be able to speak [suz]..."
-    mc "... Rocas eh, no debería poder hablar [suz]..."
+    mc "... Rocas eh, no deberías poder hablar [suz]..."
 
 # game/Days/dayTwo.rpy:173
 translate spanish dayTwoStart_7d4499d8_1:
@@ -305,7 +305,7 @@ translate spanish dayTwoStart_7d4499d8_1:
 translate spanish dayTwoStart_c8ac7e37:
 
     # suz "Point taken. But NO! I'm not moving!"
-    suz "Punto tomado. ¡Pero NO! ¡No me muevo!"
+    suz "Tomo nota. ¡Pero NO! ¡No me muevo!"
 
 # game/Days/dayTwo.rpy:177
 translate spanish dayTwoStart_55e5f286:
@@ -401,13 +401,13 @@ translate spanish dayTwoStart_5c3a93cb:
 translate spanish dayTwoStart_909d22cb:
 
     # soph "Bright and early this time around it seems!"
-    soph "¡Parece brillante y temprano esta vez!"
+    soph "¡Contento y temprano esta vez!"
 
 # game/Days/dayTwo.rpy:219
 translate spanish dayTwoStart_b76c471e:
 
     # mc "Yea... I had a... Let's say; Humanoid alarm-clock ringing this morning..."
-    mc "Sí... Tuve un... Digamos; El despertador humanoide suena esta mañana..."
+    mc "Sí... Tuve un... digamos; El despertador humanoide me ha sonado esta mañana..."
 
 # game/Days/dayTwo.rpy:221
 translate spanish dayTwoStart_5dc6dcd9:
@@ -419,7 +419,7 @@ translate spanish dayTwoStart_5dc6dcd9:
 translate spanish dayTwoStart_3f7d1f88:
 
     # mc "Yup, but I managed it..."
-    mc "Sí, pero lo logré..."
+    mc "Sí, pero la controlé..."
 
 # game/Days/dayTwo.rpy:225
 translate spanish dayTwoStart_80b99d98:
@@ -437,7 +437,7 @@ translate spanish dayTwoStart_2a59055e:
 translate spanish dayTwoStart_40027a03:
 
     # soph "I feel I'm getting a little podgy so I'm trying to fix that."
-    soph "Siento que me estoy poniendo un poco gordo, así que estoy tratando de solucionarlo."
+    soph "Siento que me estoy poniendo un poco gorda, así que estoy tratando de solucionarlo."
 
 # game/Days/dayTwo.rpy:231
 translate spanish dayTwoStart_bfb97e2d:
@@ -449,7 +449,7 @@ translate spanish dayTwoStart_bfb97e2d:
 translate spanish dayTwoStart_eb807207:
 
     # soph "Do you think my butt looks big in the spandex?"
-    soph "¿Crees que mi trasero se ve grande con el spandex?"
+    soph "¿Crees que mi culo se ve grande con el spandex?"
 
 # game/Days/dayTwo.rpy:246
 translate spanish dayTwoStart_38493db2:
@@ -491,7 +491,7 @@ translate spanish dayTwoStart_a6d8c529:
 translate spanish dayTwoStart_4fc32df3:
 
     # soph "W-O-R-M. You know, wiggle wiggle. That type of worm."
-    soph "GUSANO. Ya sabes, menear, menear. Ese tipo de gusano."
+    soph "GUSANO. Ya sabes, meneo, meneo. Ese tipo de gusano."
 
 # game/Days/dayTwo.rpy:265
 translate spanish dayTwoStart_6f54d14b:
@@ -521,7 +521,7 @@ translate spanish dayTwoStart_04c3561d:
 translate spanish dayTwoStart_d40fae8c:
 
     # mc "If I were in his shoes I would not let go of that ass every night."
-    mc "Si estuviera en su lugar no soltaría ese trasero todas las noches."
+    mc "Si estuviera en su lugar no soltaría ese culo todas las noches."
 
 # game/Days/dayTwo.rpy:276
 translate spanish dayTwoStart_702b37fa:
@@ -563,7 +563,7 @@ translate spanish dayTwoStart_6fa62052:
 translate spanish dayTwoStart_6c8c1836:
 
     # sophT "Sure, it feels nice to be appreciated, but he's not who I expected to be hearing that sort of thing from."
-    sophT "Claro, se siente bien ser apreciado, pero él no es de quien esperaba escuchar ese tipo de cosas."
+    sophT "Claro, se siente bien ser apreciada, pero él no es de quien esperaba escuchar ese tipo de cosas."
 
 # game/Days/dayTwo.rpy:286
 translate spanish dayTwoStart_fb778483:
@@ -605,13 +605,13 @@ translate spanish dayTwoStart_0ff3b93d:
 translate spanish dayTwoStart_e1517522:
 
     # soph "Oh, right.. Right yeah.. Just day-dreaming, sorry."
-    soph "Oh, claro... Claro, sí... Sólo estoy soñando despierto, lo siento."
+    soph "Oh, claro... Claro, sí... Sólo estoy soñando despierta, lo siento."
 
 # game/Days/dayTwo.rpy:298
 translate spanish dayTwoStart_8ce13340:
 
     # soph "Wait no, not {i}day-dreaming{/i}! Just thinking. Yeah. Thinking. No dreaming involved."
-    soph "Espera, no, ¡no {i}soñar despierto{/i}! Sólo estoy pensando. Sí. Pensamiento. No hay sueños involucrados."
+    soph "Espera, no, ¡no {i}soñar despierta{/i}! Sólo estoy pensando. Sí. Pensando. No hay sueños involucrados."
 
 # game/Days/dayTwo.rpy:299
 translate spanish dayTwoStart_2b35b6fe_2:
@@ -623,13 +623,13 @@ translate spanish dayTwoStart_2b35b6fe_2:
 translate spanish dayTwoStart_8bbb56ca:
 
     # mc "You sure you're ok?"
-    mc "¿Estás seguro de que estás bien?"
+    mc "¿Estás segura de que estás bien?"
 
 # game/Days/dayTwo.rpy:309
 translate spanish dayTwoStart_79d8a228:
 
     # soph "I'm fine! Just err... Excited to run! I probably just need some air or something."
-    soph "¡Estoy bien! Simplemente err... ¡Emocionado por correr! Probablemente sólo necesito un poco de aire o algo así."
+    soph "¡Estoy bien! Simplemente err... ¡Emocionada por correr! Probablemente sólo necesito un poco de aire o algo así."
 
 # game/Days/dayTwo.rpy:311
 translate spanish dayTwoStart_60f59ecb:
@@ -689,7 +689,7 @@ translate spanish dayTwoStart_642c8ec6:
 translate spanish dayTwoStart_0e75a53a:
 
     # sophT "Hooookay... What the hell was that?"
-    sophT "Hoooook... ¿Qué diablos fue eso?"
+    sophT "Vaaaaale... ¿Qué diablos fue eso?"
 
 # game/Days/dayTwo.rpy:337
 translate spanish dayTwoStart_64330bc6:
@@ -701,19 +701,19 @@ translate spanish dayTwoStart_64330bc6:
 translate spanish dayTwoStart_ef3774f6:
 
     # sophT "Nice one Sophia. Very composed... What the hell has gotten into me?"
-    sophT "Qué bueno Sofía. Muy sereno... ¿Qué diablos me ha pasado?"
+    sophT "Qué bueno Sofía. Muy serena... ¿Qué diablos me ha pasado?"
 
 # game/Days/dayTwo.rpy:341
 translate spanish dayTwoStart_350610be:
 
     # sophT "I'm definitely not that starved for attention.. Definitely not."
-    sophT "Definitivamente no estoy tan hambriento de atención... Definitivamente no."
+    sophT "Definitivamente no estoy tan hambrienta de atención... Definitivamente no."
 
 # game/Days/dayTwo.rpy:342
 translate spanish dayTwoStart_bb9d751b:
 
     # sophT "I'll have totally forgotten about this once I finish my run."
-    sophT "Me habré olvidado por completo de esto una vez que termine mi carrera."
+    sophT "Me habré olvidado por completo de esto una vez que termine de correr."
 
 # game/Days/dayTwo.rpy:344
 translate spanish dayTwoStart_2ac87c81:
@@ -779,13 +779,13 @@ translate spanish dayTwoStart_ac5644db:
 translate spanish dayTwoStart_47525c81:
 
     # mcT "I should go get [suz]. Time to go to college." id dayTwoStart_47525c81
-    mcT "Debería ir a buscar [suz]. Es hora de ir a la universidad." id dayTwoStart_47525c81
+    mcT "Debería ir a buscar a [suz]. Es hora de ir a la universidad." id dayTwoStart_47525c81
 
 # game/Days/dayTwo.rpy:374
 translate spanish dayTwoStart_f7398e2e:
 
     # mc "Are you ready [suz]?"
-    mc "¿Estás listo [suz]?"
+    mc "¿Estás lista [suz]?"
 
 # game/Days/dayTwo.rpy:378
 translate spanish dayTwoStart_1c7a3a92_2:
@@ -803,7 +803,7 @@ translate spanish dayTwoStart_e394eda1:
 translate spanish dayTwoStart_7494bf0b:
 
     # suz "Oh. Yep I'm ready now. Let's go!"
-    suz "Oh. Sí, ya estoy listo. ¡Vamos!"
+    suz "Oh. Sí, ya estoy lista. ¡Vamos!"
 
 # game/Days/dayTwo.rpy:386
 translate spanish dayTwoStart_c71b01dc:
@@ -815,7 +815,7 @@ translate spanish dayTwoStart_c71b01dc:
 translate spanish dayTwoStart_bf02bd5f:
 
     # mcT "ahh... The halls are always so lively in the mornings. Everyone is just chatting before classes start."
-    mcT "ahh... Los pasillos siempre están muy animados por las mañanas. Todo el mundo está charlando antes de que comiencen las clases."
+    mcT "Ahh... Los pasillos siempre están muy animados por las mañanas. Todo el mundo está charlando antes de que comiencen las clases."
 
 # game/Days/dayTwo.rpy:391
 translate spanish dayTwoStart_2d6dde53:
@@ -857,7 +857,7 @@ translate spanish dayTwoStart_3c314455:
 translate spanish dayTwoStart_e49c394f:
 
     # mcT "Oh, there's [ver]. I've not had a chance to meet her yet. Time to introduce myself."
-    mcT "Oh, hay [ver]. No he tenido la oportunidad de conocerla todavía. Es hora de presentarme."
+    mcT "Oh, ahí esta [ver]. No he tenido la oportunidad de conocerla todavía. Es hora de presentarme."
 
 # game/Days/dayTwo.rpy:410
 translate spanish dayTwoStart_751b4ad2:
@@ -881,7 +881,7 @@ translate spanish dayTwoStart_9b1d0036:
 translate spanish dayTwoStart_151f2f88:
 
     # mcT "Married? Hmm..."
-    mcT "¿Casado? Mmm..."
+    mcT "¿Casada? Mmm..."
 
 # game/Days/dayTwo.rpy:421
 translate spanish dayTwoStart_a9dab011:
@@ -893,13 +893,13 @@ translate spanish dayTwoStart_a9dab011:
 translate spanish dayTwoStart_0f7f2a80:
 
     # mc "Why thank you very much! It's a pleasure to be here. And I hope I can be of use to you for this lesson."
-    mc "¡Por qué muchas gracias! Es un placer estar aquí. Y espero poder serte de utilidad para esta lección."
+    mc "¡No hay de qué! Es un placer estar aquí. Y espero poder serte de utilidad para esta lección."
 
 # game/Days/dayTwo.rpy:435
 translate spanish dayTwoStart_9c3b96c2:
 
     # mc "Swimming right? It's my first time as a teacher, {i}especially{/i} related to swimming so I hope you've got expectations in check haha."
-    mc "¿Nadar verdad? Es mi primera vez como profesora, {i}especialmente{/i} relacionada con la natación, así que espero que tengas las expectativas bajo control jaja."
+    mc "¿Natación verdad? Es mi primera vez como profesor, {i}especialmente{/i} relacionado con la natación, así que espero que tengas las expectativas bajo control jaja."
 
 # game/Days/dayTwo.rpy:437
 translate spanish dayTwoStart_b64e932f:
@@ -911,7 +911,7 @@ translate spanish dayTwoStart_b64e932f:
 translate spanish dayTwoStart_24915ad9:
 
     # mcT "I'll observe alright! Look at that rack! I'm confident the rear end is just as good too!"
-    mcT "¡Observaré bien! ¡Mira ese estante! ¡Estoy seguro de que la parte trasera también es igual de buena!"
+    mcT "¡Observaré bien! ¡Mira ese estante! ¡Estoy seguro de que su parte posterior también es igual de buena!"
 
 # game/Days/dayTwo.rpy:440
 translate spanish dayTwoStart_a9753e69:
@@ -941,7 +941,7 @@ translate spanish dayTwoStart_38eb8ca1:
 translate spanish dayTwoStart_9b10aff4:
 
     # ver "Yep! Normally there is a dresscode for P.E. Typically the girls are required to wear one-piece swimsuits. But not so much the teachers. You can wear what you like."
-    ver "¡Sí! Normalmente hay un código de vestimenta para P.E. Por lo general, las niñas deben usar trajes de baño de una pieza. Pero no tanto los profesores. Puedes usar lo que quieras."
+    ver "¡Sí! Normalmente hay un código de vestimenta para E.F. Por lo general, las niñas deben usar trajes de baño de una pieza. Pero no es igual para los profesores. Puedes usar lo que quieras."
 
 # game/Days/dayTwo.rpy:449
 translate spanish dayTwoStart_ee81cb47:
@@ -965,7 +965,7 @@ translate spanish dayTwoStart_1ff33255:
 translate spanish dayTwoStart_b5b0c97c:
 
     # ver "You'd have to bring it up with [principal]. She did say she'd like to see you today after this lesson. So that might be a good time!"
-    ver "Tendrías que abrirlo con [principal]. Ella dijo que le gustaría verte hoy después de esta lección. ¡Así que podría ser un buen momento!"
+    ver "Tendrías que comentarlo con [principal]. Ella dijo que le gustaría verte hoy después de esta lección. ¡Así que podría ser un buen momento!"
 
 # game/Days/dayTwo.rpy:456
 translate spanish dayTwoStart_3c2cfdd1:
@@ -989,7 +989,7 @@ translate spanish dayTwoStart_309fd8d1:
 translate spanish dayTwoStart_9b29d2a0:
 
     # mcT "Never... Not do that ;)"
-    mcT "Nunca... No hagas eso;)"
+    mcT "Nunca... No haría eso ;)"
 
 # game/Days/dayTwo.rpy:462
 translate spanish dayTwoStart_80187a4c:
@@ -1055,19 +1055,19 @@ translate spanish dayTwoStart_48530f53:
 translate spanish dayTwoStart_dc097aa8:
 
     # mc "Kinda cute in a... weird sort of way."
-    mc "Un poco lindo en una forma... extraña."
+    mc "Un poco lindo de alguna forma... extraña."
 
 # game/Days/dayTwo.rpy:502
 translate spanish dayTwoStart_0740097e:
 
     # mc "I think I'll keep you. Put you in my office or something."
-    mc "Creo que te quedaré. Ponerte en mi oficina o algo así."
+    mc "Creo que me lo quedaré. Para ponerte en mi oficina o algo así."
 
 # game/Days/dayTwo.rpy:503
 translate spanish dayTwoStart_dbc83315:
 
     # mc "Scare the students... Heh"
-    mc "Asustar a los estudiantes... Je"
+    mc "Asustar a las estudiantes... Je"
 
 # game/Days/dayTwo.rpy:505
 translate spanish dayTwoStart_a7a957f3:
@@ -1127,7 +1127,7 @@ translate spanish dayTwoStart_38f97a26:
 translate spanish dayTwoStart_fcfc427c:
 
     # mcT "Seems she's talking to [suz], they must be good friends."
-    mcT "Parece que está hablando con [suz], deben ser buenos amigos."
+    mcT "Parece que está hablando con [suz], deben ser buenas amigas."
 
 # game/Days/dayTwo.rpy:537
 translate spanish dayTwoStart_c7e77abe:
@@ -1145,7 +1145,7 @@ translate spanish dayTwoStart_c4d4b505:
 translate spanish dayTwoStart_4d194304:
 
     # suz "You do! You can't learn to swim without ever swimming!"
-    suz "¡Tú haces! ¡No puedes aprender a nadar sin antes nadar!"
+    suz "¡Lo harás! ¡No puedes aprender natación sin antes nadar!"
 
 # game/Days/dayTwo.rpy:542
 translate spanish dayTwoStart_5284378e:
@@ -1157,13 +1157,13 @@ translate spanish dayTwoStart_5284378e:
 translate spanish dayTwoStart_afeabd66:
 
     # suz "You'll be fine! It's {i}at most{/i} 7 feet deep in the deep end. But we'll not be going over there!"
-    suz "¡Estarás bien! Tiene {i}como máximo{/i} 7 pies de profundidad en el fondo. ¡Pero no iremos allí!"
+    suz "¡Estarás bien! Tiene {i}como máximo{/i} 2 metros de profundidad en el fondo. ¡Pero no iremos allí!"
 
 # game/Days/dayTwo.rpy:547
 translate spanish dayTwoStart_dfb87ed8:
 
     # suz "And if you need some extra help, I'm sure [ver] or [player_name], oopsie!... [school_player_name] can help you out!"
-    suz "Y si necesitas ayuda extra, estoy seguro de que [ver] o [player_name], ¡uy!... ¡[school_player_name] pueden ayudarte!"
+    suz "Y si necesitas ayuda extra, estoy segura de que [ver] o [player_name], ¡uy!... ¡[school_player_name] pueden ayudarte!"
 
 # game/Days/dayTwo.rpy:549
 translate spanish dayTwoStart_88ff6c29:
@@ -1175,13 +1175,13 @@ translate spanish dayTwoStart_88ff6c29:
 translate spanish dayTwoStart_da957132:
 
     # mcT "Oh fuck! They're changing right in front of me!"
-    mcT "¡Ay carajo! ¡Están cambiando justo frente a mí!"
+    mcT "¡Joder! ¡Están cambiandose justo frente a mí!"
 
 # game/Days/dayTwo.rpy:552
 translate spanish dayTwoStart_55c7f7f1:
 
     # suz "We have two teachers with us today, so there's plenty of help to go around!"
-    suz "Tenemos dos maestros con nosotros hoy, ¡así que hay mucha ayuda para todos!"
+    suz "Tenemos dos maestros con nosotras hoy, ¡así que hay mucha ayuda para todos!"
 
 # game/Days/dayTwo.rpy:554
 translate spanish dayTwoStart_5ebdacfb:
@@ -1193,7 +1193,7 @@ translate spanish dayTwoStart_5ebdacfb:
 translate spanish dayTwoStart_cf0f224f:
 
     # mcT "Holy shit, [morg] has some melons!"
-    mcT "¡Mierda, [morg] tiene algunos melones!"
+    mcT "¡Mierda, [morg] tiene buenos melones!"
 
 # game/Days/dayTwo.rpy:557
 translate spanish dayTwoStart_05e72e81:
@@ -1223,7 +1223,7 @@ translate spanish dayTwoStart_9672e790:
 translate spanish dayTwoStart_f7ce8521:
 
     # mcT "Oh god, [suz] is bending down in front of me... Totally nude..."
-    mcT "Oh Dios, [suz] está inclinado frente a mí... Totalmente desnudo..."
+    mcT "Oh Dios, [suz] está inclinado frente a mí... Totalmente desnuda..."
 
 # game/Days/dayTwo.rpy:564
 translate spanish dayTwoStart_039496e4:
@@ -1241,7 +1241,7 @@ translate spanish dayTwoStart_21de2bcb:
 translate spanish dayTwoStart_941e6c71:
 
     # suz "Oki-doki! There, all changed!."
-    suz "¡Oki-doki! ¡Allí todo cambió!."
+    suz "¡Oki-doki! Ya esta ¡toda cambiada!."
 
 # game/Days/dayTwo.rpy:570
 translate spanish dayTwoStart_6e8a81ad:
@@ -1277,7 +1277,7 @@ translate spanish dayTwoStart_a5e6eb44:
 translate spanish dayTwoStart_c0fd2688:
 
     # mcT "Did I just spy on [suz] and a student?..."
-    mcT "¿Acabo de espiar a [suz] y a un estudiante?..."
+    mcT "¿Acabo de espiar a [suz] y a una estudiante?..."
 
 # game/Days/dayTwo.rpy:588
 translate spanish dayTwoStart_3bee429a:
@@ -1301,7 +1301,7 @@ translate spanish dayTwoStart_c3c0db22:
 translate spanish dayTwoStart_6c291172:
 
     # mcT "It was so hard to keep my morning wood in check. I'm suprised she didn't feel it."
-    mcT "Era muy difícil mantener bajo control mi madera matutina. Me sorprende que ella no lo sintiera."
+    mcT "Era muy difícil mantener bajo control mi ereción matutina. Me sorprende que ella no lo sintiera."
 
 # game/Days/dayTwo.rpy:592
 translate spanish dayTwoStart_99dc19e1:
@@ -1379,7 +1379,7 @@ translate spanish dayTwoStart_0d11a907:
 translate spanish dayTwoStart_02dd8627:
 
     # morg "Oh right, silly me. It's [morg]!"
-    morg "Oh cierto, tonto de mí. ¡Es [morg]!"
+    morg "Oh cierto, tonta de mí. ¡Es [morg]!"
 
 # game/Days/dayTwo.rpy:631
 translate spanish dayTwoStart_df81da8d:
@@ -1403,7 +1403,7 @@ translate spanish dayTwoStart_d9d67a38:
 translate spanish dayTwoStart_db9a9d75:
 
     # morg "It's just that I'm not a very good swimmer, I'm not sure I can do it..."
-    morg "Es que no soy muy buen nadador, no estoy seguro de poder hacerlo..."
+    morg "Es que no soy muy buena nadadora, no estoy seguro de poder hacerlo..."
 
 # game/Days/dayTwo.rpy:639
 translate spanish dayTwoStart_45f1fdc9:
@@ -1415,13 +1415,13 @@ translate spanish dayTwoStart_45f1fdc9:
 translate spanish dayTwoStart_38f5c4be:
 
     # morg "Really?"
-    morg "¿En realidad?"
+    morg "¿De verdad?"
 
 # game/Days/dayTwo.rpy:643
 translate spanish dayTwoStart_2273b95b:
 
     # mc "Yep! I can bring you aside for some 1 to 1 teaching, I'll get you paddling along in no time!"
-    mc "¡Sí! Puedo llevarte aparte para una enseñanza individualizada. ¡Te haré remar en poco tiempo!"
+    mc "¡Sí! Puedo llevarte aparte para una enseñanza individualizada. ¡Te enseñaré a nadar en poco tiempo!"
 
 # game/Days/dayTwo.rpy:645
 translate spanish dayTwoStart_ec322bec:
@@ -1451,13 +1451,13 @@ translate spanish dayTwoStart_91ee1656:
 translate spanish dayTwoStart_6a39e972:
 
     # ver "[school_player_name] will be assisting today. Getting to know you all a bit better and helping you swim!"
-    ver "[school_player_name] estará ayudando hoy. ¡Conociéndoos un poco mejor a todos y ayudándoos a nadar!"
+    ver "[school_player_name] estará ayudando hoy. ¡Conociéndoos un poco mejor a todas y ayudándoos a nadar!"
 
 # game/Days/dayTwo.rpy:667
 translate spanish dayTwoStart_635a3989:
 
     # ver "If you ever need some assistance and I'm busy, please do not hesitate to ask [school_player_name]. He'll be more than happy to help you out!"
-    ver "Si alguna vez necesitas ayuda y estoy ocupado, no dudes en preguntar a [school_player_name]. ¡Estará más que feliz de ayudarte!"
+    ver "Si alguna vez necesitas ayuda y estoy ocupada, no dudes en preguntar a [school_player_name]. ¡Estará más que feliz de ayudaros!"
 
 # game/Days/dayTwo.rpy:669
 translate spanish dayTwoStart_cbf7c21f:
@@ -1469,7 +1469,7 @@ translate spanish dayTwoStart_cbf7c21f:
 translate spanish dayTwoStart_4c393e75:
 
     # ver "Ok class, Ready for a pop quiz!?"
-    ver "Ok clase, ¿¡Listo para un examen sorpresa!?"
+    ver "Ok clase, ¿¡Listas para un examen sorpresa!?"
 
 # game/Days/dayTwo.rpy:673
 translate spanish dayTwoStart_5b050c35:
@@ -1493,7 +1493,7 @@ translate spanish dayTwoStart_5e85a78f:
 translate spanish dayTwoStart_78f87448:
 
     # nobody "...Stretching..."
-    nobody "...Extensión..."
+    nobody "...Estiramientos..."
 
 # game/Days/dayTwo.rpy:682
 translate spanish dayTwoStart_c058112f:
@@ -1529,13 +1529,13 @@ translate spanish dayTwoStart_57e36612:
 translate spanish dayTwoStart_6406c398:
 
     # ver "Ok... Well class. 10 minutes of stretching then you can begin swimming! By the end of the lesson I expect 10 sets back and fourth!"
-    ver "Ok... Bueno clase. ¡10 minutos de estiramiento y luego podrás empezar a nadar! ¡Al final de la lección espero 10 series atrás y la cuarta!"
+    ver "Ok... Bueno clase. ¡10 minutos de estiramientos y luego podreis empezar a nadar! ¡Al final de la lección espero 10 series una tras otra!"
 
 # game/Days/dayTwo.rpy:693
 translate spanish dayTwoStart_1adb5151:
 
     # morgT "Oh boy. I'm definitely not doing that."
-    morgT "Oh chico. Definitivamente no haré eso."
+    morgT "Oh cielos. Definitivamente no haré eso."
 
 # game/Days/dayTwo.rpy:695
 translate spanish dayTwoStart_e3b2eaf9:
@@ -1589,7 +1589,7 @@ translate spanish dayTwoStart_b70d686e:
 translate spanish dayTwoStart_5984b7fe:
 
     # mcT "All of these girls have nice behinds."
-    mcT "Todas estas chicas tienen bonitos traseros."
+    mcT "Todas estas chicas tienen bonitos culos."
 
 # game/Days/dayTwo.rpy:715
 translate spanish dayTwoStart_00b749ba:
@@ -1607,19 +1607,19 @@ translate spanish dayTwoStart_717e0076:
 translate spanish dayTwoStart_b57b0568:
 
     # mcT "It is small, but fits her frame well."
-    mcT "Es pequeño, pero se adapta bien a su estructura."
+    mcT "Es pequeña, pero se adapta bien a su estructura."
 
 # game/Days/dayTwo.rpy:721
 translate spanish dayTwoStart_b3bdb8a3:
 
     # mcT "[suz]'s. Also very nice."
-    mcT "[suz]'s. También muy bonito."
+    mcT "[suz]'s. También muy bonita."
 
 # game/Days/dayTwo.rpy:723
 translate spanish dayTwoStart_014c8149:
 
     # mcT "The pantyhose was concealing most of it this morning, but damn."
-    mcT "Las pantimedias ocultaban la mayor parte esta mañana, pero maldita sea."
+    mcT "Las medias ocultaban la mayor parte esta mañana, pero maldita sea."
 
 # game/Days/dayTwo.rpy:724
 translate spanish dayTwoStart_ba7b0ec2:
@@ -1637,7 +1637,7 @@ translate spanish dayTwoStart_84582a81:
 translate spanish dayTwoStart_be72bcf2:
 
     # mcT "But her ass is a different story."
-    mcT "Pero su trasero es una historia diferente."
+    mcT "Pero su culo es una historia diferente."
 
 # game/Days/dayTwo.rpy:729
 translate spanish dayTwoStart_160f8e4a:
@@ -1745,7 +1745,7 @@ translate spanish dayTwoStart_d66fa634:
 translate spanish dayTwoStart_22efe7e6:
 
     # mc "I'm going to do a little 1 to 1 teaching with [morg]. You can batten the hatches with the others while I do that right?"
-    mc "Voy a hacer una pequeña enseñanza 1 a 1 con [morg]. Puedes cerrar las escotillas con los demás mientras yo hago eso, ¿verdad?"
+    mc "Voy a hacer una pequeña enseñanza 1 a 1 con [morg]. Puedes ocuparte con las demás mientras yo hago eso, ¿verdad?"
 
 # game/Days/dayTwo.rpy:772
 translate spanish dayTwoStart_86ec78cd:
@@ -1763,7 +1763,7 @@ translate spanish dayTwoStart_4edbe818:
 translate spanish dayTwoStart_aa47060e:
 
     # mc "Right on. Thank you. I'll teach her the best I can."
-    mc "Tocar el asunto exacto. Gracias. Le enseñaré lo mejor que pueda."
+    mc "Cierto. Gracias. Le enseñaré lo mejor que pueda."
 
 # game/Days/dayTwo.rpy:778
 translate spanish dayTwoStart_f7e48fa8:
@@ -1817,13 +1817,13 @@ translate spanish D2_Morgana_Swim_d8dcd1e3:
 translate spanish D2_Morgana_Swim_eabd7198:
 
     # morg "Oh er... I'm a little heavy though [school_player_name]."
-    morg "Oh eh... Aunque estoy un poco pesado [school_player_name]."
+    morg "Oh eh... Aunque estoy un poco pesada [school_player_name]."
 
 # game/Days/dayTwo.rpy:811
 translate spanish D2_Morgana_Swim_3f784423:
 
     # mc "Nonsense! You're totally fine! Come on, jump. Jump!"
-    mc "¡Disparates! ¡Estás totalmente bien! Vamos, salta. ¡Saltar!"
+    mc "¡No digas tonterías! ¡Estás totalmente bien! Vamos, salta. ¡Salta!"
 
 # game/Days/dayTwo.rpy:813
 translate spanish D2_Morgana_Swim_5aeb8e27:
@@ -1841,7 +1841,7 @@ translate spanish D2_Morgana_Swim_9c1776f3:
 translate spanish D2_Morgana_Swim_f0b92258:
 
     # mc "Gotcha! Was that fun?"
-    mc "¡Entendido! ¿Fue divertido?"
+    mc "¡Te tengo! ¿Fue divertido?"
 
 # game/Days/dayTwo.rpy:827
 translate spanish D2_Morgana_Swim_84211dac:
@@ -1865,7 +1865,7 @@ translate spanish D2_Morgana_Swim_e350beac:
 translate spanish D2_Morgana_Swim_53699fec:
 
     # mc "Do you need a little minute to catch your breath or are you ready to carry on?"
-    mc "¿Necesitas un minuto para recuperar el aliento o estás listo para continuar?"
+    mc "¿Necesitas un minuto para recuperar el aliento o estás lista para continuar?"
 
 # game/Days/dayTwo.rpy:834
 translate spanish D2_Morgana_Swim_82c63228:
@@ -1889,7 +1889,7 @@ translate spanish D2_Morgana_Swim_3c0e68d1:
 translate spanish D2_Morgana_Swim_f08c3dd1:
 
     # morg "O-ok, I think I'm ready now [school_player_name]."
-    morg "O-ok, creo que ya estoy listo [school_player_name]."
+    morg "O-ok, creo que ya estoy lista [school_player_name]."
 
 # game/Days/dayTwo.rpy:841
 translate spanish D2_Morgana_Swim_15468527:
@@ -1931,7 +1931,7 @@ translate spanish D2_Morgana_Swim_c1170df0:
 translate spanish D2_Morgana_Swim_e11676a3:
 
     # mcT "I love being a teacher."
-    mcT "Me encanta ser profesora."
+    mcT "Me encanta ser profesor."
 
 # game/Days/dayTwo.rpy:858
 translate spanish D2_Morgana_Swim_52675931:
@@ -1955,13 +1955,13 @@ translate spanish D2_Morgana_Swim_cd78a0b1:
 translate spanish D2_Morgana_Swim_130977c8:
 
     # morg "L-like this [school_player_name]?"
-    morg "¿Me gusta esto [school_player_name]?"
+    morg "¿Te gusta esto [school_player_name]?"
 
 # game/Days/dayTwo.rpy:863
 translate spanish D2_Morgana_Swim_8fb46ec2:
 
     # mc "Fantastic! You're doing it!"
-    mc "¡Fantástico! ¡Lo estás haciendo!"
+    mc "¡Fantástico! ¡Lo estás haciendo perfecto!"
 
 # game/Days/dayTwo.rpy:864
 translate spanish D2_Morgana_Swim_d31e5a89:
@@ -2183,25 +2183,25 @@ translate spanish D2_Morgana_Swim_5131ca56:
 translate spanish D2_Morgana_Swim_c2937b88:
 
     # mc "I'm going to let go, but to keep yourself balanced, keep using your arms like you're climbing a ladder. It'll keep you afloat and balance you out!"
-    mc "Voy a dejarlo ir, pero para mantener el equilibrio, sigue usando los brazos como si estuvieras subiendo una escalera. ¡Te mantendrá a flote y te equilibrará!"
+    mc "Voy a solarte, pero para mantener el equilibrio, sigue usando los brazos como si estuvieras subiendo una escalera. ¡Te mantendrá a flote y te equilibrará!"
 
 # game/Days/dayTwo.rpy:945
 translate spanish D2_Morgana_Swim_1f56feb7:
 
     # mc "Ready?"
-    mc "¿Listo?"
+    mc "¿Lista?"
 
 # game/Days/dayTwo.rpy:946
 translate spanish D2_Morgana_Swim_a1264f2f:
 
     # morg "I trust you [school_player_name]. If you believe in me, I'll believe in myself! {size=+8}I'm Ready!{/size}"
-    morg "Confío en ti [school_player_name]. ¡Si crees en mí, yo creeré en mí mismo! {size=+8}¡Estoy listo!{/size}"
+    morg "Confío en ti [school_player_name]. ¡Si crees en mí, yo creeré en mí misma! {size=+8}¡Estoy lista!{/size}"
 
 # game/Days/dayTwo.rpy:950
 translate spanish D2_Morgana_Swim_3400ca73:
 
     # "You let go of [morg]. It takes a couple of seconds for her to compose herself but she's off! Albeit a bit slowly..."
-    "Sueltas [morg]. Le toma un par de segundos recomponerse pero ¡se marcha! Aunque un poco lento..."
+    "Sueltas [morg]. Le toma un par de segundos recomponerse pero ¡se marcha! Aunque un poco lenta..."
 
 # game/Days/dayTwo.rpy:952
 translate spanish D2_Morgana_Swim_575e0409:
@@ -2213,7 +2213,7 @@ translate spanish D2_Morgana_Swim_575e0409:
 translate spanish D2_Morgana_Swim_8dbc71ac:
 
     # mc "Nice one [morg]!"
-    mc "¡Buen [morg]!"
+    mc "¡Bien hecho [morg]!"
 
 # game/Days/dayTwo.rpy:958
 translate spanish D2_Morgana_Swim_5b2439b3:
@@ -2255,7 +2255,7 @@ translate spanish D2_Morgana_Swim_adaad8b9:
 translate spanish D2_Morgana_Swim_196d2eab:
 
     # mc "Ok class. I'm going to take her to the nurse's office. Everything is fine. [ver] will carry on with your lesson!"
-    mc "Ok clase. La llevaré a la enfermería. Todo está bien. ¡[ver] continuará con tu lección!"
+    mc "Ok clase. La llevaré a la enfermería. Todo está bien. ¡[ver] continuará con vuestra lección!"
 
 # game/Days/dayTwo.rpy:971
 translate spanish D2_Morgana_Swim_a74f4f84:
@@ -2273,7 +2273,7 @@ translate spanish D2_Morgana_Swim_3ab7c622:
 translate spanish D2_Morgana_Swim_ea1ca078:
 
     # nurse "Oh! Hey there [player_name]! Did you bring me a test sub... patient?"
-    nurse "¡Oh! ¡Hola [player_name]! ¿Me trajiste un subpaciente de prueba?"
+    nurse "¡Oh! ¡Hola [player_name]! ¿Me trajiste una paciente de prueba?"
 
 # game/Days/dayTwo.rpy:995
 translate spanish D2_Morgana_Swim_40303680:
@@ -2303,7 +2303,7 @@ translate spanish D2_Morgana_Swim_71bb0b36:
 translate spanish D2_Morgana_Swim_caeb7623:
 
     # mc "Thank you. [principal] mentioned that she wishes to see me, so I'm going to have to leave... thankfully."
-    mc "Gracias. [principal] mencionó que desea verme, así que tendré que irme... afortunadamente."
+    mc "Gracias.La [principal] mencionó que desea verme, así que tendré que irme... afortunadamente."
 
 # game/Days/dayTwo.rpy:1007
 translate spanish D2_Morgana_Swim_e9e2889c:
@@ -2333,7 +2333,7 @@ translate spanish D2_Morgana_Swim_1313dd19:
 translate spanish D2_Morgana_Swim_96f91640:
 
     # nurse "Oki-doki jam tart! I'll see you in a wink!"
-    nurse "¡Tarta de mermelada oki-doki! ¡Te veré en un guiño!"
+    nurse "¡oki-doki tarda de mermelada! ¡Te veré en un rato!"
 
 # game/Days/dayTwo.rpy:1017
 translate spanish D2_Morgana_Swim_5ad7782b:
@@ -2393,7 +2393,7 @@ translate spanish D2_Morgana_Swim_c7a774fd:
 translate spanish D2_Morgana_Swim_51b2df02:
 
     # mc "Hello again [principal]. [ver] mentioned you wanted to see me?"
-    mc "Hola de nuevo [principal]. [ver] mencionó que quería verme?"
+    mc "Hola de nuevo [principal]. ¿[ver] mencionó que quería verme?"
 
 # game/Days/dayTwo.rpy:1033
 translate spanish D2_Morgana_Swim_09b2a643:
@@ -2405,7 +2405,7 @@ translate spanish D2_Morgana_Swim_09b2a643:
 translate spanish D2_Morgana_Swim_23ce39be:
 
     # principal "I did."
-    principal "Hice."
+    principal "Lo hice."
 
 # game/Days/dayTwo.rpy:1037
 translate spanish D2_Morgana_Swim_5f00ebe9:
@@ -2435,7 +2435,7 @@ translate spanish D2_Morgana_Swim_8dab75d0:
 translate spanish D2_Morgana_Swim_69d9e8fb:
 
     # principal "I'm sure we've made the right choice."
-    principal "Estoy seguro de que hemos tomado la decisión correcta."
+    principal "Estoy segura de que hemos tomado la decisión correcta."
 
 # game/Days/dayTwo.rpy:1051
 translate spanish D2_Morgana_Swim_bb339a4b:
@@ -2621,19 +2621,19 @@ translate spanish D2_Morgana_Swim_7e991901:
 translate spanish D2_Morgana_Swim_c9797263:
 
     # mc "I can't just abandon them, especially on my second day."
-    mc "No puedo simplemente abandonarlos, especialmente en mi segundo día."
+    mc "No puedo simplemente abandonarlas, especialmente en mi segundo día."
 
 # game/Days/dayTwo.rpy:1109
 translate spanish D2_Morgana_Swim_a5b96ccf:
 
     # principal "Do not worry. [aiko], [mel], [ver] and recently [nurse] will batten the hatches while you're away. Just like it was before you arrived."
-    principal "No te preocupes. [aiko], [mel], [ver] y recientemente [nurse] cerrarán las escotillas mientras estás fuera. Justo como era antes de que llegaras."
+    principal "No te preocupes. [aiko], [mel], [ver] y recientemente [nurse] cerrarán los temas pendientes mientras estás fuera. Justo como era antes de que llegaras."
 
 # game/Days/dayTwo.rpy:1110
 translate spanish D2_Morgana_Swim_5713bdd7:
 
     # principal "There is a car waiting for you outside. You have 10 minutes before you need to leave. So button up any loose ends you have and go for a ride." id D2_Morgana_Swim_5713bdd7
-    principal "Hay un coche esperándote afuera. Tienes 10 minutos antes de tener que salir. Así que abrocha todos los cabos sueltos que tengas y sal a dar una vuelta." id D2_Morgana_Swim_5713bdd7
+    principal "Hay un coche esperándote afuera. Tienes 10 minutos antes de tener que salir. Así que termina todos los cabos sueltos que tengas y sal a dar una vuelta." id D2_Morgana_Swim_5713bdd7
 
 # game/Days/dayTwo.rpy:1111
 translate spanish D2_Morgana_Swim_a319830f:
@@ -2687,7 +2687,7 @@ translate spanish D2_Morgana_Swim_d9743d39:
 translate spanish D2_Morgana_Swim_7f2532e3:
 
     # mcT "Right, better go check on [morg] quickly. See how she's doing."
-    mcT "Bien, será mejor que vayas a comprobar [morg] rápidamente. Mira cómo le va."
+    mcT "Bien, será mejor que vayas a comprobar [morg] rápidamente. Mirar cómo le va."
 
 # game/Days/dayTwo.rpy:1129
 translate spanish D2_Morgana_Swim_a20cefa7:
@@ -2699,7 +2699,7 @@ translate spanish D2_Morgana_Swim_a20cefa7:
 translate spanish D2_Morgana_Swim_19ac1317:
 
     # mcT "Oh hey, she's up and about. That's good."
-    mcT "Oh, oye, ella está despierta. Eso es bueno."
+    mcT "Oh, oye, ella ya está despierta. Eso es bueno."
 
 # game/Days/dayTwo.rpy:1135
 translate spanish D2_Morgana_Swim_40717752:
@@ -2711,7 +2711,7 @@ translate spanish D2_Morgana_Swim_40717752:
 translate spanish D2_Morgana_Swim_8fde7a0d:
 
     # nurse "Good as new!"
-    nurse "¡Como nuevo!"
+    nurse "¡Como nueva!"
 
 # game/Days/dayTwo.rpy:1139
 translate spanish D2_Morgana_Swim_95daff62:
@@ -2729,19 +2729,19 @@ translate spanish D2_Morgana_Swim_ade5dd3a:
 translate spanish D2_Morgana_Swim_ffd0af85:
 
     # nurse "Awww. And here I thought you'd come checking on me..."
-    nurse "Awww. Y aquí pensé que vendrías a ver cómo estaba..."
+    nurse "Awww. Y pensé que vendrías a ver cómo estaba yo..."
 
 # game/Days/dayTwo.rpy:1145
 translate spanish D2_Morgana_Swim_2b518d6a:
 
     # mc "[morg]. Checking up on [morg]!"
-    mc "[morg]. ¡Comprobando [morg]!"
+    mc "[morg]. ¡Estoy comprobando a [morg]!"
 
 # game/Days/dayTwo.rpy:1147
 translate spanish D2_Morgana_Swim_d721561f:
 
     # nurse "Booo. I'm sure you've got room in your heart for multiple!"
-    nurse "Boo. ¡Estoy seguro de que tienes espacio en tu corazón para múltiples!"
+    nurse "Buuu. ¡Estoy segura de que tienes espacio en tu corazón para múltiples!"
 
 # game/Days/dayTwo.rpy:1148
 translate spanish D2_Morgana_Swim_e154b20e:
@@ -2807,7 +2807,7 @@ translate spanish D2_Morgana_Swim_f73dc3c2:
 translate spanish D2_Morgana_Swim_2d06357b:
 
     # nurse "Oh.. You remember that hair you gave me yesterday?"
-    nurse "Oh.. ¿Recuerdas ese cabello que me diste ayer?"
+    nurse "Oh.. ¿Recuerdas ese pelo que me diste ayer?"
 
 # game/Days/dayTwo.rpy:1189
 translate spanish D2_Morgana_Swim_ad909a8e:
@@ -2831,13 +2831,13 @@ translate spanish D2_Morgana_Swim_681d950d:
 translate spanish D2_Morgana_Swim_a31340dd:
 
     # mc "Really?"
-    mc "¿En realidad?"
+    mc "¿De verdad?"
 
 # game/Days/dayTwo.rpy:1195
 translate spanish D2_Morgana_Swim_e320af98:
 
     # mc "And shit didn't blow up?"
-    mc "¿Y la mierda no explotó?"
+    mc "¿Y esa mierda no explotó?"
 
 # game/Days/dayTwo.rpy:1196
 translate spanish D2_Morgana_Swim_efda842e:
@@ -2861,13 +2861,13 @@ translate spanish D2_Morgana_Swim_d6d117c0:
 translate spanish D2_Morgana_Swim_88d2f4a6:
 
     # nurse "You brought me a test-- patient, like we agreed on."
-    nurse "Me trajiste una prueba... paciente, como acordamos."
+    nurse "Me trajiste una rata... paciente, como acordamos."
 
 # game/Days/dayTwo.rpy:1203
 translate spanish D2_Morgana_Swim_8201a818:
 
     # mc "Hmm... I did do that, didn't I? I didn't think much of it..." id D2_Morgana_Swim_8201a818
-    mc "Hmm... Yo hice eso, ¿no? No pensé mucho en eso..." id D2_Morgana_Swim_8201a818
+    mc "Hmm... ¿Yo hice eso? No lo pensé mucho..." id D2_Morgana_Swim_8201a818
 
 # game/Days/dayTwo.rpy:1204
 translate spanish D2_Morgana_Swim_65461567:
@@ -2891,7 +2891,7 @@ translate spanish D2_Morgana_Swim_04ba50c3:
 translate spanish D2_Morgana_Swim_5b6f750f:
 
     # nurse "How do I put this..."
-    nurse "¿Cómo pongo esto...?"
+    nurse "¿Cómo diría esto...?"
 
 # game/Days/dayTwo.rpy:1210
 translate spanish D2_Morgana_Swim_65b0b68b:
@@ -2921,7 +2921,7 @@ translate spanish D2_Morgana_Swim_1654b4d2:
 translate spanish D2_Morgana_Swim_1733847b:
 
     # nurse "But because of social norms and anxiety, she supresses."
-    nurse "Pero debido a las normas sociales y la ansiedad, ella reprime."
+    nurse "Pero debido a las normas sociales y la ansiedad, ella se reprimiía."
 
 # game/Days/dayTwo.rpy:1215
 translate spanish D2_Morgana_Swim_2fa1e712:
@@ -2957,13 +2957,13 @@ translate spanish D2_Morgana_Swim_c2d95b65_1:
 translate spanish D2_Morgana_Swim_36faca12:
 
     # nurse "See?"
-    nurse "¿Ver?"
+    nurse "¿Ves?"
 
 # game/Days/dayTwo.rpy:1225
 translate spanish D2_Morgana_Swim_b6cd293c:
 
     # nurse "That hair did wonders for engineering the medication for a specific individual."
-    nurse "Ese cabello hizo maravillas al diseñar el medicamento para un individuo específico."
+    nurse "Ese pelo hizo maravillas al diseñar el medicamento para un individuo específico."
 
 # game/Days/dayTwo.rpy:1226
 translate spanish D2_Morgana_Swim_5cce674e:
@@ -3017,7 +3017,7 @@ translate spanish D2_Morgana_Nurse_8a1d5a17:
 translate spanish D2_Morgana_Nurse_b5dbaf20:
 
     # mcT "...Her eyes are looking at me... But past me at the same time."
-    mcT "...Sus ojos me miran... Pero más allá de mí al mismo tiempo."
+    mcT "...Sus ojos me miran... Pero pasán de mí al mismo tiempo."
 
 # game/Days/dayTwo.rpy:1253
 translate spanish D2_Morgana_Nurse_f391057a:
@@ -3035,7 +3035,7 @@ translate spanish D2_Morgana_Nurse_ccd8f033:
 translate spanish D2_Morgana_Nurse_0aac68d5:
 
     # mcT "No gag reflex?"
-    mcT "¿Sin reflejo nauseoso?"
+    mcT "¿Sin reflejo nauseabundo?"
 
 # game/Days/dayTwo.rpy:1263
 translate spanish D2_Morgana_Nurse_678410c6:
@@ -3053,7 +3053,7 @@ translate spanish D2_Morgana_Nurse_c2d95b65:
 translate spanish D2_Morgana_Nurse_603c61fe:
 
     # mc "Fully, please."
-    mc "Totalmente, por favor."
+    mc "Completamente, por favor."
 
 # game/Days/dayTwo.rpy:1272
 translate spanish D2_Morgana_Nurse_48dc1e95:
@@ -3071,25 +3071,25 @@ translate spanish D2_Morgana_Nurse_c2d95b65_1:
 translate spanish D2_Morgana_Nurse_01288d33:
 
     # mcT "Plump..."
-    mcT "Rechoncho..."
+    mcT "Rechoncha..."
 
 # game/Days/dayTwo.rpy:1276
 translate spanish D2_Morgana_Nurse_4cae772a:
 
     # mcT "Squishy..."
-    mcT "Blando..."
+    mcT "Blanda..."
 
 # game/Days/dayTwo.rpy:1277
 translate spanish D2_Morgana_Nurse_2926e16e:
 
     # mcT "And a tad heavy."
-    mcT "Y un pelín pesado."
+    mcT "Y un pelín pesada."
 
 # game/Days/dayTwo.rpy:1278
 translate spanish D2_Morgana_Nurse_aeddfe51:
 
     # mcT "I bet a tit job from these would be divine."
-    mcT "Apuesto a que una paja de estos sería divina."
+    mcT "Apuesto a que una paja de estas sería divina."
 
 # game/Days/dayTwo.rpy:1279
 translate spanish D2_Morgana_Nurse_ccd8f033_1:
@@ -3173,7 +3173,7 @@ translate spanish D2_Morgana_Nurse_c2d95b65_2:
 translate spanish D2_Morgana_Nurse_cb0208b5:
 
     # mc "You have a killer body [morg]. Do you know that?"
-    mc "Tienes un cuerpo asesino [morg]. ¿Sabes eso?"
+    mc "Tienes un cuerpo de muerte [morg]. ¿Sabes eso?"
 
 # game/Days/dayTwo.rpy:1324
 translate spanish D2_Morgana_Nurse_53e845f5:
@@ -3245,7 +3245,7 @@ translate spanish D2_Morgana_Nurse_82c21ead:
 translate spanish D2_Morgana_Nurse_24b571b9:
 
     # mc "I didn't say you could touch it."
-    mc "No dije que pudieras tocarlo."
+    mc "No dije que pudieras tocarla."
 
 # game/Days/dayTwo.rpy:1355
 translate spanish D2_Morgana_Nurse_f86915d3:
@@ -3299,7 +3299,7 @@ translate spanish D2_Morgana_Nurse_1c27841e:
 translate spanish D2_Morgana_Nurse_2a92ba88_1:
 
     # morg "Okay."
-    morg "Bueno."
+    morg "Vale."
 
 # game/Days/dayTwo.rpy:1371
 translate spanish D2_Morgana_Nurse_5c501300:
@@ -3323,7 +3323,7 @@ translate spanish D2_Morgana_Nurse_1d72f952:
 translate spanish D2_Morgana_Nurse_3fc5bbd4:
 
     # mcT "Her tits are so big. They're surrounding my entire shaft."
-    mcT "Sus tetas son muy grandes. Están rodeando todo mi eje."
+    mcT "Sus tetas son muy grandes. Están rodeando todo mi tronco."
 
 # game/Days/dayTwo.rpy:1379
 translate spanish D2_Morgana_Nurse_3b87e7c0:
@@ -3353,7 +3353,7 @@ translate spanish D2_Morgana_Nurse_85aff970:
 translate spanish D2_Morgana_Nurse_b754f1f0:
 
     # mc "Ahh. Fuck [morg] you're so good at this!"
-    mc "Ah. Joder [morg] ¡eres tan bueno en esto!"
+    mc "Ah. Joder [morg] ¡eres tan buena en esto!"
 
 # game/Days/dayTwo.rpy:1390
 translate spanish D2_Morgana_Nurse_a5de5c7a:
@@ -3407,7 +3407,7 @@ translate spanish D2_Morgana_Nurse_c1140a2b:
 translate spanish D2_Morgana_Nurse_eb807e8d:
 
     # mc "Man, I wish I could stay here."
-    mc "Hombre, desearía poder quedarme aquí."
+    mc "Joder, desearía poder quedarme aquí."
 
 # game/Days/dayTwo.rpy:1419
 translate spanish D2_Morgana_Nurse_e064a769:
@@ -3461,7 +3461,7 @@ translate spanish D2_Morgana_Nurse_c1140a2b_1:
 translate spanish D2_Morgana_Nurse_eb807e8d_1:
 
     # mc "Man, I wish I could stay here."
-    mc "Hombre, desearía poder quedarme aquí."
+    mc "Joder, desearía poder quedarme aquí."
 
 # game/Days/dayTwo.rpy:1444
 translate spanish D2_Morgana_Nurse_e064a769_1:
@@ -3551,7 +3551,7 @@ translate spanish D2_Morgana_Nurse_1198b7af:
 translate spanish D2_Morgana_Nurse_13bc33c3:
 
     # mc "No running in the hallway!"
-    mc "¡No correr por el pasillo!"
+    mc "¡No se debe correr por el pasillo!"
 
 # game/Days/dayTwo.rpy:1491
 translate spanish D2_Morgana_Nurse_38c70a9f:
@@ -3611,7 +3611,7 @@ translate spanish D2_Morgana_Nurse_727a44eb:
 translate spanish D2_Morgana_Nurse_7e564d0d:
 
     # esme "W...Would you like to come too?"
-    esme "¿Q...te gustaría venir también?"
+    esme "¿T...te gustaría venir también?"
 
 # game/Days/dayTwo.rpy:1508
 translate spanish D2_Morgana_Nurse_28788be9:
@@ -3623,7 +3623,7 @@ translate spanish D2_Morgana_Nurse_28788be9:
 translate spanish D2_Morgana_Nurse_8e9ef077:
 
     # esme "Hm... Yes, but I'm nervous! I'd prefer it if you came along too..."
-    esme "Hm... ¡Sí, pero estoy nervioso! Preferiría que vinieras tú también..."
+    esme "Hm... ¡Sí, pero estoy nerviosa! Preferiría que vinieras tú también..."
 
 # game/Days/dayTwo.rpy:1512
 translate spanish D2_Morgana_Nurse_f0d534d5:
@@ -3737,7 +3737,7 @@ translate spanish D2_Morgana_Nurse_a7d52b56:
 translate spanish D2_Morgana_Nurse_f91f0072:
 
     # "{color=#ff0000}Fighter{/color}" "Fight."
-    "{color=#ff0000}Luchador{/color}" "Luchar."
+    "{color=#ff0000}Luchador{/color}" "Luchando."
 
 # game/Days/dayTwo.rpy:1553
 translate spanish D2_Morgana_Nurse_c57a4bad:
@@ -3875,13 +3875,13 @@ translate spanish D2_Morgana_Nurse_dff4f630:
 translate spanish D2_Morgana_Nurse_ffce5ad7:
 
     # "{color=#ff0000}Apex{/color}" "Go."
-    "{color=#ff0000}Ápice{/color}" "Go."
+    "{color=#ff0000}Ápice{/color}" "Ir."
 
 # game/Days/dayTwo.rpy:1600
 translate spanish D2_Morgana_Nurse_bed52d3e:
 
     # mc "Thank you. I'm going now. Some time I'll buy you a drink. Get to know one another better, ya'know?"
-    mc "Gracias. Me voy ahora. En algún momento te invitaré a una bebida. Conózcanse mejor, ¿sabes?"
+    mc "Gracias. Me voy ahora. En algún momento te invitaré a una bebida. Para conocerse mejor, ¿sabes?"
 
 # game/Days/dayTwo.rpy:1602
 translate spanish D2_Morgana_Nurse_bfedeeec:
@@ -3911,7 +3911,7 @@ translate spanish D2_Morgana_Nurse_b61ec0fc:
 translate spanish D2_Morgana_Nurse_2c3bb14b:
 
     # "A door across the room opens, and a woman walks out of it. But you can't quite make out any distinct qualities."
-    "Se abre una puerta al otro lado de la habitación y sale una mujer. Pero no se puede distinguir ninguna cualidad distintiva."
+    "Se abre una puerta al otro lado de la habitación y sale una mujer. Pero no se puedo distinguir ninguna cualidad distintiva."
 
 # game/Days/dayTwo.rpy:1617
 translate spanish D2_Morgana_Nurse_529b9de5:
@@ -3923,13 +3923,13 @@ translate spanish D2_Morgana_Nurse_529b9de5:
 translate spanish D2_Morgana_Nurse_0b392d12:
 
     # sin "Welcome [player_name]. Welcome to Sinergy."
-    sin "Bienvenido [player_name]. Bienvenidos a Sinergy."
+    sin "Bienvenido [player_name]. Bienvenidos a Sinergia."
 
 # game/Days/dayTwo.rpy:1621
 translate spanish D2_Morgana_Nurse_95ce3a0c:
 
     # sin "The... Basement at Sinergy. Seems the other meeting spaces were fully booked."
-    sin "El... sótano de Sinergy. Parece que los otros espacios para reuniones estaban completos."
+    sin "El... sótano de Sinergia. Parece que los otros espacios para reuniones estaban completos."
 
 # game/Days/dayTwo.rpy:1625
 translate spanish D2_Morgana_Nurse_886152ac:
@@ -3965,7 +3965,7 @@ translate spanish D2_Morgana_Nurse_3b726cfe:
 translate spanish D2_Morgana_Nurse_6f9996be:
 
     # sin "MADE ME LOOK A FOOL!"
-    sin "¡ME HIZO PARECIR UN TONTO!"
+    sin "¡ME HIZO PARECIR UNA TONTA!"
 
 # game/Days/dayTwo.rpy:1637
 translate spanish D2_Morgana_Nurse_8302fe3c:
@@ -3995,7 +3995,7 @@ translate spanish D2_Morgana_Nurse_bf695259:
 translate spanish D2_Morgana_Nurse_f2250283:
 
     # mcT "I... I was half expecting to be murdered..."
-    mcT "Yo... medio esperaba que me asesinaran..."
+    mcT "Yo... To ya me esperaba que me asesinaran..."
 
 # game/Days/dayTwo.rpy:1653
 translate spanish D2_Morgana_Nurse_9cf4028d:
@@ -4019,7 +4019,7 @@ translate spanish D2_Morgana_Nurse_89d3cdc1:
 translate spanish D2_Morgana_Nurse_712339a3:
 
     # sin "Ah yes. Welcome to Sinergy [player_name]!"
-    sin "Ah si. ¡Bienvenido a Sinergy [player_name]!"
+    sin "Ah si. ¡Bienvenido a Sinergia [player_name]!"
 
 # game/Days/dayTwo.rpy:1666
 translate spanish D2_Morgana_Nurse_fc9c6b04:
@@ -4037,13 +4037,13 @@ translate spanish D2_Morgana_Nurse_b49c7031:
 translate spanish D2_Morgana_Nurse_6d00b431:
 
     # ella "The Principal must have given you the gist of it. [principal] was her name if I remember correctly." id D2_Morgana_Nurse_6d00b431
-    ella "El director debe haberte dado la esencia del asunto. [principal] era su nombre si no recuerdo mal." id D2_Morgana_Nurse_6d00b431
+    ella "La directora debe haberte dado el resumen de la reunión. Se llamaba [principal] si no recuerdo mal." id D2_Morgana_Nurse_6d00b431
 
 # game/Days/dayTwo.rpy:1671
 translate spanish D2_Morgana_Nurse_40ae5b80:
 
     # ella "Interesting woman to say the least. Little snappy, wouldn't you agree?"
-    ella "Mujer interesante por decir lo menos. Un poco ágil, ¿no te parece?"
+    ella "Una mujer interesante por lo menos. Un poco ágil, ¿no te parece?"
 
 # game/Days/dayTwo.rpy:1693
 translate spanish D2_Morgana_Nurse_3a5471ed:
@@ -4061,7 +4061,7 @@ translate spanish D2_Morgana_Nurse_a9930e5e:
 translate spanish D2_Morgana_Nurse_12d354bd:
 
     # ella "Congratulations on your new position. This is a very important role for you."
-    ella "Felicitaciones por su nuevo puesto. Éste es un papel muy importante para usted."
+    ella "Felicitaciones por su nuevo puesto. Éste es un papel muy importante para ti."
 
 # game/Days/dayTwo.rpy:1697
 translate spanish D2_Morgana_Nurse_9cf95ba0:
@@ -4091,7 +4091,7 @@ translate spanish D2_Morgana_Nurse_efae2dea:
 translate spanish D2_Morgana_Nurse_b13149e6:
 
     # ella "We've seen your work ethic, the strive to \"Get shit done\" as it were."
-    ella "Hemos visto su ética de trabajo, el esfuerzo por \"hacer las cosas bien\", por así decirlo."
+    ella "Hemos visto yu ética de trabajo, el esfuerzo por \"hacer las cosas bien\", por así decirlo."
 
 # game/Days/dayTwo.rpy:1706
 translate spanish D2_Morgana_Nurse_db7d03ef:
@@ -4103,25 +4103,25 @@ translate spanish D2_Morgana_Nurse_db7d03ef:
 translate spanish D2_Morgana_Nurse_9e88d583:
 
     # ella "Your perseverance is to be commended [player_name]."
-    ella "Su perseverancia es digna de elogio [player_name]."
+    ella "Tu perseverancia es digna de elogio [player_name]."
 
 # game/Days/dayTwo.rpy:1709
 translate spanish D2_Morgana_Nurse_980260d2:
 
     # ella "We'll need this from you going forward."
-    ella "Necesitaremos esto de usted en el futuro."
+    ella "Necesitaremos esto de ti en el futuro."
 
 # game/Days/dayTwo.rpy:1711
 translate spanish D2_Morgana_Nurse_ff6230d5:
 
     # ella "I'm sure you're aware that you're the only male teacher on the girls' side of the college right?" id D2_Morgana_Nurse_ff6230d5
-    ella "Estoy seguro de que sabes que eres el único profesor varón en el lado femenino de la universidad, ¿verdad?" id D2_Morgana_Nurse_ff6230d5
+    ella "Estoy segura de que sabes que eres el único profesor varón en el lado femenino de la universidad, ¿verdad?" id D2_Morgana_Nurse_ff6230d5
 
 # game/Days/dayTwo.rpy:1712
 translate spanish D2_Morgana_Nurse_fae8d4b7:
 
     # ella "It's up to you to see if you can make the students' grades drastically improve."
-    ella "Depende de usted ver si puede hacer que las calificaciones de los estudiantes mejoren drásticamente."
+    ella "Depende de ti ver si puede hacer que las calificaciones de las estudiantes mejoren drásticamente."
 
 # game/Days/dayTwo.rpy:1713
 translate spanish D2_Morgana_Nurse_f80863ff:
@@ -4169,7 +4169,7 @@ translate spanish D2_Morgana_Nurse_89ce6d4d:
 translate spanish D2_Morgana_Nurse_4b58becd:
 
     # ella "And would you look at that. {i}That{/i} new teacher is sitting right in front of me."
-    ella "¿Y mirarías eso? {i}Ese{/i} nuevo profesor está sentado justo delante de mí."
+    ella "Y quien lo iba a decir. {i}Ese{/i} nuevo profesor está sentado justo delante de mí."
 
 # game/Days/dayTwo.rpy:1729
 translate spanish D2_Morgana_Nurse_184247b7:
@@ -4187,7 +4187,7 @@ translate spanish D2_Morgana_Nurse_161f28e2:
 translate spanish D2_Morgana_Nurse_ccd2d98a:
 
     # ella "Grand! I'll try to keep it short; anywho... Just for the essence of time. I'm sure you want to get back to [school_name]."
-    ella "¡Magnífico! Intentaré que sea breve; de todos modos... Sólo por la esencia del tiempo. Estoy seguro de que quieres volver a [school_name]."
+    ella "¡Magnífico! Intentaré que sea breve; de todos modos... Sólo por la brevedad del tiempo. Estoy seguro de que quieres volver a [school_name]."
 
 # game/Days/dayTwo.rpy:1735
 translate spanish D2_Morgana_Nurse_a9aefbbd:
@@ -4199,7 +4199,7 @@ translate spanish D2_Morgana_Nurse_a9aefbbd:
 translate spanish D2_Morgana_Nurse_2205bcaa:
 
     # mc "PARE?"
-    mc "¿CORTAR?"
+    mc "¿PARE?"
 
 # game/Days/dayTwo.rpy:1739
 translate spanish D2_Morgana_Nurse_02bd314e:
@@ -4211,7 +4211,7 @@ translate spanish D2_Morgana_Nurse_02bd314e:
 translate spanish D2_Morgana_Nurse_86120832:
 
     # mc "Interesting naming. Can you tell me what that actually means?"
-    mc "Interesante denominación. ¿Puedes decirme qué significa eso realmente?"
+    mc "Nombre interesante. ¿Puedes decirme qué significa eso realmente?"
 
 # game/Days/dayTwo.rpy:1743
 translate spanish D2_Morgana_Nurse_6e3efc08:
@@ -4307,7 +4307,7 @@ translate spanish D2_Morgana_Nurse_6f1a3e47:
 translate spanish D2_Morgana_Nurse_356d0aca:
 
     # ella "Simply put, don't do anything illegal. We will support you, but we can't have you just going around raping the students for example. That's a no go."
-    ella "En pocas palabras, no hagas nada ilegal. Te apoyaremos, pero no podemos dejar que andes violando a los estudiantes, por ejemplo. Eso no se puede hacer."
+    ella "En pocas palabras, no hagas nada ilegal. Te apoyaremos, pero no podemos dejar que andes violando a las estudiantes, por ejemplo. Eso no se puede hacer."
 
 # game/Days/dayTwo.rpy:1771
 translate spanish D2_Morgana_Nurse_ac73cdd7:
@@ -4337,7 +4337,7 @@ translate spanish D2_Morgana_Nurse_ded334c9:
 translate spanish D2_Morgana_Nurse_90c7342b:
 
     # ella "I require [apex]. And I've already given you your tasks. Hop along now, we don't want to keep [player_name] waiting, [clarissa]. He has much to do and think about."
-    ella "Necesito [apex]. Y ya te he dado tus tareas. Salta, no queremos hacer esperar a [player_name], [clarissa]. Tiene mucho que hacer y pensar."
+    ella "Necesito a [apex]. Y ya te he dado tus tareas. Vete, no queremos hacer esperar a [player_name], [clarissa]. Tiene mucho que hacer y pensar."
 
 # game/Days/dayTwo.rpy:1782
 translate spanish D2_Morgana_Nurse_54f1df7c:
@@ -4379,7 +4379,7 @@ translate spanish D2_Morgana_Nurse_1c7a3a92_2:
 translate spanish D2_Morgana_Nurse_ae26f8f8:
 
     # mc "Hookay, I'm ready... Time to go back to day light."
-    mc "Hookay, estoy listo... Es hora de volver a la luz del día."
+    mc "Vaaale, estoy listo... Es hora de volver a la luz del día."
 
 # game/Days/dayTwo.rpy:1794
 translate spanish D2_Morgana_Nurse_d68f7a31:
@@ -4487,7 +4487,7 @@ translate spanish D2_Morgana_Nurse_48277ec6:
 translate spanish D2_Morgana_Nurse_a89c35f8:
 
     # mcT "I can feel her leather pants conforming around my junk."
-    mcT "Puedo sentir sus pantalones de cuero amoldándose a mi basura."
+    mcT "Puedo sentir sus pantalones de cuero amoldándose a mi paquete."
 
 # game/Days/dayTwo.rpy:1854
 translate spanish D2_Morgana_Nurse_f96cd003:
@@ -4505,7 +4505,7 @@ translate spanish D2_Morgana_Nurse_e0082bec:
 translate spanish D2_Morgana_Nurse_1fd3f915:
 
     # mc "I am so sorry [principal]! I didn't see you there!"
-    mc "¡Lo siento mucho [principal]! ¡No te vi allí!"
+    mc "¡Lo siento mucho [principal]! ¡No te vi aquí!"
 
 # game/Days/dayTwo.rpy:1859
 translate spanish D2_Morgana_Nurse_4e483b9b:
@@ -4523,7 +4523,7 @@ translate spanish D2_Morgana_Nurse_0724e24b:
 translate spanish D2_Morgana_Nurse_73474f47:
 
     # mc "Oh! Right yes sorry, be my guest."
-    mc "¡Oh! Bien, sí, lo siento, sé mi invitado."
+    mc "¡Oh! Bien, sí, lo siento, sé mi invitada."
 
 # game/Days/dayTwo.rpy:1871
 translate spanish D2_Morgana_Nurse_3db30fea:
@@ -4541,7 +4541,7 @@ translate spanish D2_Morgana_Nurse_e6aa1d82:
 translate spanish D2_Morgana_Nurse_5700820f:
 
     # principal "So, disregarding fondling my ass, even if accidentally; I hope everything went.. Smoothly, hm?"
-    principal "Entonces, sin importar acariciarme el trasero, aunque sea accidentalmente; Espero que todo haya ido... bien, ¿eh?"
+    principal "Entonces, sin importar acariciarme el culo, aunque sea accidentalmente; Espero que todo haya ido... bien, ¿eh?"
 
 # game/Days/dayTwo.rpy:1882
 translate spanish D2_Morgana_Nurse_b1897e08:
@@ -4577,7 +4577,7 @@ translate spanish D2_Morgana_Nurse_e64ef300:
 translate spanish D2_Morgana_Nurse_4561bd45:
 
     # principal "Meeting them doesn't come into the equation, everything these days is over the internet and technology. I'm sure you understand where I'm coming from."
-    principal "Conocerlos no entra en la ecuación, hoy en día todo se realiza a través de Internet y la tecnología. Estoy seguro de que entiendes de dónde vengo."
+    principal "Conocerlos no entra en la ecuación, hoy en día todo se realiza a través de Internet y la tecnología. Estoy segura de que entiendes de dónde vengo."
 
 # game/Days/dayTwo.rpy:1894
 translate spanish D2_Morgana_Nurse_2b35b6fe_2:
@@ -4727,7 +4727,7 @@ translate spanish D2_Morgana_Nurse_c9ea94e9:
 translate spanish D2_Morgana_Nurse_0575dd2b:
 
     # principal "You must take me for a fool. I hire you, and then give me this letter you've obviously wrote up in your spare time to try what? Win one over on me?"
-    principal "Debes tomarme por tonto. Te contrato y luego me doy esta carta que obviamente escribiste en tu tiempo libre para intentar ¿qué? ¿Ganarme uno?"
+    principal "Debes tomarme por tonta. Te contrato y luego me doy esta carta que obviamente escribiste en tu tiempo libre para intentar ¿qué? ¿Pasarme por encima?"
 
 # game/Days/dayTwo.rpy:1946
 translate spanish D2_Morgana_Nurse_413abe32:
@@ -4739,7 +4739,7 @@ translate spanish D2_Morgana_Nurse_413abe32:
 translate spanish D2_Morgana_Nurse_7541a3ed:
 
     # principal "Actually, {i}you{/i} wait there. I will ring them right now."
-    principal "En realidad, {i}tú{/i} espera allí. Los llamaré ahora mismo."
+    principal "En realidad, {i}tú{/i} espera aqui. Los llamaré ahora mismo."
 
 # game/Days/dayTwo.rpy:1950
 translate spanish D2_Morgana_Nurse_a20cefa7:
@@ -4919,7 +4919,7 @@ translate spanish D2_Morgana_Nurse_1568149d:
 translate spanish D2_Morgana_Nurse_9dd80658:
 
     # principal "Before you go, I want to speak to you on Monday morning regarding this new system, and my daughter."
-    principal "Antes de irse, quiero hablarles el lunes por la mañana sobre este nuevo sistema y mi hija."
+    principal "Antes de irte, quiero hablarte el lunes por la mañana sobre este nuevo sistema y mi hija."
 
 # game/Days/dayTwo.rpy:2027
 translate spanish D2_Morgana_Nurse_20fa8335:
@@ -5027,7 +5027,7 @@ translate spanish D2_Morgana_Nurse_45b7f797:
 translate spanish D2_Morgana_Nurse_42214f8e:
 
     # mel "Off you go [morg]."
-    mel "Listo [morg]."
+    mel "Vé con él [morg]."
 
 # game/Days/dayTwo.rpy:2070
 translate spanish D2_Morgana_Nurse_b9710c73:
@@ -5081,7 +5081,7 @@ translate spanish D2_Morgana_Nurse_fa6a51eb:
 translate spanish D2_Morgana_Nurse_890260e3:
 
     # mc "Absolutely. I'll teach you how to stop for the next lesson. You have my word!"
-    mc "Absolutamente. Te enseñaré cómo detenerte para la próxima lección. ¡Tienes mi palabra!"
+    mc "Claro. Te enseñaré cómo detenerte para la próxima lección. ¡Tienes mi palabra!"
 
 # game/Days/dayTwo.rpy:2088
 translate spanish D2_Morgana_Nurse_7d2bca25:
@@ -5123,13 +5123,13 @@ translate spanish D2_Morgana_Nurse_16c24da6:
 translate spanish D2_Morgana_Nurse_2f6e5c30:
 
     # morg "B-but I'm heavy!"
-    morg "¡P-pero soy pesado!"
+    morg "¡P-pero soy pesada!"
 
 # game/Days/dayTwo.rpy:2101
 translate spanish D2_Morgana_Nurse_639fff40:
 
     # mc "Don't be silly. You're not heavy! It was easy."
-    mc "No seas tonto. ¡No pesas! Fue fácil."
+    mc "No seas tonta. ¡No pesas! Fue fácil."
 
 # game/Days/dayTwo.rpy:2103
 translate spanish D2_Morgana_Nurse_2ad61f88:
@@ -5255,7 +5255,7 @@ translate spanish D2_Morgana_Nurse_93e6156d:
 translate spanish D2_Morgana_Nurse_26105ca3:
 
     # mc "Must be a name Sinergy thought up. But I can see it."
-    mc "Debe ser un nombre que se le ocurrió a Sinergy. Pero puedo verlo."
+    mc "Debe ser un nombre que se le ocurrió a Sinergia. Pero puedo verlo."
 
 # game/Days/dayTwo.rpy:2161
 translate spanish D2_Morgana_Nurse_f0204cb5:
@@ -5339,7 +5339,7 @@ translate spanish D2_Morgana_Nurse_e18da972:
 translate spanish D2_Morgana_Nurse_30732f48:
 
     # clarissa "Well, she's my boss, so not so much \"ask\"..."
-    clarissa "Bueno, ella es mi jefa, así que no tanto \"preguntar\"..."
+    clarissa "Bueno, ella es mi jefa, así que no tanto como \"preguntar\"..."
 
 # game/Days/dayTwo.rpy:2199
 translate spanish D2_Morgana_Nurse_02e32e59:
@@ -5351,7 +5351,7 @@ translate spanish D2_Morgana_Nurse_02e32e59:
 translate spanish D2_Morgana_Nurse_8ae7bf6f:
 
     # clarissa "No.. Though that's often how orders are, right?"
-    clarissa "No... Aunque así suelen ser los pedidos, ¿verdad?"
+    clarissa "No... Aunque así suelen ser las ordenes, ¿verdad?"
 
 # game/Days/dayTwo.rpy:2203
 translate spanish D2_Morgana_Nurse_1ece4fac:
@@ -5369,7 +5369,7 @@ translate spanish D2_Morgana_Nurse_326de39c:
 translate spanish D2_Morgana_Nurse_bf897c7d:
 
     # mc "Well what if I don't want an assistant?"
-    mc "Bueno, ¿y si no quiero un asistente?"
+    mc "Bueno, ¿y si no quiero una asistente?"
 
 # game/Days/dayTwo.rpy:2209
 translate spanish D2_Morgana_Nurse_cf24824a_1:
@@ -5381,13 +5381,13 @@ translate spanish D2_Morgana_Nurse_cf24824a_1:
 translate spanish D2_Morgana_Nurse_bf34fad4:
 
     # clarissa "Err.. Well I guess that's fine.. I just err.."
-    clarissa "Err... Bueno, supongo que está bien... Simplemente me equivoco..."
+    clarissa "Err... Bueno, supongo que está bien... Simplemente me equivo..."
 
 # game/Days/dayTwo.rpy:2213
 translate spanish D2_Morgana_Nurse_380ac497:
 
     # clarissa "Wait, really? Did I do something wrong? I-"
-    clarissa "Espera, ¿en serio? ¿Hice algo mal? I-"
+    clarissa "Espera, ¿en serio? ¿Hice algo mal? Yo-"
 
 # game/Days/dayTwo.rpy:2215
 translate spanish D2_Morgana_Nurse_631a4eca:
@@ -5453,7 +5453,7 @@ translate spanish D2_Morgana_Nurse_8e83ed82:
 translate spanish D2_Morgana_Nurse_cc01f265:
 
     # clarissa "Well that's definitely me! I can do-"
-    clarissa "¡Bueno, definitivamente ese soy yo! puedo hacer-"
+    clarissa "¡Bueno, definitivamente esa soy yo! puedo hacer-"
 
 # game/Days/dayTwo.rpy:2261
 translate spanish D2_Morgana_Nurse_c7284738:
@@ -5513,7 +5513,7 @@ translate spanish D2_Morgana_Nurse_1686b9a1:
 translate spanish D2_Morgana_Nurse_06072254:
 
     # mc "You are. Enjoy your weekend [clarissa]."
-    mc "Eres. Disfruta tu fin de semana [clarissa]."
+    mc "Lo eres. Disfruta tu fin de semana [clarissa]."
 
 # game/Days/dayTwo.rpy:2284
 translate spanish D2_Morgana_Nurse_22845581:
@@ -5531,7 +5531,7 @@ translate spanish D2_Morgana_Nurse_7de7b35e:
 translate spanish D2_Morgana_Nurse_3578e705:
 
     # mcT "I can't believe I have an assistant..."
-    mcT "No puedo creer que tenga un asistente..."
+    mcT "No puedo creer que tenga una asistente..."
 
 # game/Days/dayTwo.rpy:2293
 translate spanish D2_Morgana_Nurse_0040e512:
@@ -5561,7 +5561,7 @@ translate spanish D2_Morgana_Nurse_8f0dbc40:
 translate spanish D2_Morgana_Nurse_c02fa684:
 
     # mcT "Oh, there's [nova]. I guess she's leaving..."
-    mcT "Oh, hay [nova]. Supongo que se va..."
+    mcT "Oh, ahñi esta [nova]. Supongo que se va..."
 
 # game/Days/dayTwo.rpy:2306
 translate spanish D2_Morgana_Nurse_f8547eb1:
@@ -5687,7 +5687,7 @@ translate spanish D2_Morgana_Nurse_59532f98:
 translate spanish D2_Morgana_Nurse_e7bd8926:
 
     # sophT "Right?"
-    sophT "¿Bien?"
+    sophT "¿Verdad?"
 
 # game/Days/dayTwo.rpy:2378
 translate spanish D2_Morgana_Nurse_a20cefa7_2:
@@ -5705,7 +5705,7 @@ translate spanish D2_Morgana_Nurse_f43d71f0:
 translate spanish D2_Morgana_Nurse_27dfa6ed:
 
     # mc "I'll get it!"
-    mc "¡Lo conseguiré!"
+    mc "¡Yo abriré!"
 
 # game/Days/dayTwo.rpy:2386
 translate spanish D2_Morgana_Nurse_f55a597a:
@@ -5723,7 +5723,7 @@ translate spanish D2_Morgana_Nurse_3b352b4c:
 translate spanish D2_Morgana_Nurse_0659fd48:
 
     # nova "Oh hey [player_name]. [suz] Invited me over for dinner and a sleepover! Didn't you know we're friends?"
-    nova "Ah, hola [player_name]. [suz] ¡Me invitó a cenar y a dormir! ¿No sabías que somos amigos?"
+    nova "Ah, hola [player_name]. [suz] ¡Me invitó a cenar y a dormir! ¿No sabías que somos amigas?"
 
 # game/Days/dayTwo.rpy:2391
 translate spanish D2_Morgana_Nurse_605b96e0:
@@ -5747,7 +5747,7 @@ translate spanish D2_Morgana_Nurse_c8ab867f:
 translate spanish D2_Morgana_Nurse_d39a61a9:
 
     # soph "Dinners ready!"
-    soph "¡Cenas listas!"
+    soph "¡La cena esta lista!"
 
 # game/Days/dayTwo.rpy:2409
 translate spanish D2_Morgana_Nurse_0da06188:
@@ -5789,7 +5789,7 @@ translate spanish D2_Morgana_Nurse_da1b1054:
 translate spanish D2_Morgana_Nurse_457641dc:
 
     # si "Weirdos! I'm going back to my room to climb..."
-    si "¡Raros! Voy a volver a mi habitación a subir..."
+    si "¡Extraños! Voy a volver a mi habitación a subir..."
 
 # game/Days/dayTwo.rpy:2421
 translate spanish D2_Morgana_Nurse_ed4b8681:
@@ -5867,7 +5867,7 @@ translate spanish D2_Morgana_Nurse_9cab2580:
 translate spanish D2_Morgana_Nurse_94960236:
 
     # mc "I remember [soph]. We can get you something nice to wear for the date too."
-    mc "Recuerdo [soph]. También podemos conseguirte algo bonito para ponerte para la cita."
+    mc "Lo recuerdo [soph]. También podemos conseguirte algo bonito para ponerte para la cita."
 
 # game/Days/dayTwo.rpy:2456
 translate spanish D2_Morgana_Nurse_ce253399:
@@ -5951,7 +5951,7 @@ translate spanish D2_Morgana_Nurse_d3e7460f:
 translate spanish D2_Morgana_Nurse_1355be76:
 
     # "{color=#51ca00}Sophia{/color}" "Oh absolutely [nova]. There's a towel in [suz]'s room. You can use that to dry yourself off."
-    "{color=#51ca00}Sofía{/color}" "Oh, absolutamente [nova]. Hay una toalla en la habitación de [suz]. Puedes usarlo para secarte."
+    "{color=#51ca00}Sofía{/color}" "Oh, absolutamente [nova]. Hay una toalla en la habitación de [suz]. Puedes usarla para secarte."
 
 # game/Days/dayTwo.rpy:2503
 translate spanish D2_Morgana_Nurse_444ecb2b:
@@ -5999,7 +5999,7 @@ translate spanish D2_Morgana_Nurse_5d026b9e:
 translate spanish D2_Morgana_Nurse_db3eed09:
 
     # nova "What do you say we shower together... Save water. Save the planet?"
-    nova "Que te parece si nos duchamos juntos... Ahorremos agua. ¿Salvar el planeta?"
+    nova "Que te parece si nos duchamos juntos... Ahorremos agua. ¿Salvamos el planeta?"
 
 # game/Days/dayTwo.rpy:2527
 translate spanish D2_Morgana_Nurse_918de13c:
@@ -6017,7 +6017,7 @@ translate spanish D2_Morgana_Nurse_2b35b6fe_4:
 translate spanish D2_Morgana_Nurse_c9e0a9e7:
 
     # mcT "Ah fuck..."
-    mcT "Ah carajo..."
+    mcT "Ah mierda..."
 
 # game/Days/dayTwo.rpy:2539
 translate spanish D2_Morgana_Nurse_41dbdddb:
@@ -6095,7 +6095,7 @@ translate spanish D2_Nova_Shower_2b35b6fe:
 translate spanish D2_Nova_Shower_53b88c68:
 
     # mcT "[nova] is so hot."
-    mcT "[nova] hace mucho calor."
+    mcT "[nova] esta muy buena."
 
 # game/Days/dayTwo.rpy:2585
 translate spanish D2_Nova_Shower_a20cefa7:
@@ -6257,19 +6257,19 @@ translate spanish D2_Nova_Shower_2476743a:
 translate spanish D2_Nova_Shower_a09c0463:
 
     # nova "But I'm experimenting, if you understand me."
-    nova "Pero estoy experimentando, si me entiendes."
+    nova "Pero estoy experimentando, no se si me entiendes."
 
 # game/Days/dayTwo.rpy:2632
 translate spanish D2_Nova_Shower_c66cb6fa:
 
     # nova "Please don't put it in! I'm not ready."
-    nova "¡Por favor no lo metas! No estoy listo."
+    nova "¡Por favor no lo metas! No estoy lista."
 
 # game/Days/dayTwo.rpy:2633
 translate spanish D2_Nova_Shower_74fdba9b:
 
     # mc "Oooo... That's a hard request [nova], but I won't insert it. Don't worry."
-    mc "Oooo... Esa es una solicitud difícil [nova], pero no la insertaré. No te preocupes."
+    mc "Oooo... Esa es una solicitud difícil [nova], pero no la meteré. No te preocupes."
 
 # game/Days/dayTwo.rpy:2634
 translate spanish D2_Nova_Shower_4db5c897:
@@ -6311,13 +6311,13 @@ translate spanish D2_Nova_Shower_6c82870e:
 translate spanish D2_Nova_Shower_66a72e38:
 
     # nova "Me and [suz] are bestest of friends, but she's not the only reason I accepted dinner and the sleepover."
-    nova "[suz] y yo somos mejores amigos, pero ella no es la única razón por la que acepté la cena y la pijamada."
+    nova "[suz] y yo somos mejores amigas, pero ella no es la única razón por la que acepté la cena y la pijamada."
 
 # game/Days/dayTwo.rpy:2645
 translate spanish D2_Nova_Shower_02380c6a:
 
     # nova "Ahh~ I also wanted to see; Ahh~ you."
-    nova "Ahh~ Yo también quería ver; Ahh~tú."
+    nova "Ahh~ Yo también quería ver; Ahh~ a ti."
 
 # game/Days/dayTwo.rpy:2646
 translate spanish D2_Nova_Shower_8bf65e2e:
@@ -6353,7 +6353,7 @@ translate spanish D2_Nova_Shower_ecd8c23e:
 translate spanish D2_Nova_Shower_8949bc40:
 
     # mc "What a shame. Imagine him finding out what you're doing right now."
-    mc "Qué vergüenza. Imagínalo descubriendo lo que estás haciendo ahora mismo."
+    mc "Qué vergüenza. Imagínatelo descubriendo lo que estás haciendo ahora mismo."
 
 # game/Days/dayTwo.rpy:2657
 translate spanish D2_Nova_Shower_2fef84fd:
@@ -6437,7 +6437,7 @@ translate spanish D2_Nova_Shower_3f894595:
 translate spanish D2_Nova_Shower_56b18771:
 
     # mc "That was great [nova]. You really are something."
-    mc "Eso fue genial [nova]. Realmente eres algo."
+    mc "Eso fue genial [nova]. Realmente eres buena."
 
 # game/Days/dayTwo.rpy:2690
 translate spanish D2_Nova_Shower_5f096d52:
@@ -6491,7 +6491,7 @@ translate spanish D2_Nova_Shower_c4e2f3ce_1:
 translate spanish D2_Nova_Shower_192488e5:
 
     # mc "Wait! [nova]!"
-    mc "¡Esperar! [nova]!"
+    mc "¡Espera! [nova]!"
 
 # game/Days/dayTwo.rpy:2717
 translate spanish D2_Nova_Shower_95c3c324:
@@ -6503,7 +6503,7 @@ translate spanish D2_Nova_Shower_95c3c324:
 translate spanish D2_Nova_Shower_90904961:
 
     # mcT "[nova] really is a cheeky little minx. It'll be fun to punish or reward her with the PARE system soon."
-    mcT "[nova] realmente es una pequeña descarada y descarada. Pronto será divertido castigarla o recompensarla con el sistema PARE."
+    mcT "[nova] realmente es una pequeña descarada. Pronto será divertido castigarla o recompensarla con el sistema PARE."
 
 # game/Days/dayTwo.rpy:2728
 translate spanish D2_Nova_Shower_f4ac1ea3:
@@ -6615,7 +6615,7 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:1075
     old "Fresh in the memory! I remember them."
-    new "¡Fresco en la memoria! Los recuerdo."
+    new "¡Lo tengo fresco en la memoria! Los recuerdo."
 
     # game/Days/dayTwo.rpy:1231
     old "Let's see how far I can go."
@@ -6627,11 +6627,11 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:1392
     old "Paint Morgana's face!"
-    new "¡Pinta la cara de Morgana!"
+    new "¡Correrte en la cara de Morgana!"
 
     # game/Days/dayTwo.rpy:1393
     old "Paint Morgana's chest!"
-    new "¡Pinta el pecho de Morgana!"
+    new "¡Correrte en el pechi de Morgana!"
 
     # game/Days/dayTwo.rpy:1448
     old "\nMorgana took the pain medication Daphne prescribed her that apparently was made with my hair I gave her on my first day here. It ended up with me getting a tit job from her huge tits. It was amazing!"
@@ -6683,11 +6683,11 @@ translate spanish strings:
 
     # game/Days/dayTwo.rpy:2553
     old "Shower with Nova."
-    new "Ducha con Nova."
+    new "Duchase con Nova."
 
     # game/Days/dayTwo.rpy:2554
     old "Reject her advances."
-    new "Rechaza sus insinuaciones."
+    new "Rechazar sus insinuaciones."
 
     # game/Days/dayTwo.rpy:2687
     old "\n{u}{b}Day 2:{/b}{/u}\nNova came to the apartment for dinner, and it ended with us showering together and she gave me an amazing thighjob!"
