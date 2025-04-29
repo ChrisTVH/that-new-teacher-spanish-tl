@@ -40,7 +40,7 @@ translate spanish dayFourStart_a20cefa7_1:
 translate spanish dayFourStart_80501e05:
 
     # mcT "Nice and early on this fine Sunday morning for a change."
-    mcT "Agradable y temprano en esta hermosa mañana de domingo para variar."
+    mcT "En esta bonita y temprana mañana de domingo para variar."
 
 # game/Days/dayFour.rpy:43
 translate spanish dayFourStart_bacfb2e2:
@@ -58,13 +58,13 @@ translate spanish dayFourStart_1c7a3a92:
 translate spanish dayFourStart_4324dc5b:
 
     # mcT "Why is she here? I thought she was at [nova]'s house? Maybe she came home during the night?"
-    mcT "¿Por qué está ella aquí? ¿Pensé que estaba en la casa de [nova]? ¿Quizás volvió a casa durante la noche?"
+    mcT "¿Por qué está ella aquí? Pensé que estaba en la casa de [nova] ¿Quizás volvió a casa durante la noche?"
 
 # game/Days/dayFour.rpy:47
 translate spanish dayFourStart_7e22d8c8:
 
     # mcT "Must have. I'll have to talk to her about it when I actually get up."
-    mcT "Debe tener. Tendré que hablar con ella sobre esto cuando me levante."
+    mcT "Debe de ser eso. Tendré que hablar con ella sobre esto cuando me levante."
 
 # game/Days/dayFour.rpy:48
 translate spanish dayFourStart_53a6d6ed:
@@ -82,7 +82,7 @@ translate spanish dayFourStart_e5128a36:
 translate spanish dayFourStart_a8f09664:
 
     # mcT "What to do, what to do..."
-    mcT "Qué hacer, qué hacer..."
+    mcT "Qué debo hacer, qué debo hacer..."
 
 # game/Days/dayFour.rpy:59
 translate spanish dayFourStart_700fe913:
@@ -286,7 +286,7 @@ translate spanish dayFourStart_54d04239:
 translate spanish dayFourStart_d84b5794:
 
     # mcT "It was so hot. Cucking [reg]..."
-    mcT "Hacía mucho calor. Cuernos [reg]..."
+    mcT "Estaba muy buenna. Mierda [reg]..."
 
 # game/Days/dayFour.rpy:164
 translate spanish dayFourStart_65df12f2:
@@ -298,7 +298,7 @@ translate spanish dayFourStart_65df12f2:
 translate spanish dayFourStart_a82706d7:
 
     # mc "Morning [soph]."
-    mc "Mañana [soph]."
+    mc "Buenos días [soph]."
 
 # game/Days/dayFour.rpy:172
 translate spanish dayFourStart_0ff3b93d:
@@ -322,7 +322,7 @@ translate spanish dayFourStart_2b9563ca:
 translate spanish dayFourStart_b0a8f50c:
 
     # soph "... Oh yes! Morning."
-    soph "... ¡Oh sí! Mañana."
+    soph "... ¡Oh sí! Buenos días."
 
 # game/Days/dayFour.rpy:183
 translate spanish dayFourStart_57c410b0:
@@ -340,7 +340,7 @@ translate spanish dayFourStart_6eb787ea:
 translate spanish dayFourStart_60c46ff1:
 
     # soph "No, I'm not okay. How could we do that?"
-    soph "No, no estoy bien. ¿Cómo podríamos hacer eso?"
+    soph "No, no estoy bien. ¿Cómo pudimos hacer eso?"
 
 # game/Days/dayFour.rpy:188
 translate spanish dayFourStart_469645df:
@@ -364,7 +364,7 @@ translate spanish dayFourStart_5cd3ca4b:
 translate spanish dayFourStart_4d186a1a:
 
     # soph "It's insane. {i}I'm insane...{/i}"
-    soph "Es una locura. {i}Estoy loco...{/i}"
+    soph "Es una locura. {i}Estoy loca...{/i}"
 
 # game/Days/dayFour.rpy:195
 translate spanish dayFourStart_508c1423:
@@ -382,7 +382,7 @@ translate spanish dayFourStart_1d99545f:
 translate spanish dayFourStart_4d186a1a_1:
 
     # soph "It's insane. {i}I'm insane...{/i}"
-    soph "Es una locura. {i}Estoy loco...{/i}"
+    soph "Es una locura. {i}Estoy loca...{/i}"
 
 # game/Days/dayFour.rpy:201
 translate spanish dayFourStart_508c1423_1:
@@ -400,7 +400,7 @@ translate spanish dayFourStart_3f5aea8e:
 translate spanish dayFourStart_b56b6b9b:
 
     # mc "I-.."
-    mc "I-.."
+    mc "Yo-.."
 
 # game/Days/dayFour.rpy:207
 translate spanish dayFourStart_51a38acd:
@@ -424,7 +424,7 @@ translate spanish dayFourStart_78fb5996:
 translate spanish dayFourStart_c961110e:
 
     # mcT "I don't want to fix it... I want to make [soph] mine."
-    mcT "No quiero arreglarlo... quiero hacer [soph] mío."
+    mcT "No quiero arreglarlo... quiero hacer a [soph] mía."
 
 # game/Days/dayFour.rpy:217
 translate spanish dayFourStart_fd3aa8ee:
@@ -436,7 +436,7 @@ translate spanish dayFourStart_fd3aa8ee:
 translate spanish dayFourStart_0bb075df:
 
     # soph "Be serious [player_name]! Don't give me that sarcasm. This isn't normal!"
-    soph "¡Sea serio [player_name]! No me vengas con ese sarcasmo. ¡Esto no es normal!"
+    soph "¡Ponte serio [player_name]! No me vengas con ese sarcasmo. ¡Esto no es normal!"
 
 # game/Days/dayFour.rpy:224
 translate spanish dayFourStart_9137d793:
@@ -484,7 +484,7 @@ translate spanish dayFourStart_0062db9a:
 translate spanish dayFourStart_27845b2a:
 
     # mc "[mich]'s!?"
-    mc "[mich]'s!?"
+    mc "[mich]!?"
 
 # game/Days/dayFour.rpy:241
 translate spanish dayFourStart_2a616abb:
@@ -520,7 +520,7 @@ translate spanish dayFourStart_1acaf2c2:
 translate spanish dayFourStart_81fbda52:
 
     # mc "Morning, [soph]."
-    mc "Mañana, [soph]."
+    mc "Buenos días, [soph]."
 
 # game/Days/dayFour.rpy:254
 translate spanish dayFourStart_0ff3b93d_1:
@@ -544,7 +544,7 @@ translate spanish dayFourStart_2b9563ca_1:
 translate spanish dayFourStart_b0a8f50c_1:
 
     # soph "... Oh yes! Morning."
-    soph "... ¡Oh sí! Mañana."
+    soph "... ¡Oh sí! Buenos días."
 
 # game/Days/dayFour.rpy:265
 translate spanish dayFourStart_57c410b0_1:
@@ -586,7 +586,7 @@ translate spanish dayFourStart_d63b44eb:
 translate spanish dayFourStart_4d186a1a_2:
 
     # soph "It's insane. {i}I'm insane...{/i}"
-    soph "Es una locura. {i}Estoy loco...{/i}"
+    soph "Es una locura. {i}Estoy loca...{/i}"
 
 # game/Days/dayFour.rpy:278
 translate spanish dayFourStart_508c1423_2:
@@ -628,7 +628,7 @@ translate spanish dayFourStart_0062db9a_1:
 translate spanish dayFourStart_cc02781d:
 
     # mc "[mich]'s??"
-    mc "[mich]'s??"
+    mc "[mich]??"
 
 # game/Days/dayFour.rpy:291
 translate spanish dayFourStart_2a616abb_1:
@@ -658,13 +658,13 @@ translate spanish dayFourStart_d7dcbcab:
 translate spanish dayFourStart_faf38c14:
 
     # mc "Say what?"
-    mc "¿Que qué?"
+    mc "¿Decir qué?"
 
 # game/Days/dayFour.rpy:302
 translate spanish dayFourStart_98671621:
 
     # soph "The G word in a negative manner. She hates it."
-    soph "La palabra G de manera negativa. Ella lo odia."
+    soph "La palabra D de manera negativa. Ella lo odia."
 
 # game/Days/dayFour.rpy:304
 translate spanish dayFourStart_236ab8d0:
@@ -682,7 +682,7 @@ translate spanish dayFourStart_46eb36a2:
 translate spanish dayFourStart_e7f73c60:
 
     # soph "I'm not too sure. I think it's at least worth a try."
-    soph "No estoy muy seguro. Creo que al menos vale la pena intentarlo."
+    soph "No estoy muy segura. Creo que al menos vale la pena intentarlo."
 
 # game/Days/dayFour.rpy:310
 translate spanish dayFourStart_6b1cb2d7:
@@ -706,7 +706,7 @@ translate spanish dayFourStart_a993e2f5:
 translate spanish dayFourStart_dce3b66b:
 
     # soph "I'm not sure it'll be good for you to come."
-    soph "No estoy seguro de que sea bueno que vengas."
+    soph "No estoy segura de que sea bueno que vengas."
 
 # game/Days/dayFour.rpy:319
 translate spanish dayFourStart_481399d2:
@@ -796,7 +796,7 @@ translate spanish dayFourStart_52a5aebc:
 translate spanish dayFourStart_9a7716b9:
 
     # soph "Mention that you're interested to join us at yoga."
-    soph "Menciona que estás interesado en unirte a nosotros en yoga."
+    soph "Mencionale que estás interesado en unirte a nosotros en yoga."
 
 # game/Days/dayFour.rpy:345
 translate spanish dayFourStart_87384712:
@@ -814,7 +814,7 @@ translate spanish dayFourStart_163c65c4:
 translate spanish dayFourStart_caad7e88:
 
     # soph "Bring some workout gear. I'm sure you'll have some."
-    soph "Trae algo de equipo para hacer ejercicio. Estoy seguro de que tendrás algunos."
+    soph "Trae algo de ropa para hacer ejercicio. Estoy segura de que tendrás algunas."
 
 # game/Days/dayFour.rpy:350
 translate spanish dayFourStart_2df1b10d:
@@ -850,7 +850,7 @@ translate spanish dayFourStart_d04e556c:
 translate spanish dayFourStart_89fe3b1b:
 
     # reg "What were you talking about? I overheard something about going to [mich]'s?"
-    reg "¿De qué estabas hablando? ¿Escuché algo sobre ir a casa de [mich]?"
+    reg "¿De qué estabais hablando? ¿Escuché algo sobre ir a casa de [mich]?"
 
 # game/Days/dayFour.rpy:364
 translate spanish dayFourStart_1a6660d5:
@@ -862,7 +862,7 @@ translate spanish dayFourStart_1a6660d5:
 translate spanish dayFourStart_0e4bc854:
 
     # soph "Honey, don't say that about her! She's just found another purpose!"
-    soph "¡Cariño, no digas eso de ella! ¡Acaba de encontrar otro propósito!"
+    soph "¡Cariño, no digas eso de ella! ¡Acaba de encontrar otro objetivo!"
 
 # game/Days/dayFour.rpy:368
 translate spanish dayFourStart_13eff8d5:
@@ -922,13 +922,13 @@ translate spanish dayFourStart_9af72f3d:
 translate spanish dayFourStart_86e9e3cc:
 
     # soph "{sc=2}{b}Excuuuuse me?{/b}{/sc} You're on the couch tonight. You're way out of line!"
-    soph "{sc=2}{b}¿Disculpa?{/b}{/sc} Estás en el sofá esta noche. ¡Estás fuera de lugar!"
+    soph "{sc=2}{b}¿Disculpa?{/b}{/sc} Esta noche duermes en el sofá. ¡Estás fuera de lugar!"
 
 # game/Days/dayFour.rpy:394
 translate spanish dayFourStart_9a5689d9:
 
     # mc "I'm just gonna g-"
-    mc "Sólo voy a g-"
+    mc "Sólo voy a -"
 
 # game/Days/dayFour.rpy:397
 translate spanish dayFourStart_3158f6e0:
@@ -940,7 +940,7 @@ translate spanish dayFourStart_3158f6e0:
 translate spanish dayFourStart_79506f10:
 
     # reg "I will not be spoken to like some shit on the bottom of your shoe."
-    reg "No me hablarán como si fuera una mierda en la suela de tu zapato."
+    reg "No me hablarás como si fuera una mierda en la suela de tu zapato."
 
 # game/Days/dayFour.rpy:406
 translate spanish dayFourStart_900b2d50:
@@ -952,7 +952,7 @@ translate spanish dayFourStart_900b2d50:
 translate spanish dayFourStart_f10f71b5:
 
     # reg "I'll be sleeping at work. I will come back when you want me to come back. I will not come back on my own."
-    reg "Estaré durmiendo en el trabajo. Volveré cuando quieras que vuelva. No volveré solo."
+    reg "Estaré durmiendo en el trabajo. Volveré cuando quieras que vuelva. No volveré por mi cuenta."
 
 # game/Days/dayFour.rpy:413
 translate spanish dayFourStart_14a3bc0e:
@@ -1006,7 +1006,7 @@ translate spanish dayFourStart_ceeb7725:
 translate spanish dayFourStart_1efd6744:
 
     # soph "Awe~ It would be more sincere if we weren't in our current predicament."
-    soph "Asombro ~ Sería más sincero si no estuviéramos en nuestra situación actual."
+    soph "Asombro ~ Sonaría más sincero si no estuviéramos en nuestra situación actual."
 
 # game/Days/dayFour.rpy:446
 translate spanish dayFourStart_34343e26:
@@ -1114,7 +1114,7 @@ translate spanish dayFourStart_d6097a51:
 translate spanish dayFourStart_ecada5bf:
 
     # soph "Go on now, stop making the place look untidy."
-    soph "Continúa, deja de hacer que el lugar parezca desordenado."
+    soph "Continúa, deja de hacer que este el lugar parezca desordenado."
 
 # game/Days/dayFour.rpy:507
 translate spanish dayFourStart_2edda0f9:
@@ -1216,7 +1216,7 @@ translate spanish dayFourStart_7be742d0:
 translate spanish dayFourStart_b9de4f68:
 
     # mc "Did you walk home??"
-    mc "¿Caminaste a casa?"
+    mc "¿Caminaste hasta casa?"
 
 # game/Days/dayFour.rpy:547
 translate spanish dayFourStart_a35e3230:
@@ -1300,7 +1300,7 @@ translate spanish dayFourStart_f9adb744:
 translate spanish dayFourStart_795ae76e:
 
     # suz "And she went all:"
-    suz "Y ella fue toda:"
+    suz "Y ella se pudo modo:"
 
 # game/Days/dayFour.rpy:579
 translate spanish dayFourStart_ba4313d1:
@@ -1342,13 +1342,13 @@ translate spanish dayFourStart_546818dc:
 translate spanish dayFourStart_b53f0705:
 
     # suz "Meanie! *Hmpf*."
-    suz "¡Malo! *Hmpf*."
+    suz "¡Malvado! *Hmpf*."
 
 # game/Days/dayFour.rpy:594
 translate spanish dayFourStart_6d88d998:
 
     # mc "Like I had a choice [suz]. [soph] told everyone to stop bickering, remember?" id dayFourStart_6d88d998
-    mc "Como si tuviera una opción [suz]. [soph] les dijo a todos que dejaran de discutir, ¿recuerdas?" id dayFourStart_6d88d998
+    mc "Como si tuviera una opción [suz]. [soph] os dijo a todas que dejarais de discutir, ¿recuerdas?" id dayFourStart_6d88d998
 
 # game/Days/dayFour.rpy:595
 translate spanish dayFourStart_7d4499d8_3:
@@ -1372,7 +1372,7 @@ translate spanish dayFourStart_71ff2889:
 translate spanish dayFourStart_2a94d5ac:
 
     # mc "She did? What did you say?"
-    mc "¿Ella lo hizo? ¿Qué dijiste?"
+    mc "¿Eso hizo ella? ¿Qué dijiste?"
 
 # game/Days/dayFour.rpy:604
 translate spanish dayFourStart_171d111a:
@@ -1384,7 +1384,7 @@ translate spanish dayFourStart_171d111a:
 translate spanish dayFourStart_55ed7d14:
 
     # suz "Why would I give one of my best friends your number? That's weird."
-    suz "¿Por qué le daría tu número a uno de mis mejores amigos? Eso es raro."
+    suz "¿Por qué le daría tu número a uno de mis mejores amigas? Eso es raro."
 
 # game/Days/dayFour.rpy:608
 translate spanish dayFourStart_f6732004:
@@ -1414,7 +1414,7 @@ translate spanish dayFourStart_a929bbe5:
 translate spanish dayFourStart_f3b93640:
 
     # suz "I know how [nova] is when she's devious..."
-    suz "Sé cómo es [nova] cuando es tortuosa..."
+    suz "Sé cómo es [nova] cuando es retorcida..."
 
 # game/Days/dayFour.rpy:618
 translate spanish dayFourStart_b60c1413:
@@ -1438,13 +1438,13 @@ translate spanish dayFourStart_199fc604:
 translate spanish dayFourStart_d307174c:
 
     # mc "Don't worry [suz], you're an adult now. You can say what you want around me. I'm not [soph], heh."
-    mc "No te preocupes [suz], ya eres un adulto. Puedes decir lo que quieras a mi alrededor. No soy [soph], je."
+    mc "No te preocupes [suz], ya eres una adulta. Puedes decir lo que quieras a mi alrededor. No soy [soph], je."
 
 # game/Days/dayFour.rpy:627
 translate spanish dayFourStart_77d3ee64:
 
     # suz "Nice!"
-    suz "¡Lindo!"
+    suz "¡Perfecto!"
 
 # game/Days/dayFour.rpy:629
 translate spanish dayFourStart_bec3494f:
@@ -1582,13 +1582,13 @@ translate spanish dayFourStart_6bfcc52d:
 translate spanish dayFourStart_05852b54:
 
     # suz "Since I'm so cute and adorable, do I not get the privilege to know beforehand?"
-    suz "Ya que soy tan lindo y adorable, ¿no tengo el privilegio de saberlo de antemano?"
+    suz "Ya que soy tan linda y adorable, ¿no tengo el privilegio de saberlo de antemano?"
 
 # game/Days/dayFour.rpy:681
 translate spanish dayFourStart_670c33c9:
 
     # mc "You are definitely cute and adorable, [suz]."
-    mc "Definitivamente eres lindo y adorable, [suz]."
+    mc "Definitivamente eres linda y adorable, [suz]."
 
 # game/Days/dayFour.rpy:683
 translate spanish dayFourStart_a1d86605:
@@ -1732,25 +1732,25 @@ translate spanish dayFourStart_1c7aa710:
 translate spanish dayFourStart_10dfe05f:
 
     # mc "Are you perhaps...jealous, [suz]?"
-    mc "¿Quizás estás... celoso, [suz]?"
+    mc "¿Quizás estás... celosa, [suz]?"
 
 # game/Days/dayFour.rpy:758
 translate spanish dayFourStart_078c4902:
 
     # suz "{bt=2}J-j-jealous, me? No. No!{/bt}"
-    suz "{bt=2}¿Estoy celoso, yo? ¡No, no!{/bt}"
+    suz "{bt=2}¿Estoy celosa, yo? ¡No, no!{/bt}"
 
 # game/Days/dayFour.rpy:760
 translate spanish dayFourStart_10674b6d:
 
     # suz "Not jealous!"
-    suz "¡No celoso!"
+    suz "¡No estoy celosa!"
 
 # game/Days/dayFour.rpy:762
 translate spanish dayFourStart_2351883d:
 
     # suz "Why would I be jealous?"
-    suz "¿Por qué estaría celoso?"
+    suz "¿Por qué estaría celosa?"
 
 # game/Days/dayFour.rpy:763
 translate spanish dayFourStart_474e409b:
@@ -1948,7 +1948,7 @@ translate spanish dayFourStart_df1bc80e:
 translate spanish dayFourStart_99c6c265:
 
     # mc "You are cute. I'll give you that, [suz]."
-    mc "Tu eres lindo. Te lo daré, [suz]."
+    mc "Tu eres linda. Te lo daré, [suz]."
 
 # game/Days/dayFour.rpy:835
 translate spanish dayFourStart_baea7065:
@@ -1972,7 +1972,7 @@ translate spanish dayFourStart_58a2e0ce:
 translate spanish dayFourStart_f9ddbbe6:
 
     # suz "The third option. {bt=6}{b}VICTORIOUSLY!{/b}{/bt}"
-    suz "La tercera opción. {bt=6}{b}¡VICTORIOSO!{/b}{/bt}"
+    suz "La tercera opción. {bt=6}{b}¡VICTORIOSA!{/b}{/bt}"
 
 # game/Days/dayFour.rpy:851
 translate spanish dayFourStart_29e3654f:
@@ -2014,7 +2014,7 @@ translate spanish D4_Suzie_d99df72d:
 translate spanish D4_Suzie_4f63c52a:
 
     # mc "All bark and no bite!"
-    mc "¡Todos ladran y no muerden!"
+    mc "¡Perro ladrador, poco mordedor!"
 
 # game/Days/dayFour.rpy:877
 translate spanish D4_Suzie_b7cd6ddf:
@@ -2038,7 +2038,7 @@ translate spanish D4_Suzie_d28d6f14:
 translate spanish D4_Suzie_2121b321:
 
     # mc "Are you gonna tap out?"
-    mc "¿Vas a hacer tapping?"
+    mc "¿Te vas a rendir?"
 
 # game/Days/dayFour.rpy:901
 translate spanish D4_Suzie_3ad8859e:
@@ -2104,7 +2104,7 @@ translate spanish D4_Suzie_cd60b427:
 translate spanish D4_Suzie_bf02b5e5:
 
     # suz "W-well only something I can give. Liiike... I can't give you a million dollars."
-    suz "B-bueno, sólo algo que puedo dar. Liiiike... no puedo darte un millón de dólares."
+    suz "B-bueno, sólo algo que puedo dar. Comoooo... no puedo darte un millón de dólares."
 
 # game/Days/dayFour.rpy:925
 translate spanish D4_Suzie_95a4a7f2:
@@ -2326,7 +2326,7 @@ translate spanish D4_Suzie_6f2a1c3b:
 translate spanish D4_Suzie_2121b321_1:
 
     # mc "Are you gonna tap out?"
-    mc "¿Vas a hacer tapping?"
+    mc "¿Vas a hacer rendirte?"
 
 # game/Days/dayFour.rpy:1011
 translate spanish D4_Suzie_3ad8859e_1:
@@ -2356,7 +2356,7 @@ translate spanish D4_Suzie_431c561e:
 translate spanish D4_Suzie_bbc60ff3:
 
     # suz "Suck it!"
-    suz "¡Chúpalo!"
+    suz "¡Chupate esa!"
 
 # game/Days/dayFour.rpy:1031
 translate spanish D4_Suzie_cc1e4a39:
@@ -2464,7 +2464,7 @@ translate spanish D4_Suzie_b5fc5bf8:
 translate spanish D4_Suzie_54c3cfb5:
 
     # suz "K-k-kiss on the lips??"
-    suz "¿K-k-beso en los labios?"
+    suz "¿B-b-beso en los labios?"
 
 # game/Days/dayFour.rpy:1074
 translate spanish D4_Suzie_7d4499d8_4:
@@ -2596,7 +2596,7 @@ translate spanish D4_Suzie_0b62c085:
 translate spanish D4_Suzie_48ee450b:
 
     # mc "You're just so cute, I wish I could stay with you all day."
-    mc "Eres tan lindo, desearía poder quedarme contigo todo el día."
+    mc "Eres tan linda, desearía poder quedarme contigo todo el día."
 
 # game/Days/dayFour.rpy:1142
 translate spanish D4_Suzie_7f7014e9:
@@ -2650,7 +2650,7 @@ translate spanish D4_Suzie_9fb13ac7:
 translate spanish D4_Suzie_1b32643f:
 
     # suz "I'm ready! Totally ready!"
-    suz "¡Estoy listo! ¡Totalmente listo!"
+    suz "¡Estoy lista! ¡Totalmente lista!"
 
 # game/Days/dayFour.rpy:1167
 translate spanish D4_Suzie_c651e9a6:
@@ -2764,7 +2764,7 @@ translate spanish D4_Suzie_c3f150bd:
 translate spanish D4_Suzie_7f90d3b7:
 
     # mc "What to get... What to get..."
-    mc "Qué conseguir... Qué conseguir..."
+    mc "Como conseguir... Como conseguir..."
 
 # game/Days/dayFour.rpy:1221
 translate spanish D4_Suzie_cf945807:
@@ -2818,7 +2818,7 @@ translate spanish D4_Suzie_31d7a97a:
 translate spanish D4_Suzie_b5d3da0b:
 
     # mcT "Surprised I didn't notice it on the way. ...[soph] was taking up all of my attention though."
-    mcT "Me sorprendió no haberlo notado en el camino. ...[soph] Aunque estaba ocupando toda mi atención."
+    mcT "Me sorprendió no haberlo notado en el camino. ...Aunque [soph] estaba ocupando toda mi atención."
 
 # game/Days/dayFour.rpy:1237
 translate spanish D4_Suzie_3274d0ac:
@@ -2902,7 +2902,7 @@ translate spanish D4_Suzie_8389e93e:
 translate spanish D4_Suzie_e37adb9b:
 
     # nurse "Hmmm? I'm cheap!"
-    nurse "¿Mmm? ¡Soy tacaño!"
+    nurse "¿Mmm? ¡Soy barata!"
 
 # game/Days/dayFour.rpy:1288
 translate spanish D4_Suzie_c816d00d:
@@ -2956,7 +2956,7 @@ translate spanish D4_Suzie_5438055d:
 translate spanish D4_Suzie_bdae7361:
 
     # mcT "Would this impact her grades? I'll need to have a look over and see how she's doing. Hopefully it's just a weekend job. From what [ella] mentioned, she needs to pass..."
-    mcT "¿Esto afectaría sus calificaciones? Tendré que echarle un vistazo y ver cómo le va. Ojalá sea sólo un trabajo de fin de semana. Por lo que [ella] mencionó, ella necesita pasar..."
+    mcT "¿Esto afectaría sus calificaciones? Tendré que echarle un vistazo y ver cómo le va. Ojalá sea sólo un trabajo de fin de semana. Por lo que [ella] mencionó, ella necesita aprobar..."
 
 # game/Days/dayFour.rpy:1314
 translate spanish D4_Suzie_d6adff8d:
@@ -2974,7 +2974,7 @@ translate spanish D4_Suzie_553958bb:
 translate spanish D4_Suzie_f8ce8f71:
 
     # raya "Serving people, providing things, the family business."
-    raya "Al servicio de las personas, aportando cosas, el negocio familiar."
+    raya "Al servicio de las personas, aportando cosas,en el negocio familiar."
 
 # game/Days/dayFour.rpy:1320
 translate spanish D4_Suzie_2b35b6fe_1:
@@ -3118,7 +3118,7 @@ translate spanish D4_Suzie_a0904969:
 translate spanish D4_Suzie_7d882e89:
 
     # raya "Or..."
-    raya "Or..."
+    raya "O..."
 
 # game/Days/dayFour.rpy:1371
 translate spanish D4_Suzie_d067fadd:
@@ -3154,7 +3154,7 @@ translate spanish D4_Suzie_c06bd58f:
 translate spanish D4_Suzie_0a1959b7:
 
     # raya "Shut your face, [nurse]." (multiple=3)
-    raya "Cierra la cara, [nurse]." (multiple=3)
+    raya "Cierra la boca, [nurse]." (multiple=3)
 
 # game/Days/dayFour.rpy:1395
 translate spanish D4_Suzie_e3627f54:
@@ -3202,7 +3202,7 @@ translate spanish D4_Suzie_2f6011e9:
 translate spanish D4_Suzie_46e82529:
 
     # flynn_mi "What?? Stop looking!"
-    flynn_mi "¿¿Qué?? ¡Deja de buscar!"
+    flynn_mi "¿¿Qué?? ¡Deja de mirar!"
 
 # game/Days/dayFour.rpy:1433
 translate spanish D4_Suzie_4f40f857:
@@ -3226,7 +3226,7 @@ translate spanish D4_Suzie_fd1a41ac:
 translate spanish D4_Suzie_cb70afb1:
 
     # mc "So..."
-    mc "So..."
+    mc "Entonces..."
 
 # game/Days/dayFour.rpy:1438
 translate spanish D4_Suzie_e3e47136:
@@ -3244,7 +3244,7 @@ translate spanish D4_Suzie_66f62149:
 translate spanish D4_Suzie_ff5b9211:
 
     # mc "...Bob?"
-    mc "...¿Chelín?"
+    mc "...¿Bob?"
 
 # game/Days/dayFour.rpy:1444
 translate spanish D4_Suzie_89ed968c:
@@ -3388,7 +3388,7 @@ translate spanish D4_Suzie_0f2131ae:
 translate spanish D4_Suzie_19583a10:
 
     # nurse "One day [raya]. One day~ We'll be best friends!"
-    nurse "Un día [raya]. Un día ~ ¡Seremos mejores amigos!"
+    nurse "Un día [raya]. Un día ~ ¡Seremos mejores amigas!"
 
 # game/Days/dayFour.rpy:1501
 translate spanish D4_Suzie_c92ee68f:
@@ -3490,7 +3490,7 @@ translate spanish D4_Suzie_b498d5a5:
 translate spanish D4_Suzie_4a5bcb3f:
 
     # nurse "I knew you liked me! Oh,\nwhat's wrong with my face? Hehe-" (multiple=2)
-    nurse "¡Sabía que te gustaba! Oh,\n¿qué le pasa a mi cara? Jeje-" (multiple=2)
+    nurse "¡Sabía que te gustaba! Oh,\n¿qué que le pasa a mi cara? Jeje-" (multiple=2)
 
 # game/Days/dayFour.rpy:1554
 translate spanish D4_Suzie_34e79b4b:
@@ -3598,7 +3598,7 @@ translate spanish D4_Suzie_34fc96e5:
 translate spanish D4_Suzie_7ee17a1d:
 
     # mc "Step back, for one."
-    mc "Da un paso atrás, por ejemplo."
+    mc "Da un paso atrás, lo primero."
 
 # game/Days/dayFour.rpy:1589
 translate spanish D4_Suzie_f97f7662:
@@ -3616,13 +3616,13 @@ translate spanish D4_Suzie_33e1cf22:
 translate spanish D4_Suzie_bbdae334:
 
     # mc "Oh, okay. Cool."
-    mc "Ah, okey. Fresco."
+    mc "Ah, okey. Guay."
 
 # game/Days/dayFour.rpy:1596
 translate spanish D4_Suzie_f097a3a3:
 
     # mc "No fucking chance."
-    mc "No hay puta posibilidad."
+    mc "No hay una puta posibilidad."
 
 # game/Days/dayFour.rpy:1599
 translate spanish D4_Suzie_b3ac5876:
@@ -3658,7 +3658,7 @@ translate spanish D4_Suzie_798b31bb:
 translate spanish D4_Suzie_e52e35d9:
 
     # nurse "Shoot, my little spud pudding! Maybe literally. Into me, constan-"
-    nurse "¡Dispara, mi pequeño budín de papas! Quizás literalmente. En mí, constantemente"
+    nurse "¡Dispara, mi pequeño pudín de papas! Quizás literalmente. En mí, constantemente"
 
 # game/Days/dayFour.rpy:1613
 translate spanish D4_Suzie_1f02ba52:
@@ -3688,13 +3688,13 @@ translate spanish D4_Suzie_d2948356:
 translate spanish D4_Suzie_a6e0fb53:
 
     # mcT "[nurse] is fucking nuts, but... Ah fuck it. Nothing ventured, nothing gained."
-    mcT "[nurse] está jodidamente loco, pero... Ah, a la mierda. Quien no arriesga, no gana."
+    mcT "[nurse] está jodidamente loca, pero... Ah, a la mierda. Quien no arriesga, no gana."
 
 # game/Days/dayFour.rpy:1623
 translate spanish D4_Suzie_feef2ea9:
 
     # mc "Alright. I'll bite. I'll take you up on your offer. But I'm not going in blind. You {i}will{/i} tell me what's going on."
-    mc "Está bien. Morderé. Aceptaré tu oferta. Pero no voy a quedarme ciego. Tú {i}me{/i} contarás qué está pasando."
+    mc "Está bien. Morderé el anzuelo. Aceptaré tu oferta. Pero no voy a quedarme ciego. Tú {i}me{/i} contarás qué está pasando."
 
 # game/Days/dayFour.rpy:1624
 translate spanish D4_Suzie_f0e22808:
@@ -3838,19 +3838,19 @@ translate spanish D4_PornStore_415a2aca:
 translate spanish D4_PornStore_6b46c1eb:
 
     # kei "You're not with that banged up girl, are you?"
-    kei "No estás con esa chica golpeada, ¿verdad?"
+    kei "No estás con esa chica vendada, ¿verdad?"
 
 # game/Days/dayFour.rpy:1681
 translate spanish D4_PornStore_cbdff2a8:
 
     # mc "The crazy looking one?"
-    mc "¿El que parece loco?"
+    mc "¿La que parece loca?"
 
 # game/Days/dayFour.rpy:1683
 translate spanish D4_PornStore_88b4b9a3:
 
     # kei "*Giggles* Yeah, that one..."
-    kei "*Risas* Sí, ese..."
+    kei "*Risas* Sí, esa..."
 
 # game/Days/dayFour.rpy:1685
 translate spanish D4_PornStore_96089def:
@@ -4162,13 +4162,13 @@ translate spanish D4_PornStore_a253a4be:
 translate spanish D4_PornStore_80a4fb5a:
 
     # mc "How does a girl as pretty as you end up as a virgin? Is it a religious thing? Saving yourself for marriage?"
-    mc "¿Cómo es posible que una chica tan bonita como tú termine siendo virgen? ¿Es algo religioso? ¿Salvarte para el matrimonio?"
+    mc "¿Cómo es posible que una chica tan bonita como tú termine siendo virgen? ¿Es algo religioso? ¿Aguantar para el matrimonio?"
 
 # game/Days/dayFour.rpy:1815
 translate spanish D4_PornStore_7f876b12:
 
     # kei "What? Noooo no no no.. More of a timing thing. I just never felt ready at the right time, and ah~..."
-    kei "¿Qué? Noooo no no no... Más bien es una cuestión de sincronización. Simplemente nunca me sentí listo en el momento adecuado, y ah~..."
+    kei "¿Qué? Noooo no no no... Más bien es una cuestión de sincronización. Simplemente nunca me sentí lista en el momento adecuado, y ah~..."
 
 # game/Days/dayFour.rpy:1823
 translate spanish D4_PornStore_b7434db2:
@@ -4180,7 +4180,7 @@ translate spanish D4_PornStore_b7434db2:
 translate spanish D4_PornStore_17802aff:
 
     # mc "What does feeling ready mean to you?"
-    mc "¿Qué significa para usted sentirse preparado?"
+    mc "¿Qué significa para ti sentirse preparada?"
 
 # game/Days/dayFour.rpy:1827
 translate spanish D4_PornStore_f6639e97:
@@ -4480,7 +4480,7 @@ translate spanish D4_PornStore_0826c365:
 translate spanish D4_PornStore_1b199792:
 
     # mc "Okay?"
-    mc "¿Bueno?"
+    mc "¿Vale?"
 
 # game/Days/dayFour.rpy:1943
 translate spanish D4_PornStore_26984def:
@@ -4588,7 +4588,7 @@ translate spanish D4_PornStore_6abf318a:
 translate spanish D4_PornStore_34e4aa8c:
 
     # mc "Of course. This thing could kill a man. Definitely making me feel some sort of way."
-    mc "Por supuesto. Esta cosa podría matar a un hombre. Definitivamente haciéndome sentir de alguna manera."
+    mc "Por supuesto. Esta cosa podría matar a un hombre. Definitivamente esta haciéndome sentir de alguna manera."
 
 # game/Days/dayFour.rpy:1994
 translate spanish D4_PornStore_93d11c7b:
@@ -4804,7 +4804,7 @@ translate spanish D4_PornStore_c1520a51:
 translate spanish D4_PornStore_bf0fde38:
 
     # mc "I get that a lot. Don't worry you're not the first to be apprehensive once you've seen it."
-    mc "Lo entiendo mucho. No te preocupes, no eres el primero en sentirse aprensivo una vez que lo has visto."
+    mc "Lo entiendo mucho. No te preocupes, no eres la primera en sentirse aprensiva una vez que lo has visto."
 
 # game/Days/dayFour.rpy:2086
 translate spanish D4_PornStore_72dbd2e6:
@@ -4984,7 +4984,7 @@ translate spanish D4_PornStore_76b023f5:
 translate spanish D4_PornStore_a561e83d:
 
     # mc "Are you wet?"
-    mc "¿Estás mojado?"
+    mc "¿Estás mojada?"
 
 # game/Days/dayFour.rpy:2160
 translate spanish D4_PornStore_cabca5b6:
@@ -5038,7 +5038,7 @@ translate spanish D4_PornStore_44ea4f7d:
 translate spanish D4_PornStore_cd16f45d:
 
     # mc "Do you know what a Sitting reverse cowgirl is?"
-    mc "¿Sabes qué es una vaquera inversa sentada?"
+    mc "¿Sabes qué es una vaquera sentada inversamente ?"
 
 # game/Days/dayFour.rpy:2182
 translate spanish D4_PornStore_55697422:
@@ -5056,7 +5056,7 @@ translate spanish D4_PornStore_b3512e06:
 translate spanish D4_PornStore_d319c8f5:
 
     # mc "Then please, be my guest."
-    mc "Entonces, por favor, sea mi invitado."
+    mc "Entonces, por favor, se invitada."
 
 # game/Days/dayFour.rpy:2198
 translate spanish D4_PornStore_4f53b3d6:
@@ -5092,7 +5092,7 @@ translate spanish D4_PornStore_a0b70b2c:
 translate spanish D4_PornStore_efa4e4cb:
 
     # mc "Do you think you're ready?"
-    mc "¿Crees que estás listo?"
+    mc "¿Crees que estás lista?"
 
 # game/Days/dayFour.rpy:2211
 translate spanish D4_PornStore_b4b738cc:
@@ -5116,19 +5116,19 @@ translate spanish D4_PornStore_b1deacbb:
 translate spanish D4_PornStore_08e9a608:
 
     # mc "{b}Very{/b} naughty. Making me wait like this."
-    mc "{b}Muy{/b} travieso. Haciéndome esperar así."
+    mc "{b}Muy{/b} traviesa. Haciéndome esperar así."
 
 # game/Days/dayFour.rpy:2215
 translate spanish D4_PornStore_12052859:
 
     # mc "But fuck, you do have a nice ass."
-    mc "Pero joder, tienes un buen trasero."
+    mc "Pero joder, tienes un buen culo."
 
 # game/Days/dayFour.rpy:2216
 translate spanish D4_PornStore_153d1d85:
 
     # kei "Hehe~ I.. I think I'm psyched up enough now!"
-    kei "Jeje~ Yo... ¡Creo que ya estoy lo suficientemente mentalizado!"
+    kei "Jeje~ Yo... ¡Creo que ya estoy lo suficientemente mentalizada!"
 
 # game/Days/dayFour.rpy:2219
 translate spanish D4_PornStore_9b96eab9:
@@ -5224,7 +5224,7 @@ translate spanish D4_PornStore_79bb8cd6:
 translate spanish D4_PornStore_fbcfaaa3:
 
     # mc "You thought to tell me this now, Shay??"
-    mc "¿Pensaste decirme esto ahora, Shay?"
+    mc "¿Y me dices esto ahora, Shay?"
 
 # game/Days/dayFour.rpy:2247
 translate spanish D4_PornStore_03b4a54b:
@@ -5242,7 +5242,7 @@ translate spanish D4_PornStore_07c7ca95:
 translate spanish D4_PornStore_907f6e18:
 
     # kei "Please don't! I~ I'm not ready for kids!"
-    kei "¡Por favor no lo hagas! Yo~ ¡No estoy listo para tener niños!"
+    kei "¡Por favor no lo hagas! Yo~ ¡No estoy lista para tener niños!"
 
 # game/Days/dayFour.rpy:2250
 translate spanish D4_PornStore_40618ca9:
@@ -5272,7 +5272,7 @@ translate spanish D4_PornStore_0bc80fa4:
 translate spanish D4_PornStore_c493bba2:
 
     # kei "What was that fo-"
-    kei "¿Qué fue eso para-"
+    kei "¿Para que estas haciendo-"
 
 # game/Days/dayFour.rpy:2277
 translate spanish D4_PornStore_09a6f448:
@@ -5296,13 +5296,13 @@ translate spanish D4_PornStore_3c58f589:
 translate spanish D4_PornStore_6675cfa3:
 
     # mc "You like that Shay? Getting fucked silly?"
-    mc "¿Te gusta Shay? ¿Te van a joder tontamente?"
+    mc "¿Te gusta Shay? ¿Que te follen tontamente?"
 
 # game/Days/dayFour.rpy:2283
 translate spanish D4_PornStore_ecbe6274:
 
     # mc "It's a shame you won't let me impregnate you. But it is what it is."
-    mc "Es una pena que no me dejes embarazarte. Pero es lo que es."
+    mc "Es una pena que no me dejes embarazarte. Pero es lo que hay."
 
 # game/Days/dayFour.rpy:2284
 translate spanish D4_PornStore_0d42d315:
@@ -5314,7 +5314,7 @@ translate spanish D4_PornStore_0d42d315:
 translate spanish D4_PornStore_90784253:
 
     # mc "And if you don't, I know someone who can help with that. If you get me?"
-    mc "Y si no es así, conozco a alguien que puede ayudar con eso. ¿Si me entiendes?"
+    mc "Y si no es así, conozco a alguien que puede ayudar con eso. ¿No se si me entiendes?"
 
 # game/Days/dayFour.rpy:2288
 translate spanish D4_PornStore_3d129337:
@@ -5344,7 +5344,7 @@ translate spanish D4_PornStore_bdd24b0d:
 translate spanish D4_PornStore_af1d3bd2:
 
     # keiT "I'm no longer a virgin! I'm getting fucked silly by this hot guy and I don't even know his name!"
-    keiT "¡Ya no soy virgen! ¡Este chico sexy me está jodiendo como un tonto y ni siquiera sé su nombre!"
+    keiT "¡Ya no soy virgen! ¡Este chico sexy me está jodiendo como una tonta y ni siquiera sé su nombre!"
 
 # game/Days/dayFour.rpy:2295
 translate spanish D4_PornStore_949dfffa:
@@ -5410,7 +5410,7 @@ translate spanish D4_PornStore_e1146d96:
 translate spanish D4_PornStore_97e7aabe:
 
     # mc "You will taste my load. All of it."
-    mc "Saborearás mi carga. Todo ello."
+    mc "Saborearás mi carga. Toda ello."
 
 # game/Days/dayFour.rpy:2327
 translate spanish D4_PornStore_0e34c72e:
@@ -5488,7 +5488,7 @@ translate spanish D4_PornStore_dbd1bb7c:
 translate spanish D4_PornStore_4eaaadcf:
 
     # mc "Ah~ I hope you enjoyed your first time. I know I did."
-    mc "Ah ~ Espero que hayas disfrutado tu primera vez. Sé que lo hice."
+    mc "Ah ~ Espero que hayas disfrutado tu primera vez. Sé que yo lo hice."
 
 # game/Days/dayFour.rpy:2397
 translate spanish D4_PornStore_c2bc6ffd:
@@ -5506,7 +5506,7 @@ translate spanish D4_PornStore_6bbe3252:
 translate spanish D4_PornStore_f9575da2:
 
     # kei "... Just not sure I'll be getting it."
-    kei "... Simplemente no estoy seguro de si lo conseguiré."
+    kei "... Simplemente no estoy segura de si lo conseguiré."
 
 # game/Days/dayFour.rpy:2404
 translate spanish D4_PornStore_f98f7efc:
@@ -5566,7 +5566,7 @@ translate spanish D4_PornStore_5930f1e1:
 translate spanish D4_PornStore_507afa7b:
 
     # kei "I need a couple more minutes. Y-You can leave."
-    kei "Necesito un par de minutos más. T-puedes irte."
+    kei "Necesito un par de minutos más. P-puedes irte."
 
 # game/Days/dayFour.rpy:2427
 translate spanish D4_PornStore_c12ed9b3:
@@ -5632,7 +5632,7 @@ translate spanish D4_PornStore_d951e226:
 translate spanish D4_PornStore_ca7f11ed:
 
     # mcT "Is that... [sadie]?"
-    mcT "¿Eso es... [sadie]?"
+    mcT "¿Esa es... [sadie]?"
 
 # game/Days/dayFour.rpy:2465
 translate spanish D4_PornStore_8a7498ff:
@@ -5656,7 +5656,7 @@ translate spanish D4_PornStore_71806e1a:
 translate spanish D4_PornStore_5aa70d5b:
 
     # sadie "W-w-w-what are you doing here!?"
-    sadie "¿Q-w-w-qué estás haciendo aquí?"
+    sadie "¿Q-q-q-qué estás haciendo aquí?"
 
 # game/Days/dayFour.rpy:2480
 translate spanish D4_PornStore_1add3e53:
@@ -5878,13 +5878,13 @@ translate spanish D4_PornStore_ee7721c6:
 translate spanish D4_PornStore_58246a68:
 
     # mc "You got it [soph]. I'll be nice to her. I've not seen her since the wedding! It'll be good to catch up."
-    mc "Lo tienes [soph]. Seré amable con ella. ¡No la he visto desde la boda! Será bueno ponerse al día."
+    mc "Entendido [soph]. Seré amable con ella. ¡No la he visto desde la boda! Será bueno ponerse al día."
 
 # game/Days/dayFour.rpy:2567
 translate spanish D4_PornStore_27a6ba5b:
 
     # soph "Hmm... I don't know about that. We don't have time!"
-    soph "Mmmm... no sé sobre eso. ¡No tenemos tiempo!"
+    soph "Mmmm... no sé nada sobre eso. ¡No tenemos tiempo!"
 
 # game/Days/dayFour.rpy:2569
 translate spanish D4_PornStore_c7aacfc6:
@@ -6088,13 +6088,13 @@ translate spanish d4_phoneCall_ee7721c6:
 translate spanish d4_phoneCall_58246a68:
 
     # mc "You got it [soph]. I'll be nice to her. I've not seen her since the wedding! It'll be good to catch up."
-    mc "Lo tienes [soph]. Seré amable con ella. ¡No la he visto desde la boda! Será bueno ponerse al día."
+    mc "Entendido [soph]. Seré amable con ella. ¡No la he visto desde la boda! Será bueno ponerse al día."
 
 # game/Days/dayFour.rpy:2655
 translate spanish d4_phoneCall_27a6ba5b:
 
     # soph "Hmm... I don't know about that. We don't have time!"
-    soph "Mmmm... no sé sobre eso. ¡No tenemos tiempo!"
+    soph "Mmmm... no sé nada sobre eso. ¡No tenemos tiempo!"
 
 # game/Days/dayFour.rpy:2657
 translate spanish d4_phoneCall_c7aacfc6:
@@ -6166,7 +6166,7 @@ translate spanish d4_phoneCall_1a9f7cc3:
 translate spanish d4_phoneCall_ed05a6ca:
 
     # berki_cia "Hey! Do you know where my friend is?"
-    berki_cia "¡Ey! ¿Sabes dónde está mi amigo?"
+    berki_cia "¡Ey! ¿Sabes dónde está mi amiga?"
 
 # game/Days/dayFour.rpy:2690
 translate spanish d4_phoneCall_be139488:
@@ -6190,7 +6190,7 @@ translate spanish d4_phoneCall_2b35b6fe:
 translate spanish d4_phoneCall_291c6a1f:
 
     # mc "I did. However I don't know where she ran off to..."
-    mc "Hice. Sin embargo, no sé a dónde se fue..."
+    mc "Lo hice. Sin embargo, no sé a dónde se fue..."
 
 # game/Days/dayFour.rpy:2703
 translate spanish d4_phoneCall_14397f68:
@@ -6214,7 +6214,7 @@ translate spanish d4_phoneCall_0986edab:
 translate spanish d4_phoneCall_d274c303:
 
     # berki_cia "{i}Urggh...{/i} Dick."
-    berki_cia "{i}Urggh...{/i} Polla."
+    berki_cia "{i}Urggh...{/i} capullo."
 
 # game/Days/dayFour.rpy:2715
 translate spanish d4_phoneCall_79432d4a:
@@ -6262,7 +6262,7 @@ translate spanish d4_phoneCall_95e1797a:
 translate spanish d4_phoneCall_115b4c33:
 
     # mcT "Honey?"
-    mcT "¿Miel?"
+    mcT "¿Cariño?"
 
 # game/Days/dayFour.rpy:2735
 translate spanish d4_phoneCall_980cee2c:
@@ -6280,7 +6280,7 @@ translate spanish d4_phoneCall_58fc0b12:
 translate spanish d4_phoneCall_08e03746:
 
     # soph "Bye~bye now."
-    soph "Adiós ~ adiós ahora."
+    soph "Adiós ~ hasta ahora."
 
 # game/Days/dayFour.rpy:2741
 translate spanish d4_phoneCall_e6579b87:
@@ -6370,7 +6370,7 @@ translate spanish d4_phoneCall_9b9c2e73:
 translate spanish d4_phoneCall_47eb579c:
 
     # mich "I know in my heart you'll bring great fortune to this place! I have my faith in you!"
-    mich "¡Sé en mi corazón que traerás gran fortuna a este lugar! ¡Tengo mi fe en ti!"
+    mich "¡En mi corazón sé que traerás gran fortuna a este lugar! ¡Tengo mi fe en ti!"
 
 # game/Days/dayFour.rpy:2779
 translate spanish d4_phoneCall_dfd826bb:
@@ -6394,7 +6394,7 @@ translate spanish d4_phoneCall_064df7cc:
 translate spanish d4_phoneCall_b5cb1a6d:
 
     # mc "That you've found yourself in.... God?"
-    mc "Que te has encontrado en... ¿Dios?"
+    mc "Que te has encontrado con... ¿Dios?"
 
 # game/Days/dayFour.rpy:2789
 translate spanish d4_phoneCall_4a495021:
@@ -6454,7 +6454,7 @@ translate spanish d4_phoneCall_693b2956:
 translate spanish d4_phoneCall_44e39941:
 
     # mich "Say, you and the gang can come over some time for a fry-up!"
-    mich "¡Dime, tú y la pandilla pueden venir en algún momento para freír!"
+    mich "¡Dime, tú y la pandilla pueden venir en algún momento para entrenar!"
 
 # game/Days/dayFour.rpy:2809
 translate spanish d4_phoneCall_f56c82a8:
@@ -6640,7 +6640,7 @@ translate spanish D4_Yoga_7996cf4d:
 translate spanish D4_Yoga_a3fbcb24:
 
     # mich "Would you like to join us, or would you rather hold down the fort over here?"
-    mich "¿Te gustaría unirte a nosotros o preferirías mantener el fuerte aquí?"
+    mich "¿Te gustaría unirte a nosotras o preferirías mantener el fuerte aquí?"
 
 # game/Days/dayFour.rpy:2885
 translate spanish D4_Yoga_c3d295b6:
@@ -6718,13 +6718,13 @@ translate spanish D4_Yoga_d8293a39:
 translate spanish D4_Yoga_d2273093:
 
     # mich "I have a purpose. A calling. I am now no longer walking blind."
-    mich "Tengo un propósito. Un llamado. Ahora ya no camino a ciegas."
+    mich "Tengo un propósito. Un llamada. Ahora ya no camino a ciegas."
 
 # game/Days/dayFour.rpy:2907
 translate spanish D4_Yoga_84f26651:
 
     # mich "I am no longer a rogue! I am part of something bigger than myself."
-    mich "¡Ya no soy un pícaro! Soy parte de algo más grande que yo."
+    mich "¡Ya no soy una pícara! Soy parte de algo más grande que yo."
 
 # game/Days/dayFour.rpy:2908
 translate spanish D4_Yoga_a4bda4b0:
@@ -6742,7 +6742,7 @@ translate spanish D4_Yoga_aaad8e00:
 translate spanish D4_Yoga_fcf13192:
 
     # soph "No warning? just one day didn't come home?"
-    soph "¿Sin aviso? ¿Solo un día no volviste a casa?"
+    soph "¿Sin aviso? ¿Simplemente un día no volvió a casa?"
 
 # game/Days/dayFour.rpy:2915
 translate spanish D4_Yoga_1f5790bd:
@@ -6754,7 +6754,7 @@ translate spanish D4_Yoga_1f5790bd:
 translate spanish D4_Yoga_5cf80ee3:
 
     # mich "He found someone new. And moved to a new country..."
-    mich "Encontró a alguien nuevo. Y se mudó a un nuevo país..."
+    mich "Encontró a alguien nueva. Y se mudó a un nuevo país..."
 
 # game/Days/dayFour.rpy:2917
 translate spanish D4_Yoga_f3237be9:
@@ -6772,7 +6772,7 @@ translate spanish D4_Yoga_67f0bebb:
 translate spanish D4_Yoga_88bf8f3f:
 
     # mich "I'm not mad that he left. If that spark has gone, it's gone."
-    mich "No estoy enojado porque se fue. Si esa chispa se ha ido, se ha ido."
+    mich "No estoy enfadada porque se fue. Si esa chispa se ha ido, se ha ido."
 
 # game/Days/dayFour.rpy:2920
 translate spanish D4_Yoga_1db4dc59:
@@ -6814,13 +6814,13 @@ translate spanish D4_Yoga_58984eac:
 translate spanish D4_Yoga_f30c9e7d:
 
     # mich "In the changing room you were a little sheepish. Is it about [player_name]?"
-    mich "En el vestuario estabas un poco avergonzado. ¿Se trata de [player_name]?"
+    mich "En el vestuario estabas un poco avergonzada. ¿Se trata de [player_name]?"
 
 # game/Days/dayFour.rpy:2935
 translate spanish D4_Yoga_8b1b077c:
 
     # soph "W-w-w-what??"
-    soph "¿Q-w-w-qué?"
+    soph "¿Q-q-q-qué?"
 
 # game/Days/dayFour.rpy:2938
 translate spanish D4_Yoga_5317031e:
@@ -6868,7 +6868,7 @@ translate spanish D4_Yoga_434245b0:
 translate spanish D4_Yoga_e37f4fc1:
 
     # mich "Trouble in the bedroom?"
-    mich "¿Problemas en el dormitorio?"
+    mich "¿Problemas en la cama?"
 
 # game/Days/dayFour.rpy:2957
 translate spanish D4_Yoga_abdda38b:
@@ -6886,7 +6886,7 @@ translate spanish D4_Yoga_216f45f7:
 translate spanish D4_Yoga_38743604:
 
     # mich "But once my induction starts, I'll actually join the Convent. That's when I will have to stop {bt=2}aaaalllll{/bt} this!"
-    mich "Pero una vez que comience mi inducción, me uniré al Convento. ¡Ahí es cuando tendré que detener {bt=2}aaaalllll{/bt} esto!"
+    mich "Pero una vez que comience mi inducción, me uniré al Convento. ¡Ahí es cuando tendré que detener {bt=2}tooooodo{/bt} esto!"
 
 # game/Days/dayFour.rpy:2964
 translate spanish D4_Yoga_ed617b4c:
@@ -6970,7 +6970,7 @@ translate spanish D4_Yoga_f606c57f:
 translate spanish D4_Yoga_d6b94e7e:
 
     # mich "You already have one honey-bun! Look!"
-    mich "¡Ya tienes un bollo de miel! ¡Mirar!"
+    mich "¡Ya tienes un bollo de miel! ¡Mira!"
 
 # game/Days/dayFour.rpy:3002
 translate spanish D4_Yoga_a696f72f:
@@ -6982,7 +6982,7 @@ translate spanish D4_Yoga_a696f72f:
 translate spanish D4_Yoga_f99e1fc7:
 
     # mich "If you ask him I'm sure he'll help you out! Get all those knots out!"
-    mich "¡Si le preguntas, estoy seguro de que te ayudará! ¡Saca todos esos nudos!"
+    mich "¡Si le preguntas, estoy segura de que te ayudará! ¡Saca todos esos nudos!"
 
 # game/Days/dayFour.rpy:3005
 translate spanish D4_Yoga_fd73918a:
@@ -7042,7 +7042,7 @@ translate spanish D4_Yoga_2b35b6fe:
 translate spanish D4_Yoga_20cbf954:
 
     # mc "Coming [mich]!"
-    mc "¡Próximamente [mich]!"
+    mc "¡Voy [mich]!"
 
 # game/Days/dayFour.rpy:3038
 translate spanish D4_Yoga_191559e1:
@@ -7072,7 +7072,7 @@ translate spanish D4_Yoga_afdefd44:
 translate spanish D4_Yoga_7fef4256:
 
     # mcT "Does she now?"
-    mcT "¿Lo hace ahora?"
+    mcT "¿Lo necesita ahora?"
 
 # game/Days/dayFour.rpy:3048
 translate spanish D4_Yoga_c1124d1b:
@@ -7108,7 +7108,7 @@ translate spanish D4_Yoga_0ff3b93d_1:
 translate spanish D4_Yoga_962d1702:
 
     # mich "She absolutely does!"
-    mich "¡Ella absolutamente lo hace!"
+    mich "¡Obviamente que ella lo hace!"
 
 # game/Days/dayFour.rpy:3062
 translate spanish D4_Yoga_f342bb74:
@@ -7120,7 +7120,7 @@ translate spanish D4_Yoga_f342bb74:
 translate spanish D4_Yoga_eaa83fc4:
 
     # mich "Told ya! Already in the position! Now swing that booty around like before and let's get'a stretchin'!"
-    mich "¡Te lo dije! ¡Ya en la posición! ¡Ahora mueve ese trasero como antes y vamos a estirarnos!"
+    mich "¡Te lo dije! ¡Ya en la posición! ¡Ahora mueve ese culo como antes y vamos a estirarnos!"
 
 # game/Days/dayFour.rpy:3067
 translate spanish D4_Yoga_c96c9de6:
@@ -7162,7 +7162,7 @@ translate spanish D4_Yoga_232e111e:
 translate spanish D4_Yoga_3c0bbbee:
 
     # mc "Absolutely!"
-    mc "¡Absolutamente!"
+    mc "¡Claro!"
 
 # game/Days/dayFour.rpy:3085
 translate spanish D4_Yoga_37bde04e:
@@ -7252,7 +7252,7 @@ translate spanish D4_Yoga_969fbde5:
 translate spanish D4_Yoga_35a30d45:
 
     # soph "It's even worse. We haven't done the {i}deed{/i} in quite a while."
-    soph "Es aún peor. No hemos hecho la {i}escritura{/i} desde hace bastante tiempo."
+    soph "Es aún peor. No hemos hecho la {i}cosa{/i} desde hace bastante tiempo."
 
 # game/Days/dayFour.rpy:3110
 translate spanish D4_Yoga_691361c1:
@@ -7264,7 +7264,7 @@ translate spanish D4_Yoga_691361c1:
 translate spanish D4_Yoga_fd65ab95:
 
     # soph "I feel like a stranger in my own home when he's around..."
-    soph "Me siento como un extraño en mi propia casa cuando él está cerca..."
+    soph "Me siento como una extraña en mi propia casa cuando él está cerca..."
 
 # game/Days/dayFour.rpy:3114
 translate spanish D4_Yoga_47012bbc:
@@ -7276,13 +7276,13 @@ translate spanish D4_Yoga_47012bbc:
 translate spanish D4_Yoga_cae7ea63:
 
     # soph "I'm not going to play into his hands, give him what he wants. Call it an ego Michie... But I have to stand my ground sometimes."
-    soph "No voy a hacerle el juego, darle lo que quiere. Llámalo ego Michie... Pero a veces tengo que mantenerme firme."
+    soph "No voy a seguirle el juego, darle lo que quiere. Llámalo ego Michie... Pero a veces tengo que mantenerme firme."
 
 # game/Days/dayFour.rpy:3118
 translate spanish D4_Yoga_398b29fa:
 
     # mich "Oh girl, I hear ya! I would do exactly the same! You wear the pants in that relationship, not him!"
-    mich "¡Oh niña, te escucho! ¡Yo haría exactamente lo mismo! ¡Tú usas los pantalones en esa relación, no él!"
+    mich "¡Oh niña, te escucho! ¡Yo haría exactamente lo mismo! ¡Tú llevas los pantalones en esa relación, no él!"
 
 # game/Days/dayFour.rpy:3120
 translate spanish D4_Yoga_a74bb0d1:
@@ -7456,7 +7456,7 @@ translate spanish D4_Yoga_bc0cc623:
 translate spanish D4_Yoga_0d3bec3b:
 
     # mc "Pleasure to be of service!"
-    mc "¡Un placer poder servirle!"
+    mc "¡Un placer poder servirla!"
 
 # game/Days/dayFour.rpy:3184
 translate spanish D4_Yoga_1bc52efa:
@@ -7504,7 +7504,7 @@ translate spanish D4_Yoga_b82e8c5a:
 translate spanish D4_Yoga_2ead9728:
 
     # mich "Gah, I'll pray later for forgiveness, Lord!"
-    mich "¡Gah, rezaré más tarde por perdón, Señor!"
+    mich "¡Gah, rezaré más tarde con perdón, Señor!"
 
 # game/Days/dayFour.rpy:3198
 translate spanish D4_Yoga_0acae965:
@@ -7540,7 +7540,7 @@ translate spanish D4_Yoga_8ed3811c:
 translate spanish D4_Yoga_0e37c9bf:
 
     # mich "Do I already know them, {i}hmmmmm?{/i}"
-    mich "¿Ya los conozco, {i}hmmmmm?{/i}"
+    mich "¿Ya lo conozco, {i}hmmmmm?{/i}"
 
 # game/Days/dayFour.rpy:3209
 translate spanish D4_Yoga_f33a6e21:
@@ -7582,7 +7582,7 @@ translate spanish D4_Yoga_a4e159f1:
 translate spanish D4_Yoga_f0508b34:
 
     # mich "No. You're a fully grown woman! I support you and I'm telling you to go explore some more! You've been tied down too long!"
-    mich "No. ¡Eres una mujer adulta! ¡Te apoyo y te digo que vayas a explorar un poco más! ¡Has estado atado demasiado tiempo!"
+    mich "No. ¡Eres una mujer adulta! ¡Te apoyo y te digo que vayas a explorar un poco más! ¡Has estado atada demasiado tiempo!"
 
 # game/Days/dayFour.rpy:3223
 translate spanish D4_Yoga_cf4f06b4:
@@ -7600,13 +7600,13 @@ translate spanish D4_Yoga_07ac962e:
 translate spanish D4_Yoga_e7d10ac9:
 
     # mc "Sorry... I've just been listening in. After the argument with you and [reg] this morning... I can understand."
-    mc "Lo siento... Acabo de estar escuchando. Después de la discusión contigo y [reg] esta mañana... puedo entender."
+    mc "Lo siento... He estado escuchando. Después de la discusión tuya y de [reg] esta mañana... puedo entenderlo."
 
 # game/Days/dayFour.rpy:3229
 translate spanish D4_Yoga_26ae4179:
 
     # mc "If you need to... turn back the clock so to speak... I'll support your decision."
-    mc "Si necesita... retroceder el tiempo, por así decirlo... apoyaré su decisión."
+    mc "Si necesitas... retroceder el tiempo, por así decirlo... apoyaré tu decisión."
 
 # game/Days/dayFour.rpy:3231
 translate spanish D4_Yoga_68e80412:
@@ -7642,7 +7642,7 @@ translate spanish D4_Yoga_1980425b:
 translate spanish D4_Yoga_549d9691:
 
     # mich "I'll guide you on this one, then I'm going to go to the little girls room! Nature's calling."
-    mich "¡Te guiaré en esto y luego iré al cuarto de las niñas! El llamado de la naturaleza."
+    mich "¡Te guiaré en esto y luego iré al baño de las chicas! La llamada de la naturaleza."
 
 # game/Days/dayFour.rpy:3243
 translate spanish D4_Yoga_9839082e_1:
@@ -7690,7 +7690,7 @@ translate spanish D4_Yoga_a2cc0d1e:
 translate spanish D4_Yoga_362915c0:
 
     # sophT "Oooh~ This isn't good. I'm... wet.."
-    sophT "Ohh~ Esto no es bueno. Estoy... mojado.."
+    sophT "Ohh~ Esto no es bueno. Estoy... mojada.."
 
 # game/Days/dayFour.rpy:3264
 translate spanish D4_Yoga_433a31f7:
@@ -7720,13 +7720,13 @@ translate spanish D4_Yoga_f4397644:
 translate spanish D4_Yoga_6d5c55ef:
 
     # mich "Awe! Don't worry. You're in good hands. [player_name] is here for you!"
-    mich "¡Temor! No te preocupes. Estás en buenas manos. ¡[player_name] está aquí para ti!"
+    mich "¡Uff! No te preocupes. Estás en buenas manos. ¡[player_name] está aquí para ti!"
 
 # game/Days/dayFour.rpy:3273
 translate spanish D4_Yoga_fd434900:
 
     # mc "That I am!"
-    mc "¡Eso soy!"
+    mc "¡Ese soy yo!"
 
 # game/Days/dayFour.rpy:3275
 translate spanish D4_Yoga_9dba2029:
@@ -7738,13 +7738,13 @@ translate spanish D4_Yoga_9dba2029:
 translate spanish D4_Yoga_0f60079b:
 
     # mcT "Check. Already got the legs in a tight grip."
-    mcT "Controlar. Ya tengo las piernas apretadas."
+    mcT "Comprobado. Ya tengo las piernas apretadas."
 
 # game/Days/dayFour.rpy:3280
 translate spanish D4_Yoga_be618e6d:
 
     # mich "Head straight! We can't have you developing a wonky spine!"
-    mich "¡Dirígete derecho! ¡No podemos permitir que desarrolles una columna torcida!"
+    mich "¡Dirígete derecha! ¡No podemos permitir que desarrolles una columna torcida!"
 
 # game/Days/dayFour.rpy:3282
 translate spanish D4_Yoga_98cd9afb:
@@ -7774,7 +7774,7 @@ translate spanish D4_Yoga_e1692be3:
 translate spanish D4_Yoga_ba24fb64:
 
     # mich "Yep! Look at you go! You'll be a yoga instructor in no time!~"
-    mich "¡Sí! ¡Mírate ir! ¡Serás instructor de yoga en poco tiempo!~"
+    mich "¡Sí! ¡Míra como vas! ¡Serás instructor de yoga en poco tiempo!~"
 
 # game/Days/dayFour.rpy:3289
 translate spanish D4_Yoga_ad79f260:
@@ -7786,7 +7786,7 @@ translate spanish D4_Yoga_ad79f260:
 translate spanish D4_Yoga_f7d8d411:
 
     # mich "I'm sure! Feel free to come by next time too, it'll be fun!"
-    mich "¡Estoy seguro de que! No dudes en venir la próxima vez, ¡será divertido!"
+    mich "¡Estoy seguro de ello! No dudes en venir la próxima vez, ¡será divertido!"
 
 # game/Days/dayFour.rpy:3295
 translate spanish D4_Yoga_22daf84c:
@@ -7828,7 +7828,7 @@ translate spanish D4_Yoga_dc065e4e:
 translate spanish D4_Yoga_db26ef72:
 
     # mich "Okay you two, I have run to the bathroom, but keep doing this [player_name]! 3 sets of 10 on each leg and she'll be right as rain!"
-    mich "Está bien, ustedes dos, he corrido al baño, ¡pero sigan haciendo esto [player_name]! ¡3 series de 10 en cada pierna y estará perfecta!"
+    mich "Está bien, vosotros dos, tengo que correr al baño, ¡pero sigan haciendo esto [player_name]! ¡3 series de 10 en cada pierna y estará perfecta!"
 
 # game/Days/dayFour.rpy:3309
 translate spanish D4_Yoga_b33b8431:
@@ -7918,7 +7918,7 @@ translate spanish D4_Yoga_266708db:
 translate spanish D4_Yoga_985043dd:
 
     # mc "Ooooh. So you {i}are{/i} excited because of me, hmm?"
-    mc "Ooh. Así que {i}estás{/i} emocionado por mi culpa, ¿eh?"
+    mc "Ooh. Así que {i}estás{/i} emocionada por mi culpa, ¿eh?"
 
 # game/Days/dayFour.rpy:3348
 translate spanish D4_Yoga_a198a74d:
@@ -7930,13 +7930,13 @@ translate spanish D4_Yoga_a198a74d:
 translate spanish D4_Yoga_7bc5b4bf:
 
     # mc "Yea yea. Okay, [soph]. One of these days you'll be truthful to me."
-    mc "Sí, sí. Bien, [soph]. Un día de estos me serás sincero."
+    mc "Sí, sí. Bien, [soph]. Un día de estos me serás sincera."
 
 # game/Days/dayFour.rpy:3352
 translate spanish D4_Yoga_57b13910:
 
     # mc "And yourself."
-    mc "Y a ti mismo."
+    mc "Y a ti misma."
 
 # game/Days/dayFour.rpy:3354
 translate spanish D4_Yoga_4786be08:
@@ -8032,7 +8032,7 @@ translate spanish D4_Yoga_e3a2a94b:
 translate spanish D4_Yoga_ee4580fe:
 
     # soph "{sc=4}{b}Take it off, take it off!!{/b}{/sc}" id D4_Yoga_ee4580fe
-    soph "{sc=4}{b}¡¡Quítatelo, quítatelo!!{/b}{/sc}" id D4_Yoga_ee4580fe
+    soph "{sc=4}{b}¡¡Quítamelo, quítamelo!!{/b}{/sc}" id D4_Yoga_ee4580fe
 
 # game/Days/dayFour.rpy:3394
 translate spanish D4_Yoga_a18f8fe9:
@@ -8050,19 +8050,19 @@ translate spanish D4_Yoga_389db35d:
 translate spanish D4_Yoga_47d54925:
 
     # mc "You saucy minx. I bet you're loving this aren't you?"
-    mc "Eres una descarada descarada. Apuesto a que te encanta esto, ¿no?"
+    mc "Eres una descarada. Apuesto a que te encanta esto, ¿no?"
 
 # game/Days/dayFour.rpy:3404
 translate spanish D4_Yoga_ca2aa0dc:
 
     # soph "P-p-p-please take it off! Now, now! please!"
-    soph "¡P-p-p-por favor quítatelo! ¡Ahora, ahora! ¡por favor!"
+    soph "¡P-p-p-por favor quítamelo! ¡Ahora, ahora! ¡por favor!"
 
 # game/Days/dayFour.rpy:3408
 translate spanish D4_Yoga_e452bc1f:
 
     # soph "{sc=4}{b}PLEASE [player_name!u]!! TAKE IT OFF!!!{/b}{/sc}"
-    soph "{sc=4}{b}¡¡POR FAVOR [player_name!u]!! ¡¡¡QUÍTATELO!!!{/b}{/sc}"
+    soph "{sc=4}{b}¡¡POR FAVOR [player_name!u]!! ¡¡¡QUÍTAMELO!!!{/b}{/sc}"
 
 # game/Days/dayFour.rpy:3435
 translate spanish D4_Yoga_52f6356c:
@@ -8098,7 +8098,7 @@ translate spanish D4_Yoga_bc92d15c:
 translate spanish D4_Yoga_8e14c548:
 
     # soph "{sc=2}{b}TAKE IT OFF!! PLLEASSSEE!!{/b}{/sc}"
-    soph "{sc=2}{b}¡¡QUÍTATELO!! ¡¡POR FAVOR!!{/b}{/sc}"
+    soph "{sc=2}{b}¡¡QUÍTAMELO!! ¡¡POR FAVOR!!{/b}{/sc}"
 
 # game/Days/dayFour.rpy:3456
 translate spanish D4_Yoga_b940148e:
@@ -8110,7 +8110,7 @@ translate spanish D4_Yoga_b940148e:
 translate spanish D4_Yoga_914d3514:
 
     # mc "Gonna what, [soph]? Say it. Tell me."
-    mc "¿Vas a qué, [soph]? Dígalo. Dime."
+    mc "¿Vas a qué, [soph]? Dímelo. Dime."
 
 # game/Days/dayFour.rpy:3460
 translate spanish D4_Yoga_279ff6c1:
@@ -8134,7 +8134,7 @@ translate spanish D4_Yoga_1e5ab823:
 translate spanish D4_Yoga_7e37293a:
 
     # soph "{sc=4}{b}...[filledHeart]CUMM{size=-5}M{/size}{size=-7}M{/size}{size=-9}M{/size}{size=-11}M{/size}{size=-13}M{/size}{size=-15}M{/size}{size=-16}M{/size}{size=-17}M{/size}{size=-18}M{/size}{size=-19}M!~[outlineHeart]{/size}{/b}{/sc}"
-    soph "{sc=4}{b}....[filledHeart]CUMM{size=-5}M{/size}{size=-7}M{/size}{size=-9}M{/size}{size=-11}M{/size}{size=-13}M{/size}{size=-15}M{/size}{size=-16}M{/size}{size=-17}M{/size}{size=-18}M{/size}{size=-19}M!~[outlineHeart]{/size}{/b}{/sc}"
+    soph "{sc=4}{b}....[filledHeart]CORRERME{size=-5}M{/size}{size=-7}E{/size}{size=-9}E{/size}{size=-11}E{/size}{size=-13}E{/size}{size=-15}E{/size}{size=-16}E{/size}{size=-17}E{/size}{size=-18}E{/size}{size=-19}E!~[outlineHeart]{/size}{/b}{/sc}"
 
 # game/Days/dayFour.rpy:3473
 translate spanish D4_Yoga_360271b2:
@@ -8164,7 +8164,7 @@ translate spanish D4_Yoga_9aa490d6:
 translate spanish D4_Yoga_b445156e:
 
     # soph "[playerNameStumble]... St...Tyrn Iiit oouf.~[outlineHeart]"
-    soph "[playerNameStumble]... St...Tyrn Iiit oouf.~[outlineHeart]"
+    soph "[playerNameStumble]... Aa...Apagaloo.~[outlineHeart]"
 
 # game/Days/dayFour.rpy:3494
 translate spanish D4_Yoga_2cab0cd9:
@@ -8182,7 +8182,7 @@ translate spanish D4_Yoga_e5e19a62:
 translate spanish D4_Yoga_4dd8d5cf:
 
     # soph "{bt=3}Tyurn iet oouf! P-p-please [playerNameStumble]!!~[outlineHeart]{/bt}" (multiple=2)
-    soph "{bt=3}¡Tyurn iet oouf! ¡¡P-p-por favor [playerNameStumble]!!~[outlineHeart]{/bt}" (multiple=2)
+    soph "{bt=3}¡Apagaloo! ¡¡P-p-por favor [playerNameStumble]!!~[outlineHeart]{/bt}" (multiple=2)
 
 # game/Days/dayFour.rpy:3497
 translate spanish D4_Yoga_3ada7fdd:
@@ -8242,7 +8242,7 @@ translate spanish D4_Yoga_73c116d6:
 translate spanish D4_Yoga_20f74066:
 
     # mcT "Phones all wet. Heh."
-    mcT "Todos los teléfonos mojados. Je."
+    mcT "Todos el teléfono mojado. Je."
 
 # game/Days/dayFour.rpy:3543
 translate spanish D4_Yoga_bc92d15c_1:
@@ -8254,7 +8254,7 @@ translate spanish D4_Yoga_bc92d15c_1:
 translate spanish D4_Yoga_8e14c548_1:
 
     # soph "{sc=2}{b}TAKE IT OFF!! PLLEASSSEE!!{/b}{/sc}"
-    soph "{sc=2}{b}¡¡QUÍTATELO!! ¡¡POR FAVOR!!{/b}{/sc}"
+    soph "{sc=2}{b}¡¡QUÍTAMELO!! ¡¡POR FAVOR!!{/b}{/sc}"
 
 # game/Days/dayFour.rpy:3546
 translate spanish D4_Yoga_b940148e_1:
@@ -8266,7 +8266,7 @@ translate spanish D4_Yoga_b940148e_1:
 translate spanish D4_Yoga_914d3514_1:
 
     # mc "Gonna what, [soph]? Say it. Tell me."
-    mc "¿Vas a qué, [soph]? Dígalo. Dime."
+    mc "¿Vas a qué, [soph]? Dimelo. Dime."
 
 # game/Days/dayFour.rpy:3550
 translate spanish D4_Yoga_279ff6c1_1:
@@ -8290,7 +8290,7 @@ translate spanish D4_Yoga_1e5ab823_1:
 translate spanish D4_Yoga_7e37293a_1:
 
     # soph "{sc=4}{b}...[filledHeart]CUMM{size=-5}M{/size}{size=-7}M{/size}{size=-9}M{/size}{size=-11}M{/size}{size=-13}M{/size}{size=-15}M{/size}{size=-16}M{/size}{size=-17}M{/size}{size=-18}M{/size}{size=-19}M!~[outlineHeart]{/size}{/b}{/sc}"
-    soph "{sc=4}{b}....[filledHeart]CUMM{size=-5}M{/size}{size=-7}M{/size}{size=-9}M{/size}{size=-11}M{/size}{size=-13}M{/size}{size=-15}M{/size}{size=-16}M{/size}{size=-17}M{/size}{size=-18}M{/size}{size=-19}M!~[outlineHeart]{/size}{/b}{/sc}"
+    soph "{sc=4}{b}....[filledHeart]CORREME{size=-5}E{/size}{size=-7}E{/size}{size=-9}E{/size}{size=-11}E{/size}{size=-13}E{/size}{size=-15}E{/size}{size=-16}E{/size}{size=-17}E{/size}{size=-18}E{/size}{size=-19}E!~[outlineHeart]{/size}{/b}{/sc}"
 
 # game/Days/dayFour.rpy:3558
 translate spanish D4_Yoga_360271b2_1:
@@ -8320,7 +8320,7 @@ translate spanish D4_Yoga_9aa490d6_1:
 translate spanish D4_Yoga_e0820e9a:
 
     # soph "[playerNameStumble]... St...Tyrn Iiit oouf.~[outlineHeart]" (multiple=2)
-    soph "[playerNameStumble]... St...Tyrn Iiit oouf.~[outlineHeart]" (multiple=2)
+    soph "[playerNameStumble]... Aaa...Apagaloooo.~[outlineHeart]" (multiple=2)
 
 # game/Days/dayFour.rpy:3577
 translate spanish D4_Yoga_2cab0cd9_1:
@@ -8338,7 +8338,7 @@ translate spanish D4_Yoga_e5e19a62_1:
 translate spanish D4_Yoga_4dd8d5cf_1:
 
     # soph "{bt=3}Tyurn iet oouf! P-p-please [playerNameStumble]!!~[outlineHeart]{/bt}" (multiple=2)
-    soph "{bt=3}¡Tyurn iet oouf! ¡¡P-p-por favor [playerNameStumble]!!~[outlineHeart]{/bt}" (multiple=2)
+    soph "{bt=3}¡Apagaloo! ¡¡P-p-por favor [playerNameStumble]!!~[outlineHeart]{/bt}" (multiple=2)
 
 # game/Days/dayFour.rpy:3580
 translate spanish D4_Yoga_3ada7fdd_1:
@@ -8398,7 +8398,7 @@ translate spanish D4_Yoga_73c116d6_1:
 translate spanish D4_Yoga_20f74066_1:
 
     # mcT "Phones all wet. Heh."
-    mcT "Todos los teléfonos mojados. Je."
+    mcT "Todos el teléfono mojado. Je."
 
 # game/Days/dayFour.rpy:3619
 translate spanish D4_Yoga_87eb3664:
@@ -8548,7 +8548,7 @@ translate spanish D4_Yoga_5b41cdeb:
 translate spanish D4_Yoga_0052ead7:
 
     # mich "Get going! You don't want to be late to wherever you're heading to!"
-    mich "¡Ponerse en marcha! ¡No querrás llegar tarde a dondequiera que vayas!"
+    mich "¡Ponte en marcha! ¡No querrás llegar tarde a dondequiera que vayas!"
 
 # game/Days/dayFour.rpy:3695
 translate spanish D4_Yoga_bbe8ba8b:
@@ -8572,7 +8572,7 @@ translate spanish D4_Yoga_84f2fd7a:
 translate spanish D4_Yoga_f28612a8:
 
     # mich "Because it's me who's giving it!"
-    mich "¡Porque soy yo quien se lo da!"
+    mich "¡Porque soy yo quien te lo da!"
 
 # game/Days/dayFour.rpy:3705
 translate spanish D4_Yoga_5b41cdeb_1:
@@ -8584,7 +8584,7 @@ translate spanish D4_Yoga_5b41cdeb_1:
 translate spanish D4_Yoga_0052ead7_1:
 
     # mich "Get going! You don't want to be late to wherever you're heading to!"
-    mich "¡Ponerse en marcha! ¡No querrás llegar tarde a dondequiera que vayas!"
+    mich "¡Ponte en marcha! ¡No querrás llegar tarde a dondequiera que vayas!"
 
 # game/Days/dayFour.rpy:3709
 translate spanish D4_Yoga_7a7d3546:
@@ -8608,7 +8608,7 @@ translate spanish D4_Yoga_b7380b17:
 translate spanish D4_Yoga_b1d1d09d:
 
     # "Catching a ride on the elevator, you're greeted with very welcoming and sombre {i}elevator music.{/i}"
-    "Al tomar el ascensor, te recibirá una {i}música de ascensor muy acogedora y sombría.{/i}"
+    "Al tomar el ascensor, te recibe una {i}música de ascensor muy acogedora y sombría.{/i}"
 
 # game/Days/dayFour.rpy:3727
 translate spanish D4_Yoga_d7edd024:
@@ -8668,7 +8668,7 @@ translate spanish D4_Yoga_25347e7c:
 translate spanish D4_Yoga_08879b3a:
 
     # "{color=#606602}{i}Some Wrechid Golum{/i}{/color}" "20TBux bag and shag. I'm the best you'll ever have!"
-    "{color=#606602}{i}Un Golum miserable{/i}{/color}" "Bolsa de 20TBux y pelusa. ¡Soy lo mejor que jamás tendrás!"
+    "{color=#606602}{i}Un Golum miserable{/i}{/color}" "20TBux Paja y a la caja. ¡Soy la mejor que jamás tendrás!"
 
 # game/Days/dayFour.rpy:3760
 translate spanish D4_Yoga_2b35b6fe_1:
@@ -8764,7 +8764,7 @@ translate spanish D4_Yoga_83eb5b60:
 translate spanish D4_Yoga_42947f9a:
 
     # bill "I know I know... Shit's crazy here."
-    bill "Lo sé, lo sé... La mierda es una locura aquí."
+    bill "Lo sé, lo sé... Este sitio es una locura."
 
 # game/Days/dayFour.rpy:3809
 translate spanish D4_Yoga_0bf01836:
@@ -8782,19 +8782,19 @@ translate spanish D4_Yoga_28abadb2:
 translate spanish D4_Yoga_d13f5c12:
 
     # bill "Hell if I know! But I do know that the rent has gone down massively since it's gone into disarray."
-    bill "¡Diablos si lo sé! Pero sí sé que el alquiler ha bajado enormemente desde que entró en desorden."
+    bill "¡Diablos, si lo sé! Pero sí sé que el alquiler ha bajado enormemente desde que entró en desorden."
 
 # game/Days/dayFour.rpy:3815
 translate spanish D4_Yoga_771f275f:
 
     # bill "So, I'm not complaining! There's only one breadwinner in this house now. I need to do everything I can to make ends meet."
-    bill "¡Así que no me quejo! Ahora sólo hay un sostén de familia en esta casa. Necesito hacer todo lo que pueda para llegar a fin de mes."
+    bill "¡Así que no me quejo! Ahora sólo hay una persona que sosténga la familia en esta casa. Necesito hacer todo lo que pueda para llegar a fin de mes."
 
 # game/Days/dayFour.rpy:3817
 translate spanish D4_Yoga_1ecf035e:
 
     # mc "I hear ya, [bill]. That's why I'm here. Helping a buddy out."
-    mc "Te escucho, [bill]. Por eso estoy aquí. Ayudar a un amigo."
+    mc "Te entiendo, [bill]. Por eso estoy aquí. Para ayudar a un amigo."
 
 # game/Days/dayFour.rpy:3819
 translate spanish D4_Yoga_b3a61ed7:
@@ -8818,7 +8818,7 @@ translate spanish D4_Yoga_edafb523:
 translate spanish D4_Yoga_2a0aa424:
 
     # bill "I did wink there, but you'd never know."
-    bill "Le guiñé un ojo, pero nunca lo sabrías."
+    bill "Te guiñé un ojo, pero nunca lo sabrías."
 
 # game/Days/dayFour.rpy:3828
 translate spanish D4_Yoga_86121913:
@@ -8836,7 +8836,7 @@ translate spanish D4_Yoga_fcb61a3e:
 translate spanish D4_Yoga_dba81ed6:
 
     # bill "She's currently taking a shower, so go grab a beer and chill out until she's out. She knows you're coming."
-    bill "Actualmente se está duchando, así que ve a tomar una cerveza y relájate hasta que salga. Ella sabe que vas a venir."
+    bill "Actualmente ella se está duchando, así que ve a tomar una cerveza y relájate hasta que salga. Ella sabe que vas a venir."
 
 # game/Days/dayFour.rpy:3835
 translate spanish D4_Yoga_54589899:
@@ -8848,7 +8848,7 @@ translate spanish D4_Yoga_54589899:
 translate spanish D4_Yoga_564a2935:
 
     # bill "Oh... Only a few hours. Just this special event... thing... Yeah..."
-    bill "Oh... Sólo unas pocas horas. Sólo este evento especial... cosa... Sí..."
+    bill "Oh... Sólo unas pocas horas. Sólo será este evento especial... cosa... Sí..."
 
 # game/Days/dayFour.rpy:3838
 translate spanish D4_Yoga_cc8f6c42:
@@ -8872,7 +8872,7 @@ translate spanish D4_Yoga_17b91502:
 translate spanish D4_Yoga_20d79420:
 
     # bill "Remember, keep the door locked."
-    bill "Recuerde, mantenga la puerta cerrada."
+    bill "Recuerda, manten la puerta cerrada."
 
 # game/Days/dayFour.rpy:3848
 translate spanish D4_Yoga_0151d7ba:
@@ -8884,7 +8884,7 @@ translate spanish D4_Yoga_0151d7ba:
 translate spanish D4_Yoga_3c0e4d4b:
 
     # mc "You got it! Take it easy."
-    mc "¡Lo entendiste! Tómalo con calma."
+    mc "¡Lo tienes! Tómalo con calma."
 
 # game/Days/dayFour.rpy:3860
 translate spanish D4_Yoga_099b30c3:
@@ -8920,7 +8920,7 @@ translate spanish D4_Yoga_48bcac07:
 translate spanish D4_Yoga_a079a17b:
 
     # mcT "Nice."
-    mcT "Lindo."
+    mcT "Bien."
 
 # game/Days/dayFour.rpy:3878
 translate spanish D4_Yoga_cde9da76:
@@ -8962,13 +8962,13 @@ translate spanish D4_Yoga_1c7a3a92:
 translate spanish D4_Yoga_c62f7b30:
 
     # mcT "Definitely still showering..."
-    mcT "Definitivamente sigo duchándome..."
+    mcT "Definitivamente sigue duchándose..."
 
 # game/Days/dayFour.rpy:3898
 translate spanish D4_Yoga_d7282332:
 
     # mcT "Well, it can't be this room. This is too...bare to be a girl's room."
-    mcT "Bueno, no puede ser esta habitación. Esto es demasiado... desnudo para ser la habitación de una niña."
+    mcT "Bueno, no puede ser esta habitación. Esto esta demasiado... vacío para ser la habitación de una niña."
 
 # game/Days/dayFour.rpy:3899
 translate spanish D4_Yoga_f3ca312c:
@@ -9010,7 +9010,7 @@ translate spanish D4_Yoga_8de35a18:
 translate spanish D4_Yoga_21692763:
 
     # mcT "Oh shit, the shower stopped! Time to leave."
-    mcT "¡Mierda, la ducha se detuvo! Es hora de partir."
+    mcT "¡Mierda, la ducha se detuvo! Es hora de salir."
 
 # game/Days/dayFour.rpy:3927
 translate spanish D4_Yoga_fdd42578:
@@ -9064,13 +9064,13 @@ translate spanish D4_Yoga_061ad910:
 translate spanish D4_Yoga_c8a9b7be:
 
     # mcT "Close call..."
-    mcT "Cerrar llamada..."
+    mcT "Estuvo cerca..."
 
 # game/Days/dayFour.rpy:3946
 translate spanish D4_Yoga_13250eb4:
 
     # bd "What to wear, what to wear..."
-    bd "Qué ponerse, qué ponerse..."
+    bd "Qué me pongo, Qué me pongo..."
 
 # game/Days/dayFour.rpy:3948
 translate spanish D4_Yoga_c3ffe4ff:
@@ -9094,7 +9094,7 @@ translate spanish D4_Yoga_5e4137f3:
 translate spanish D4_Yoga_d4547033:
 
     # bd "Where could it have gone to??"
-    bd "¿A donde pudo haber ido?"
+    bd "¿A donde puede haber ido?"
 
 # game/Days/dayFour.rpy:3958
 translate spanish D4_Yoga_d45cbaed:
@@ -9142,7 +9142,7 @@ translate spanish D4_Yoga_109065a3:
 translate spanish D4_Yoga_e0a33fe0:
 
     # bd "*Mumbling* {size=-10}Where could it have gone?? It doesn't have legs... It can't just get up and leave!"
-    bd "*Murmurando* {size=-10}¿Adónde pudo haber ido? No tiene patas... ¡No puede simplemente levantarse e irse!"
+    bd "*Murmurando* {size=-10}¿Adónde puede haber ido? No tiene patas... ¡No puede simplemente levantarse e irse!"
 
 # game/Days/dayFour.rpy:3975
 translate spanish D4_Yoga_52aebfcc:
@@ -9178,7 +9178,7 @@ translate spanish D4_Yoga_8165a493:
 translate spanish D4_Yoga_c4401019:
 
     # sadie "{sc=2}Aaahh! Stop looking! Close your eyes!{/sc}"
-    sadie "{sc=2}¡Aaah! ¡Deja de buscar! ¡Cierra los ojos!{/sc}"
+    sadie "{sc=2}¡Aaah! ¡Deja de mirar! ¡Cierra los ojos!{/sc}"
 
 # game/Days/dayFour.rpy:4010
 translate spanish D4_Yoga_a20cefa7_4:
@@ -9226,7 +9226,7 @@ translate spanish D4_Yoga_fb9a820b:
 translate spanish D4_Yoga_2be5e5ce:
 
     # sadie "Get out!"
-    sadie "¡Salir!"
+    sadie "¡Sal!"
 
 # game/Days/dayFour.rpy:4036
 translate spanish D4_Yoga_d59b754a:
@@ -9442,7 +9442,7 @@ translate spanish d4_pizza_80b5997b:
 translate spanish d4_pizza_6f2f1061:
 
     # sadie "In."
-    sadie "In."
+    sadie "Entra."
 
 # game/Days/dayFour.rpy:4167
 translate spanish d4_pizza_9fb8989e:
@@ -9640,7 +9640,7 @@ translate spanish d4_pizza_slightPeak_80b5997b:
 translate spanish d4_pizza_slightPeak_3f290f27:
 
     # mc "Alright, let's get this ordered!"
-    mc "Muy bien, ¡ordenemos esto!"
+    mc "Muy bien, ¡pidamos eso!"
 
 # game/Days/dayFour.rpy:4298
 translate spanish d4_pizza_slightPeak_9f656edd:
@@ -9760,7 +9760,7 @@ translate spanish d4_pizza_noPeak_6199261d:
 translate spanish d4_pizza_noPeak_2ddc3282:
 
     # mc "That I am, [sadie]."
-    mc "Que soy, [sadie]."
+    mc "En ello estoy, [sadie]."
 
 # game/Days/dayFour.rpy:4386
 translate spanish d4_pizza_noPeak_ec1715c4:
@@ -9790,19 +9790,19 @@ translate spanish d4_pizza_noPeak_f048dc58:
 translate spanish d4_pizza_noPeak_a7662e02:
 
     # sadie "Yay! My favourite! I love 'me some good meat!"
-    sadie "¡Hurra! ¡Mi favorito! ¡Me encanta una buena carne!"
+    sadie "¡Hurra! ¡Mi favorita! ¡Me encanta una buena carne!"
 
 # game/Days/dayFour.rpy:4409
 translate spanish d4_pizza_noPeak_80b5997b:
 
     # mcT "Do you now..."
-    mcT "¿Ahora...?"
+    mcT "Y ahora.."
 
 # game/Days/dayFour.rpy:4411
 translate spanish d4_pizza_noPeak_3f290f27:
 
     # mc "Alright, let's get this ordered!"
-    mc "Muy bien, ¡ordenemos esto!"
+    mc "Muy bien, ¡pidamos eso!"
 
 # game/Days/dayFour.rpy:4414
 translate spanish d4_pizza_noPeak_9f656edd:
@@ -9826,7 +9826,7 @@ translate spanish d4_pizza_noPeak_e045708e:
 translate spanish d4_pizza_noPeak_eaa3260b:
 
     # "Watching old soap shows while munching on the {i}Adequate{/i} Italian cuisine."
-    "Ver telenovelas antiguas mientras saboreas la {i}adecuada{/i} cocina italiana."
+    "Veis telenovelas antiguas mientras saboreas la {i}adecuada{/i} cocina italiana."
 
 # game/Days/dayFour.rpy:4422
 translate spanish d4_pizza_noPeak_db61ed42:
@@ -9862,7 +9862,7 @@ translate spanish d4_pizza_noPeak_d6025da9:
 translate spanish d4_pizza_noPeak_61228416:
 
     # "Watching old soap shows while munching on the exquisite Italian cuisine."
-    "Ver telenovelas antiguas mientras saboreas la exquisita cocina italiana."
+    "Veis telenovelas antiguas mientras saboreas la exquisita cocina italiana."
 
 # game/Days/dayFour.rpy:4431
 translate spanish d4_pizza_noPeak_a7eae38d:
@@ -9880,13 +9880,13 @@ translate spanish d4_pizza_noPeak_89f0d85a:
 translate spanish d4_pizza_noPeak_c01d536a:
 
     # "As the pizza is nearing an end, [sadie] let's out a victorious sigh."
-    "Mientras la pizza se acerca a su fin, [sadie] dejemos escapar un suspiro de victoria."
+    "Mientras la pizza se acerca a su fin, [sadie] deja escapar un suspiro de victoria."
 
 # game/Days/dayFour.rpy:4437
 translate spanish d4_pizza_noPeak_f0baf592:
 
     # "Conversations turn into friendly chatter. Getting to know one another some more."
-    "Las conversaciones se convierten en charlas amistosas. Conociéndonos un poco más."
+    "Las conversaciones se convierten en charlas amistosas. Conociéndoos un poco más."
 
 # game/Days/dayFour.rpy:4438
 translate spanish d4_pizza_noPeak_932556ea_1:
@@ -9904,13 +9904,13 @@ translate spanish d4_pizza_noPeak_ca0251e0:
 translate spanish d4_pizza_noPeak_b73556a5:
 
     # sadie "Ah! Did my dad know that you work at [school_name]?"
-    sadie "¡Ah! ¿Sabía mi papá que trabajas en [school_name]?"
+    sadie "¡Ah! ¿Sabe mi papá que trabajas en [school_name]?"
 
 # game/Days/dayFour.rpy:4445
 translate spanish d4_pizza_noPeak_e00b59f4:
 
     # mc "Hmm... No actually... I think I only told him I had a career change, but not any specifics."
-    mc "Hmm... No, en realidad... Creo que solo le dije que tenía un cambio de carrera, pero no hay detalles específicos."
+    mc "Hmm... No, en realidad... Creo que solo le dije que tenía un cambio de carrera, pero no le he dado detalles específicos."
 
 # game/Days/dayFour.rpy:4447
 translate spanish d4_pizza_noPeak_dd8dde83:
@@ -9952,7 +9952,7 @@ translate spanish d4_pizza_noPeak_00a8a652:
 translate spanish d4_pizza_noPeak_5cd0810a:
 
     # sadie "I also can't leave my dad right now... He'd be all alone. He's going through a lot."
-    sadie "Tampoco puedo dejar a mi papá ahora mismo... Estaría completamente solo. Está pasando por mucho."
+    sadie "Tampoco puedo dejar a mi padre ahora mismo... Estaría completamente solo. Está pasando por mucho."
 
 # game/Days/dayFour.rpy:4464
 translate spanish d4_pizza_noPeak_7c565c65:
@@ -9976,7 +9976,7 @@ translate spanish d4_pizza_noPeak_05500ff6:
 translate spanish d4_pizza_noPeak_d7664b60:
 
     # sadie "Yeah... I'm almost positive he's gone to the casino."
-    sadie "Sí... estoy casi seguro de que ha ido al casino."
+    sadie "Sí... estoy casi segura de que ha ido al casino."
 
 # game/Days/dayFour.rpy:4473
 translate spanish d4_pizza_noPeak_4496d0a7:
@@ -9994,7 +9994,7 @@ translate spanish d4_pizza_noPeak_579231c3:
 translate spanish d4_pizza_noPeak_abfe8a04:
 
     # sadie "She was fine...and then boom. Cancer. Shit sucks."
-    sadie "Ella estaba bien... y luego boom. Cáncer. La mierda apesta."
+    sadie "Ella estaba bien... y luego boom. Cáncer. Todo es una mierda."
 
 # game/Days/dayFour.rpy:4478
 translate spanish d4_pizza_noPeak_d4dee8d4:
@@ -10090,13 +10090,13 @@ translate spanish d4_pizza_noPeak_207e5787:
 translate spanish d4_pizza_noPeak_61a7688e:
 
     # mc "For you absolutely, but also for my own curiosity."
-    mc "Absolutamente para ti, pero también para mi propia curiosidad."
+    mc "Absolutamente por ti, pero también para mi propia curiosidad."
 
 # game/Days/dayFour.rpy:4511
 translate spanish d4_pizza_noPeak_5f3e257c:
 
     # sadie "Okay-okay! I'm so in!"
-    sadie "¡Está bien! ¡Estoy tan dentro!"
+    sadie "¡Está bien! ¡Estoy dentro!"
 
 # game/Days/dayFour.rpy:4517
 translate spanish d4_pizza_noPeak_fca52711:
@@ -10108,13 +10108,13 @@ translate spanish d4_pizza_noPeak_fca52711:
 translate spanish d4_pizza_noPeak_39cbc2c5:
 
     # mc "This isn't how this works. I will be the one investigating. It could be dangerous."
-    mc "Esto no es así como funciona. Seré yo quien investigue. Podría ser peligroso."
+    mc "Así no es como funciona esto. Seré yo quien investigue. Podría ser peligroso."
 
 # game/Days/dayFour.rpy:4521
 translate spanish d4_pizza_noPeak_b77bba7d:
 
     # sadie "...I hear you.... But I've chosen to ignore you."
-    sadie "...Te escucho... Pero he elegido ignorarte."
+    sadie "...Te he escuchado... Pero he elegido ignorarte."
 
 # game/Days/dayFour.rpy:4523
 translate spanish d4_pizza_noPeak_51689981:
@@ -10156,19 +10156,19 @@ translate spanish d4_pizza_noPeak_ba655cd6:
 translate spanish d4_pizza_noPeak_66a7a5ca:
 
     # mc "What for?"
-    mc "¿Para qué?"
+    mc "¿Porqué?"
 
 # game/Days/dayFour.rpy:4540
 translate spanish d4_pizza_noPeak_f39040c3:
 
     # sadie "*Yawn* Looking after me, of course."
-    sadie "*Bostezo* Cuidándome, por supuesto."
+    sadie "*Bostezo* Cuiadarme, por supuesto."
 
 # game/Days/dayFour.rpy:4541
 translate spanish d4_pizza_noPeak_6a1d14a9:
 
     # sadie "*Unintelligible* {size=-16}Still hate you for seeing me naked though...{/size}"
-    sadie "*Ininteligible* {size=-16}Aunque todavía te odio por verme desnudo...{/size}"
+    sadie "*Ininteligible* {size=-16}Aunque todavía te odio por verme desnuda...{/size}"
 
 # game/Days/dayFour.rpy:4544
 translate spanish d4_pizza_noPeak_8e275594:
@@ -10216,7 +10216,7 @@ translate spanish d4_pizza_noPeak_bd752210:
 translate spanish d4_pizza_noPeak_96810a0b:
 
     # bill "Thank you, [player_name]. It seems you've had fun. Wore her out!"
-    bill "Gracias, [player_name]. Parece que te has divertido. ¡La agotó!"
+    bill "Gracias, [player_name]. Parece que te has divertido. ¡Esta agotada!"
 
 # game/Days/dayFour.rpy:4580
 translate spanish d4_pizza_noPeak_4e4e8ac7:
@@ -10318,13 +10318,13 @@ translate spanish d4_pizza_noPeak_e5082efa:
 translate spanish d4_pizza_noPeak_38a6e2e1:
 
     # mcT "Suspect."
-    mcT "Sospechar."
+    mcT "Sospecho."
 
 # game/Days/dayFour.rpy:4624
 translate spanish d4_pizza_noPeak_e610f777:
 
     # bill "Thanks once again, buddy! Remember; next drinks on me at the club!"
-    bill "¡Gracias una vez más, amigo! Recordar; ¡Las próximas copas corren por mi cuenta en el club!"
+    bill "¡Gracias una vez más, amigo! Recuerda; ¡Las próximas copas corren por mi cuenta en el club!"
 
 # game/Days/dayFour.rpy:4626
 translate spanish d4_pizza_noPeak_ca51ae61:
@@ -10348,7 +10348,7 @@ translate spanish d4_pizza_noPeak_39c4a3fe:
 translate spanish d4_pizza_noPeak_ad68eec4:
 
     # bill "Remember, keep safe."
-    bill "Recuerde, manténgase a salvo."
+    bill "Recuerda, mantente a salvo."
 
 # game/Days/dayFour.rpy:4633
 translate spanish d4_pizza_noPeak_bd49f79e:
@@ -10366,7 +10366,7 @@ translate spanish d4_pizza_noPeak_3ee938d1:
 translate spanish d4_pizza_noPeak_4a33145d:
 
     # mcT "Damn it's dark. Everyone must have already gone to bed... It is almost midnight after all."
-    mcT "Maldita sea, está oscuro. Todos ya deben haberse ido a la cama... Después de todo, es casi medianoche."
+    mcT "Maldita sea, está oscuro. Todos deben haberse ido ya a la cama... Después de todo, es casi medianoche."
 
 # game/Days/dayFour.rpy:4643
 translate spanish d4_pizza_noPeak_f1044654:
@@ -10384,7 +10384,7 @@ translate spanish d4_pizza_noPeak_e8b662a2:
 translate spanish d4_pizza_noPeak_93ebc5f7:
 
     # mcT "I mean... She's not going to have any fun time. I...did steal her new toy she just bought. Heh."
-    mcT "Quiero decir... Ella no va a pasar ningún momento divertido. Yo... robé su juguete nuevo que acaba de comprar. Je."
+    mcT "Quiero decir... Ella no va a pasar ningún momento divertido. Yo... robé su juguete nuevo que acababa de comprar. Je."
 
 # game/Days/dayFour.rpy:4646
 translate spanish d4_pizza_noPeak_c1fefebc:
@@ -10396,7 +10396,7 @@ translate spanish d4_pizza_noPeak_c1fefebc:
 translate spanish d4_pizza_noPeak_7202b80a:
 
     # mcT "Enough thoughts. I need to shut it all out and sleep on it."
-    mcT "Basta de pensamientos. Necesito dejarlo todo fuera y pensar en ello."
+    mcT "Basta de pensamientos. Necesito scarlo todo fuera y pensar en ello mañana."
 
 # game/Days/dayFour.rpy:4652
 translate spanish d4_pizza_noPeak_b032ab01:
@@ -10450,7 +10450,7 @@ translate spanish d4_pizza_noPeak_bad3e576:
 translate spanish d4_pizza_noPeak_dd561fda:
 
     # suz "Do what?"
-    suz "¿Hacer lo?"
+    suz "¿Hacer que?"
 
 # game/Days/dayFour.rpy:4682
 translate spanish d4_pizza_noPeak_a51654d4:
@@ -10564,7 +10564,7 @@ translate spanish d4_pizza_noPeak_c7923834:
 translate spanish YesPhoneCall_3d9bd455:
 
     # bill "Sup buddy! It's about that time."
-    bill "¡Sup amigo! Es sobre esa época."
+    bill "¡Sup amigo! Es sobre la hora."
 
 # game/Days/dayFour.rpy:4740
 translate spanish YesPhoneCall_2349f74d:
@@ -10624,19 +10624,19 @@ translate spanish YesPhoneCall_0f000138:
 translate spanish YesPhoneCall_622b553d:
 
     # mc "Need me to pop over now?"
-    mc "¿Necesitas que venga ahora?"
+    mc "¿Necesitas que vaya ahora?"
 
 # game/Days/dayFour.rpy:4764
 translate spanish YesPhoneCall_17d60eed:
 
     # bill "Sure that'll work. Shift starts at 8. You've got 30 minutes to get your ass in gear and be on my doorstep!"
-    bill "Seguro que funcionará. El turno comienza a las 8. ¡Tienes 30 minutos para ponerte en marcha y estar en mi puerta!"
+    bill "Seguro que me sirve. El turno comienza a las 8. ¡Tienes 30 minutos para ponerte en marcha y estar en mi puerta!"
 
 # game/Days/dayFour.rpy:4766
 translate spanish YesPhoneCall_8936c80b:
 
     # mc "Right-on [bill]. I'll be there sharply. Still at That New Apartment Complex?"
-    mc "A la derecha [bill]. Estaré allí bruscamente. ¿Sigues en ese nuevo complejo de apartamentos?"
+    mc "Recibido [bill]. Estaré allí bruscamente. ¿Sigues en ese nuevo complejo de apartamentos?"
 
 # game/Days/dayFour.rpy:4768
 translate spanish YesPhoneCall_97c85457:
@@ -10648,7 +10648,7 @@ translate spanish YesPhoneCall_97c85457:
 translate spanish YesPhoneCall_0411ca3e:
 
     # mc "*Ends call*"
-    mc "*Finaliza la llamada*"
+    mc "*Termina la llamada*"
 
 # game/Days/dayFour.rpy:4774
 translate spanish YesPhoneCall_deeefcd7:
@@ -10672,7 +10672,7 @@ translate spanish YesPhoneCall_66d86faa:
 translate spanish YesPhoneCall_df192350:
 
     # mc "You're all wet, my phone is all wet... Whatever will I do with you..."
-    mc "Estás todo mojado, mi teléfono está todo mojado... Lo que sea que haga contigo..."
+    mc "Estás toda mojada, mi teléfono está todo mojado... Lo que sea que haga contigo..."
 
 # game/Days/dayFour.rpy:4787
 translate spanish YesPhoneCall_3dfd37a8:
@@ -10696,13 +10696,13 @@ translate spanish YesPhoneCall_9cc72ef7:
 translate spanish YesPhoneCall_e6fb1711:
 
     # soph "And now... You do this."
-    soph "Y ahora... Haz esto."
+    soph "Y ahora... Haces esto."
 
 # game/Days/dayFour.rpy:4795
 translate spanish YesPhoneCall_b20a7570:
 
     # soph "You... {size=-10}Made me...{/size}"
-    soph "Tú... {size=-10}me hiciste...{/size}"
+    soph "Tú... {size=-10}me lo hiciste...{/size}"
 
 # game/Days/dayFour.rpy:4797
 translate spanish YesPhoneCall_ba20b1d2:
@@ -10810,13 +10810,13 @@ translate spanish YesPhoneCall_0962e1d5:
 translate spanish YesPhoneCall_d5ac0591:
 
     # mc "Come on [bill], don't do me like that. She agreed to it. And we had a very enjoyable time."
-    mc "Vamos [bill], no me hagas así. Ella estuvo de acuerdo. Y lo pasamos muy bien."
+    mc "Vamos [bill], no pongas hagas así. Ella estuvo de acuerdo. Y lo pasamos muy bien."
 
 # game/Days/dayFour.rpy:4838
 translate spanish YesPhoneCall_1667425f:
 
     # soph "E-enjoyable time with who?"
-    soph "¿Tiempo agradable con quién?"
+    soph "¿T-Tiempo agradable con quién?"
 
 # game/Days/dayFour.rpy:4841
 translate spanish YesPhoneCall_5e1bbece:
@@ -11092,7 +11092,7 @@ translate spanish NoPhoneCall_2951beed:
 translate spanish NoPhoneCall_cf511d7b:
 
     # bill "You life saver! Absolutely. Shit, drink the place down for all I care!"
-    bill "¡Tu salvavidas! Absolutamente. ¡Mierda, por lo que a mí me importa, bébete el lugar!"
+    bill "¡Eres un salvavidas! Absolutamente. ¡Mierda, por lo que a mí me importa, bébete el lugar!"
 
 # game/Days/dayFour.rpy:4952
 translate spanish NoPhoneCall_0aa28e1b:
@@ -11170,19 +11170,19 @@ translate spanish NoPhoneCall_0f000138:
 translate spanish NoPhoneCall_622b553d:
 
     # mc "Need me to pop over now?"
-    mc "¿Necesitas que venga ahora?"
+    mc "¿Necesitas que vaya ahora?"
 
 # game/Days/dayFour.rpy:4985
 translate spanish NoPhoneCall_17d60eed:
 
     # bill "Sure that'll work. Shift starts at 8. You've got 30 minutes to get your ass in gear and be on my doorstep!"
-    bill "Seguro que funcionará. El turno comienza a las 8. ¡Tienes 30 minutos para ponerte en marcha y estar en mi puerta!"
+    bill "Eso servirá. El turno comienza a las 8. ¡Tienes 30 minutos para ponerte en marcha y estar en mi puerta!"
 
 # game/Days/dayFour.rpy:4987
 translate spanish NoPhoneCall_8936c80b:
 
     # mc "Right-on [bill]. I'll be there sharply. Still at That New Apartment Complex?"
-    mc "A la derecha [bill]. Estaré allí bruscamente. ¿Sigues en ese nuevo complejo de apartamentos?"
+    mc "A la derecha [bill]. Estaré allí en poco tiempo. ¿Sigues en ese nuevo complejo de apartamentos?"
 
 # game/Days/dayFour.rpy:4989
 translate spanish NoPhoneCall_97c85457:
@@ -11194,7 +11194,7 @@ translate spanish NoPhoneCall_97c85457:
 translate spanish NoPhoneCall_0411ca3e:
 
     # mc "*Ends call*"
-    mc "*Finaliza la llamada*"
+    mc "*Termina la llamada*"
 
 # game/Days/dayFour.rpy:4995
 translate spanish NoPhoneCall_deeefcd7:
@@ -11607,7 +11607,7 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:4110
     old "Hawaiian!"
-    new "¡Hawaiano!"
+    new "¡Hawaiana!"
 
     # game/Days/dayFour.rpy:4110
     old "A funny resolution!"
