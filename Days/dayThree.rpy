@@ -8605,7 +8605,7 @@ translate spanish D3_Sophia_4edd6fcf:
     # mc "Motherf-{p=0.5}{nw}"
     mc "Hijop-{p=0.5}{nw}"
 
-#Traducido por Meronii 2025-04-29
+#Traducido por Meronii 2025-05-03
 translate spanish strings:
 
     # game/Days/dayThree.rpy:25
