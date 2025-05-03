@@ -12125,7 +12125,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1369
     old "Don't."
-    new "No."
+    new "No hacerlo."
 
     # game/Days/dayFive.rpy:1375
     old "\nOnce she agreed, I of course peeked at her putting the vibe on, and got a full view of her juicy ass. Panties intact; But it'll do for now."
