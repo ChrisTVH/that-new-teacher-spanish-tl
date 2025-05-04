@@ -605,13 +605,13 @@ translate spanish dayTwoStart_0ff3b93d:
 translate spanish dayTwoStart_e1517522:
 
     # soph "Oh, right.. Right yeah.. Just day-dreaming, sorry."
-    soph "Oh, claro... Claro, sí... Sólo estoy soñando despierta, lo siento."
+    soph "Oh, claro... Claro, sí... Solo estoy soñando despierta, lo siento."
 
 # game/Days/dayTwo.rpy:298
 translate spanish dayTwoStart_8ce13340:
 
     # soph "Wait no, not {i}day-dreaming{/i}! Just thinking. Yeah. Thinking. No dreaming involved."
-    soph "Espera, no, ¡no {i}soñar despierta{/i}! Sólo estoy pensando. Sí. Pensando. No hay sueños involucrados."
+    soph "Espera, no, ¡no {i}soñar despierta{/i}! Solo estoy pensando. Sí. Pensando. No hay sueños involucrados."
 
 # game/Days/dayTwo.rpy:299
 translate spanish dayTwoStart_2b35b6fe_2:
@@ -719,7 +719,7 @@ translate spanish dayTwoStart_bb9d751b:
 translate spanish dayTwoStart_2ac87c81:
 
     # sophT "Definitely. Just need a distraction. Yes.."
-    sophT "Definitivamente. Sólo necesito una distracción. Sí.."
+    sophT "Definitivamente. Solo necesito una distracción. Sí.."
 
 # game/Days/dayTwo.rpy:347
 translate spanish dayTwoStart_8426bfb0:
@@ -2261,7 +2261,7 @@ translate spanish D2_Morgana_Swim_196d2eab:
 translate spanish D2_Morgana_Swim_a74f4f84:
 
     # mcT "I can't believe I didn't teach her how to stop... At least it's not bad. Just a little scrape."
-    mcT "No puedo creer que no le haya enseñado a parar... Al menos no está mal. Sólo un pequeño rasguño."
+    mcT "No puedo creer que no le haya enseñado a parar... Al menos no está mal. Solo un pequeño rasguño."
 
 # game/Days/dayTwo.rpy:986
 translate spanish D2_Morgana_Swim_3ab7c622:
@@ -2975,7 +2975,7 @@ translate spanish D2_Morgana_Swim_5cce674e:
 translate spanish D2_Morgana_Swim_b69def3f:
 
     # nurse "Just give some commands, and she'll do them."
-    nurse "Sólo dale algunas órdenes y ella las cumplirá."
+    nurse "Solo dale algunas órdenes y ella las cumplirá."
 
 # game/Days/dayTwo.rpy:1229
 translate spanish D2_Morgana_Swim_5f17b1eb:
@@ -3965,7 +3965,7 @@ translate spanish D2_Morgana_Nurse_3b726cfe:
 translate spanish D2_Morgana_Nurse_6f9996be:
 
     # sin "MADE ME LOOK A FOOL!"
-    sin "¡ME HIZO PARECIR UNA TONTA!"
+    sin "¡ME HIZO PARECER UNA TONTA!"
 
 # game/Days/dayTwo.rpy:1637
 translate spanish D2_Morgana_Nurse_8302fe3c:
@@ -4187,19 +4187,19 @@ translate spanish D2_Morgana_Nurse_161f28e2:
 translate spanish D2_Morgana_Nurse_ccd2d98a:
 
     # ella "Grand! I'll try to keep it short; anywho... Just for the essence of time. I'm sure you want to get back to [school_name]."
-    ella "¡Magnífico! Intentaré que sea breve; de todos modos... Sólo por la brevedad del tiempo. Estoy seguro de que quieres volver a [school_name]."
+    ella "¡Magnífico! Intentaré que sea breve; de todos modos... Solo por la brevedad del tiempo. Estoy seguro de que quieres volver a [school_name]."
 
 # game/Days/dayTwo.rpy:1735
 translate spanish D2_Morgana_Nurse_a9aefbbd:
 
     # ella "[school_name] is the only college in the country to have the \"PARE\" curriculum." id D2_Morgana_Nurse_a9aefbbd
-    ella "[school_name] es la única universidad en el país que tiene el plan de estudios \"PARE\"." id D2_Morgana_Nurse_a9aefbbd
+    ella "[school_name] es la única universidad en el país que tiene el plan de estudios \"ICR\"." id D2_Morgana_Nurse_a9aefbbd
 
 # game/Days/dayTwo.rpy:1737
 translate spanish D2_Morgana_Nurse_2205bcaa:
 
     # mc "PARE?"
-    mc "¿PARE?"
+    mc "¿ICR?"
 
 # game/Days/dayTwo.rpy:1739
 translate spanish D2_Morgana_Nurse_02bd314e:
@@ -4613,19 +4613,19 @@ translate spanish D2_Morgana_Nurse_7b2f7381:
 translate spanish D2_Morgana_Nurse_24ae3784:
 
     # principal "*Reading*....PARE...."
-    principal "*Leyendo*....PARE...."
+    principal "*Leyendo*....ICR...."
 
 # game/Days/dayTwo.rpy:1906
 translate spanish D2_Morgana_Nurse_cb9577c5:
 
     # principal "....Reward....Punishment...."
-    principal "....Recompensa....Castigo...."
+    principal "....Intercambio....Castigo...."
 
 # game/Days/dayTwo.rpy:1908
 translate spanish D2_Morgana_Nurse_893e7adf:
 
     # principal "Control.....[player_name]...."
-    principal "Controlar....[player_name]...."
+    principal "Recompensa....[player_name]...."
 
 # game/Days/dayTwo.rpy:1910
 translate spanish D2_Morgana_Nurse_c5c68674:
@@ -5393,7 +5393,7 @@ translate spanish D2_Morgana_Nurse_380ac497:
 translate spanish D2_Morgana_Nurse_631a4eca:
 
     # mc "*Chuckles* No no, relax.. I'm just messing with you."
-    mc "*Risas* No, no, relájate... Sólo estoy jugando contigo."
+    mc "*Risas* No, no, relájate... Solo estoy jugando contigo."
 
 # game/Days/dayTwo.rpy:2217
 translate spanish D2_Morgana_Nurse_356a711a:
@@ -6443,7 +6443,7 @@ translate spanish D2_Nova_Shower_56b18771:
 translate spanish D2_Nova_Shower_5f096d52:
 
     # nova "Thank~Thank you. Just leave me here while I gather myself... I can't move my legs..."
-    nova "Gracias~Gracias. Sólo déjame aquí mientras me recompongo... No puedo mover las piernas..."
+    nova "Gracias~Gracias. Solo déjame aquí mientras me recompongo... No puedo mover las piernas..."
 
 # game/Days/dayTwo.rpy:2691
 translate spanish D2_Nova_Shower_443d214e:
@@ -6503,7 +6503,7 @@ translate spanish D2_Nova_Shower_95c3c324:
 translate spanish D2_Nova_Shower_90904961:
 
     # mcT "[nova] really is a cheeky little minx. It'll be fun to punish or reward her with the PARE system soon."
-    mcT "[nova] realmente es una pequeña descarada. Pronto será divertido castigarla o recompensarla con el sistema PARE."
+    mcT "[nova] realmente es una pequeña descarada. Pronto será divertido castigarla o recompensarla con el sistema ICR."
 
 # game/Days/dayTwo.rpy:2728
 translate spanish D2_Nova_Shower_f4ac1ea3:

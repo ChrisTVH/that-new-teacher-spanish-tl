@@ -452,7 +452,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1857
     old "Audio Filename:"
-    new "Archivo de Audio:"
+    new "Archivo de Sonido:"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
@@ -504,7 +504,7 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "¿Confías en el dispositivo en el que se creó el archivo guardado? Sólo debes elegir sí si eres el único usuario del dispositivo."
+    new "¿Confías en el dispositivo en el que se creó el archivo guardado? Solo debes elegir sí si eres el único usuario del dispositivo."
 
     # renpy/common/00keymap.rpy:323
     old "Failed to save screenshot as %s."
@@ -648,7 +648,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:470
     old "emphasize audio"
-    new "enfatizar el audio"
+    new "enfatizar el sonido"
 
     # renpy/common/00preferences.rpy:479
     old "rollback side"
@@ -696,11 +696,11 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:544
     old "audio when minimized"
-    new "audio cuando está minimizado"
+    new "Reproducir sonido cuando está minimizado"
 
     # renpy/common/00preferences.rpy:553
     old "audio when unfocused"
-    new "audio cuando pierde el foco"
+    new "Reproducir sonido cuando pierde el foco"
 
     # renpy/common/00preferences.rpy:562
     old "web cache preload"

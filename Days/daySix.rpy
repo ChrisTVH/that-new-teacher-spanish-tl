@@ -40,7 +40,7 @@ translate spanish daySixStart_5fcb37c3:
 translate spanish daySixStart_05f26fbd:
 
     # mc "I can only speak to one of you at a time. [soph] gave me a text so I think it's only fair that I hear what she has to say first."
-    mc "Sólo puedo hablar con uno de ustedes a la vez. [soph] me envió un mensaje de texto, así que creo que es justo que escuche lo que ella tiene que decir primero."
+    mc "Solo puedo hablar con uno de ustedes a la vez. [soph] me envió un mensaje de texto, así que creo que es justo que escuche lo que ella tiene que decir primero."
 
 # game/Days/daySix.rpy:16
 translate spanish daySixStart_dfc5f37c:
@@ -448,7 +448,7 @@ translate spanish daySixStart_97e400b9:
 translate spanish daySixStart_453f4965:
 
     # mc "Everything you want, I can provide. You just have to accept your feelings, and be a little bit trusting."
-    mc "Todo lo que quieras, te lo puedo proporcionar. Sólo tienes que aceptar tus sentimientos y ser un poco confiado."
+    mc "Todo lo que quieras, te lo puedo proporcionar. Solo tienes que aceptar tus sentimientos y ser un poco confiado."
 
 # game/Days/daySix.rpy:145
 translate spanish daySixStart_d3806ae0:
@@ -682,7 +682,7 @@ translate spanish daySixStart_6e8c9551:
 translate spanish daySixStart_5e29210f:
 
     # mcT "Little-by-little, I'll break down those barriers. Only time, and persistence will tell."
-    mcT "Poco a poco iré derribando esas barreras. Sólo el tiempo y la perseverancia lo dirán."
+    mcT "Poco a poco iré derribando esas barreras. Solo el tiempo y la perseverancia lo dirán."
 
 # game/Days/daySix.rpy:216
 translate spanish daySixStart_7888d2d6:
@@ -922,7 +922,7 @@ translate spanish daySixStart_f9bdc1dc:
 translate spanish daySixStart_bf676ab9:
 
     # mc "I understand, [suz]... But not everyone likes everything they need to do."
-    mc "Lo entiendo, [suz]... Pero no a todos les gusta todo lo que tienen que hacer."
+    mc "Lo entiendo [suz]... Pero no a todos les gusta todo lo que tienen que hacer."
 
 # game/Days/daySix.rpy:302
 translate spanish daySixStart_6d804a56:
@@ -994,7 +994,7 @@ translate spanish daySixStart_550f6844:
 translate spanish daySixStart_30058361:
 
     # suz "Sure. But now that you mention it, this whole PARE thingy is.. being implemented around the country..?"
-    suz "Seguro. Pero ahora que lo mencionas, ¿todo este asunto del PARE se está implementando en todo el país?"
+    suz "Seguro. Pero ahora que lo mencionas, ¿todo este asunto del ICR se está implementando en todo el país?"
 
 # game/Days/daySix.rpy:327
 translate spanish daySixStart_c3d01312:
@@ -1120,7 +1120,7 @@ translate spanish daySixStart_c14c584c:
 translate spanish daySixStart_3485c7b3:
 
     # mc "It's purely professional, [suz]. I've got my eyes only on one girl."
-    mc "Es puramente profesional, [suz]. Sólo tengo mis ojos puestos en una chica."
+    mc "Es puramente profesional, [suz]. Solo tengo mis ojos puestos en una chica."
 
 # game/Days/daySix.rpy:369
 translate spanish daySixStart_8ba2ec98:
@@ -1564,7 +1564,7 @@ translate spanish daySixStart_ee14d8fc:
 translate spanish daySixStart_c3013d97:
 
     # mcT "She deserves to be treat right, even with this whole PARE system."
-    mcT "Ella merece que la traten bien, incluso con todo este sistema PARE."
+    mcT "Ella merece que la traten bien, incluso con todo este sistema ICR."
 
 # game/Days/daySix.rpy:529
 translate spanish daySixStart_d3f18f45:
@@ -2098,7 +2098,7 @@ translate spanish D6_Sophia_66330b31:
 translate spanish D6_Sophia_48448ebe:
 
     # mcT "Just you wait, [soph]."
-    mcT "Sólo espera, [soph]."
+    mcT "Solo espera, [soph]."
 
 # game/Days/daySix.rpy:760
 translate spanish D6_Sophia_349127be:
@@ -2152,7 +2152,7 @@ translate spanish D6_Sophia_19f0ad33:
 translate spanish D6_Sophia_3c650636:
 
     # sophT "Ahhhh, it's no use!! Maybe just this once.. Just this once I could..."
-    sophT "Ahhhh no sirve de nada!! Tal vez sólo por esta vez... Sólo por esta vez podría..."
+    sophT "Ahhhh no sirve de nada!! Tal vez sólo por esta vez... Solo por esta vez podría..."
 
 # game/Days/daySix.rpy:775
 translate spanish D6_Sophia_6ab4efd2:
@@ -2800,25 +2800,25 @@ translate spanish D6_Sophia_ba5abdd6:
 translate spanish D6_Sophia_e2b8acd2:
 
     # mc "Shower."
-    mc "Ducha."
+    mc "Ducharme."
 
 # game/Days/daySix.rpy:1130
 translate spanish D6_Sophia_ff3a5f01:
 
     # mc "Teeth."
-    mc "Dientes."
+    mc "Cepillarme."
 
 # game/Days/daySix.rpy:1132
 translate spanish D6_Sophia_825cdc19:
 
     # mc "Poop?"
-    mc "¿Caca?"
+    mc "¿Usar el váter?"
 
 # game/Days/daySix.rpy:1135
 translate spanish D6_Sophia_8f177bf2:
 
     # mc "Poop."
-    mc "Caca."
+    mc "Entonces usare el váter."
 
 # game/Days/daySix.rpy:1142
 translate spanish D6_Sophia_5b24790b:
@@ -2992,7 +2992,7 @@ translate spanish D6_Sophia_c20e43ca:
 translate spanish D6_Sophia_34e445e0:
 
     # mc "Come on, don't be shy, you can say it. It's only us two around."
-    mc "Vamos, no seas tímido, puedes decirlo. Sólo estamos nosotros dos alrededor."
+    mc "Vamos, no seas tímido, puedes decirlo. Solo estamos nosotros dos alrededor."
 
 # game/Days/daySix.rpy:1219
 translate spanish D6_Sophia_b94023ee:
@@ -3040,7 +3040,7 @@ translate spanish D6_Sophia_ad0d1c56:
 translate spanish D6_Sophia_31a92ccd:
 
     # mc "Don't worry, [soph]. He didn't see. Don't worry."
-    mc "No te preocupes, [soph]. Él no vio. No te preocupes."
+    mc "No te preocupes [soph]. Él no vio. No te preocupes."
 
 # game/Days/daySix.rpy:1239
 translate spanish D6_Sophia_851d67b7:
@@ -3070,7 +3070,7 @@ translate spanish D6_Sophia_cfe94b2e:
 translate spanish D6_Sophia_e0085301:
 
     # mc "Don't worry, [soph]. I highly doubt he knows. Don't worry."
-    mc "No te preocupes, [soph]. Dudo mucho que lo sepa. No te preocupes."
+    mc "No te preocupes [soph]. Dudo mucho que lo sepa. No te preocupes."
 
 # game/Days/daySix.rpy:1253
 translate spanish D6_Sophia_100de973:
@@ -3544,7 +3544,7 @@ translate spanish D6_Sophia_76418d51:
 translate spanish D6_Sophia_65ee4e07:
 
     # soph "If they mess up, they'll be subject to it... and, or rewarded if they do good.."
-    soph "Si se equivocan, serán sujetos a ello... y, o recompensados si hacen el bien..."
+    soph "Si se equivocan, serán sujetos a ello... y o recompensados si hacen el bien..."
 
 # game/Days/daySix.rpy:1413
 translate spanish D6_Sophia_9c14ba77:
@@ -3598,7 +3598,7 @@ translate spanish D6_Sophia_c8a7cae8:
 translate spanish D6_Sophia_138f395d:
 
     # mcT "I can't help myself. I just have to look."
-    mcT "No puedo evitarlo. Sólo tengo que mirar."
+    mcT "No puedo evitarlo. Solo tengo que mirar."
 
 # game/Days/daySix.rpy:1447
 translate spanish D6_Sophia_87ca4a8e:
@@ -3964,7 +3964,7 @@ translate spanish D6_Sophia_68cc8067:
 translate spanish D6_Sophia_a4f07405:
 
     # mc "Only if there's a race involved."
-    mc "Sólo si hay una carrera involucrada."
+    mc "Solo si hay una carrera involucrada."
 
 # game/Days/daySix.rpy:1645
 translate spanish D6_Sophia_be85ade1:
@@ -4624,7 +4624,7 @@ translate spanish D6_Sophia_fc5a2482:
 translate spanish D6_Sophia_b98ff456:
 
     # clarissa "Just my water bottle. I got thirsty!"
-    clarissa "Sólo mi botella de agua. ¡Tengo sed!"
+    clarissa "Solo mi botella de agua. ¡Tengo sed!"
 
 # game/Days/daySix.rpy:1910
 translate spanish D6_Sophia_a33c14e5:
@@ -4696,7 +4696,7 @@ translate spanish D6_Sophia_eb00d1a4:
 translate spanish D6_Sophia_0e9a989d:
 
     # clarissa "Just some salt, sir.."
-    clarissa "Sólo un poco de sal, señor..."
+    clarissa "Solo un poco de sal, señor..."
 
 # game/Days/daySix.rpy:1938
 translate spanish D6_Sophia_603a7cf2:
@@ -5962,7 +5962,7 @@ translate spanish D6_Sophia_a8daba0a:
 translate spanish D6_Sophia_3d8649ee:
 
     # mc "But that doesn't mean you're {i}lawless{/i}. The PARE system {i}still{/i} applies to you."
-    mc "Pero eso no significa que seas {i}sin ley{/i}. El sistema PARE {i}aún{/i} se aplica a usted."
+    mc "Pero eso no significa que seas {i}sin ley{/i}. El sistema ICR {i}aún{/i} se aplica a usted."
 
 # game/Days/daySix.rpy:2462
 translate spanish D6_Sophia_50878e7b:
@@ -6076,7 +6076,7 @@ translate spanish D6_Sophia_99e104c1:
 translate spanish D6_Sophia_7c3490ee:
 
     # "Her frustration boiled over, and with a sharp motion, she slammed her laptop shut."
-    "Su frustración se desbordó y, con un movimiento brusco, cerró de golpe su computadora portátil."
+    "Su frustración se desbordó y con un movimiento brusco, cerró de golpe su computadora portátil."
 
 # game/Days/daySix.rpy:2512
 translate spanish D6_Sophia_f75465b2:
@@ -6388,7 +6388,7 @@ translate spanish D6_Sophia_859a034f:
 translate spanish D6_Sophia_1bf3d64d:
 
     # mcT "Given the PARE system, and [clarissa] being terrified of someone hurting her, they might prefer a location with fewer prying eyes..."
-    mcT "Dado el sistema PARE y [clarissa] aterrorizados de que alguien la lastime, es posible que prefieran un lugar con menos miradas indiscretas..."
+    mcT "Dado el sistema ICR y [clarissa] aterrorizados de que alguien la lastime, es posible que prefieran un lugar con menos miradas indiscretas..."
 
 # game/Days/daySix.rpy:2639
 translate spanish D6_Sophia_71af9dcb:
@@ -6976,7 +6976,7 @@ translate spanish D6_Sophia_25f921e4:
 translate spanish D6_Sophia_ac4f81d7:
 
     # iris "H-he's just being rebelious. He'll come around."
-    iris "Sólo está siendo rebelde. Él se recuperará."
+    iris "Solo está siendo rebelde. Él se recuperará."
 
 # game/Days/daySix.rpy:2905
 translate spanish D6_Sophia_2c99dd49:
@@ -7984,7 +7984,7 @@ translate spanish D6_Sophia_a5d4c117_1:
 translate spanish D6_Sophia_01640b13:
 
     # mcT "How? I'm just renting a room at [soph]'s..."
-    mcT "¿Cómo? Sólo estoy alquilando una habitación en casa de [soph]..."
+    mcT "¿Cómo? Solo estoy alquilando una habitación en casa de [soph]..."
 
 # game/Days/daySix.rpy:3292
 translate spanish D6_Sophia_83ad7e84:
@@ -8716,7 +8716,7 @@ translate spanish D6_Sophia_7911b12d:
 translate spanish D6_Sophia_98372c52:
 
     # mc "I'm just curious about how you're handling it. You know, the aftermath."
-    mc "Sólo tengo curiosidad por saber cómo lo estás manejando. Ya sabes, las consecuencias."
+    mc "Solo tengo curiosidad por saber cómo lo estás manejando. Ya sabes, las consecuencias."
 
 # game/Days/daySix.rpy:3548
 translate spanish D6_Sophia_3108c1fc:
@@ -8764,13 +8764,13 @@ translate spanish D6_Sophia_14adf4f1:
 translate spanish D6_Sophia_c34b8310:
 
     # geo "I just need to understand why it happened..."
-    geo "Sólo necesito entender por qué sucedió..."
+    geo "Solo necesito entender por qué sucedió..."
 
 # game/Days/daySix.rpy:3564
 translate spanish D6_Sophia_cd4aa58f:
 
     # mc "Unfortunately, [geo]. I'm not a counsellor. I'm just a guy you met at the club."
-    mc "Desafortunadamente, [geo]. No soy un consejero. Sólo soy un chico que conociste en el club."
+    mc "Desafortunadamente, [geo]. No soy un consejero. Solo soy un chico que conociste en el club."
 
 # game/Days/daySix.rpy:3565
 translate spanish D6_Sophia_b98c56db:
@@ -8884,7 +8884,7 @@ translate spanish D6_Sophia_6797f003:
 translate spanish D6_Sophia_75a14f9a:
 
     # mc "The contract, and the PARE system."
-    mc "El contrato y el sistema PARE."
+    mc "El contrato y el sistema ICR."
 
 # game/Days/daySix.rpy:3608
 translate spanish D6_Sophia_435ddeb9:
@@ -8914,7 +8914,7 @@ translate spanish D6_Sophia_86460a7a:
 translate spanish D6_Sophia_2b7fa3bf:
 
     # mc "You know, with the contract, and the PARE system."
-    mc "Ya sabes, con el contrato y el sistema PARE."
+    mc "Ya sabes, con el contrato y el sistema ICR."
 
 # game/Days/daySix.rpy:3618
 translate spanish D6_Sophia_18dc2ab2:
@@ -9778,7 +9778,7 @@ translate spanish D6_Sophia_8f183d57:
 translate spanish D6_Sophia_d7159528:
 
     # "Old Grandma" "Alright then, my dear. Just remember, I'm here if you need me!"
-    "vieja abuela" "Muy bien, querida. Sólo recuerda, ¡estoy aquí si me necesitas!"
+    "vieja abuela" "Muy bien, querida. Solo recuerda, ¡estoy aquí si me necesitas!"
 
 # game/Days/daySix.rpy:3999
 translate spanish D6_Sophia_4a9c0981:
@@ -9988,7 +9988,7 @@ translate spanish D6_Georgia_b5845156:
 translate spanish D6_Georgia_e5a7ccc5:
 
     # mc "No favour gives you immunity from the PARE system."
-    mc "Ningún favor te da inmunidad del sistema PARE."
+    mc "Ningún favor te da inmunidad del sistema ICR."
 
 # game/Days/daySix.rpy:4083
 translate spanish D6_Georgia_cca30e0b:
@@ -10540,7 +10540,7 @@ translate spanish D6_Georgia_44029659:
 translate spanish D6_Georgia_684af8e2:
 
     # geo "Ah.. Just... Just be gentle..."
-    geo "Ah... Sólo... Sólo sé amable..."
+    geo "Ah... Solo... Solo sé amable..."
 
 # game/Days/daySix.rpy:4264
 translate spanish D6_Georgia_5928bfbf:
@@ -11914,7 +11914,7 @@ translate spanish D6_Georgia_d7f9ba8d:
 translate spanish D6_Georgia_3e1d1637:
 
     # mc "I promise no one's going to see it. Just for me."
-    mc "Prometo que nadie lo verá. Sólo para mí."
+    mc "Prometo que nadie lo verá. Solo para mí."
 
 # game/Days/daySix.rpy:4779
 translate spanish D6_Georgia_59951414:
@@ -11938,7 +11938,7 @@ translate spanish D6_Georgia_d78e8434:
 translate spanish D6_Georgia_b2c5d9c3:
 
     # mc "You're too hot, [geo]. I just need to have a permanent memory of this."
-    mc "Tienes demasiado calor, [geo]. Sólo necesito tener un recuerdo permanente de esto."
+    mc "Tienes demasiado calor, [geo]. Solo necesito tener un recuerdo permanente de esto."
 
 # game/Days/daySix.rpy:4787
 translate spanish D6_Georgia_219050fc_1:
@@ -12484,7 +12484,7 @@ translate spanish D6_Georgia_637b8e5e:
 translate spanish D6_Georgia_add6dd04:
 
     # nobody "Bro, chill. I just deliver parcels."
-    nobody "Hermano, relájate. Sólo entrego paquetes."
+    nobody "Hermano, relájate. Solo entrego paquetes."
 
 # game/Days/daySix.rpy:5022
 translate spanish D6_Georgia_37e8467e:
@@ -12574,7 +12574,7 @@ translate spanish D6_Georgia_e11a3707:
 translate spanish D6_Georgia_f29f8823:
 
     # "Delivery Boy" "I don't know, man. I just deliver parcels like my life depends on it."
-    "repartidor" "No lo sé, hombre. Sólo entrego paquetes como si mi vida dependiera de ello."
+    "repartidor" "No lo sé, hombre. Solo entrego paquetes como si mi vida dependiera de ello."
 
 # game/Days/daySix.rpy:5055
 translate spanish D6_Georgia_afdac383:
@@ -12820,7 +12820,7 @@ translate spanish D6_Georgia_dd238310:
 translate spanish D6_Georgia_0a13631b:
 
     # clarissa "Oh, nothing! Just er.. normal girl talk!"
-    clarissa "¡Ah, nada! Sólo... ¡charla normal de chicas!"
+    clarissa "¡Ah, nada! Solo... ¡charla normal de chicas!"
 
 # game/Days/daySix.rpy:5146
 translate spanish D6_Georgia_bdda7519:
@@ -14896,7 +14896,7 @@ translate spanish D6_Georgia_16b66bd5:
 translate spanish D6_Georgia_8e00ffd1:
 
     # mcT "Get them the fuck out of there, and find out what the fuck Sinergy actually wants with this PARE system."
-    mcT "Sácalos de allí y descubre qué carajo quiere realmente Sinergy con este sistema PARE."
+    mcT "Sácalos de allí y descubre qué carajo quiere realmente Sinergy con este sistema ICR."
 
 # game/Days/daySix.rpy:5975
 translate spanish D6_Georgia_4ab5fbef:
@@ -15820,7 +15820,7 @@ translate spanish D6_Georgia_a7507372:
 translate spanish D6_Georgia_346867eb:
 
     # "She examines the card, turning it over in her hands, but it reveals nothing special. Just a fancy-looking Ace of Clubs."
-    "Examina la tarjeta y la gira entre sus manos, pero no revela nada especial. Sólo un as de tréboles de aspecto elegante."
+    "Examina la tarjeta y la gira entre sus manos, pero no revela nada especial. Solo un as de tréboles de aspecto elegante."
 
 # game/Days/daySix.rpy:6316
 translate spanish D6_Georgia_dc4dd621:
@@ -16216,7 +16216,7 @@ translate spanish D6_Georgia_c2d95b65:
 translate spanish D6_Georgia_593f5059:
 
     # raya "They're only big because she's fat."
-    raya "Sólo son grandes porque ella está gorda."
+    raya "Solo son grandes porque ella está gorda."
 
 # game/Days/daySix.rpy:6485
 translate spanish D6_Georgia_ec27214c:
@@ -16576,7 +16576,7 @@ translate spanish D6_Georgia_810449e5:
 translate spanish D6_Georgia_6f8183e3:
 
     # ella "Show me how you'd punish a student in accordance with the PARE system."
-    ella "Muéstrame cómo castigarías a un estudiante de acuerdo con el sistema PARE."
+    ella "Muéstrame cómo castigarías a un estudiante de acuerdo con el sistema ICR."
 
 # game/Days/daySix.rpy:6609
 translate spanish D6_Georgia_53df8fc6:
@@ -17104,7 +17104,7 @@ translate spanish D6_Georgia_cddaff8e:
 translate spanish D6_Georgia_5d873d45:
 
     # mcT "Using the PARE system on her could be satisfying, but is it the right thing to do?"
-    mcT "Usar el sistema PARE en ella podría ser satisfactorio, pero ¿es lo correcto?"
+    mcT "Usar el sistema ICR en ella podría ser satisfactorio, pero ¿es lo correcto?"
 
 # game/Days/daySix.rpy:6837
 translate spanish D6_Georgia_1027fb30:
@@ -17128,7 +17128,7 @@ translate spanish D6_Georgia_3609297a:
 translate spanish D6_Georgia_1f5360e6:
 
     # mc "Just let me do my job, okay?"
-    mc "Sólo déjame hacer mi trabajo, ¿vale?"
+    mc "Solo déjame hacer mi trabajo, ¿vale?"
 
 # game/Days/daySix.rpy:6848
 translate spanish D6_Georgia_44f2271c:
@@ -17158,7 +17158,7 @@ translate spanish D6_Georgia_42c631c0:
 translate spanish D6_Georgia_5fbd5f7c:
 
     # mcT "You'll have your turn, [ella]. Just you wait."
-    mcT "Ya tendrás tu turno, [ella]. Sólo espera."
+    mcT "Ya tendrás tu turno, [ella]. Solo espera."
 
 # game/Days/daySix.rpy:6857
 translate spanish D6_Georgia_948ed1dc:
@@ -17176,7 +17176,7 @@ translate spanish D6_Georgia_0bb82327:
 translate spanish D6_Georgia_8b4cae97:
 
     # mcT "You'll be on the receiving end of the PARE system."
-    mcT "Estarás en el extremo receptor del sistema PARE."
+    mcT "Estarás en el extremo receptor del sistema ICR."
 
 # game/Days/daySix.rpy:6862
 translate spanish D6_Georgia_8b8cd29e:
@@ -17200,7 +17200,7 @@ translate spanish D6_Georgia_9329844f:
 translate spanish D6_Georgia_ce6a9de1:
 
     # mc "Just me do my job, okay?"
-    mc "Sólo yo hago mi trabajo, ¿vale?"
+    mc "Solo yo hago mi trabajo, ¿vale?"
 
 # game/Days/daySix.rpy:6869
 translate spanish D6_Georgia_44f2271c_1:
@@ -17566,7 +17566,7 @@ translate spanish D6_Chrissy_8419929f:
 translate spanish D6_Chrissy_c05fc086:
 
     # suz "Huh? Oh, yeah! I'm just curious what it's like.."
-    suz "¿Eh? ¡Oh sí! Sólo tengo curiosidad por saber cómo es..."
+    suz "¿Eh? ¡Oh sí! Solo tengo curiosidad por saber cómo es..."
 
 # game/Days/daySix.rpy:7004
 translate spanish D6_Chrissy_be5ca4e4:
@@ -17722,7 +17722,7 @@ translate spanish D6_Chrissy_8b7659e4:
 translate spanish D6_Chrissy_eb37354d:
 
     # ella "That's to be expected from her introduction to the PARE system."
-    ella "Eso es de esperarse de su introducción al sistema PARE."
+    ella "Eso es de esperarse de su introducción al sistema ICR."
 
 # game/Days/daySix.rpy:7067
 translate spanish D6_Chrissy_3569334c:
@@ -17944,7 +17944,7 @@ translate spanish D6_Chrissy_c4730886:
 translate spanish D6_Chrissy_5d873d45:
 
     # mcT "Using the PARE system on her could be satisfying, but is it the right thing to do?"
-    mcT "Usar el sistema PARE en ella podría ser satisfactorio, pero ¿es lo correcto?"
+    mcT "Usar el sistema ICR en ella podría ser satisfactorio, pero ¿es lo correcto?"
 
 # game/Days/daySix.rpy:7135
 translate spanish D6_Chrissy_38656fd7:
@@ -17974,7 +17974,7 @@ translate spanish D6_Chrissy_3609297a:
 translate spanish D6_Chrissy_1f5360e6:
 
     # mc "Just let me do my job, okay?"
-    mc "Sólo déjame hacer mi trabajo, ¿vale?"
+    mc "Solo déjame hacer mi trabajo, ¿vale?"
 
 # game/Days/daySix.rpy:7148
 translate spanish D6_Chrissy_44f2271c:
@@ -18004,7 +18004,7 @@ translate spanish D6_Chrissy_42c631c0:
 translate spanish D6_Chrissy_5fbd5f7c:
 
     # mcT "You'll have your turn, [ella]. Just you wait."
-    mcT "Ya tendrás tu turno, [ella]. Sólo espera."
+    mcT "Ya tendrás tu turno, [ella]. Solo espera."
 
 # game/Days/daySix.rpy:7157
 translate spanish D6_Chrissy_948ed1dc:
@@ -18022,7 +18022,7 @@ translate spanish D6_Chrissy_0bb82327:
 translate spanish D6_Chrissy_8b4cae97:
 
     # mcT "You'll be on the receiving end of the PARE system."
-    mcT "Estarás en el extremo receptor del sistema PARE."
+    mcT "Estarás en el extremo receptor del sistema ICR."
 
 # game/Days/daySix.rpy:7160
 translate spanish D6_Chrissy_8b8cd29e:
@@ -18046,7 +18046,7 @@ translate spanish D6_Chrissy_9329844f:
 translate spanish D6_Chrissy_1f5360e6_1:
 
     # mc "Just let me do my job, okay?"
-    mc "Sólo déjame hacer mi trabajo, ¿vale?"
+    mc "Solo déjame hacer mi trabajo, ¿vale?"
 
 # game/Days/daySix.rpy:7168
 translate spanish D6_Chrissy_44f2271c_1:
@@ -19572,7 +19572,7 @@ translate spanish strings:
 
     # game/Days/daySix.rpy:1485
     old "Just walk in."
-    new "Sólo entra."
+    new "Solo entra."
 
     # game/Days/daySix.rpy:1485
     old "Suzie topless."
@@ -19720,7 +19720,7 @@ translate spanish strings:
 
     # game/Days/daySix.rpy:3665
     old "Georgia PARE system punishment."
-    new "Castigo del sistema PARE de Georgia."
+    new "Castigo del sistema ICR de Georgia."
 
     # game/Days/daySix.rpy:3666
     old "Let her off."
@@ -19828,7 +19828,7 @@ translate spanish strings:
 
     # game/Days/daySix.rpy:5756
     old "\n{u}{b}Day 6:{/b}{/u}\nI didn't log Stella's punishment from the changing room because she wasn't part of the PARE system. She is now, so I logged it officially as a punishment."
-    new "\n{u}{b}Día 6:{/b}{/u}\nNo registré el castigo de Stella desde el vestuario porque ella no era parte del sistema PARE. Ahora lo es, así que lo registré oficialmente como castigo."
+    new "\n{u}{b}Día 6:{/b}{/u}\nNo registré el castigo de Stella desde el vestuario porque ella no era parte del sistema ICR. Ahora lo es, así que lo registré oficialmente como castigo."
 
     # game/Days/daySix.rpy:5789
     old "Do you set an example out of your assistants?"
@@ -19916,11 +19916,11 @@ translate spanish strings:
 
     # game/Days/daySix.rpy:6839
     old "She deserves to be subject to the PARE system."
-    new "Ella merece estar sujeta al sistema PARE."
+    new "Ella merece estar sujeta al sistema ICR."
 
     # game/Days/daySix.rpy:6839
     old "When the time arises, you can subject Ella to the PARE system."
-    new "Cuando llegue el momento, podrás someter a Ella al sistema PARE."
+    new "Cuando llegue el momento, podrás someter a Ella al sistema ICR."
 
     # game/Days/daySix.rpy:6840
     old "No. After what she's done, and behaves, she just needs to go."
@@ -20036,5 +20036,5 @@ translate spanish strings:
 
     # game/Days/daySix.rpy:6768
     old "\nInterestingly she bent down right in front of my crotch to take her skirt off... I just had to sneakily take a picture of her."
-    new "\nCuriosamente, se inclinó justo delante de mi entrepierna para quitarse la falda... Sólo tuve que tomarle una foto a escondidas."
+    new "\nCuriosamente, se inclinó justo delante de mi entrepierna para quitarse la falda... Solo tuve que tomarle una foto a escondidas."
 

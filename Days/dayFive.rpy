@@ -1096,7 +1096,7 @@ translate spanish dayFiveStart_1c7a3a92_1:
 translate spanish dayFiveStart_a0b118f4:
 
     # mc "... Just... my assistent. Yes. My assistant."
-    mc "... Sólo... mi asistente. Sí. Mi asistente."
+    mc "... Solo... mi asistente. Sí. Mi asistente."
 
 # game/Days/dayFive.rpy:475
 translate spanish dayFiveStart_726e773c:
@@ -1702,7 +1702,7 @@ translate spanish dayFiveStart_4b387594:
 translate spanish dayFiveStart_4a1dec36:
 
     # clarissa "And how the PARE system correlates to that!"
-    clarissa "¡Y cómo se correlaciona el sistema PARE con eso!"
+    clarissa "¡Y cómo se correlaciona el sistema ICR con eso!"
 
 # game/Days/dayFive.rpy:742
 translate spanish dayFiveStart_ad8a36bf:
@@ -1756,7 +1756,7 @@ translate spanish dayFiveStart_b1e2e43c:
 translate spanish dayFiveStart_32ad3de0:
 
     # mc "Don't worry, [clarissa]. I will make absolutely sure I'll get the best results for Sinergy. I will not be replaced. You have my word on that!"
-    mc "No te preocupes, [clarissa]. Me aseguraré absolutamente de obtener los mejores resultados con Sinergy. No seré reemplazado. ¡Tienes mi palabra al respecto!"
+    mc "No te preocupes [clarissa]. Me aseguraré absolutamente de obtener los mejores resultados con Sinergy. No seré reemplazado. ¡Tienes mi palabra al respecto!"
 
 # game/Days/dayFive.rpy:756
 translate spanish dayFiveStart_a33388cf:
@@ -1768,7 +1768,7 @@ translate spanish dayFiveStart_a33388cf:
 translate spanish dayFiveStart_ce649b8c:
 
     # clarissa "Number 2:\nAs referenced in the contract you were given on Friday, you must adhere to the Punishment and Reward Exchange (PARE) system."
-    clarissa "Número 2:\nComo se indica en el contrato que te entregaron el viernes, debes cumplir con el sistema de Intercambio de Castigos y Recompensas (PARE)."
+    clarissa "Número 2:\nComo se indica en el contrato que te entregaron el viernes, debes cumplir con el sistema de Intercambio de Castigos y Recompensas (ICR)."
 
 # game/Days/dayFive.rpy:760
 translate spanish dayFiveStart_cfd4cd47:
@@ -1978,7 +1978,7 @@ translate spanish dayFiveStart_ee1b8719:
 translate spanish dayFiveStart_5a6cd113:
 
     # mc "The PARE system... How should I go about it? As in, what are the requirements involved here?"
-    mc "El sistema PARE... ¿Cómo debo hacerlo? ¿Cuáles son los requisitos involucrados aquí?"
+    mc "El sistema ICR... ¿Cómo debo hacerlo? ¿Cuáles son los requisitos involucrados aquí?"
 
 # game/Days/dayFive.rpy:833
 translate spanish dayFiveStart_ec9b55f3:
@@ -2008,7 +2008,7 @@ translate spanish dayFiveStart_dce25947:
 translate spanish dayFiveStart_61d3fb3a:
 
     # clarissa "However, Sinergy is aware that there are always problem students, and to provide the best results you are to be expected to know what is, and what is not, the right course of action."
-    clarissa "Sin embargo, Sinergy es consciente de que siempre hay estudiantes problemáticos y, para proporcionar los mejores resultados, se espera que usted sepa qué es y qué no es el curso de acción correcto."
+    clarissa "Sin embargo, Sinergy es consciente de que siempre hay estudiantes problemáticos y para proporcionar los mejores resultados, se espera que usted sepa qué es y qué no es el curso de acción correcto."
 
 # game/Days/dayFive.rpy:842
 translate spanish dayFiveStart_d7b328a9:
@@ -2146,13 +2146,13 @@ translate spanish dayFiveStart_88337b1b:
 translate spanish dayFiveStart_b237f83f:
 
     # clarissa "They may not speak about the nature of their punishments, or the PARE system in any way, to anyone who is on or while in the male side of college. Additionally, they may not talk about the PARE system with any male household members, family or otherwise." id dayFiveStart_b237f83f
-    clarissa "No pueden hablar sobre la naturaleza de sus castigos, ni sobre el sistema PARE de ninguna manera, con nadie que esté o mientras esté en el lado masculino de la universidad. Además, no pueden hablar sobre el sistema PARE con ningún miembro masculino del hogar, familiar o de otro tipo." id dayFiveStart_b237f83f
+    clarissa "No pueden hablar sobre la naturaleza de sus castigos, ni sobre el sistema ICR de ninguna manera, con nadie que esté o mientras esté en el lado masculino de la universidad. Además, no pueden hablar sobre el sistema ICR con ningún miembro masculino del hogar, familiar o de otro tipo." id dayFiveStart_b237f83f
 
 # game/Days/dayFive.rpy:899
 translate spanish dayFiveStart_b6402f2e:
 
     # clarissa "A punishment in a communal area such as the library where both sides of the college have access to, is not allowed. The male students and staff must not know that you are the Enforcer, or that the PARE system exists." id dayFiveStart_b6402f2e
-    clarissa "No se permite un castigo en un área común como la biblioteca a la que tienen acceso ambos lados de la universidad. Los estudiantes varones y el personal no deben saber que usted es el Enforcer o que existe el sistema PARE." id dayFiveStart_b6402f2e
+    clarissa "No se permite un castigo en un área común como la biblioteca a la que tienen acceso ambos lados de la universidad. Los estudiantes varones y el personal no deben saber que usted es el Enforcer o que existe el sistema ICR." id dayFiveStart_b6402f2e
 
 # game/Days/dayFive.rpy:901
 translate spanish dayFiveStart_ee124047:
@@ -2242,7 +2242,7 @@ translate spanish dayFiveStart_5247c16c:
 translate spanish dayFiveStart_10017119:
 
     # mc "[clarissa], the PARE system extends to you too, doesn't it? Since it affects the staff?"
-    mc "[clarissa], el sistema PARE se extiende a ti también, ¿no? ¿Ya que afecta al personal?"
+    mc "[clarissa], el sistema ICR se extiende a ti también, ¿no? ¿Ya que afecta al personal?"
 
 # game/Days/dayFive.rpy:929
 translate spanish dayFiveStart_cf24824a_3:
@@ -2524,7 +2524,7 @@ translate spanish dayFiveStart_43f69435:
 translate spanish dayFiveStart_1d56288c:
 
     # mc "On Friday, [principal] acted in a way that is punishable. Therefore I'm going to carry out that punishment in line with the PARE system."
-    mc "El viernes, [principal] actuó de forma punible. Por lo tanto voy a ejecutar ese castigo de acuerdo con el sistema PARE."
+    mc "El viernes, [principal] actuó de forma punible. Por lo tanto voy a ejecutar ese castigo de acuerdo con el sistema ICR."
 
 # game/Days/dayFive.rpy:1034
 translate spanish dayFiveStart_923657de:
@@ -4006,7 +4006,7 @@ translate spanish d5_pick_vibration_value_fbdd9fc0:
 translate spanish d5_pick_vibration_value_d0dbbfdd:
 
     # mc "We'll go over the uniform policy changes, the Contract and the PARE system."
-    mc "Repasaremos los cambios en la política uniforme, el Contrato y el sistema PARE."
+    mc "Repasaremos los cambios en la política uniforme, el Contrato y el sistema ICR."
 
 # game/Days/dayFive.rpy:1714
 translate spanish d5_pick_vibration_value_9771177a:
@@ -5572,7 +5572,7 @@ translate spanish D5_Principal_3_6f5c4019:
 translate spanish D5_Principal_3_1c2fa7e3:
 
     # mc "And yes, the PARE system is quite strange. It was my first time hearing about it on Friday too."
-    mc "Y sí, el sistema PARE es bastante extraño. También fue la primera vez que escuché sobre esto el viernes."
+    mc "Y sí, el sistema ICR es bastante extraño. También fue la primera vez que escuché sobre esto el viernes."
 
 # game/Days/dayFive.rpy:2592
 translate spanish D5_Principal_3_46bbc283:
@@ -5620,7 +5620,7 @@ translate spanish D5_Principal_3_0c8e8351:
 translate spanish D5_Principal_3_4a5d0d64:
 
     # mc "If you are caught wearing a ribbon on your head after this, you will be punished in accordance with the PARE system."
-    mc "Si después de esto te pillan llevando una cinta en la cabeza, serás sancionado de acuerdo con el sistema PARE."
+    mc "Si después de esto te pillan llevando una cinta en la cabeza, serás sancionado de acuerdo con el sistema ICR."
 
 # game/Days/dayFive.rpy:2618
 translate spanish D5_Principal_3_316d9791:
@@ -5884,7 +5884,7 @@ translate spanish D5_Principal_3_0232113d:
 translate spanish D5_Principal_3_b0b649b6:
 
     # mc "Relationships could distract you from your studies, and therefore are not permitted. If you believe that there is a compelling reason that you won't be distracted by such things, we can set up an interview and discuss."
-    mc "Las relaciones podrían distraerte de tus estudios y, por lo tanto, no están permitidas. Si cree que hay una razón convincente por la que no se distraerá con esas cosas, podemos programar una entrevista y discutirlo."
+    mc "Las relaciones podrían distraerte de tus estudios y por lo tanto, no están permitidas. Si cree que hay una razón convincente por la que no se distraerá con esas cosas, podemos programar una entrevista y discutirlo."
 
 # game/Days/dayFive.rpy:2773
 translate spanish D5_Principal_3_7a8c6a30:
@@ -5920,7 +5920,7 @@ translate spanish D5_Principal_3_aaed25fa:
 translate spanish D5_Principal_3_d2a714e2:
 
     # mc "Sinergy wants you to to be model students. Paving the way to a bright future for this nation, and as such there are going to be strict rules regarding tests."
-    mc "Sinergy quiere que seáis estudiantes modelo. Allanando el camino hacia un futuro brillante para esta nación y, como tal, habrá reglas estrictas con respecto a las pruebas."
+    mc "Sinergy quiere que seáis estudiantes modelo. Allanando el camino hacia un futuro brillante para esta nación y como tal, habrá reglas estrictas con respecto a las pruebas."
 
 # game/Days/dayFive.rpy:2784
 translate spanish D5_Principal_3_b1cffda6:
@@ -5932,7 +5932,7 @@ translate spanish D5_Principal_3_b1cffda6:
 translate spanish D5_Principal_3_6309b34e:
 
     # mc "The lowest performing student in each class in any given test will be punished in accordance with the PARE system."
-    mc "El estudiante con el desempeño más bajo en cada clase en cualquier prueba será sancionado de acuerdo con el sistema PARE."
+    mc "El estudiante con el desempeño más bajo en cada clase en cualquier prueba será sancionado de acuerdo con el sistema ICR."
 
 # game/Days/dayFive.rpy:2788
 translate spanish D5_Principal_3_ad6fbfcd:
@@ -6406,7 +6406,7 @@ translate spanish D5_Principal_3_2ca0f341:
 translate spanish D5_Principal_3_86dd911f:
 
     # mc "But I do have a job to do, and unfortunately this is one of the things that needs to happen. I'll punish you if I need to, but I'm not going to go out and look for an excuse to do it." id D5_Principal_3_86dd911f
-    mc "Pero tengo un trabajo que hacer y, lamentablemente, esta es una de las cosas que deben suceder. Te castigaré si es necesario, pero no voy a salir a buscar una excusa para hacerlo." id D5_Principal_3_86dd911f
+    mc "Pero tengo un trabajo que hacer y lamentablemente, esta es una de las cosas que deben suceder. Te castigaré si es necesario, pero no voy a salir a buscar una excusa para hacerlo." id D5_Principal_3_86dd911f
 
 # game/Days/dayFive.rpy:3076
 translate spanish D5_Principal_3_3591ccb3:
@@ -6694,7 +6694,7 @@ translate spanish D5_Principal_3_2cc207c6:
 translate spanish D5_Principal_3_7dfe3931:
 
     # mc "I er... know it's a little strange, but you've all read this in the contracts and of course signed them in approval, or you wouldn't be sat here now."
-    mc "Yo... sé que es un poco extraño, pero todos ustedes leyeron esto en los contratos y, por supuesto, los firmaron con aprobación, o no estarían sentados aquí ahora."
+    mc "Yo... sé que es un poco extraño, pero todos ustedes leyeron esto en los contratos y por supuesto, los firmaron con aprobación, o no estarían sentados aquí ahora."
 
 # game/Days/dayFive.rpy:3198
 translate spanish D5_Principal_3_44407d3f:
@@ -6790,7 +6790,7 @@ translate spanish D5_Principal_3_e948938e:
 translate spanish D5_Principal_3_7dfe3931_1:
 
     # mc "I er... know it's a little strange, but you've all read this in the contracts and of course signed them in approval, or you wouldn't be sat here now."
-    mc "Yo... sé que es un poco extraño, pero todos ustedes leyeron esto en los contratos y, por supuesto, los firmaron con aprobación, o no estarían sentados aquí ahora."
+    mc "Yo... sé que es un poco extraño, pero todos ustedes leyeron esto en los contratos y por supuesto, los firmaron con aprobación, o no estarían sentados aquí ahora."
 
 # game/Days/dayFive.rpy:3227
 translate spanish D5_Principal_3_44407d3f_1:
@@ -6940,7 +6940,7 @@ translate spanish D5_Principal_3_02a0c960:
 translate spanish D5_Principal_3_6b697f95:
 
     # belle "What if we don't intend on being punished, therefore can we never get a reward?"
-    belle "¿Qué pasa si no tenemos la intención de ser castigados y, por lo tanto, nunca podremos obtener una recompensa?"
+    belle "¿Qué pasa si no tenemos la intención de ser castigados y por lo tanto, nunca podremos obtener una recompensa?"
 
 # game/Days/dayFive.rpy:3295
 translate spanish D5_Principal_3_565fbf05:
@@ -7108,7 +7108,7 @@ translate spanish D5_Principal_3_299fed19:
 translate spanish D5_Principal_3_549c157d:
 
     # mc "You don't need to be punished in order to get a reward. That's the whole point of the 'Exchange' part in PARE."
-    mc "No es necesario que te castiguen para obtener una recompensa. Ese es el objetivo de la parte 'Intercambio' en PARE."
+    mc "No es necesario que te castiguen para obtener una recompensa. Ese es el objetivo de la parte 'Intercambio' en ICR."
 
 # game/Days/dayFive.rpy:3350
 translate spanish D5_Principal_3_ae1a5c78:
@@ -7252,7 +7252,7 @@ translate spanish D5_Principal_3_299fed19_1:
 translate spanish D5_Principal_3_549c157d_1:
 
     # mc "You don't need to be punished in order to get a reward. That's the whole point of the 'Exchange' part in PARE."
-    mc "No es necesario que te castiguen para obtener una recompensa. Ese es el objetivo de la parte 'Intercambio' en PARE."
+    mc "No es necesario que te castiguen para obtener una recompensa. Ese es el objetivo de la parte 'Intercambio' en ICR."
 
 # game/Days/dayFive.rpy:3396
 translate spanish D5_Principal_3_ae1a5c78_1:
@@ -7360,7 +7360,7 @@ translate spanish D5_Principal_3_7a003156:
 translate spanish D5_Principal_3_c6f632b8:
 
     # mc "We all must follow the PARE system. It is what it is."
-    mc "Todos debemos seguir el sistema PARE. Es lo que es."
+    mc "Todos debemos seguir el sistema ICR. Es lo que es."
 
 # game/Days/dayFive.rpy:3428
 translate spanish D5_Principal_3_015255a2:
@@ -7618,7 +7618,7 @@ translate spanish D5_Principal_3_d06dfed8:
 translate spanish D5_Principal_3_273d9204:
 
     # mel "Just a guy wanting to abuse his power. No thank you."
-    mel "Sólo un tipo que quiere abusar de su poder. No, gracias."
+    mel "Solo un tipo que quiere abusar de su poder. No, gracias."
 
 # game/Days/dayFive.rpy:3551
 translate spanish D5_Principal_3_646f04f8:
@@ -7654,7 +7654,7 @@ translate spanish D5_Principal_3_ded92c1b:
 translate spanish D5_Principal_3_3adaeb0a:
 
     # mel "I will continue working here. Just because some guy comes in thinking he's all sleezy and can get the better of me."
-    mel "Seguiré trabajando aquí. Sólo porque un tipo entra pensando que es un sórdido y puede sacar lo mejor de mí."
+    mel "Seguiré trabajando aquí. Solo porque un tipo entra pensando que es un sórdido y puede sacar lo mejor de mí."
 
 # game/Days/dayFive.rpy:3563
 translate spanish D5_Principal_3_b2be93e4:
@@ -10054,7 +10054,7 @@ translate spanish d5_endSpank_9ea745b4:
 translate spanish d5_endSpank_d2dc0bed:
 
     # clarissa "Just paperwork, sir. I need to file all these contracts to Sinergy to make it all official."
-    clarissa "Sólo papeleo, señor. Necesito presentar todos estos contratos a Sinergy para que todo sea oficial."
+    clarissa "Solo papeleo, señor. Necesito presentar todos estos contratos a Sinergy para que todo sea oficial."
 
 # game/Days/dayFive.rpy:4703
 translate spanish d5_endSpank_b3839c0f:
@@ -10510,7 +10510,7 @@ translate spanish D5_Esme_7459b4de:
 translate spanish D5_Esme_f0441f74:
 
     # mcT "I'll have to move us to a place that isn't in the public eye. I need to stick to the rules. The boys shouldn't know about the PARE system..."
-    mcT "Tendré que trasladarnos a un lugar que no esté a la vista del público. Necesito ceñirme a las reglas. Los chicos no deberían saber sobre el sistema PARE..."
+    mcT "Tendré que trasladarnos a un lugar que no esté a la vista del público. Necesito ceñirme a las reglas. Los chicos no deberían saber sobre el sistema ICR..."
 
 # game/Days/dayFive.rpy:4926
 translate spanish D5_Esme_c6a78879:
@@ -11272,7 +11272,7 @@ translate spanish D5_Esme_b1c16f73:
 translate spanish D5_Esme_03222005:
 
     # ver "Wrong! Only when I'm inside the institute. Helps with perception." id D5_Esme_03222005
-    ver "¡Equivocado! Sólo cuando estoy dentro del instituto. Ayuda con la percepción." id D5_Esme_03222005
+    ver "¡Equivocado! Solo cuando estoy dentro del instituto. Ayuda con la percepción." id D5_Esme_03222005
 
 # game/Days/dayFive.rpy:5284
 translate spanish D5_Esme_082f053c:
@@ -11506,7 +11506,7 @@ translate spanish D5_Esme_0dd72e75:
 translate spanish D5_Esme_f146a4da:
 
     # ver "Just this once, I'll tell you what this mysterious frunk is."
-    ver "Sólo por esta vez les diré qué es este misterioso frunk."
+    ver "Solo por esta vez les diré qué es este misterioso frunk."
 
 # game/Days/dayFive.rpy:5420
 translate spanish D5_Esme_92eee832:
@@ -12077,7 +12077,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:995
     old "PARE system punishment."
-    new "Castigo del sistema PARE."
+    new "Sistema de castigo ICR."
 
     # game/Days/dayFive.rpy:996
     old "I don't think so, no."
@@ -12241,7 +12241,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1753
     old "No, [clarissa]. It's me, [player_name]. I was just joking around with you. There aren't any demons."
-    new "No, [clarissa]. Soy yo, [player_name]. Sólo estaba bromeando contigo. No hay demonios."
+    new "No, [clarissa]. Soy yo, [player_name]. Solo estaba bromeando contigo. No hay demonios."
 
     # game/Days/dayFive.rpy:1754
     old "{i}That I know about.{/i}"
@@ -12385,7 +12385,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:2228
     old "It's a little Unorthodox, and honestly, it's never happened before..."
-    new "Es un poco poco ortodoxo y, sinceramente, nunca había sucedido antes..."
+    new "Es un poco poco ortodoxo y sinceramente, nunca había sucedido antes..."
 
     # game/Days/dayFive.rpy:2229
     old "But it's no different if we were to just print more contracts, so I don't see an issue. 😇"
@@ -12425,7 +12425,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:2250
     old "\n{u}{b}Day 5:{/b}{/u}\nStella wasn't meant to be part of the PARE system as she's a year higher, but she photocopied the contract, filled it out and filed it. She's now part of the program..."
-    new "\n{u}{b}Día 5:{/b}{/u}\nStella no estaba destinada a ser parte del sistema PARE ya que tiene un año más, pero fotocopió el contrato, lo llenó y lo archivó. Ahora es parte del programa..."
+    new "\n{u}{b}Día 5:{/b}{/u}\nStella no estaba destinada a ser parte del sistema ICR ya que tiene un año más, pero fotocopió el contrato, lo llenó y lo archivó. Ahora es parte del programa..."
 
     # game/Days/dayFive.rpy:2350
     old "\nOver the course of the lecture, I kept periodically turning on the vibrator as she was speaking, It was funny and erotic to listen, She was getting pleasured in front of everyone!"
@@ -12609,7 +12609,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:4880
     old "Something in-line with the PARE system."
-    new "Algo en línea con el sistema PARE."
+    new "Algo en línea con el sistema ICR."
 
     # game/Days/dayFive.rpy:4881
     old "Cleaning duty."
@@ -12649,7 +12649,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:5174
     old "Just a random student."
-    new "Sólo un estudiante al azar."
+    new "Solo un estudiante al azar."
 
     # game/Days/dayFive.rpy:5174
     old "Leads to discussions in general about you being the Enforcer"

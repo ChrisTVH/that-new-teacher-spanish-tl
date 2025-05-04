@@ -46,25 +46,25 @@ translate spanish start_38048ec2:
 translate spanish start_e2b8acd2:
 
     # mc "Shower."
-    mc "Ducha."
+    mc "Ducharme."
 
 # game/Days/dayOne.rpy:35
 translate spanish start_ff3a5f01:
 
     # mc "Teeth."
-    mc "Dientes."
+    mc "Cepillarme."
 
 # game/Days/dayOne.rpy:37
 translate spanish start_825cdc19:
 
     # mc "Poop?"
-    mc "¿Caca?"
+    mc "¿Usar el váter?"
 
 # game/Days/dayOne.rpy:39
 translate spanish start_8f177bf2:
 
     # mc "Poop."
-    mc "Caca."
+    mc "Entonces usare el váter."
 
 # game/Days/dayOne.rpy:45
 translate spanish start_180ecba2:
@@ -82,13 +82,13 @@ translate spanish start_12ba9c3f:
 translate spanish start_693a8e43:
 
     # mc "Mornin', [soph]!"
-    mc "¡Buen día, [soph]!"
+    mc "¡Buen día [soph]!"
 
 # game/Days/dayOne.rpy:53
 translate spanish start_8c172e5a:
 
     # soph "Morning, [player_name]. Finally awake, huh?"
-    soph "Buen día, [player_name]. Por fin despierto, ¿eh?"
+    soph "Buen día [player_name]. Por fin despierto, ¿eh?"
 
 # game/Days/dayOne.rpy:55
 translate spanish start_29b36618:
@@ -106,7 +106,7 @@ translate spanish start_e6ae45b0:
 translate spanish start_c7f44d09:
 
     # soph "Oh, don't worry, [player_name]. I'm sure they'll love you. \nYou're so smart and charming."
-    soph "No te preocupes, [player_name]. Seguro que les encantarás.\nEres tan inteligente y encantador."
+    soph "No te preocupes [player_name]. Seguro que les encantarás.\nEres tan inteligente y encantador."
 
 # game/Days/dayOne.rpy:60
 translate spanish start_9c218b04:
@@ -256,13 +256,13 @@ translate spanish start_e9a17b00:
 translate spanish start_ae3d28c6:
 
     # mcT "I hope I didn't go overboard..."
-    mcT "Espero no haberme pasado..."
+    mcT "Espero no haberme pasado con ella..."
 
 # game/Days/dayOne.rpy:109
 translate spanish start_4400fa81:
 
     # soph "Good morning, sleepy head."
-    soph "Buen día, dormilona."
+    soph "Buen día dormilona."
 
 # game/Days/dayOne.rpy:111
 translate spanish start_c7735040:
@@ -292,7 +292,7 @@ translate spanish start_360ba102:
 translate spanish start_409875cb:
 
     # mc "Morning, busta! Late night gaming session with the boys?"
-    mc "¡Buen día, compa! ¿Sesión nocturna de juegos con los chicos?"
+    mc "¡Buen día compa! ¿Sesión nocturna de juegos con los chicos?"
 
 # game/Days/dayOne.rpy:129
 translate spanish start_0b988c4a:
@@ -370,7 +370,7 @@ translate spanish start_c762c843:
 translate spanish start_67f16f58:
 
     # soph "I get it, [player_name]. Everyone has secrets."
-    soph "Lo entiendo, [player_name]. Todo el mundo tiene secretos."
+    soph "Lo entiendo [player_name]. Todo el mundo tiene secretos."
 
 # game/Days/dayOne.rpy:160
 translate spanish start_e33623b8:
@@ -832,7 +832,7 @@ translate spanish start_20049eb0:
 translate spanish start_3ae80744:
 
     # principal "I'll be blunt about this, but you're currently being tested to ensure this new way of education will work."
-    principal "Voy a ser franco al respecto, pero en estos momentos te están poniendo a prueba para garantizar que esta nueva forma de educación funcione."
+    principal "Voy a ser franca al respecto, pero en estos momentos te están poniendo a prueba para garantizar que esta nueva forma de educación funcione."
 
 # game/Days/dayOne.rpy:333
 translate spanish start_d819df31:
@@ -856,19 +856,19 @@ translate spanish start_5b1cbae1:
 translate spanish start_830d31c1:
 
     # principal "While you'll be primarily an educator and disciplinarian, you may be required to do other things around the campus, perhaps reporting directly to Sinergy on matters of their choosing."
-    principal "Aunque será principalmente un educador y disciplinario, puede que se le pidan otras cosas en el campus, tal vez informando directamente a Sinergy sobre asuntos de su elección."
+    principal "Aunque serás principalmente un educador y disciplinario, puede que se te pidan otras cosas en el campus, tal vez informando directamente a Sinergy sobre asuntos de su elección."
 
 # game/Days/dayOne.rpy:338
 translate spanish start_c08d8ee4:
 
     # principal "I hope this explanation was satisfactory for you. Do you have any more questions?"
-    principal "Espero que esta explicación le haya resultado satisfactoria. ¿Tiene más preguntas?"
+    principal "Espero que esta explicación te haya resultado satisfactoria. ¿Tienes más preguntas?"
 
 # game/Days/dayOne.rpy:340
 translate spanish start_c1afab4d:
 
     # mc "I do, actually. What kind of college is this? I'll be frank with you, I don't know much about this place, it's clearly unusual, and I think it'd be best to get an idea before I start, ya' know?" id start_c1afab4d
-    mc "La verdad es que sí. ¿Qué clase de universidad es esta? Seré franco contigo, no sé mucho sobre este lugar, es claramente inusual, y creo que sería mejor tener una idea antes de empezar, ya" id start_c1afab4d
+    mc "La verdad es que sí. ¿Qué clase de universidad es esta? Seré franco contigo, no sé mucho sobre este lugar, es claramente inusual, y creo que sería mejor tener una idea antes de empezar, ya." id start_c1afab4d
 
 # game/Days/dayOne.rpy:342
 translate spanish start_6f919df4:
@@ -910,7 +910,7 @@ translate spanish start_327689b0:
 translate spanish start_5ba26405:
 
     # principal "They all graduated, some with higher marks than others, but not to the standard this country would have expected, and as such, they end up here to address that."
-    principal "Todos se graduaron, algunos con mejores notas que otros, pero no al nivel que este país habría esperado y, como tal, acaban aquí para solucionarlo."
+    principal "Todos se graduaron, algunos con mejores notas que otros, pero no al nivel que este país habría esperado y como tal, acaban aquí para solucionarlo."
 
 # game/Days/dayOne.rpy:356
 translate spanish start_8a9006e3:
@@ -1012,13 +1012,13 @@ translate spanish start_d2ff525d:
 translate spanish start_1819f4e2:
 
     # mcT "And these massive fucking tits!"
-    mcT "¡Y estas enormes y jodidos pechos!"
+    mcT "¡Y estos enormes y jodidos pechos!"
 
 # game/Days/dayOne.rpy:395
 translate spanish start_1f024582:
 
     # principal "The induction consists of a series of questions to better understand you and your role."
-    principal "La inducción consiste en una serie de preguntas para entenderle mejor a usted y a su puesto."
+    principal "La inducción consiste en una serie de preguntas para entenderte mejor a ti y a tu puesto."
 
 # game/Days/dayOne.rpy:396
 translate spanish start_a6bca7b6:
@@ -1042,7 +1042,7 @@ translate spanish start_fea0dd49:
 translate spanish start_f988d46e:
 
     # mc "I was a scientist. The company I worked for let go of a bunch of employees, and I was, unfortunately, one of them."
-    mc "Yo era un científico. La empresa para la que trabajaba despidió a varios empleados y, lamentablemente, yo era uno de ellos."
+    mc "Yo era un científico. La empresa para la que trabajaba despidió a varios empleados y lamentablemente, yo era uno de ellos."
 
 # game/Days/dayOne.rpy:416
 translate spanish start_2df85dfb:
@@ -1096,7 +1096,7 @@ translate spanish start_cfb1d66d:
 translate spanish start_4397071d:
 
     # principal "I like how you think, [school_player_name]. I'm pleased so far."
-    principal "Me gusta cómo piensas, [school_player_name]. Estoy contento hasta ahora."
+    principal "Me gusta cómo piensas, [school_player_name]. Estoy contenta hasta ahora."
 
 # game/Days/dayOne.rpy:433
 translate spanish start_6a3abfdd:
@@ -1132,13 +1132,13 @@ translate spanish start_cf5be532:
 translate spanish start_ca181aa0:
 
     # principal "That won't be a problem, [school_player_name]. We have [ver], the PE teacher, and [aiko], the Art teacher."
-    principal "Eso no será un problema, [school_player_name]. Tenemos a [ver], el profesor de educación física, y [aiko], el profesor de arte."
+    principal "Eso no será un problema, [school_player_name]. Tenemos a [ver], la profesora de educación física, y [aiko], la profesora de educación artística."
 
 # game/Days/dayOne.rpy:443
 translate spanish start_72d3ba37:
 
     # principal "Your role would be that of an assistant. Handling students in those activities is usually a two-man job."
-    principal "Su papel sería el de asistente. El manejo de los estudiantes en esas actividades suele ser un trabajo de dos personas."
+    principal "Tu papel sería el de ser un asistente. El manejo de los estudiantes en esas actividades suele ser un trabajo de dos personas."
 
 # game/Days/dayOne.rpy:444
 translate spanish start_84f462fd:
@@ -1150,19 +1150,19 @@ translate spanish start_84f462fd:
 translate spanish start_ba4ce260:
 
     # principal "Especially for a non-publicly-subsidised institution. People tend to steer clear from those for some reason..."
-    principal "Especialmente para una institución no subvencionada con fondos públicos. La gente tiende a mantenerse alejada de ellos por alguna razón..."
+    principal "Especialmente para una institución no subvencionada con fondos públicos. La gente tiende a mantenerse alejada de ellas por alguna razón..."
 
 # game/Days/dayOne.rpy:448
 translate spanish start_11921ba5:
 
     # mc "That's understandable. The students need the education, and I'm here to help!"
-    mc "Eso es comprensible. ¡Los estudiantes necesitan educación y yo estoy aquí para ayudar!"
+    mc "Eso es comprensible. ¡Los estudiantes necesitan educación y yo estoy aquí para impartirla!"
 
 # game/Days/dayOne.rpy:449
 translate spanish start_8ca95d45:
 
     # mcT "And get that fat salary, too..."
-    mcT "Y conseguir ese gran salario también..."
+    mcT "Y también conseguir ese gran salario..."
 
 # game/Days/dayOne.rpy:451
 translate spanish start_eab67629:
@@ -1174,13 +1174,13 @@ translate spanish start_eab67629:
 translate spanish start_92ee96ab:
 
     # principal "There's just one question left. Are you ready?"
-    principal "Sólo queda una pregunta. ¿Estás listo?"
+    principal "Solo queda una pregunta. ¿Estás listo?"
 
 # game/Days/dayOne.rpy:454
 translate spanish start_2417baac:
 
     # mc "*gulps* Yes, [principal]. Hit me."
-    mc "*traga saliva* Sí, [principal]. Pégame."
+    mc "*traga saliva* Sí [principal]. Golpéeme."
 
 # game/Days/dayOne.rpy:457
 translate spanish JobChoice_f5ce91b5:
@@ -1216,13 +1216,13 @@ translate spanish JobChoice_d48e2956:
 translate spanish JobChoice_84527cc5:
 
     # mcT "What the fuck is going on...?"
-    mcT "¿Qué carajo está pasando...?"
+    mcT "¿Qué carajos está pasando...?"
 
 # game/Days/dayOne.rpy:481
 translate spanish JobChoice_0bf2e0ba:
 
     # mcAlt "Well well well. Seems we got someone who's trying to reject the timeline."
-    mcAlt "Bueno, bueno, bueno. Parece que tenemos a alguien que intenta rechazar la línea de tiempo."
+    mcAlt "Bueno, bueno, bueno. Parece que tenemos a alguien que intenta alterar la línea temporal."
 
 # game/Days/dayOne.rpy:484
 translate spanish JobChoice_b203b1bf:
@@ -1258,13 +1258,13 @@ translate spanish JobChoice_977105a2:
 translate spanish JobChoice_d99b7cb6:
 
     # mc "W..How..."
-    mc "W..Cómo..."
+    mc "Q..Cómo..."
 
 # game/Days/dayOne.rpy:497
 translate spanish JobChoice_de387587:
 
     # mcAlt "I am the better version of you. I stuck to the timeline, and now, I am the keeper of it."
-    mcAlt "Soy la mejor versión de ti. Me apegué a la línea de tiempo y ahora soy su guardián."
+    mcAlt "Soy la mejor versión de ti mismo. Me apegué a la línea temporal y ahora soy el guardián de ella."
 
 # game/Days/dayOne.rpy:498
 translate spanish JobChoice_de858801:
@@ -1276,13 +1276,13 @@ translate spanish JobChoice_de858801:
 translate spanish JobChoice_cb0496af:
 
     # mcAlt "Reset, if you will."
-    mcAlt "Reinicie, por así decirlo."
+    mcAlt "Reiniciado, por así decirlo."
 
 # game/Days/dayOne.rpy:502
 translate spanish JobChoice_d11eb976:
 
     # mcAlt "One must not stray from the path given from the devine."
-    mcAlt "Uno no debe desviarse del camino dado por lo divino."
+    mcAlt "Uno no debe desviarse del camino dado por el divino."
 
 # game/Days/dayOne.rpy:504
 translate spanish JobChoice_6d7624f8:
@@ -1294,25 +1294,25 @@ translate spanish JobChoice_6d7624f8:
 translate spanish JobChoice_b623e7d6:
 
     # mcAlt "No time for questions. Your time has now been forfeit."
-    mcAlt "No hay tiempo para preguntas. Ahora has perdido tu tiempo."
+    mcAlt "No hay tiempo para preguntas. Ahora has perdido la línea de tiempo actual."
 
 # game/Days/dayOne.rpy:509
 translate spanish JobChoice_83460c0a:
 
     # mcAlt "Your existance is disrupting space and time, Think yourself lucky I'm the one dealing with you."
-    mcAlt "Tu existencia está alterando el espacio y el tiempo. Siéntete afortunado de que yo sea quien trate contigo."
+    mcAlt "Tu existencia está alterando las leyes del espacio y el tiempo. Siéntete afortunado de que yo sea quien trate contigo."
 
 # game/Days/dayOne.rpy:511
 translate spanish JobChoice_0f48749e:
 
     # mcAlt "Time keeper Suzie...wouldn't be so tame."
-    mcAlt "La cronometradora Suzie... no sería tan mansa."
+    mcAlt "La cronometradora Suzie... no sería tan dulce."
 
 # game/Days/dayOne.rpy:513
 translate spanish JobChoice_2e97eda0:
 
     # mcAlt "Remember this in the reset; Don't follow what {i}he{/i} says. Protect them..."
-    mcAlt "Recuerda esto en el reinicio; No sigas lo que {i}él{/i} dice. Protégelos..."
+    mcAlt "Recuerda esto antes del reinicio; No sigas lo que {i}él{/i} dice. Debes protegerlas..."
 
 # game/Days/dayOne.rpy:515
 translate spanish JobChoice_9313b7a8:
@@ -1330,7 +1330,7 @@ translate spanish JobChoice_1730abc0:
 translate spanish JobChoice_02779050:
 
     # mc "You got it, boss!"
-    mc "¡Lo tienes, jefe!"
+    mc "¡Lo tienes, jefa!"
 
 # game/Days/dayOne.rpy:529
 translate spanish JobChoice_d2344f6c:
@@ -1342,13 +1342,13 @@ translate spanish JobChoice_d2344f6c:
 translate spanish JobChoice_2107094a:
 
     # mcT "Though, I better not mention that there's a perfectly round hole in one of the stalls. Can't have OSHA on our ass this soon..."
-    mcT "Aunque será mejor no mencionar que hay un agujero perfectamente redondo en uno de los puestos. No podemos tener a OSHA encima tan pronto..."
+    mcT "Aunque será mejor no mencionar que hay un agujero perfectamente redondo en uno de los baños. No puedo tenerla encima tan pronto..."
 
 # game/Days/dayOne.rpy:532
 translate spanish JobChoice_288dddc1:
 
     # mcT "So, where to first?"
-    mcT "Entonces, ¿adónde ir primero?"
+    mcT "Entonces, ¿a dónde ir primero?"
 
 # game/Days/dayOne.rpy:534
 translate spanish JobChoice_d101fdcd:
@@ -1366,7 +1366,7 @@ translate spanish JobChoice_bdf63d7f:
 translate spanish JobChoice_a304ddc8:
 
     # mcT "Oh, damn. [principal] wasn't joking. The college is {b}literally{/b} segmented. There are even some make-shift prison-esque bars here..." id JobChoice_a304ddc8
-    mcT "Oh, maldita sea. [principal] no estaba bromeando. La universidad está {b}literalmente{/b} segmentada. Aquí incluso hay algunos bares improvisados estilo prisión..." id JobChoice_a304ddc8
+    mcT "Oh, maldita sea. [principal] no estaba bromeando. La universidad está {b}literalmente{/b} segmentada. Aquí incluso hay algunas barras improvisadas estilo prisión..." id JobChoice_a304ddc8
 
 # game/Days/dayOne.rpy:539
 translate spanish JobChoice_be221dfe:
@@ -1378,7 +1378,7 @@ translate spanish JobChoice_be221dfe:
 translate spanish JobChoice_060d5d43:
 
     # mcT "I wonder if the students ever get a chance to mingle together? I guess it's best to ask one of the teachers when I have the opportunity."
-    mcT "Me pregunto si los estudiantes alguna vez tendrán la oportunidad de socializar. Supongo que lo mejor será preguntarle a alguno de los profesores cuando tenga la oportunidad."
+    mcT "Me pregunto si los estudiantes alguna vez tendrán la oportunidad de socializar. Supongo que lo mejor será preguntarle a alguna de las profesoras cuando tenga la oportunidad."
 
 # game/Days/dayOne.rpy:542
 translate spanish JobChoice_08bce4e7:
@@ -1396,13 +1396,13 @@ translate spanish JobChoice_8cd83bf6:
 translate spanish JobChoice_d13ea04d:
 
     # "You peer into the classroom, but it's just a normal class occupied by students and a teacher."
-    "Miras dentro del salón de clases, pero es solo una clase normal ocupada por estudiantes y un maestro."
+    "Miras dentro del salón de clases, pero es solo una clase normal ocupada por estudiantes y una maestra."
 
 # game/Days/dayOne.rpy:551
 translate spanish JobChoice_9043e8ae:
 
     # "Your presence doesn't go unnoticed, and soon, everyone turns to see who the mysterious guest is."
-    "Tu presencia no pasa desapercibida y pronto todos se giran para ver quién es el misterioso invitado."
+    "Tu presencia no pasa desapercibida y pronto todos se giran para ver quién es ese misterioso invitado."
 
 # game/Days/dayOne.rpy:553
 translate spanish JobChoice_a9f981a3:
@@ -1426,37 +1426,37 @@ translate spanish JobChoice_8902ad62:
 translate spanish JobChoice_baeec2cc:
 
     # mc "Um. Hello, Miss-?"
-    mc "Mmm. Hola, señorita-?"
+    mc "Mmm. Hola, ¿señorita~?"
 
 # game/Days/dayOne.rpy:563
 translate spanish JobChoice_471d9120:
 
     # aiko "It's [aiko]. Just [aiko]. *giggles*"
-    aiko "Es [aiko]. Sólo [aiko]. *risitas*"
+    aiko "Es [aiko]. Solo [aiko]. *risitas*"
 
 # game/Days/dayOne.rpy:564
 translate spanish JobChoice_ac4275ea:
 
     # aiko "And you are?"
-    aiko "¿Y tú lo eres?"
+    aiko "¿Y tú eres?"
 
 # game/Days/dayOne.rpy:566
 translate spanish JobChoice_4f0ff692:
 
     # mc "[player_name]. Just [player_name]. *chuckles*"
-    mc "[player_name]. Sólo [player_name]. *risitas*"
+    mc "[player_name]. Solo [player_name]. *risitas*"
 
 # game/Days/dayOne.rpy:567
 translate spanish JobChoice_0b0afa51:
 
     # mc "A pleasure to meet you, [aiko]. I've just started here."
-    mc "Un placer conocerte, [aiko]. Acabo de empezar aquí."
+    mc "Un placer conocerte [aiko]. Acabo de empezar aquí."
 
 # game/Days/dayOne.rpy:569
 translate spanish JobChoice_44be50b6:
 
     # aiko "Ah, yes. [principal] mentioned we'll have someone new in these neck-of-the-woods. *winks*"
-    aiko "Ah, sí. [principal] mencionó que tendremos a alguien nuevo en esta zona. *guiña un ojo*"
+    aiko "Ah, sí. la [principal] mencionó que tendremos a alguien nuevo en esta zona. *guiño*"
 
 # game/Days/dayOne.rpy:571
 translate spanish JobChoice_d2d7b523:
@@ -1474,19 +1474,19 @@ translate spanish JobChoice_2380ab43:
 translate spanish JobChoice_95e6560e:
 
     # mc "Anyway... [principal] mentioned you're the college's Art teacher, right?" id JobChoice_95e6560e
-    mc "De todos modos... [principal] mencionó que eres el profesor de Arte de la universidad, ¿verdad?" id JobChoice_95e6560e
+    mc "De todos modos... la [principal] mencionó que eres la Profesora de educación artística de la universidad, ¿verdad?" id JobChoice_95e6560e
 
 # game/Days/dayOne.rpy:576
 translate spanish JobChoice_e60edf8a:
 
     # aiko "Amongst other things, yes."
-    aiko "Entre otras cosas, sí."
+    aiko "Entre otras cosas, pero sí."
 
 # game/Days/dayOne.rpy:577
 translate spanish JobChoice_f4ad6859:
 
     # aiko "Since we're so short-staffed, I teach most subjects here, but Art is my main."
-    aiko "Como tenemos tan poco personal, enseño la mayoría de las materias aquí, pero el arte es mi principal."
+    aiko "Como tenemos tan poco personal, enseño la mayoría de las materias aquí, pero la educación artística es mi principal materia."
 
 # game/Days/dayOne.rpy:579
 translate spanish JobChoice_be674010:
@@ -1498,7 +1498,7 @@ translate spanish JobChoice_be674010:
 translate spanish JobChoice_c7cf736a:
 
     # aiko "Can't wait. Having a stud like you around will help... tremendously."
-    aiko "No puedo esperar. Tener un semental como tú cerca te ayudará... enormemente."
+    aiko "No puedo esperar. Tener un semental como tú cerca ayudará... enormemente."
 
 # game/Days/dayOne.rpy:583
 translate spanish JobChoice_dc88bb9d:
@@ -1522,7 +1522,7 @@ translate spanish JobChoice_28fa7f64:
 translate spanish JobChoice_090f1380:
 
     # "The class grows quiet in anticipation of your introduction."
-    "La clase se queda en silencio esperando su presentación."
+    "La clase se queda en silencio esperando tu presentación."
 
 # game/Days/dayOne.rpy:592
 translate spanish JobChoice_f012e715:
@@ -1546,13 +1546,13 @@ translate spanish JobChoice_35c9cd0e:
 translate spanish JobChoice_baeeed91:
 
     # mcT "I should go around and speak to some of the students, though."
-    mcT "Aunque debería dar una vuelta y hablar con algunos de los estudiantes."
+    mcT "Aunque debería dar una vuelta y hablar con algunas de las estudiantes."
 
 # game/Days/dayOne.rpy:596
 translate spanish JobChoice_1ec7135a:
 
     # mcT "I should get to know them better if I'm to be around them more often."
-    mcT "Debería llegar a conocerlos mejor si voy a estar cerca de ellos más a menudo."
+    mcT "Debería llegar a conocerlas mejor si voy a estar cerca de ellas más a menudo."
 
 # game/Days/dayOne.rpy:598
 translate spanish JobChoice_9d62732f:
@@ -1576,7 +1576,7 @@ translate spanish JobChoice_ac0fde55:
 translate spanish JobChoice_0978c32a:
 
     # mc "[esme]? That's a nice name!"
-    mc "[esme]? ¡Qué bonito nombre!"
+    mc "¿[esme]? ¡Qué bonito nombre!"
 
 # game/Days/dayOne.rpy:608
 translate spanish JobChoice_8dc1363d:
@@ -1594,7 +1594,7 @@ translate spanish JobChoice_be95974d:
 translate spanish JobChoice_f50ddfa1:
 
     # mc "Oh, [esme], please. Just call me \"[school_player_name]\". We're friends here, right?"
-    mc "Ah, [esme], por favor. Sólo llámame \"[school_player_name]\". Somos amigos aquí, ¿verdad?"
+    mc "Ah, [esme], por favor. Solo llámame \"[school_player_name]\". Somos amigos aquí, ¿verdad?"
 
 # game/Days/dayOne.rpy:614
 translate spanish JobChoice_27a3c417:
@@ -1618,7 +1618,7 @@ translate spanish JobChoice_5abdce70:
 translate spanish JobChoice_a4726d9e:
 
     # "You then notice a student walking towards you..."
-    "Luego notas que un estudiante camina hacia ti..."
+    "Luego notas que una estudiante camina hacia ti..."
 
 # game/Days/dayOne.rpy:621
 translate spanish JobChoice_90c075fc:
@@ -1630,13 +1630,13 @@ translate spanish JobChoice_90c075fc:
 translate spanish JobChoice_0364e819:
 
     # mc "Talking to [esme]. Are you two friends?"
-    mc "Hablando con [esme]. ¿Sois dos amigos?"
+    mc "Hablando con [esme]. ¿Son amigas?"
 
 # game/Days/dayOne.rpy:625
 translate spanish JobChoice_4a49459f:
 
     # "???" "Absolutely! [esme] and I are the bestest of friends, aren't we?"
-    "???" "¡Absolutamente! [esme] y yo somos los mejores amigos, ¿no?"
+    "???" "¡Absolutamente! [esme] y yo somos las mejores amigas, ¿no?"
 
 # game/Days/dayOne.rpy:627
 translate spanish JobChoice_f8fb51c8:
@@ -1648,13 +1648,13 @@ translate spanish JobChoice_f8fb51c8:
 translate spanish JobChoice_98e22fdb:
 
     # nova "See? I told you!"
-    nova "¿Ver? ¡Te dije!"
+    nova "¿Ves? ¡Te lo dije!"
 
 # game/Days/dayOne.rpy:630
 translate spanish JobChoice_ab2b55b5:
 
     # nova "Anyway, why are you here? This is the girl's side. You shouldn't be here, mister."
-    nova "De todos modos, ¿por qué estás aquí? Este es el lado de la chica. No debería estar aquí, señor."
+    nova "De todos modos, ¿por qué estás aquí? Este es el lado de las chicas. No deberías estar aquí, señor."
 
 # game/Days/dayOne.rpy:632
 translate spanish JobChoice_fb814bec:
@@ -1696,7 +1696,7 @@ translate spanish JobChoice_0761c56c:
 translate spanish JobChoice_d5502cac:
 
     # mcT "Dang. She's quick on the uptake!"
-    mcT "Maldita sea. ¡Es rápida de captar!"
+    mcT "Maldita sea. ¡Es rápida en captar!"
 
 # game/Days/dayOne.rpy:647
 translate spanish JobChoice_e93530bd:
@@ -1708,7 +1708,7 @@ translate spanish JobChoice_e93530bd:
 translate spanish JobChoice_6c05e55a:
 
     # nova "Sooo... About that date, hmm?"
-    nova "Entonces... sobre esa fecha, ¿eh?"
+    nova "Entonces... sobre esa cita, ¿hmm?"
 
 # game/Days/dayOne.rpy:650
 translate spanish JobChoice_53ccc011:
@@ -1720,25 +1720,25 @@ translate spanish JobChoice_53ccc011:
 translate spanish JobChoice_ec6af2d9:
 
     # mcT "Cheeky devil."
-    mcT "Diablo descarado."
+    mcT "Que descarada."
 
 # game/Days/dayOne.rpy:653
 translate spanish JobChoice_76bbc0f6:
 
     # mc "I don't have much time before lunch, so I'll see you two later!"
-    mc "¡No tengo mucho tiempo antes del almuerzo, así que los veré más tarde!"
+    mc "No tengo mucho tiempo hasta el almuerzo, ¡así que nos vemos luego!"
 
 # game/Days/dayOne.rpy:654
 translate spanish JobChoice_9fc08386:
 
     # mc "Time to talk to the rest of your classmates!"
-    mc "¡Es hora de hablar con el resto de tus compañeros!"
+    mc "¡Es hora de hablar con el resto de tus compañeras!"
 
 # game/Days/dayOne.rpy:656
 translate spanish JobChoice_a5047579:
 
     # "Suddenly, the bell rings for lunch. [aiko] and all but three students leave the room."
-    "De repente suena el timbre del almuerzo. [aiko] y todos los estudiantes menos tres abandonan la sala."
+    "De repente suena el timbre del almuerzo. [aiko] y todas las estudiantes menos unas tres abandonan el salón."
 
 # game/Days/dayOne.rpy:657
 translate spanish JobChoice_845ff044:
@@ -1756,7 +1756,7 @@ translate spanish JobChoice_cdc135cb:
 translate spanish JobChoice_c8811038:
 
     # mc "Hello there, girls."
-    mc "Hola chicas."
+    mc "Hola, chicas."
 
 # game/Days/dayOne.rpy:663
 translate spanish JobChoice_148e0903:
@@ -1768,19 +1768,19 @@ translate spanish JobChoice_148e0903:
 translate spanish JobChoice_f67758f8:
 
     # yui "{bt=2}{b}REALLY?!{/b}{/bt} No one?! You're both useless!"
-    yui "{bt=2}{b}¡¿EN SERIO?!{/b}{/bt} ¡¿Nadie?! ¡Ambos sois inútiles!"
+    yui "{bt=2}{b}¡¿EN SERIO?!{/b}{/bt} ¡¿Nadie?! ¡Ambas son inútiles!"
 
 # game/Days/dayOne.rpy:667
 translate spanish JobChoice_bd87baa4:
 
     # yui "Watch and learn!"
-    yui "¡Mira y aprende!"
+    yui "¡Miren y aprendan!"
 
 # game/Days/dayOne.rpy:672
 translate spanish JobChoice_2352e677:
 
     # yui "My name is [yui]. Nice to meet you, [school_player_name]!"
-    yui "Mi nombre es [yui]. ¡Encantado de conocerte, [school_player_name]!"
+    yui "Mi nombre es [yui]. ¡Encantada de conocerte, [school_player_name]!"
 
 # game/Days/dayOne.rpy:674
 translate spanish JobChoice_1d7f81eb:
@@ -1822,19 +1822,19 @@ translate spanish JobChoice_55001048:
 translate spanish JobChoice_a4cf5a53:
 
     # yui "I'm just super excited to have a new teacher!"
-    yui "¡Estoy muy emocionado de tener un nuevo maestro!"
+    yui "¡Estoy muy emocionada de tener un nuevo maestro!"
 
 # game/Days/dayOne.rpy:691
 translate spanish JobChoice_4295004b:
 
     # mc "No worries, [yui]. I really like your enthusiasm!"
-    mc "No te preocupes, [yui]. ¡Me gusta mucho tu entusiasmo!"
+    mc "No te preocupes [yui]. ¡Me gusta mucho tu entusiasmo!"
 
 # game/Days/dayOne.rpy:692
 translate spanish JobChoice_6ffa68bb:
 
     # mc "You can call me whatever is easiest for you. How does that work?"
-    mc "Puedes llamarme como te resulte más fácil. ¿Cómo funciona eso?"
+    mc "Puedes llamarme como te resulte más fácil. ¿Cómo te funciona eso?"
 
 # game/Days/dayOne.rpy:694
 translate spanish JobChoice_62eb4b08:
@@ -1864,7 +1864,7 @@ translate spanish JobChoice_5a154918:
 translate spanish JobChoice_09d79af1:
 
     # sadie "{bt=2}{b}{size=-5}Girl chill!{/size}{/b}{/bt} Breathe. Breathe!"
-    sadie "{bt=2}{b}{size=-5}¡Chica, tranquila!{/size}{/b}{/bt} Respira. ¡Respirar!"
+    sadie "{bt=2}{b}{size=-5}¡Chica, tranquilízate!{/size}{/b}{/bt} Respira. ¡Respira!"
 
 # game/Days/dayOne.rpy:717
 translate spanish JobChoice_659c9437:
@@ -1882,7 +1882,7 @@ translate spanish JobChoice_09350021:
 translate spanish JobChoice_3a0ca6d3:
 
     # sadie "But that's why I love that cute troublemaker."
-    sadie "Pero es por eso que amo a ese lindo alborotador."
+    sadie "Pero es por eso que amo a esa linda alborotadora."
 
 # game/Days/dayOne.rpy:724
 translate spanish JobChoice_b1eee411:
@@ -1918,7 +1918,7 @@ translate spanish JobChoice_46b38c19:
 translate spanish JobChoice_98b23993:
 
     # sadie "The one and only!"
-    sadie "¡El único!"
+    sadie "¡La única!"
 
 # game/Days/dayOne.rpy:737
 translate spanish JobChoice_07a17a91:
@@ -1930,19 +1930,19 @@ translate spanish JobChoice_07a17a91:
 translate spanish JobChoice_1b8b79c7:
 
     # yui "Oh, come on! I'm not {i}that{/i} bad..."
-    yui "¡Vamos, vamos! No soy {i}tan{/i} malo..."
+    yui "¡Vamos, vamos! No soy {i}tan{/i} mala..."
 
 # game/Days/dayOne.rpy:742
 translate spanish JobChoice_77eea2ee:
 
     # yui "{size=-12}I have to hold back at home already, 'cause at least someone there cares{/size} *hmpf!"
-    yui "{size=-12}Ya tengo que contenerme en casa, porque al menos a alguien allí le importa{/size} *¡hmpf!"
+    yui "{size=-12}Ya tengo que contenerme en casa, porque al menos a alguien allí si le importa{/size} *¡hmpf!"
 
 # game/Days/dayOne.rpy:744
 translate spanish JobChoice_dfdb2507:
 
     # mc "Ah-ah. [yui], don't interrupt [sadie]'s turn to speak."
-    mc "Ah-ah. [yui], no interrumpas el turno de palabra de [sadie]."
+    mc "Ah-ah. [yui], no interrumpas el turno de hablar de [sadie]."
 
 # game/Days/dayOne.rpy:746
 translate spanish JobChoice_53988d5c:
@@ -1978,7 +1978,7 @@ translate spanish JobChoice_1226383a:
 translate spanish JobChoice_7741ad17:
 
     # sadie "It's... my stupid father. Wastes our money on alcohol and gambling."
-    sadie "Es... mi estúpido padre. Desperdiciamos nuestro dinero en alcohol y juegos de azar."
+    sadie "Es... mi estúpido padre. Despercia nuestro dinero en alcohol y juegos de azar."
 
 # game/Days/dayOne.rpy:763
 translate spanish JobChoice_a27f46d5:
@@ -2008,31 +2008,31 @@ translate spanish JobChoice_caaf8fc0:
 translate spanish JobChoice_6a405c21:
 
     # mc "Oh. Y-yeah. Sorry I brought it up."
-    mc "Oh. S-sí. Lo siento, lo mencioné."
+    mc "Oh. S-sí. Lo siento por mencionarlo."
 
 # game/Days/dayOne.rpy:771
 translate spanish JobChoice_d98bf324:
 
     # mcT "Damn. I gotta talk to [principal] to see what I can do about it."
-    mcT "Maldición. Debo hablar con [principal] para ver qué puedo hacer al respecto."
+    mcT "Maldición. Debo hablar con la [principal] para ver qué más puedo hacer al respecto."
 
 # game/Days/dayOne.rpy:772
 translate spanish JobChoice_e7e2689c:
 
     # mcT "I cannot allow my students to live like that..."
-    mcT "No puedo permitir que mis alumnos vivan así..."
+    mcT "No puedo permitir que mis estudiantes vivan así..."
 
 # game/Days/dayOne.rpy:774
 translate spanish JobChoice_c1136e81:
 
     # sadie "Oh, no-no. It wasn't you."
-    sadie "Oh, no, no. No fuiste tú."
+    sadie "Oh, no, no. No es tu culpa."
 
 # game/Days/dayOne.rpy:776
 translate spanish JobChoice_1e1562f2:
 
     # sadie "It was this knucklehead here!"
-    sadie "¡Era este idiota de aquí!"
+    sadie "¡Fue esta idiota de aquí!"
 
 # game/Days/dayOne.rpy:779
 translate spanish JobChoice_ffd442d4:
@@ -2056,7 +2056,7 @@ translate spanish JobChoice_07fa994b:
 translate spanish JobChoice_c1435957:
 
     # mcT "Last but not least – the quiet one. It looks li-"
-    mcT "Por último, pero no menos importante, el silencioso. Parece li-"
+    mcT "Por último, pero no menos importante, la callada. Luce lin-"
 
 # game/Days/dayOne.rpy:786
 translate spanish JobChoice_1ba01e80:
@@ -2074,25 +2074,25 @@ translate spanish JobChoice_784fb322:
 translate spanish JobChoice_a2c34920:
 
     # mcT "Her tits are {b}massive{/b}!"
-    mcT "¡Sus tetas son {b}enormes{/b}!"
+    mcT "¡Sus pechos son {b}enormes{/b}!"
 
 # game/Days/dayOne.rpy:791
 translate spanish JobChoice_59a38002:
 
     # mcT "I'm sure those would be heavenly to sleep on..."
-    mcT "Estoy seguro de que sería celestial para dormir sobre ellos..."
+    mcT "Estoy seguro de que sería celestial dormir en ellos..."
 
 # game/Days/dayOne.rpy:796
 translate spanish JobChoice_d53dcd35:
 
     # belle "H-Hello, [school_player_name]. My name is [belle], and I'm [principal]'s daughter."
-    belle "H-Hola, [school_player_name]. Mi nombre es [belle] y soy la hija de [principal]."
+    belle "H-Hola, [school_player_name]. Mi nombre es [belle] y soy la hija de la [principal]."
 
 # game/Days/dayOne.rpy:797
 translate spanish JobChoice_eea4e01c:
 
     # mcT "Ah. So that's where she got those from. Makes sense..."
-    mcT "Ah. Entonces de ahí es de donde los sacó. Tiene sentido..."
+    mcT "Ah. Entonces de allí es de donde los sacó. Tiene sentido..."
 
 # game/Days/dayOne.rpy:799
 translate spanish JobChoice_d376b67e:
@@ -2104,7 +2104,7 @@ translate spanish JobChoice_d376b67e:
 translate spanish D1_TitPlay_00fa2391:
 
     # belle "P-Please, don't stare, sir. Y-You're making me uncomfortable..."
-    belle "P-Por favor, no mire fijamente, señor. Me estás haciendo sentir incómodo..."
+    belle "P-Por favor, no me mire tan fijamente, señor. Me estás haciendo sentir incómoda..."
 
 # game/Days/dayOne.rpy:807
 translate spanish D1_TitPlay_e7c9a782:
@@ -2122,7 +2122,7 @@ translate spanish D1_TitPlay_6cc6621d:
 translate spanish D1_TitPlay_1dbb2bd9:
 
     # "The next scene contains female-on-female action. Do you wish to see it?\nYou can turn off Lesbian scenes in the options menu."
-    "La siguiente escena contiene acción de mujer a mujer. ¿Quieres verlo?\nPuedes desactivar las escenas lésbicas en el menú de opciones."
+    "La siguiente escena contiene acción de mujer-a-mujer. ¿Quieres verla?\nPuedes deshabilitar las escenas lesbianas en el menú de opciones."
 
 # game/Days/dayOne.rpy:833
 translate spanish D1_TitPlay_b130cae5:
@@ -2140,7 +2140,7 @@ translate spanish D1_TitPlay_64a10f7b:
 translate spanish D1_TitPlay_3e38eb63:
 
     # nova "There's nothing to be ashamed of. I'm sure [school_player_name] likes your... {b}assets{/b}. *hehe*"
-    nova "No hay nada de qué avergonzarse. Estoy seguro de que a [school_player_name] le gustan tus... {b}activos{/b}. *jeje*"
+    nova "No hay nada de qué avergonzarse. Estoy segura de que a [school_player_name] le gustan tus... {b}activos{/b}. *jeje*"
 
 # game/Days/dayOne.rpy:840
 translate spanish D1_TitPlay_a53ce16d:
@@ -2152,7 +2152,7 @@ translate spanish D1_TitPlay_a53ce16d:
 translate spanish D1_TitPlay_3c6112e6:
 
     # nova "I mean, look at these big melons! I would kill to have a body like yours, [belle]."
-    nova "Quiero decir, ¡mira estos melones grandes! Mataría por tener un cuerpo como el tuyo, [belle]."
+    nova "Quiero decir, ¡mira estos jugosos melones grandotes! Mataría por tener un cuerpo como el tuyo, [belle]."
 
 # game/Days/dayOne.rpy:844
 translate spanish D1_TitPlay_92ffa366:
@@ -2164,19 +2164,19 @@ translate spanish D1_TitPlay_92ffa366:
 translate spanish D1_TitPlay_c7aa7b0d:
 
     # belle "Gah! No, this is inappropriate, [nova]! What would my mom think?!"
-    belle "¡Ah! ¡No, esto es inapropiado, [nova]! ¡¿Qué pensaría mi mamá?!"
+    belle "¡Ah! ¡No, esto es inapropiado, [nova]! ¡¿Qué pensará mi mamá?!"
 
 # game/Days/dayOne.rpy:849
 translate spanish D1_TitPlay_99c5c882:
 
     # nova "Oh, [belle], she's not here! Just us and [school_player_name]..."
-    nova "¡Oh, [belle], ella no está aquí! Sólo nosotros y [school_player_name]..."
+    nova "¡Oh, [belle], ella no está aquí! Solo nosotros y [school_player_name]..."
 
 # game/Days/dayOne.rpy:850
 translate spanish D1_TitPlay_3c436b20:
 
     # nova "I can see that he's definitely enjoying it."
-    nova "Puedo ver que definitivamente lo está disfrutando."
+    nova "Puedo ver que definitivamente que lo está disfrutando."
 
 # game/Days/dayOne.rpy:851
 translate spanish D1_TitPlay_bc0a2d32:
@@ -2188,13 +2188,13 @@ translate spanish D1_TitPlay_bc0a2d32:
 translate spanish D1_TitPlay_ab0d5790:
 
     # sadie "Come on, [nova]! Not in front of our new teacher!"
-    sadie "¡Vamos, [nova]! ¡No frente a nuestro nuevo maestro!"
+    sadie "¡Vamos, [nova]! ¡No lo hagas frente a nuestro nuevo maestro!"
 
 # game/Days/dayOne.rpy:855
 translate spanish D1_TitPlay_c5034860:
 
     # yui "Ooh! You're right, [sadie]! In front of Sensei~"
-    yui "¡Oh! ¡Tienes razón, [sadie]! Frente a sensei~"
+    yui "¡Oh! ¡Tienes razón, [sadie]! en frente del sensei~"
 
 # game/Days/dayOne.rpy:856
 translate spanish D1_TitPlay_b78b4249:
@@ -2206,25 +2206,25 @@ translate spanish D1_TitPlay_b78b4249:
 translate spanish D1_TitPlay_5d716366:
 
     # mcT "I wish I could just whip it out and shove it down these slutty throats!"
-    mcT "¡Ojalá pudiera sacarlo y metérselo en estas gargantas de zorras!"
+    mcT "¡Ojalá pudiera sacarlo y metérlo en estas gargantas de zorras!"
 
 # game/Days/dayOne.rpy:860
 translate spanish D1_TitPlay_0cbd91c6:
 
     # mcT "Teach them the standard academia. And the bedroom one, too!"
-    mcT "Enséñeles la academia estándar. ¡Y el del dormitorio también!"
+    mcT "Enseñarles los estándares academicos. ¡Y del dormitorio también!"
 
 # game/Days/dayOne.rpy:863
 translate spanish D1_TitPlay_cd4002a6:
 
     # "[belle] looks down at your fully erect junk."
-    "[belle] mira tu basura completamente erecta."
+    "[belle] mira tu basura está completamente erecta."
 
 # game/Days/dayOne.rpy:864
 translate spanish D1_TitPlay_41947a1e:
 
     # mcT "Fuck. The principal's daughter staring at my throbbing cock while her classmate plays with her tits!"
-    mcT "Mierda. ¡La hija del director mirando mi polla palpitante mientras su compañera juega con sus tetas!"
+    mcT "Mierda. ¡La hija de la directora está mirando mi polla palpitante mientras su compañera juega con sus tetas!"
 
 # game/Days/dayOne.rpy:865
 translate spanish D1_TitPlay_e55459de:
@@ -2236,7 +2236,7 @@ translate spanish D1_TitPlay_e55459de:
 translate spanish D1_TitPlay_66baf4b2:
 
     # mcT "I'll have you, [belle]. Just you wait..."
-    mcT "Te tendré, [belle]. Sólo espera..."
+    mcT "Voy a tenerte, [belle]. Solo espera..."
 
 # game/Days/dayOne.rpy:872
 translate spanish D1_TitPlay_9789fcd1:
@@ -2266,19 +2266,19 @@ translate spanish D1_TitPlay_ad781075:
 translate spanish D1_TitPlay_3422e0c4:
 
     # mc "Thank you, girls, for that academic display of friendship, but I really need to get going now."
-    mc "Gracias chicas por esa muestra académica de amistad, pero realmente necesito ponerme en marcha ahora."
+    mc "Gracias, chicas, por esta muestra académica de amistad, pero ahora tengo que irme."
 
 # game/Days/dayOne.rpy:879
 translate spanish D1_TitPlay_83c3b67b:
 
     # mc "Please enjoy the rest of your lunch break!"
-    mc "¡Disfruta el resto de tu pausa para el almuerzo!"
+    mc "¡Disfruten del resto de su almuerzo!"
 
 # game/Days/dayOne.rpy:881
 translate spanish D1_TitPlay_efed3f18:
 
     # nova "Aww. We were just getting to the good bit..."
-    nova "Oooh. Estábamos llegando a la parte buena..."
+    nova "Oooh. Estábamos llegando a la mejor parte..."
 
 # game/Days/dayOne.rpy:882
 translate spanish D1_TitPlay_2a8e43fc:
@@ -2290,13 +2290,13 @@ translate spanish D1_TitPlay_2a8e43fc:
 translate spanish D1_TitPlay_f37854ec:
 
     # nova "Aww, [belle], you're so cute!"
-    nova "¡Aww, [belle], eres tan lindo!"
+    nova "¡Aww, [belle], eres tan linda!"
 
 # game/Days/dayOne.rpy:886
 translate spanish D1_TitPlay_b6d6d6a8:
 
     # nova "See ya later, [school_player_name]-sensei!."
-    nova "¡Hasta luego, [school_player_name]-sensei!."
+    nova "¡Hasta luego, [school_player_name]-sensei!"
 
 # game/Days/dayOne.rpy:893
 translate spanish D1_TitPlay_25a5f949:
@@ -2308,37 +2308,37 @@ translate spanish D1_TitPlay_25a5f949:
 translate spanish D1_TitPlay_23767c2b:
 
     # mc "Anyway, it was nice to meet you girls."
-    mc "De todos modos, fue un placer conocerlas, chicas."
+    mc "De todos modos, fue un placer conocerlas a todas."
 
 # game/Days/dayOne.rpy:896
 translate spanish D1_TitPlay_04b662e9:
 
     # mc "I gotta get going now, but please enjoy the rest of your lunch break!"
-    mc "Tengo que irme ahora, ¡pero disfruta el resto de tu pausa para el almuerzo!"
+    mc "Ahora tengo que irme, pero disfruten del resto de su almuerzo."
 
 # game/Days/dayOne.rpy:898
 translate spanish D1_TitPlay_9be314a9:
 
     # "The Girls" "Bye-bye~, [school_player_name]-sensei!"
-    "las chicas" "¡Adiós~, [school_player_name]-sensei!"
+    "Las chicas" "¡Adiós~, [school_player_name]-sensei!"
 
 # game/Days/dayOne.rpy:905
 translate spanish D1_Nurse_Intro_d3c7374c:
 
     # mcT "Right... Since it's lunch break, I guess I'll skip 1-A and go see this new nurse."
-    mcT "Bien... Como es la hora del almuerzo, supongo que me saltaré el 1-A e iré a ver a esta nueva enfermera."
+    mcT "Bien... Como es la hora del almuerzo, supongo que me saltaré la clase 1-A e iré a ver a esta nueva enfermera."
 
 # game/Days/dayOne.rpy:913
 translate spanish D1_Nurse_Intro_1700807e:
 
     # mcT "No one's here... I guess that's that."
-    mcT "No hay nadie aquí... Supongo que eso es todo."
+    mcT "No hay nadie aquí... Supongo que eso era todo."
 
 # game/Days/dayOne.rpy:914
 translate spanish D1_Nurse_Intro_d59ec851:
 
     # "But as you are about to leave..."
-    "Pero como estás a punto de irte..."
+    "Pero cuando estás a punto de irte..."
 
 # game/Days/dayOne.rpy:919
 translate spanish D1_Nurse_Intro_ebdf1351:
@@ -2350,13 +2350,13 @@ translate spanish D1_Nurse_Intro_ebdf1351:
 translate spanish D1_Nurse_Intro_dd14b15a:
 
     # mc "Uh, who's there? Are you hurt?"
-    mc "¿Quién está ahí? ¿Estás herido?"
+    mc "¿Quién está ahí? ¿Estás herida?"
 
 # game/Days/dayOne.rpy:922
 translate spanish D1_Nurse_Intro_3577aa79:
 
     # nobody "Ah, crud. Now I'm stuck here somehow... Could you help me?"
-    nobody "Ah, porquería. Ahora estoy atrapado aquí de alguna manera... ¿Podrías ayudarme?"
+    nobody "Ah, que porquería. Ahora estoy atrapada aquí de alguna manera... ¿Podrías ayudarme?"
 
 # game/Days/dayOne.rpy:924
 translate spanish D1_Nurse_Intro_9839082e:
@@ -2392,19 +2392,19 @@ translate spanish D1_Nurse_Intro_88d23e86:
 translate spanish D1_Nurse_Intro_0b874efc:
 
     # nobodyT "Hold on a gosh darn minute. I know that voice!"
-    nobodyT "Espera un maldito minuto. ¡Conozco esa voz!"
+    nobodyT "Espera un minuto. ¡Conozco esa voz!"
 
 # game/Days/dayOne.rpy:934
 translate spanish D1_Nurse_Intro_08b05303:
 
     # nobody "Oh, [player_name]! Fancy seeing you here!"
-    nobody "¡Ah, [player_name]! ¡Qué bueno verte por aquí!"
+    nobody "¡Ah, [player_name]! ¡Qué bueno qué estás por aquí!"
 
 # game/Days/dayOne.rpy:935
 translate spanish D1_Nurse_Intro_faa4b9b0:
 
     # mcT "Fuck me sideways with a rebar..."
-    mcT "Fóllame de lado con una barra de refuerzo..."
+    mcT "Fóllame del costado contra la barra..."
 
 # game/Days/dayOne.rpy:940
 translate spanish D1_Nurse_Intro_d41a782a:
@@ -2416,7 +2416,7 @@ translate spanish D1_Nurse_Intro_d41a782a:
 translate spanish D1_Nurse_Intro_f2932f63:
 
     # nurse "Can't you see I'm stuck here in this lewd position? Couldn't you be a darling and help me?"
-    nurse "¿No ves que estoy atrapado aquí en esta posición lasciva? ¿No podrías ser cariñoso y ayudarme?"
+    nurse "¿No ves que estoy atrapada aquí en esta posición lasciva? ¿No podrías ser cariñoso y ayudarme?"
 
 # game/Days/dayOne.rpy:943
 translate spanish D1_Nurse_Intro_705f0e5e:
@@ -2428,13 +2428,13 @@ translate spanish D1_Nurse_Intro_705f0e5e:
 translate spanish D1_Nurse_Intro_acd96cfd:
 
     # nurse "I don't know what it is, but I might be cursed..."
-    nurse "No sé qué es, pero puede que esté maldito..."
+    nurse "No sé porqué, pero puede que esté maldita..."
 
 # game/Days/dayOne.rpy:946
 translate spanish D1_Nurse_Intro_c3d7d2c9:
 
     # mc "Fat chance. I'm the cursed one."
-    mc "Gran posibilidad. Yo soy el maldito."
+    mc "Gran posibilidad. Yo soy el maldito aquí."
 
 # game/Days/dayOne.rpy:947
 translate spanish D1_Nurse_Intro_5769425c:
@@ -2452,7 +2452,7 @@ translate spanish D1_Nurse_Intro_3885cc91:
 translate spanish D1_Nurse_Intro_7e27fd47:
 
     # nurse "... Or do I have to scream \"{b}RAPE!{/b}\" and let someone else assist me?"
-    nurse "... ¿O tengo que gritar \"{b}¡VIOLACIÓN!{/b}\" y dejar que alguien más me ayude?"
+    nurse "... ¿O tengo que gritar \"{b}¡ME VIOLAN!{/b}\" y dejar que alguien más me ayude?"
 
 # game/Days/dayOne.rpy:951
 translate spanish D1_Nurse_Intro_dc75a1d1:
@@ -2464,25 +2464,25 @@ translate spanish D1_Nurse_Intro_dc75a1d1:
 translate spanish D1_Nurse_Intro_8929272c:
 
     # mc "While I would {i}love{/i} to rapeplay with you, I'd rather help you out."
-    mc "Aunque me {i}encantaría{/i} violar contigo, prefiero ayudarte."
+    mc "Aunque me {i}encantaría{/i} violarte, prefiero ayudarte."
 
 # game/Days/dayOne.rpy:954
 translate spanish D1_Nurse_Intro_2504c378:
 
     # mc "JUST."
-    mc "JUSTO."
+    mc "SOLO."
 
 # game/Days/dayOne.rpy:956
 translate spanish D1_Nurse_Intro_85fa82aa:
 
     # mc "THIS."
-    mc "ESTE."
+    mc "ESTA."
 
 # game/Days/dayOne.rpy:958
 translate spanish D1_Nurse_Intro_7efe89f3:
 
     # mc "ONCE."
-    mc "UNA VEZ."
+    mc "VEZ."
 
 # game/Days/dayOne.rpy:960
 translate spanish D1_Nurse_Intro_b924029f:
@@ -2500,13 +2500,13 @@ translate spanish D1_Nurse_Intro_6eedd092:
 translate spanish D1_Nurse_Intro_13f3c3ef:
 
     # mc "Are you ready?"
-    mc "¿Estás listo?"
+    mc "¿Estás lista?"
 
 # game/Days/dayOne.rpy:964
 translate spanish D1_Nurse_Intro_cdb74f24:
 
     # nurse "Always, macho-man!"
-    nurse "¡Siempre, macho-hombre!"
+    nurse "¡Siempre, hombre-macho!"
 
 # game/Days/dayOne.rpy:967
 translate spanish D1_Nurse_Intro_77708d8d:
@@ -2518,25 +2518,25 @@ translate spanish D1_Nurse_Intro_77708d8d:
 translate spanish D1_Nurse_Intro_a555b1c9:
 
     # mc "{b}PULL!{fast}"
-    mc "{b}¡TIRA!{fast}"
+    mc "{b}¡HALAR!{fast}"
 
 # game/Days/dayOne.rpy:973
 translate spanish D1_Nurse_Intro_a555b1c9_1:
 
     # mc "{b}PULL!{fast}"
-    mc "{b}¡TIRA!{fast}"
+    mc "{b}¡HALAR!{fast}"
 
 # game/Days/dayOne.rpy:977
 translate spanish D1_Nurse_Intro_aa553819:
 
     # mc "One more time and you should be free."
-    mc "Una vez más y deberías ser libre."
+    mc "Una vez más y serás libre."
 
 # game/Days/dayOne.rpy:983
 translate spanish D1_Nurse_Intro_ae2a0e6b:
 
     # "Alas, it was {b}not{/b} \"one more time\"."
-    "Desgraciadamente, {b}no{/b} fue \"una vez más\"."
+    "Desgraciadamente, {b}no{/b} fue \"una sola vez más\"."
 
 # game/Days/dayOne.rpy:986
 translate spanish D1_Nurse_Intro_547c1b5d:
@@ -2554,7 +2554,7 @@ translate spanish D1_Nurse_Intro_32e6d064:
 translate spanish D1_Nurse_Intro_1f860b07:
 
     # nurse "But, like, I'm stuck in the window, and my panties are gone! *hehe*"
-    nurse "¡Pero estoy atrapada en la ventana y mis bragas se han ido! *jeje*"
+    nurse "¡Pero esta vez, estare atrapada en la ventana y mis bragas se habrán ido! *jeje*"
 
 # game/Days/dayOne.rpy:1000
 translate spanish D1_Nurse_Intro_9f7cf667:
@@ -2572,13 +2572,13 @@ translate spanish D1_Nurse_Intro_473f9dea:
 translate spanish D1_Nurse_Intro_c7169cff:
 
     # nurse "If it was you, you could do whatever with me, [player_name]."
-    nurse "Si fueras tú, podrías hacer lo que fuera conmigo, [player_name]."
+    nurse "Si fueras tú, podrías hacer lo que quieras conmigo, [player_name]."
 
 # game/Days/dayOne.rpy:1004
 translate spanish D1_Nurse_Intro_6878b3aa:
 
     # nurse "We could play that game I mentioned earlier, too!"
-    nurse "¡Podríamos jugar ese juego que mencioné antes también!"
+    nurse "¡Podríamos jugar también a ese juego que mencioné antes!"
 
 # game/Days/dayOne.rpy:1006
 translate spanish D1_Nurse_Intro_7c0b5f61:
@@ -2602,19 +2602,19 @@ translate spanish D1_Nurse_Intro_9b31c61d:
 translate spanish D1_Nurse_Intro_061a85db:
 
     # mcT "'Cause if you give me strength, I'll strangle that bubblegum skank."
-    mcT "Porque si me das fuerzas, estrangularé a esa zorra chicle."
+    mcT "Porque si me das fuerzas, estrangularé a esa zorra de chicle."
 
 # game/Days/dayOne.rpy:1012
 translate spanish D1_Nurse_Intro_3ef66338:
 
     # mc "Anyway, I came here since [principal] mentioned a new nurse was recently hired, and I wanted to say hello."
-    mc "De todos modos, vine aquí porque [principal] mencionó que recientemente contrataron a una nueva enfermera y quería saludar."
+    mc "De todos modos, vine aquí porque la [principal] mencionó que recientemente contrataron a una nueva enfermera y quería saludar."
 
 # game/Days/dayOne.rpy:1013
 translate spanish D1_Nurse_Intro_6db70164:
 
     # mc "And please, for the love of God, fix your dress!"
-    mc "Y por favor, por el amor de Dios, ¡arregla tu vestido!"
+    mc "Y por favor, por el amor de Dios, ¡arregla tu ropa!"
 
 # game/Days/dayOne.rpy:1017
 translate spanish D1_Nurse_Intro_26577bec:
@@ -2638,7 +2638,7 @@ translate spanish D1_Nurse_Intro_493cd0c9:
 translate spanish D1_Nurse_Intro_0bab48e8:
 
     # nurse "Wait. Wait, sweetie pie! Let's sit at my desk, get all comfortable."
-    nurse "Esperar. ¡Espera, cariño! Sentémonos en mi escritorio y pongámonos cómodos."
+    nurse "Espera. ¡Espera, cariño! Sentémonos en mi escritorio y pongámonos cómodos."
 
 # game/Days/dayOne.rpy:1024
 translate spanish D1_Nurse_Intro_9556d9c6:
@@ -2668,13 +2668,13 @@ translate spanish D1_Nurse_Intro_f8cb0e01:
 translate spanish D1_Nurse_Intro_bd8fbd65:
 
     # nurse "I just like to get into the mindset of someone who's just been pile-driven by you~"
-    nurse "Simplemente me gusta entrar en la mentalidad de alguien que acaba de ser golpeado por ti ~"
+    nurse "Simplemente me gusta entrar en la mentalidad de alguien que acaba de ser golpeado por ti~"
 
 # game/Days/dayOne.rpy:1035
 translate spanish D1_Nurse_Intro_157de02d:
 
     # mc "Has anybody verified if you're mentally fit to be a college nurse?" id D1_Nurse_Intro_157de02d
-    mc "¿Alguien ha verificado si estás mentalmente apto para ser enfermera universitaria?" id D1_Nurse_Intro_157de02d
+    mc "¿Alguien ha verificado si estás mentalmente apta para ser enfermera de universidad?" id D1_Nurse_Intro_157de02d
 
 # game/Days/dayOne.rpy:1036
 translate spanish D1_Nurse_Intro_67af731c:
@@ -2728,7 +2728,7 @@ translate spanish D1_Nurse_Intro_3b744b2b:
 translate spanish D1_Nurse_Intro_a1bbf2cd:
 
     # nurse "*giggles* You're very far off, busto! I don't care about the money one bit! *hehe*"
-    nurse "*risitas* ¡Estás muy lejos, busto! ¡No me importa en lo más mínimo el dinero! *jeje*"
+    nurse "*risitas* ¡Estás muy lejos! ¡No me importa en lo más mínimo el dinero! *jeje*"
 
 # game/Days/dayOne.rpy:1050
 translate spanish D1_Nurse_Intro_fca6fd4f:
@@ -2788,7 +2788,7 @@ translate spanish D1_Nurse_Intro_df1cb4bc:
 translate spanish D1_Nurse_Intro_55ed532e:
 
     # nurse "I knew you'd say this."
-    nurse "Sabía que dirías esto."
+    nurse "Sabía que dirías eso."
 
 # game/Days/dayOne.rpy:1067
 translate spanish D1_Nurse_Intro_9628d1f9:
@@ -2800,7 +2800,7 @@ translate spanish D1_Nurse_Intro_9628d1f9:
 translate spanish D1_Nurse_Intro_dc7c3740:
 
     # nurse "There's one thing, though. I read your file back at the lab, [player_name]."
-    nurse "Pero hay una cosa. Leí su archivo en el laboratorio, [player_name]."
+    nurse "Pero hay una cosa. Leí tu archivo en el laboratorio, [player_name]."
 
 # game/Days/dayOne.rpy:1069
 translate spanish D1_Nurse_Intro_727bd727:
@@ -2836,7 +2836,7 @@ translate spanish D1_Nurse_Intro_de463b48:
 translate spanish D1_Nurse_Intro_2aefaa2c:
 
     # mc "And especially [suz]!"
-    mc "¡Y especialmente [suz]!"
+    mc "¡Y especialmente a [suz]!"
 
 # game/Days/dayOne.rpy:1078
 translate spanish D1_Nurse_Intro_87d78c63:
@@ -2854,7 +2854,7 @@ translate spanish D1_Nurse_Intro_4f6ba68d:
 translate spanish D1_Nurse_Intro_14b9437a:
 
     # mc "Alright. Humour me – what is it about?"
-    mc "Está bien. Hazme gracia: ¿de qué se trata?"
+    mc "Está bien. ¿de qué se trata?"
 
 # game/Days/dayOne.rpy:1083
 translate spanish D1_Nurse_Intro_c42c41c5:
@@ -2902,7 +2902,7 @@ translate spanish D1_Nurse_Intro_1891f494:
 translate spanish D1_Nurse_Intro_7ad7cd90:
 
     # nurse "If you give me some, I'll tell you {b}all{/b} my deep and dark secrets. *winks*"
-    nurse "Si me das algunos, te contaré {b}todos{/b} mis secretos más profundos y oscuros. *guiña un ojo*"
+    nurse "Si me das algunos, te contaré {b}todos{/b} mis secretos más profundos y oscuros. *guiño*"
 
 # game/Days/dayOne.rpy:1101
 translate spanish D1_Nurse_Intro_45c901ea:
@@ -3184,7 +3184,7 @@ translate spanish D1_Nurse_Intro_6183283c:
 translate spanish D1_Nurse_Intro_6f185848:
 
     # nobody "Just be quick about it. We still have to get through the end of the lesson."
-    nobody "Sólo sé rápido. Todavía tenemos que llegar al final de la lección."
+    nobody "Solo sé rápido. Todavía tenemos que llegar al final de la lección."
 
 # game/Days/dayOne.rpy:1190
 translate spanish D1_Nurse_Intro_2fcc7ac5:
@@ -3598,13 +3598,13 @@ translate spanish D1_Nurse_Intro_5933358a:
 translate spanish D1_Nurse_Intro_baa34db1:
 
     # si "It's nothing much. Just my friend, who is a girl, is coming over for dinner."
-    si "No es mucho. Sólo viene a cenar mi amiga, que es una chica."
+    si "No es mucho. Solo viene a cenar mi amiga, que es una chica."
 
 # game/Days/dayOne.rpy:1347
 translate spanish D1_Nurse_Intro_c87f1bd6:
 
     # si "Not my girlfriend or anything... Just a friend who happens to be a girl..."
-    si "Ni mi novia ni nada... Sólo una amiga que resulta ser una chica..."
+    si "Ni mi novia ni nada... Solo una amiga que resulta ser una chica..."
 
 # game/Days/dayOne.rpy:1349
 translate spanish D1_Nurse_Intro_de50fb57:
@@ -5161,19 +5161,19 @@ translate spanish strings:
 
     # game/Days/dayOne.rpy:398
     old "I prefer \"Mr. [player_name!t]\""
-    new "Prefiero \"Sr. [player_name!t]"
+    new "Prefiero \"Sr. [player_name!t]\""
 
     # game/Days/dayOne.rpy:398
     old "I prefer \"Mr. [mcSurnameBase!t]\""
-    new "Prefiero \"Sr. [mcSurnameBase!t]"
+    new "Prefiero \"Sr. [mcSurnameBase!t]\""
 
     # game/Days/dayOne.rpy:398
     old "I prefer \"[player_name!t]\""
-    new "Prefiero \"[player_name!t]"
+    new "Prefiero \"[player_name!t]\""
 
     # game/Days/dayOne.rpy:404
     old "Mr. {mcSurnameBase}"
-    new "Mr. {mcSurnameBase}"
+    new "Sr. {mcSurnameBase}"
 
     # game/Days/dayOne.rpy:423
     old "Raise your voice to them."
@@ -5181,7 +5181,7 @@ translate spanish strings:
 
     # game/Days/dayOne.rpy:423
     old "Take them out of the class."
-    new "Sacarlas fuera de clase."
+    new "Sacarlos fuera de clase."
 
     # game/Days/dayOne.rpy:460
     old "Accept."

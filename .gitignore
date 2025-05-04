@@ -2,3 +2,4 @@
 *.sublime-project
 *.vscode-proyect
 *.vscode
+sftp-config.json

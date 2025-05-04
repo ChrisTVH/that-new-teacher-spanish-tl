@@ -2644,7 +2644,7 @@ translate spanish D3_Stella_1eabbb88:
 translate spanish D3_Stella_c650c807:
 
     # mc "Only at the beginning [stella]. As with anything, you'll get better with practice."
-    mc "Sólo al principio [stella]. Como ocurre con todo, mejorarás con la práctica."
+    mc "Solo al principio [stella]. Como ocurre con todo, mejorarás con la práctica."
 
 # game/Days/dayThree.rpy:1122
 translate spanish D3_Stella_7b31b576:
@@ -3587,7 +3587,7 @@ translate spanish D3_Stella_8299f45b:
 translate spanish D3_Stella_d39e8d60:
 
     # soph "Just for you."
-    soph "Sólo para ti."
+    soph "Solo para ti."
 
 # game/Days/dayThree.rpy:1493
 translate spanish D3_Stella_f05df458:
@@ -3641,7 +3641,7 @@ translate spanish D3_Stella_02f9baf5:
 translate spanish D3_Stella_7cbe802b:
 
     # mc "It's only inappropriate because your tits are so big, [soph]."
-    mc "Sólo es inadecuado porque tus tetas son tan grandes, [soph]."
+    mc "Solo es inadecuado porque tus tetas son tan grandes, [soph]."
 
 # game/Days/dayThree.rpy:1518
 translate spanish D3_Stella_8f9f6673:
@@ -4883,7 +4883,7 @@ translate spanish D3_Esme_bc2f23a7:
 translate spanish D3_Esme_89f5e322:
 
     # mc "You're just sitting on my lap to watch the movie... Right?"
-    mc "Sólo estás sentada en mi regazo para ver la película... ¿Verdad?"
+    mc "Solo estás sentada en mi regazo para ver la película... ¿Verdad?"
 
 # game/Days/dayThree.rpy:2064
 translate spanish D3_Esme_38c70a9f_1:
@@ -7835,7 +7835,7 @@ translate spanish D3_Sophia_40272539:
 translate spanish D3_Sophia_6d2c2664:
 
     # mc "These things happen. You were just curious."
-    mc "Estas cosas pasan. Sólo tenías curiosidad."
+    mc "Estas cosas pasan. Solo tenías curiosidad."
 
 # game/Days/dayThree.rpy:3276
 translate spanish D3_Sophia_dd1bca84:
@@ -7907,7 +7907,7 @@ translate spanish D3_Sophia_7e447aa6:
 translate spanish D3_Sophia_aef81fff:
 
     # mc "Just a little [soph]."
-    mc "Sólo un poco de más, [soph]."
+    mc "Solo un poco de más, [soph]."
 
 # game/Days/dayThree.rpy:3299
 translate spanish D3_Sophia_f078773b:
@@ -8003,7 +8003,7 @@ translate spanish D3_Sophia_c6b7474c:
 translate spanish D3_Sophia_c88db667:
 
     # soph "I... I only thought about it!"
-    soph "Yo... ¡Sólo lo pensé!"
+    soph "Yo... ¡Solo lo pensé!"
 
 # game/Days/dayThree.rpy:3335
 translate spanish D3_Sophia_5f976792:
@@ -8273,7 +8273,7 @@ translate spanish D3_Sophia_e0d1bdfd:
 translate spanish D3_Sophia_b9eb79ca:
 
     # mc "She's right here. Just... Sleeping..."
-    mc "Ella está aquí. Sólo... Durmiendo..."
+    mc "Ella está aquí. Solo... Durmiendo..."
 
 # game/Days/dayThree.rpy:3416
 translate spanish D3_Sophia_b27f2d0d:
@@ -8477,7 +8477,7 @@ translate spanish D3_Sophia_3157a3b5:
 translate spanish D3_Sophia_cf12972d:
 
     # mc "Ahh yes. Just a dead leg..."
-    mc "Ahh sí. Sólo se me ha dormido una pierna..."
+    mc "Ahh sí. Solo se me ha dormido una pierna..."
 
 # game/Days/dayThree.rpy:3486
 translate spanish D3_Sophia_ccc6a502:
@@ -8634,7 +8634,7 @@ translate spanish strings:
 
     # game/Days/dayThree.rpy:768
     old "\n{u}{b}Day 3:{/b}{/u}\nI knew I've heard this voice before! Stella is the girl from the glory hole! She pulled me into the changing room in the mall, as a result, she's now going to be calling me [stella_player_name]."
-    new "\n{u}{b}Día 3:{/b}{/u}\n¡Sabía que había escuchado esa voz antes! ¡Stella es la chica del glory hole! Ella me llevó al vestuario del centro comercial y, como resultado, a partir de ahora me llamará [stella_player_name]."
+    new "\n{u}{b}Día 3:{/b}{/u}\n¡Sabía que había escuchado esa voz antes! ¡Stella es la chica del glory hole! Ella me llevó al vestuario del centro comercial y como resultado, a partir de ahora me llamará [stella_player_name]."
 
     # game/Days/dayThree.rpy:774
     old "Let Stella off the hook."

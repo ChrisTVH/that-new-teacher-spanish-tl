@@ -142,7 +142,7 @@ translate spanish dayFourStart_6f2a1c3b:
 translate spanish dayFourStart_2190865c:
 
     # suz "There will be payback... Just you wait."
-    suz "Habrá venganza... Sólo espera."
+    suz "Habrá venganza... Solo espera."
 
 # game/Days/dayFour.rpy:95
 translate spanish dayFourStart_16da5a51:
@@ -184,19 +184,19 @@ translate spanish dayFourStart_9627057e:
 translate spanish dayFourStart_e2b8acd2:
 
     # mc "Shower."
-    mc "Ducha."
+    mc "Ducharme."
 
 # game/Days/dayFour.rpy:122
 translate spanish dayFourStart_ff3a5f01:
 
     # mc "Teeth."
-    mc "Dientes."
+    mc "Cepillarme."
 
 # game/Days/dayFour.rpy:124
 translate spanish dayFourStart_825cdc19:
 
     # mc "Poop?"
-    mc "¿Caca?"
+    mc "¿Usar el váter?"
 
 # game/Days/dayFour.rpy:126
 translate spanish dayFourStart_0817892e:
@@ -928,7 +928,7 @@ translate spanish dayFourStart_86e9e3cc:
 translate spanish dayFourStart_9a5689d9:
 
     # mc "I'm just gonna g-"
-    mc "Sólo voy a -"
+    mc "Solo voy a -"
 
 # game/Days/dayFour.rpy:397
 translate spanish dayFourStart_3158f6e0:
@@ -2020,7 +2020,7 @@ translate spanish D4_Suzie_4f63c52a:
 translate spanish D4_Suzie_b7cd6ddf:
 
     # suz "Just you... {bt=1}{i}Uuurg{/i}{/bt} wait!"
-    suz "Sólo tú... {bt=1}{i}Uuuurg{/i}{/bt} ¡espera!"
+    suz "Solo tú... {bt=1}{i}Uuuurg{/i}{/bt} ¡espera!"
 
 # game/Days/dayFour.rpy:890
 translate spanish D4_Suzie_6a79a08b:
@@ -2182,7 +2182,7 @@ translate spanish D4_Suzie_2a2fb2cc:
 translate spanish D4_Suzie_8ab9f618:
 
     # suz "Fine... Just because you won..."
-    suz "Bien... Sólo porque ganaste..."
+    suz "Bien... Solo porque ganaste..."
 
 # game/Days/dayFour.rpy:953
 translate spanish D4_Suzie_16eaa4b2:
@@ -2386,7 +2386,7 @@ translate spanish D4_Suzie_729aefe7:
 translate spanish D4_Suzie_b9623fea:
 
     # mc "Only something a lowly peasant such as myself could provide to your excellence."
-    mc "Sólo algo que un humilde campesino como yo podría aportar a su excelencia."
+    mc "Solo algo que un humilde campesino como yo podría aportar a su excelencia."
 
 # game/Days/dayFour.rpy:1041
 translate spanish D4_Suzie_503255db:
@@ -2662,7 +2662,7 @@ translate spanish D4_Suzie_c651e9a6:
 translate spanish D4_Suzie_0373f674:
 
     # mc "Just kiss me alrea-{p=0.7}{nw}"
-    mc "Sólo bésame ya-{p=0.7}{nw}"
+    mc "Solo bésame ya-{p=0.7}{nw}"
 
 # game/Days/dayFour.rpy:1172
 translate spanish D4_Suzie_fbc58980:
@@ -3940,7 +3940,7 @@ translate spanish D4_PornStore_581b9f99:
 translate spanish D4_PornStore_9c2091b1:
 
     # mc "You just had a bit of a look about you.. Like you weren't sure what you wanted."
-    mc "Sólo echaste un vistazo sobre ti... como si no estuvieras seguro de lo que querías."
+    mc "Solo echaste un vistazo sobre ti... como si no estuvieras seguro de lo que querías."
 
 # game/Days/dayFour.rpy:1734
 translate spanish D4_PornStore_e240a98b:
@@ -3970,7 +3970,7 @@ translate spanish D4_PornStore_43538bfb:
 translate spanish D4_PornStore_e912777f:
 
     # kei "True. Just a vibrator. I tried asking that staff girl but she kinda just pointed out the obvious."
-    kei "Verdadero. Sólo un vibrador. Intenté preguntarle a esa chica del personal pero ella simplemente señaló lo obvio."
+    kei "Verdadero. Solo un vibrador. Intenté preguntarle a esa chica del personal pero ella simplemente señaló lo obvio."
 
 # game/Days/dayFour.rpy:1744
 translate spanish D4_PornStore_7eeeea52:
@@ -4246,7 +4246,7 @@ translate spanish D4_PornStore_5741d1ca:
 translate spanish D4_PornStore_61ba0aef:
 
     # mc "Well, It can do. You just have to be open minded, and a little bit trusting."
-    mc "Bueno, puede servir. Sólo hay que tener la mente abierta y un poco de confianza."
+    mc "Bueno, puede servir. Solo hay que tener la mente abierta y un poco de confianza."
 
 # game/Days/dayFour.rpy:1854
 translate spanish D4_PornStore_c15dc5eb:
@@ -4378,7 +4378,7 @@ translate spanish D4_PornStore_25dd36c2:
 translate spanish D4_PornStore_59ca6f83:
 
     # mc "Oh, no one. I'm just removing the control."
-    mc "Ah, nadie. Sólo estoy quitando el control."
+    mc "Ah, nadie. Solo estoy quitando el control."
 
 # game/Days/dayFour.rpy:1903
 translate spanish D4_PornStore_5238d913:
@@ -4432,7 +4432,7 @@ translate spanish D4_PornStore_b003c313_3:
 translate spanish D4_PornStore_26d41e7f:
 
     # kei "Just call me Shay."
-    kei "Sólo llámame Shay."
+    kei "Solo llámame Shay."
 
 # game/Days/dayFour.rpy:1926
 translate spanish D4_PornStore_f9def379:
@@ -4630,7 +4630,7 @@ translate spanish D4_PornStore_1ec856af:
 translate spanish D4_PornStore_6d9ea731:
 
     # mc "Just needed to make sure it has that wobble that I'm looking for."
-    mc "Sólo necesitaba asegurarme de que tenga esa oscilación que estoy buscando."
+    mc "Solo necesitaba asegurarme de que tenga esa oscilación que estoy buscando."
 
 # game/Days/dayFour.rpy:2011
 translate spanish D4_PornStore_7b57ac00:
@@ -4804,7 +4804,7 @@ translate spanish D4_PornStore_c1520a51:
 translate spanish D4_PornStore_bf0fde38:
 
     # mc "I get that a lot. Don't worry you're not the first to be apprehensive once you've seen it."
-    mc "Lo entiendo mucho. No te preocupes, no eres la primera en sentirse aprensiva una vez que lo has visto."
+    mc "Lo entiendo mucho. No te preocupes no eres la primera en sentirse aprensiva una vez que lo has visto."
 
 # game/Days/dayFour.rpy:2086
 translate spanish D4_PornStore_72dbd2e6:
@@ -4882,7 +4882,7 @@ translate spanish D4_PornStore_875603b5:
 translate spanish D4_PornStore_851a43fd:
 
     # mcT "I just wish I could just put my hands on her head, and push her dead down on my shaft." id D4_PornStore_851a43fd
-    mcT "Sólo desearía poder poner mis manos sobre su cabeza y empujarla hacia abajo sobre mi eje." id D4_PornStore_851a43fd
+    mcT "Solo desearía poder poner mis manos sobre su cabeza y empujarla hacia abajo sobre mi eje." id D4_PornStore_851a43fd
 
 # game/Days/dayFour.rpy:2113
 translate spanish D4_PornStore_510b2be9:
@@ -5086,7 +5086,7 @@ translate spanish D4_PornStore_9ad0bd61:
 translate spanish D4_PornStore_a0b70b2c:
 
     # mc "There is only one way to find out."
-    mc "Sólo hay una manera de saberlo."
+    mc "Solo hay una manera de saberlo."
 
 # game/Days/dayFour.rpy:2210
 translate spanish D4_PornStore_efa4e4cb:
@@ -5602,7 +5602,7 @@ translate spanish D4_PornStore_34bd7af5:
 translate spanish D4_PornStore_d4779614:
 
     # mcT "Maybe she'll give in and let me impregnate her. Only time will tell."
-    mcT "Tal vez ella ceda y me deje embarazarla. Sólo el tiempo lo dirá."
+    mcT "Tal vez ella ceda y me deje embarazarla. Solo el tiempo lo dirá."
 
 # game/Days/dayFour.rpy:2450
 translate spanish D4_PornStore_3f0ef3b0:
@@ -5842,13 +5842,13 @@ translate spanish D4_PornStore_335a6198:
 translate spanish D4_PornStore_93825a79:
 
     # mc "I'm only joking [soph]. I'll be there. Now?"
-    mc "Sólo estoy bromeando [soph]. Voy a estar allí. ¿Ahora?"
+    mc "Solo estoy bromeando [soph]. Voy a estar allí. ¿Ahora?"
 
 # game/Days/dayFour.rpy:2555
 translate spanish D4_PornStore_6e57c184:
 
     # soph "20 or so minutes! I just need to finish up here and then I'll meet you there. I left some workout gear on your bed for you. So you can just quickly grab it."
-    soph "¡20 minutos más o menos! Sólo necesito terminar aquí y luego nos vemos allí. Te dejé algo de equipo de ejercicio en tu cama. Para que puedas agarrarlo rápidamente."
+    soph "¡20 minutos más o menos! Solo necesito terminar aquí y luego nos vemos allí. Te dejé algo de equipo de ejercicio en tu cama. Para que puedas agarrarlo rápidamente."
 
 # game/Days/dayFour.rpy:2557
 translate spanish D4_PornStore_2671e3aa:
@@ -6052,13 +6052,13 @@ translate spanish d4_phoneCall_c96c22a4:
 translate spanish d4_phoneCall_93825a79:
 
     # mc "I'm only joking [soph]. I'll be there. Now?"
-    mc "Sólo estoy bromeando [soph]. Voy a estar allí. ¿Ahora?"
+    mc "Solo estoy bromeando [soph]. Voy a estar allí. ¿Ahora?"
 
 # game/Days/dayFour.rpy:2643
 translate spanish d4_phoneCall_6e57c184:
 
     # soph "20 or so minutes! I just need to finish up here and then I'll meet you there. I left some workout gear on your bed for you. So you can just quickly grab it."
-    soph "¡20 minutos más o menos! Sólo necesito terminar aquí y luego nos vemos allí. Te dejé algo de equipo de ejercicio en tu cama. Para que puedas agarrarlo rápidamente."
+    soph "¡20 minutos más o menos! Solo necesito terminar aquí y luego nos vemos allí. Te dejé algo de equipo de ejercicio en tu cama. Para que puedas agarrarlo rápidamente."
 
 # game/Days/dayFour.rpy:2645
 translate spanish d4_phoneCall_2671e3aa:
@@ -6598,7 +6598,7 @@ translate spanish d4_phoneCall_0646419a:
 translate spanish d4_phoneCall_170f6097:
 
     # "Alas. It has only been 10 minutes."
-    "Ay. Sólo han pasado 10 minutos."
+    "Ay. Solo han pasado 10 minutos."
 
 # game/Days/dayFour.rpy:2862
 translate spanish d4_phoneCall_f64ee9d8:
@@ -6856,7 +6856,7 @@ translate spanish D4_Yoga_7d07d7ce:
 translate spanish D4_Yoga_a4f995c4:
 
     # mcT "Why did I decide to come? I'm just sat here..." id D4_Yoga_a4f995c4
-    mcT "¿Por qué decidí venir? Sólo estoy sentado aquí..." id D4_Yoga_a4f995c4
+    mcT "¿Por qué decidí venir? Solo estoy sentado aquí..." id D4_Yoga_a4f995c4
 
 # game/Days/dayFour.rpy:2951
 translate spanish D4_Yoga_434245b0:
@@ -8002,7 +8002,7 @@ translate spanish D4_Yoga_bc299f03:
 translate spanish D4_Yoga_b46a3db6:
 
     # mc "Huh? Why would that matter? I'm just helping you stretch, right?"
-    mc "¿Eh? ¿Por qué importaría eso? Sólo te estoy ayudando a estirarte, ¿verdad?"
+    mc "¿Eh? ¿Por qué importaría eso? Solo te estoy ayudando a estirarte, ¿verdad?"
 
 # game/Days/dayFour.rpy:3379
 translate spanish D4_Yoga_8b0d925f:
@@ -8848,7 +8848,7 @@ translate spanish D4_Yoga_54589899:
 translate spanish D4_Yoga_564a2935:
 
     # bill "Oh... Only a few hours. Just this special event... thing... Yeah..."
-    bill "Oh... Sólo unas pocas horas. Sólo será este evento especial... cosa... Sí..."
+    bill "Oh... Solo unas pocas horas. Solo será este evento especial... cosa... Sí..."
 
 # game/Days/dayFour.rpy:3838
 translate spanish D4_Yoga_cc8f6c42:
@@ -9124,7 +9124,7 @@ translate spanish D4_Yoga_8d964c14:
 translate spanish D4_Yoga_68291cb8:
 
     # "You know what you've done, and yet..."
-    "Sabes lo que has hecho y, sin embargo..."
+    "Sabes lo que has hecho y sin embargo..."
 
 # game/Days/dayFour.rpy:3969
 translate spanish D4_Yoga_33dd3b96:
@@ -10618,7 +10618,7 @@ translate spanish YesPhoneCall_45e49792:
 translate spanish YesPhoneCall_0f000138:
 
     # mc "Oh yes, sorry. I'm just doing two things at once."
-    mc "Oh si, lo siento. Sólo estoy haciendo dos cosas a la vez."
+    mc "Oh si, lo siento. Solo estoy haciendo dos cosas a la vez."
 
 # game/Days/dayFour.rpy:4761
 translate spanish YesPhoneCall_622b553d:
@@ -10726,7 +10726,7 @@ translate spanish YesPhoneCall_66e76879:
 translate spanish YesPhoneCall_bf033d0d:
 
     # mc "I could provide that for you. You just need to accept it. You {i}have{/i} to accept it."
-    mc "Podría proporcionártelo. Sólo necesitas aceptarlo. {i}Tienes{/i} que aceptarlo."
+    mc "Podría proporcionártelo. Solo necesitas aceptarlo. {i}Tienes{/i} que aceptarlo."
 
 # game/Days/dayFour.rpy:4805
 translate spanish YesPhoneCall_ff8b38ff:
@@ -10870,7 +10870,7 @@ translate spanish YesPhoneCall_45e49792_1:
 translate spanish YesPhoneCall_0f000138_1:
 
     # mc "Oh yes, sorry. I'm just doing two things at once."
-    mc "Oh si, lo siento. Sólo estoy haciendo dos cosas a la vez."
+    mc "Oh si, lo siento. Solo estoy haciendo dos cosas a la vez."
 
 # game/Days/dayFour.rpy:4859
 translate spanish YesPhoneCall_622b553d_1:
@@ -10978,7 +10978,7 @@ translate spanish YesPhoneCall_66e76879_1:
 translate spanish YesPhoneCall_bf033d0d_1:
 
     # mc "I could provide that for you. You just need to accept it. You {i}have{/i} to accept it."
-    mc "Podría proporcionártelo. Sólo necesitas aceptarlo. {i}Tienes{/i} que aceptarlo."
+    mc "Podría proporcionártelo. Solo necesitas aceptarlo. {i}Tienes{/i} que aceptarlo."
 
 # game/Days/dayFour.rpy:4903
 translate spanish YesPhoneCall_ff8b38ff_1:
@@ -11164,7 +11164,7 @@ translate spanish NoPhoneCall_45e49792:
 translate spanish NoPhoneCall_0f000138:
 
     # mc "Oh yes, sorry. I'm just doing two things at once."
-    mc "Oh si, lo siento. Sólo estoy haciendo dos cosas a la vez."
+    mc "Oh si, lo siento. Solo estoy haciendo dos cosas a la vez."
 
 # game/Days/dayFour.rpy:4982
 translate spanish NoPhoneCall_622b553d:
@@ -11272,7 +11272,7 @@ translate spanish NoPhoneCall_66e76879:
 translate spanish NoPhoneCall_bf033d0d:
 
     # mc "I could provide that for you. You just need to accept it. You {i}have{/i} to accept it."
-    mc "Podría proporcionártelo. Sólo necesitas aceptarlo. {i}Tienes{/i} que aceptarlo."
+    mc "Podría proporcionártelo. Solo necesitas aceptarlo. {i}Tienes{/i} que aceptarlo."
 
 # game/Days/dayFour.rpy:5026
 translate spanish NoPhoneCall_ff8b38ff:
@@ -11491,7 +11491,7 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:2106
     old "I just wish..."
-    new "Sólo deseo..."
+    new "Solo deseo..."
 
     # game/Days/dayFour.rpy:2106
     old "Extra animation."
@@ -11563,7 +11563,7 @@ translate spanish strings:
 
     # game/Days/dayFour.rpy:3680
     old "It's... Just a hug, Michelle."
-    new "Es... Sólo un abrazo, Michelle."
+    new "Es... Solo un abrazo, Michelle."
 
     # game/Days/dayFour.rpy:3921
     old "Take the dildo.\n{size=15}{i}(While ignoring the mysterious voice...){/i}{/size}"

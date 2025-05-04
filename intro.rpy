@@ -40,13 +40,13 @@ translate spanish intro_733dbfa5:
 translate spanish intro_4f22f7c6:
 
     # raya "Don't think I'm trying to get to know you."
-    raya "No creas que intento conocerte."
+    raya "No creas que estoy intentando conocerte."
 
 # game/intro.rpy:37
 translate spanish intro_17ba4f13:
 
     # raya "I'm not. There is a character page, and we need to fill out your information for it."
-    raya "No lo estoy. Hay una página de personajes, y tenemos que llenar tu información para ello."
+    raya "No lo estoy. Tenemos una página de personajes, y hay que rellenar tu información para la página."
 
 # game/intro.rpy:40
 translate spanish intro_8033e26a:
@@ -124,7 +124,7 @@ translate spanish ageSelection_90ec9090:
 translate spanish ageSelection_e65c58ce:
 
     # nova "Hehehe, don't mind her, [player_name]. She's just a moody bunny!"
-    nova "Jejeje, no le hagas caso, [player_name]. Sólo es una conejita malhumorada."
+    nova "Jejeje, no le hagas caso, [player_name]. Solo es una conejita malhumorada."
 
 # game/intro.rpy:109
 translate spanish ageSelection_9baa48f1:
@@ -170,7 +170,7 @@ translate spanish strings:
 
     # game/intro.rpy:43
     old "I'll need that again."
-    new "Necesito que me lo expliques de nuevo."
+    new "Explicame otra vez."
 
     # game/intro.rpy:59
     old "Age?"
