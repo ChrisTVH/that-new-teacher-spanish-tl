@@ -5494,7 +5494,7 @@ translate spanish D5_Principal_3_6f1dcd77_1:
 translate spanish D5_Principal_3_7170ce3c:
 
     # "Her strides were wide and powerful, since you resisted the temptation to use BoB."
-    "Sus zancadas eran amplias y poderosas, ya que resististe la tentación de usar a BoB."
+    "Sus zancadas eran amplias y poderosas, ya que resististe la tentación de usar a NcP."
 
 # game/Days/dayFive.rpy:2569
 translate spanish D5_Principal_3_bb979dc3:
@@ -5518,7 +5518,7 @@ translate spanish D5_Principal_3_3c421765:
 translate spanish D5_Principal_3_aa3352c9:
 
     # "Her strides were wide and powerful, since you {i}somewhat{/i} resisted the temptation to use BoB."
-    "Sus zancadas eran amplias y poderosas, ya que {i}en cierto modo{/i} resististe la tentación de usar BoB."
+    "Sus zancadas eran amplias y poderosas, ya que {i}en cierto modo{/i} resististe la tentación de usar NcP."
 
 # game/Days/dayFive.rpy:2575
 translate spanish D5_Principal_3_bb979dc3_1:
@@ -12153,15 +12153,15 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1618
     old "\nAs I thought... Level [d5_vibrationPower] on BoB was too much for her. As soon as I pressed the button she instantly collapsed to the floor."
-    new "\nComo pensaba... El nivel [d5_vibrationPower] en BoB era demasiado para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
+    new "\nComo pensaba... El nivel [d5_vibrationPower] en NcP era demasiado para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
 
     # game/Days/dayFive.rpy:1621
     old "\nInteresting... Level [d5_vibrationPower] on BoB was too much for her. As soon as I pressed the button she instantly collapsed to the floor."
-    new "\nInteresante... El nivel [d5_vibrationPower] en BoB fue demasiado para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
+    new "\nInteresante... El nivel [d5_vibrationPower] en NcP fue demasiado para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
 
     # game/Days/dayFive.rpy:1623
     old "\nI had higher expectations, but level [d5_vibrationPower] on BoB was too difficult for her. As soon as I pressed the button she instantly collapsed to the floor."
-    new "\nTenía expectativas más altas, pero el nivel [d5_vibrationPower] en BoB era demasiado difícil para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
+    new "\nTenía expectativas más altas, pero el nivel [d5_vibrationPower] en NcP era demasiado difícil para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
 
     # game/Days/dayFive.rpy:1702
     old "\nAfter the initial punishment... We got down to business and discussed what's going to change around [school_name] and we agreed on a plan-of-action."
@@ -12345,7 +12345,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:2005
     old "Public humiliation of Mrs. Jackson.\n{size=-5}{i}(BoB = Battery Operated Boyfriend.){/i}{/size}"
-    new "Humillación pública de la señora Jackson.\n{size=-5}{i}(BoB = Novio operado por pilas).{/i}{/size}"
+    new "Humillación pública de la señora Jackson.\n{size=-5}{i}(NcP = Novio con Pilas).{/i}{/size}"
 
     # game/Days/dayFive.rpy:2188
     old "[clarissa], can [stella] do that? Can she photocopy the contract and sign it?"

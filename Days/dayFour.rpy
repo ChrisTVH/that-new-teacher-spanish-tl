@@ -3238,19 +3238,19 @@ translate spanish D4_Suzie_e3e47136:
 translate spanish D4_Suzie_66f62149:
 
     # raya "We do. What about Bob?"
-    raya "Lo hacemos. ¿Qué pasa con el NFP?"
+    raya "Lo hacemos. ¿Qué pasa con el NcP?"
 
 # game/Days/dayFour.rpy:1442
 translate spanish D4_Suzie_ff5b9211:
 
     # mc "...Bob?"
-    mc "...NFP?"
+    mc "...NcP?"
 
 # game/Days/dayFour.rpy:1444
 translate spanish D4_Suzie_89ed968c:
 
     # raya "Battery Operated Boyfriend."
-    raya "Novio que Funciona con Pilas."
+    raya "Novio Con Pilas."
 
 # game/Days/dayFour.rpy:1446
 translate spanish D4_Suzie_56a3d00c:
@@ -3298,13 +3298,13 @@ translate spanish D4_Suzie_8e9e3cf2:
 translate spanish D4_Suzie_23400322:
 
     # raya "'You want Bob then?"
-    raya "—¿Quieres entonces el NFP?"
+    raya "—¿Quieres entonces el NcP?"
 
 # game/Days/dayFour.rpy:1462
 translate spanish D4_Suzie_4d8d8ce2:
 
     # mc "Yes. I'll take \"Bob\"."
-    mc "Sí. Yo me quedo con \"NFP\"."
+    mc "Sí. Yo me quedo con \"NcP\"."
 
 # game/Days/dayFour.rpy:1464
 translate spanish D4_Suzie_eeeb943d:
@@ -8044,7 +8044,7 @@ translate spanish D4_Yoga_a18f8fe9:
 translate spanish D4_Yoga_389db35d:
 
     # mc "Haha. It's like a little vibrator! Should have brought \"Bob\", heh."
-    mc "Ja ja. ¡Es como un pequeño vibrador! Debería haber traído a \"NFP\", je."
+    mc "Ja ja. ¡Es como un pequeño vibrador! Debería haber traído a \"NcP\", je."
 
 # game/Days/dayFour.rpy:3403
 translate spanish D4_Yoga_47d54925:
