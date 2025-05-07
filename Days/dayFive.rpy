@@ -28,7 +28,7 @@ translate spanish dayFiveStart_78609f7f:
 translate spanish dayFiveStart_dd6cf0f7:
 
     # suzT "This bed is so comfy! I wish mine was like this!"
-    suzT "¡Esta cama es tan cómoda! ¡Ojalá el mío fuera así!"
+    suzT "¡Esta cama es taaan cómoda! ¡Ojalá la mía fuera así!"
 
 # game/Days/dayFive.rpy:21
 translate spanish dayFiveStart_e7173577:
@@ -58,7 +58,7 @@ translate spanish dayFiveStart_17484445:
 translate spanish dayFiveStart_8d0ee64e:
 
     # suzT "Cute."
-    suzT "Lindo."
+    suzT "Que lindo."
 
 # game/Days/dayFive.rpy:35
 translate spanish dayFiveStart_57d40e45:
@@ -88,13 +88,13 @@ translate spanish dayFiveStart_f5b4560c:
 translate spanish dayFiveStart_5dda5090:
 
     # suz "B-Beautiful!? Where did this come from?"
-    suz "¿¡B-Hermosa!? ¿De dónde vino esto?"
+    suz "¿¡H-Hermosa!? ¿A que ha vino eso?"
 
 # game/Days/dayFive.rpy:45
 translate spanish dayFiveStart_bce8d458:
 
     # mc "What, can't I say what's true?"
-    mc "¿Qué? ¿No puedo decir qué es verdad?"
+    mc "¿Qué? ¿No puedo decir lo qué es verdad?"
 
 # game/Days/dayFive.rpy:47
 translate spanish dayFiveStart_0ad42335:
@@ -112,13 +112,13 @@ translate spanish dayFiveStart_f75fd46c:
 translate spanish dayFiveStart_35cf74b8:
 
     # suz "...We're in a {sc=2}{b}what!?{/b}{/sc}"
-    suz "...¿¡Estamos en un {sc=2}{b}qué!?{/b}{/sc}"
+    suz "...¿¡Estamos en una {sc=2}{b}qué!?{/b}{/sc}"
 
 # game/Days/dayFive.rpy:57
 translate spanish dayFiveStart_a65deab6:
 
     # mc "Why are you turning red?"
-    mc "¿Por qué te pones rojo?"
+    mc "¿Por qué te pones roja?"
 
 # game/Days/dayFive.rpy:59
 translate spanish dayFiveStart_0f990f4d:
@@ -130,7 +130,7 @@ translate spanish dayFiveStart_0f990f4d:
 translate spanish dayFiveStart_c27a7083:
 
     # suz "Kiss!? Relationship!? Whaaa???"
-    suz "¿¡Beso!? ¿¡Relación!? Queaa???"
+    suz "¿¡Beso!? ¿¡Relación!? ¿¿¿Queeee???"
 
 # game/Days/dayFive.rpy:68
 translate spanish dayFiveStart_79de7289:
@@ -172,7 +172,7 @@ translate spanish dayFiveStart_62bc391e:
 translate spanish dayFiveStart_4704b196:
 
     # mc "You're not seriously trying to kiss a pillow..."
-    mc "En serio no estás intentando besar una almohada..."
+    mc "En serio no estarás intentando besar una almohada..."
 
 # game/Days/dayFive.rpy:94
 translate spanish dayFiveStart_c775594b:
@@ -196,13 +196,13 @@ translate spanish dayFiveStart_d2d17f23:
 translate spanish dayFiveStart_e4805db6:
 
     # mc "Who'd have thought you'd be this nervous around me without a shirt on..."
-    mc "¿Quién hubiera pensado que estarías tan nervioso cerca de mí sin una camisa...?"
+    mc "¿Quién hubiera pensado que estarías tan nerviosa cerca de mí sin una camisa...?"
 
 # game/Days/dayFive.rpy:102
 translate spanish dayFiveStart_abaf927b:
 
     # suz "...You're right. I guess I'm still thin-"
-    suz "...Tienes razón. Supongo que todavía estoy delgada"
+    suz "...Tienes razón. Supongo que todavía estoy pensan..."
 
 # game/Days/dayFive.rpy:104
 translate spanish dayFiveStart_a42cbdba:
@@ -214,13 +214,13 @@ translate spanish dayFiveStart_a42cbdba:
 translate spanish dayFiveStart_7893ffcb:
 
     # mc "What was it about, if it involved you trying to tongue punch a pillow?"
-    mc "¿De qué se trataba, si se trataba de intentar darle un puñetazo a una almohada?"
+    mc "¿De qué se trataba?¿Trataba de lamer una almohada?"
 
 # game/Days/dayFive.rpy:107
 translate spanish dayFiveStart_db1be5ee:
 
     # suz "Tongue... Nevermind."
-    suz "Lengua... No importa."
+    suz "Lamer... No importa."
 
 # game/Days/dayFive.rpy:109
 translate spanish dayFiveStart_bd545126:
@@ -232,7 +232,7 @@ translate spanish dayFiveStart_bd545126:
 translate spanish dayFiveStart_0bd24e39:
 
     # mc "Try me?"
-    mc "¿Pruébame?"
+    mc "¿Porque? Inténtalo"
 
 # game/Days/dayFive.rpy:112
 translate spanish dayFiveStart_f49d104a:
@@ -262,7 +262,7 @@ translate spanish dayFiveStart_31402990:
 translate spanish dayFiveStart_a3907ad9:
 
     # suz "Have you thought about cleaning yourself up a bit? New job, new you?"
-    suz "¿Has pensado en asearte un poco? ¿Nuevo trabajo, nuevo tú?"
+    suz "¿Has pensado en asearte un poco? ¿Un Nuevo trabajo, un nuevo tú?"
 
 # game/Days/dayFive.rpy:122
 translate spanish dayFiveStart_b2b9e19d:
@@ -322,7 +322,7 @@ translate spanish dayFiveStart_71c87213:
 translate spanish dayFiveStart_1d051acd:
 
     # suz "Shave. Please."
-    suz "Afeitar. Por favor."
+    suz "Afeitate. Por favor."
 
 # game/Days/dayFive.rpy:144
 translate spanish dayFiveStart_f72e1dcf:
@@ -334,7 +334,7 @@ translate spanish dayFiveStart_f72e1dcf:
 translate spanish dayFiveStart_36f6b4b1:
 
     # suz "Well, I don't!"
-    suz "Bueno, ¡yo no!"
+    suz "Bueno, ¡a mi no!"
 
 # game/Days/dayFive.rpy:148
 translate spanish dayFiveStart_d4a4a8a8:
@@ -430,13 +430,13 @@ translate spanish dayFiveStart_d406caab:
 translate spanish dayFiveStart_6f01310f:
 
     # mc "I shouldn't give any value to the opinions of a LOSER like you!"
-    mc "¡No debería darle ningún valor a las opiniones de un PERDEDOR como tú!"
+    mc "¡No debería darle ningún valor a las opiniones de unA PERDEDORA como tú!"
 
 # game/Days/dayFive.rpy:181
 translate spanish dayFiveStart_240173ab:
 
     # suz "*Hmpf*! do what you want then!"
-    suz "*Hmpf*! haz lo que quieras entonces!"
+    suz "*Hmpf*! Haz lo que quieras entonces!"
 
 # game/Days/dayFive.rpy:183
 translate spanish dayFiveStart_cd43ac5b:
@@ -460,19 +460,19 @@ translate spanish dayFiveStart_5e4cb053:
 translate spanish dayFiveStart_88f51ad3:
 
     # suz "I let you win! Next time I'll show you my true power!"
-    suz "¡Te dejo ganar! ¡La próxima vez te mostraré mi verdadero poder!"
+    suz "¡Te dejé ganar! ¡La próxima vez te mostraré mi verdadero poder!"
 
 # game/Days/dayFive.rpy:191
 translate spanish dayFiveStart_52593cf4:
 
     # mc "If it involves tickling. I am not going to go easy on you. Beware!"
-    mc "Si se trata de cosquillas. No voy a ser fácil contigo. ¡Tener cuidado!"
+    mc "Si se trata de cosquillas. No voy a ponertelo facil la próxima vez. ¡Ten cuidado!"
 
 # game/Days/dayFive.rpy:193
 translate spanish dayFiveStart_9befe576:
 
     # suz "*Giggle* Yeah, yeah. I'll wait for that."
-    suz "*Risita* Sí, sí. Esperaré por eso."
+    suz "*Risita* Sí, sí. Esperaré para eso."
 
 # game/Days/dayFive.rpy:195
 translate spanish dayFiveStart_413e5ceb:
@@ -502,7 +502,7 @@ translate spanish dayFiveStart_cb86dbdd:
 translate spanish dayFiveStart_603b06a7:
 
     # suz "He has a {sc=2}WHAT!?{/sc}"
-    suz "Tiene un {sc=2}¿¡QUÉ!?{/sc}"
+    suz "Tiene una {sc=2}¿¡QUÉ!?{/sc}"
 
 # game/Days/dayFive.rpy:205
 translate spanish dayFiveStart_06ab7009:
@@ -544,7 +544,7 @@ translate spanish dayFiveStart_8966ffd5:
 translate spanish dayFiveStart_b1681b82:
 
     # suz "Okay, I'll meet you in the kitchen. And if you're clean, I've won. Remember that!"
-    suz "Vale, nos vemos en la cocina. Y si estás limpio, he ganado. ¡Recuerda eso!"
+    suz "Vale, nos vemos en la cocina. Y si estás afeitado, he ganado. ¡Recuerda eso!"
 
 # game/Days/dayFive.rpy:219
 translate spanish dayFiveStart_4e713ebf:
@@ -562,7 +562,7 @@ translate spanish dayFiveStart_1c739092:
 translate spanish dayFiveStart_b2b7e409:
 
     # "You leave for [si]'s room, and [suz] goes to hers to get ready for the day ahead."
-    "Te vas a la habitación de [si] y [suz] va a la de ella para prepararse para el día siguiente."
+    "Te vas a la habitación de [si] y [suz] va a la suya para prepararse el siguiente día."
 
 # game/Days/dayFive.rpy:225
 translate spanish dayFiveStart_779ac742:
@@ -694,7 +694,7 @@ translate spanish dayFiveStart_9c41246c:
 translate spanish dayFiveStart_f0df7048:
 
     # si "Your beard is weak, chief."
-    si "Su barba es débil, jefe."
+    si "TU barba es débil, jefe."
 
 # game/Days/dayFive.rpy:279
 translate spanish dayFiveStart_9f4d2c2a:
@@ -712,7 +712,7 @@ translate spanish dayFiveStart_452f37f4:
 translate spanish dayFiveStart_4274125a:
 
     # si "You're not part of good-beard-group. GBG."
-    si "No eres parte del grupo de los buenos-barba. GBG."
+    si "No eres parte del Grupo-Barbas-Buenas. GBB."
 
 # game/Days/dayFive.rpy:285
 translate spanish dayFiveStart_1485d54e:
@@ -724,7 +724,7 @@ translate spanish dayFiveStart_1485d54e:
 translate spanish dayFiveStart_3257cb45:
 
     # mc "Chill out, please. For everyone's brain cells."
-    mc "Relájate, por favor. Para las células cerebrales de todos."
+    mc "Relájate, por favor. Por las células cerebrales de todos."
 
 # game/Days/dayFive.rpy:291
 translate spanish dayFiveStart_fd27c81c:
@@ -778,7 +778,7 @@ translate spanish dayFiveStart_3b8e5133:
 translate spanish dayFiveStart_027ec193:
 
     # si "*Cough* J-just as I thought. It would be wise to shave. Yes."
-    si "*Tos* J-tal como pensaba. Sería prudente afeitarse. Sí."
+    si "*Tos* T-tal como pensaba. Sería prudente afeitarse. Sí."
 
 # game/Days/dayFive.rpy:313
 translate spanish dayFiveStart_a19c2f8b:
@@ -832,7 +832,7 @@ translate spanish dayFiveStart_125e2814:
 translate spanish dayFiveStart_46ea784b:
 
     # mc "Right then, let's get this off my face."
-    mc "Entonces, quíteme esto de la cara."
+    mc "Entonces, vamos a quitar esto de la cara."
 
 # game/Days/dayFive.rpy:337
 translate spanish dayFiveStart_7c0ddae1:
@@ -934,13 +934,13 @@ translate spanish dayFiveStart_0db68aa5:
 translate spanish dayFiveStart_853b3860:
 
     # suz "Say, [si]... He really pulls off a clean shave, doesn't he?"
-    suz "Digamos, [si]... Realmente se afeita bien, ¿no?"
+    suz "Digamos, [si]... Realmente el se afeita bien, ¿no?"
 
 # game/Days/dayFive.rpy:375
 translate spanish dayFiveStart_2991bf5c:
 
     # si "...Sur-"
-    si "...sur-"
+    si "...Seg-"
 
 # game/Days/dayFive.rpy:377
 translate spanish dayFiveStart_6426eac2:
@@ -952,7 +952,7 @@ translate spanish dayFiveStart_6426eac2:
 translate spanish dayFiveStart_0dc83a87:
 
     # suz "{sc=2}{b}EW!{/b}{/sc} Don't lick my hand, you spunk bubble!"
-    suz "{sc=2}{b}¡EW!{/b}{/sc} ¡No me lames la mano, burbuja de semen!"
+    suz "{sc=2}{b}¡EW!{/b}{/sc} ¡No me lamas la mano, burbuja de semen!"
 
 # game/Days/dayFive.rpy:385
 translate spanish dayFiveStart_75fe87de:
@@ -970,7 +970,7 @@ translate spanish dayFiveStart_68b17334:
 translate spanish dayFiveStart_f55d0007:
 
     # si "You're a small tit toad!"
-    si "¡Eres un sapo pequeño!"
+    si "¡Eres un sapo de tetas pequeñas!"
 
 # game/Days/dayFive.rpy:392
 translate spanish dayFiveStart_adccad31:
@@ -1096,13 +1096,14 @@ translate spanish dayFiveStart_1c7a3a92_1:
 translate spanish dayFiveStart_a0b118f4:
 
     # mc "... Just... my assistent. Yes. My assistant."
-    mc "... Solo... mi asistente. Sí. Mi asistente."
+    mc "... Sólo... a mi asistenta. Sí. Mi asistenta."
+
 
 # game/Days/dayFive.rpy:475
 translate spanish dayFiveStart_726e773c:
 
     # suz "You...have an assistant?"
-    suz "¿Tú... tienes un asistente?"
+    suz "¿Tú... tienes una asistenta?"
 
 # game/Days/dayFive.rpy:477
 translate spanish dayFiveStart_80a2fd3e:
@@ -1144,7 +1145,7 @@ translate spanish dayFiveStart_5b7c41b8:
 translate spanish dayFiveStart_5c616263:
 
     # si "Payback for earlier!"
-    si "¡Recuperación de lo ocurrido antes!"
+    si "¡Venganza por lo de antes!"
 
 # game/Days/dayFive.rpy:493
 translate spanish dayFiveStart_6c154d88:
@@ -1186,7 +1187,7 @@ translate spanish dayFiveStart_e2b37ce6:
 translate spanish dayFiveStart_195ed67e:
 
     # "[suz] isn't too impressed about being taken for a ride...like a toy..."
-    "[suz] no está muy impresionado por que lo tomen a pasear... como si fuera un juguete..."
+    "[suz] no está muy impresionada por que la tomen a pasear... como si fuera un juguete..."
 
 # game/Days/dayFive.rpy:508
 translate spanish dayFiveStart_a267e235:
@@ -1204,7 +1205,7 @@ translate spanish dayFiveStart_4998ecb8:
 translate spanish dayFiveStart_34a1bc19:
 
     # suz "[clarissa]? Is this who you were talking about, [player_name]?"
-    suz "[clarissa]? ¿Es este de quien estabas hablando, [player_name]?"
+    suz "[clarissa]? ¿Es esta de quien estabas hablando, [player_name]?"
 
 # game/Days/dayFive.rpy:515
 translate spanish dayFiveStart_9d601aa7:
@@ -1246,7 +1247,7 @@ translate spanish dayFiveStart_35196e77:
 translate spanish dayFiveStart_2eb59139:
 
     # mc "It is! She's my new assistant."
-    mc "¡Es! Ella es mi nueva asistente."
+    mc "¡Lo és! Ella es mi nuevo asistente."
 
 # game/Days/dayFive.rpy:535
 translate spanish dayFiveStart_100b1cdc:
@@ -1312,7 +1313,7 @@ translate spanish dayFiveStart_c6c230c8:
 translate spanish dayFiveStart_bc247f35:
 
     # mcT "Come on, [clarissa]! Wing man! Wing man!"
-    mcT "¡Vamos, [clarissa]! ¡Hombre ala! ¡Hombre ala!"
+    mcT "¡Vamos, [clarissa]! ¡Inventate algo! ¡Defiéndeme!"
 
 # game/Days/dayFive.rpy:571
 translate spanish dayFiveStart_bb7db296:
@@ -1360,7 +1361,7 @@ translate spanish dayFiveStart_283b7552_1:
 translate spanish dayFiveStart_506c8fd0:
 
     # mc "Err.."
-    mc "Errar.."
+    mc "Ehhh.."
 
 # game/Days/dayFive.rpy:595
 translate spanish dayFiveStart_49801742:
@@ -1426,13 +1427,13 @@ translate spanish dayFiveStart_e726b099:
 translate spanish dayFiveStart_0c0fca2b:
 
     # mc "Right then, we have some discussions to get through, don't we?"
-    mc "En ese momento tenemos algunas discusiones que resolver, ¿no?"
+    mc "En ese momento tenemos algunos temas que resolver, ¿no?"
 
 # game/Days/dayFive.rpy:651
 translate spanish dayFiveStart_c46ed481:
 
     # mc "Please, take a seat."
-    mc "Por favor, tome asiento."
+    mc "Por favor, toma asiento."
 
 # game/Days/dayFive.rpy:653
 translate spanish dayFiveStart_c6c230c8_2:
@@ -1456,7 +1457,7 @@ translate spanish dayFiveStart_1a26f279:
 translate spanish dayFiveStart_58df74c7:
 
     # clarissa "Pull..?"
-    clarissa "Jalar..?"
+    clarissa "Tomar..?"
 
 # game/Days/dayFive.rpy:664
 translate spanish dayFiveStart_33234eb8:
@@ -1552,7 +1553,7 @@ translate spanish dayFiveStart_7839d84c:
 translate spanish dayFiveStart_4c2e0a49:
 
     # mc "He's like one of those robot T-Rexes everyone had as a kid. Just better."
-    mc "Es como uno de esos robots T-Rex que todo el mundo tenía cuando era niño. Simplemente mejor."
+    mc "Es como uno de esos robots T-Rex que todo el mundo tenía cuando era niño. Simplemente este mejor."
 
 # game/Days/dayFive.rpy:695
 translate spanish dayFiveStart_28676948:
@@ -1588,7 +1589,7 @@ translate spanish dayFiveStart_a920612d:
 translate spanish dayFiveStart_6f761ccd:
 
     # mc "I guess it's best if I hear what you have to say first since you're first and foremost employed by Sinergy, and you're here to help me out."
-    mc "Supongo que será mejor si primero escucho lo que tienes que decir, ya que, ante todo, eres empleado de Sinergy y estás aquí para ayudarme."
+    mc "Supongo que será mejor si primero escucho lo que tienes que decir, ya que, ante todo, eres empleada de Sinergy y estás aquí para ayudarme."
 
 # game/Days/dayFive.rpy:705
 translate spanish dayFiveStart_81dc2d4b:
@@ -1636,7 +1637,7 @@ translate spanish dayFiveStart_5511e563:
 translate spanish dayFiveStart_8d37d4bd:
 
     # clarissa "I can always be a messenger between you and [ella]!"
-    clarissa "¡Siempre puedo ser un mensajero entre tú y [ella]!"
+    clarissa "¡Siempre puedo ser una mensajera entre tú y [ella]!"
 
 # game/Days/dayFive.rpy:720
 translate spanish dayFiveStart_b2e37b1f:
@@ -1660,7 +1661,7 @@ translate spanish dayFiveStart_a80a3152:
 translate spanish dayFiveStart_f6565399:
 
     # clarissa "I'm sure that if we produce good results, she'll congratulate you in person!"
-    clarissa "¡Estoy seguro de que si obtenemos buenos resultados ella te felicitará en persona!"
+    clarissa "¡Estoy segura de que si obtenemos buenos resultados ella te felicitará en persona!"
 
 # game/Days/dayFive.rpy:728
 translate spanish dayFiveStart_71c86104:
@@ -1690,7 +1691,7 @@ translate spanish dayFiveStart_15b9c7bd:
 translate spanish dayFiveStart_b7a0d9bc:
 
     # clarissa "[ella] would much rather you govern [school_name] yourself in the very near future, so that she doesn't have to. But, she's also aware that you need the information to actually do that effectively."
-    clarissa "[ella] preferiría que tú mismo te gobernaras [school_name] en un futuro muy cercano, para que ella no tenga que hacerlo. Pero también es consciente de que se necesita la información para hacerlo de forma eficaz."
+    clarissa "[ella] preferiría que tú mismo gobernaras [school_name] en un futuro muy cercano, para que ella no tenga que hacerlo. Pero también es consciente de que se necesita la información para hacerlo de forma eficaz."
 
 # game/Days/dayFive.rpy:738
 translate spanish dayFiveStart_4b387594:
@@ -1708,13 +1709,13 @@ translate spanish dayFiveStart_4a1dec36:
 translate spanish dayFiveStart_ad8a36bf:
 
     # clarissa "I'll read them out to you. There aren't many, don't worry! If you have any questions please let me know, and I will answer them to the best of my ability!"
-    clarissa "Te los leeré. No hay muchos, ¡no te preocupes! Si tiene alguna pregunta, hágamela saber y la responderé lo mejor que pueda."
+    clarissa "Te los leeré. No hay muchos, ¡no te preocupes! Si tiene alguna pregunta, házmela saber y te la responderé lo mejor que pueda."
 
 # game/Days/dayFive.rpy:744
 translate spanish dayFiveStart_a4351ff2:
 
     # mc "Sure. Go for it, [clarissa]."
-    mc "Seguro. Adelante, [clarissa]."
+    mc "Claro. Adelante, [clarissa]."
 
 # game/Days/dayFive.rpy:746
 translate spanish dayFiveStart_8e6d3831:
@@ -1732,7 +1733,7 @@ translate spanish dayFiveStart_4b45487c:
 translate spanish dayFiveStart_6e936102:
 
     # clarissa "If Sinergy finds that you are not upholding your duties to our standards, you will be removed and someone else will take your place."
-    clarissa "Si Sinergy descubre que usted no está cumpliendo con sus deberes según nuestros estándares, será removido y otra persona ocupará su lugar."
+    clarissa "Si Sinergy descubre que usted no está cumpliendo con sus deberes según nuestros estándares, será despedido y otra persona ocupará su lugar."
 
 # game/Days/dayFive.rpy:751
 translate spanish dayFiveStart_8222cbf7:
@@ -1918,7 +1919,7 @@ translate spanish dayFiveStart_3b4132cc:
 translate spanish dayFiveStart_220b6d0d:
 
     # mcT "I need do well as the Enforcer, so I can see [ella] again directly and see what the fuck is going on."
-    mcT "Necesito hacerlo bien como Enforcer, para poder ver [ella] nuevamente directamente y ver qué carajo está pasando."
+    mcT "Necesito hacerlo bien como Ejecutor, para poder ver [ella] nuevamente directamente y ver qué carajo está pasando."
 
 # game/Days/dayFive.rpy:813
 translate spanish dayFiveStart_17eaffb2:
@@ -1942,7 +1943,7 @@ translate spanish dayFiveStart_cf24824a:
 translate spanish dayFiveStart_06e4cd71:
 
     # clarissa "Th...thank you, [school_player_name]. I..I have a job to do, and I'm going to do it to the best of my ability! But I.."
-    clarissa "E...gracias, [school_player_name]. ¡Tengo un trabajo que hacer y lo haré lo mejor que pueda! Pero yo.."
+    clarissa "Gra...gracias, [school_player_name]. ¡Tengo un trabajo que hacer y lo haré lo mejor que pueda! Pero yo.."
 
 # game/Days/dayFive.rpy:819
 translate spanish dayFiveStart_956c9097:
@@ -1960,7 +1961,7 @@ translate spanish dayFiveStart_1cc4b4f6:
 translate spanish dayFiveStart_35860f13:
 
     # clarissa "Okay!"
-    clarissa "¡Bueno!"
+    clarissa "¡Vale!"
 
 # game/Days/dayFive.rpy:827
 translate spanish dayFiveStart_4c592d35:
@@ -2152,7 +2153,8 @@ translate spanish dayFiveStart_b237f83f:
 translate spanish dayFiveStart_b6402f2e:
 
     # clarissa "A punishment in a communal area such as the library where both sides of the college have access to, is not allowed. The male students and staff must not know that you are the Enforcer, or that the PARE system exists." id dayFiveStart_b6402f2e
-    clarissa "No se permite un castigo en un área común como la biblioteca a la que tienen acceso ambos lados de la universidad. Los estudiantes varones y el personal no deben saber que usted es el Enforcer o que existe el sistema ICR." id dayFiveStart_b6402f2e
+    clarissa "No se permite un castigo en un área común como la biblioteca a la que tienen acceso ambos lados de la universidad. Los estudiantes varones y el personal no deben saber que usted es el Ejecutor o que existe el sistema ICR." id dayFiveStart_b6402f2e
+
 
 # game/Days/dayFive.rpy:901
 translate spanish dayFiveStart_ee124047:
@@ -2176,7 +2178,7 @@ translate spanish dayFiveStart_bb58ec1c:
 translate spanish dayFiveStart_56c0c1e6:
 
     # clarissa "Oooh my. That was a mouthful, huh!"
-    clarissa "Oh mi. ¡Eso fue un bocado, eh!"
+    clarissa "Oh dios. ¡Eso fue largo, eh!"
 
 # game/Days/dayFive.rpy:909
 translate spanish dayFiveStart_bc17adb4:
@@ -2212,7 +2214,7 @@ translate spanish dayFiveStart_289c64c9:
 translate spanish dayFiveStart_69cf7deb:
 
     # clarissa "This one is from me, though!"
-    clarissa "¡Pero este es mío!"
+    clarissa "¡Pero esta es mía!"
 
 # game/Days/dayFive.rpy:921
 translate spanish dayFiveStart_0ba0a96d:
@@ -2236,7 +2238,7 @@ translate spanish dayFiveStart_4a6c9ad4:
 translate spanish dayFiveStart_5247c16c:
 
     # mc "Say..."
-    mc "Decir..."
+    mc "Oye..."
 
 # game/Days/dayFive.rpy:928
 translate spanish dayFiveStart_10017119:
@@ -2266,7 +2268,7 @@ translate spanish dayFiveStart_85785fdb:
 translate spanish dayFiveStart_d6c78be4:
 
     # "[clarissa] grows stiff, and ponders what might be happening."
-    "[clarissa] se pone rígido y reflexiona sobre lo que podría estar pasando."
+    "[clarissa] se pone rígida y reflexiona sobre lo que podría estar pasando."
 
 # game/Days/dayFive.rpy:937
 translate spanish dayFiveStart_8c16dbf8:
@@ -2290,7 +2292,7 @@ translate spanish dayFiveStart_f189cb01:
 translate spanish dayFiveStart_e2693d81:
 
     # mc "Well, I'm going to reward you for a job well done, silly!"
-    mc "Pues te voy a premiar por el trabajo bien hecho, ¡tonto!"
+    mc "Pues te voy a premiar por el trabajo bien hecho, ¡tonta!"
 
 # game/Days/dayFive.rpy:945
 translate spanish dayFiveStart_36a43bb5:
@@ -2380,13 +2382,13 @@ translate spanish dayFiveStart_1c62e7e7:
 translate spanish dayFiveStart_80740144:
 
     # mc "If a student for some reason \"stole\" someone's contact information off one of their friend's phone, without them knowing, and it was a breach of trust..."
-    mc "Si un estudiante, por alguna razón, \"robó\" la información de contacto de alguien del teléfono de un amigo, sin que él lo supiera, y fue un abuso de confianza..."
+    mc "Si un estudiante, por alguna razón, \"robó\" la información de contacto de alguien del teléfono de una amiga, sin que ella lo supiera, y fue un abuso de confianza..."
 
 # game/Days/dayFive.rpy:976
 translate spanish dayFiveStart_28c40664:
 
     # mc "Do you think that warrants me to make that punishable, and how severe should that punishment be?"
-    mc "¿Crees que eso me justifica castigarlo y qué tan severo debería ser ese castigo?"
+    mc "¿Crees que eso me justifica castigarla y qué tan severo debería ser ese castigo?"
 
 # game/Days/dayFive.rpy:978
 translate spanish dayFiveStart_d2cca696:
@@ -2434,7 +2436,7 @@ translate spanish dayFiveStart_11fdb519:
 translate spanish dayFiveStart_61387f56:
 
     # mc "I believe it would. These two are good friends and if they end up not speaking to each other, I feel it would absolutely cause a dip in their grades."
-    mc "Creo que sí. Estos dos son buenos amigos y si terminan sin hablarse, creo que eso definitivamente causaría una baja en sus calificaciones."
+    mc "Creo que sí. Estas dos son buenas amigas y si terminan sin hablarse, creo que eso definitivamente causaría una baja en sus calificaciones."
 
 # game/Days/dayFive.rpy:1004
 translate spanish dayFiveStart_796b2c7f:
@@ -2452,7 +2454,7 @@ translate spanish dayFiveStart_7f57d36e:
 translate spanish dayFiveStart_39462336:
 
     # mcT "[nova] is getting punished for this, especially if I want to be in Sinergy's good books."
-    mcT "[nova] está siendo castigado por esto, especialmente si quiero estar en los buenos libros de Sinergy."
+    mcT "[nova] va a ser castigada por esto, especialmente si quiero estar en los buenos libros de Sinergy."
 
 # game/Days/dayFive.rpy:1008
 translate spanish dayFiveStart_8ba69262:
@@ -2686,25 +2688,25 @@ translate spanish dayFiveStart_cf2507da:
 translate spanish dayFiveStart_d01fe217:
 
     # "You notice [principal] and a student you're not familiar with having a discussion."
-    "Observa que [principal] y un estudiante con el que no está familiarizado están teniendo una discusión."
+    "Observa que [principal] y una estudiante con la que no estás familiarizado están teniendo una discusión."
 
 # game/Days/dayFive.rpy:1084
 translate spanish dayFiveStart_36cd7bc7:
 
     # principal "Speak of the devil."
-    principal "Habla del diablo."
+    principal "Hablando del diablo."
 
 # game/Days/dayFive.rpy:1086
 translate spanish dayFiveStart_455d2eff:
 
     # principal "[school_player_name], it seems we've got a straggler."
-    principal "[school_player_name], parece que tenemos un rezagado."
+    principal "[school_player_name], parece que tenemos una rezagada."
 
 # game/Days/dayFive.rpy:1093
 translate spanish dayFiveStart_77a35d24:
 
     # principal "[school_player_name] meet [geo]. [geo], meet [school_player_name], [school_name]'s Enforcer."
-    principal "[school_player_name] conocer [geo]. [geo], conoce a [school_player_name], el Ejecutor de [school_name]."
+    principal "[school_player_name] conoce a [geo]. [geo], conoce a [school_player_name], el Ejecutor de [school_name]."
 
 # game/Days/dayFive.rpy:1095
 translate spanish dayFiveStart_2b35b6fe_5:
@@ -2734,19 +2736,19 @@ translate spanish dayFiveStart_c25d1de6:
 translate spanish dayFiveStart_e4dbace7:
 
     # mc "...You're a student here, [geo]!?"
-    mc "...¿¡Eres un estudiante aquí, [geo]!?"
+    mc "...¿¡Eres una estudiante aquí, [geo]!?"
 
 # game/Days/dayFive.rpy:1115
 translate spanish dayFiveStart_2ad163dd:
 
     # geo "...I..."
-    geo "...I..."
+    geo "...Yo..."
 
 # game/Days/dayFive.rpy:1117
 translate spanish dayFiveStart_e5bbe6ba:
 
     # geo "You're the... {i}{b}Enforcer{/b}{/i} here?"
-    geo "¿Tú eres el... {i}{b}Enforcer{/b}{/i} aquí?"
+    geo "¿Tú eres el... {i}{b}Ejecutor{/b}{/i} aquí?"
 
 # game/Days/dayFive.rpy:1119
 translate spanish dayFiveStart_54b94bbf:
@@ -2758,7 +2760,7 @@ translate spanish dayFiveStart_54b94bbf:
 translate spanish dayFiveStart_ebc30a2d:
 
     # mc "I am. Why didn't I see you last week?"
-    mc "Soy. ¿Por qué no te vi la semana pasada?"
+    mc "Así es. ¿Por qué no te vi la semana pasada?"
 
 # game/Days/dayFive.rpy:1123
 translate spanish dayFiveStart_3e1b91e0:
@@ -2806,7 +2808,7 @@ translate spanish dayFiveStart_e307088a:
 translate spanish dayFiveStart_2d5874a0:
 
     # mc "{i}Excuse you{/i}, [principal]?"
-    mc "{i}¿Disculpe{/i}, [principal]?"
+    mc "{i}¿Disculpa{/i}, [principal]?"
 
 # game/Days/dayFive.rpy:1162
 translate spanish dayFiveStart_432d7fd9:
@@ -2818,7 +2820,7 @@ translate spanish dayFiveStart_432d7fd9:
 translate spanish dayFiveStart_c1d4844f:
 
     # mc "If I am speaking to a student, you do not have the authority to interrupt that."
-    mc "Si estoy hablando con un estudiante, no tienes la autoridad para interrumpirlo."
+    mc "Si estoy hablando con una estudiante, no tienes la autoridad para interrumpirlo."
 
 # game/Days/dayFive.rpy:1165
 translate spanish dayFiveStart_544a2e87:
@@ -2902,7 +2904,7 @@ translate spanish dayFiveStart_9757cc2a:
 translate spanish dayFiveStart_dfa65224:
 
     # mc "Aaaand, I need a little chat with [principal] here, to discuss the script."
-    mc "Aaaand, necesito una pequeña charla con [principal] aquí, para discutir el guión."
+    mc "Yyy, necesito una pequeña charla con la [principal] aquí, para discutir el guión."
 
 # game/Days/dayFive.rpy:1191
 translate spanish dayFiveStart_38012099:
@@ -2938,7 +2940,7 @@ translate spanish dayFiveStart_fcd1e584:
 translate spanish dayFiveStart_a418d916:
 
     # geo "It won't happen again. If you're speaking I'll make sure to zip it."
-    geo "No volverá a suceder. Si estás hablando, me aseguraré de cerrarlo."
+    geo "No volverá a suceder. Si estás hablando, me aseguraré de callarme."
 
 # game/Days/dayFive.rpy:1203
 translate spanish dayFiveStart_13c155c9:
@@ -2956,7 +2958,7 @@ translate spanish dayFiveStart_9757cc2a_1:
 translate spanish dayFiveStart_dfa65224_1:
 
     # mc "Aaaand, I need a little chat with [principal] here, to discuss the script."
-    mc "Aaaand, necesito una pequeña charla con [principal] aquí, para discutir el guión."
+    mc "Yyy, necesito una pequeña charla con [principal] aquí, para discutir el guión."
 
 # game/Days/dayFive.rpy:1215
 translate spanish dayFiveStart_38012099_1:
@@ -3016,19 +3018,19 @@ translate spanish dayFiveStart_7d60cbfd:
 translate spanish dayFiveStart_8dceda7f:
 
     # mc "We were just having a conversation, and didn't hear you. Be more mindful next time, or else you will need to be corrected for it, got it?"
-    mc "Estábamos conversando y no te escuchamos. Sé más consciente la próxima vez o tendrás que corregirte, ¿entendido?"
+    mc "Estábamos conversando y no te escuchamos. Sé más consciente la próxima vez o tendrás que ser corregida, ¿entendido?"
 
 # game/Days/dayFive.rpy:1250
 translate spanish dayFiveStart_beaebe92:
 
     # principal "You might be the Enforcer, {i}[player_name]{/i}, but I am the Principal."
-    principal "Puede que tú seas el Enforcer, {i}[player_name]{/i}, pero yo soy el Director."
+    principal "Puede que tú seas el Ejecutor, {i}[player_name]{/i}, pero yo soy la Directora."
 
 # game/Days/dayFive.rpy:1252
 translate spanish dayFiveStart_9484e674:
 
     # principal "You might be the Enforcer, [player_name], but I am the Principal."
-    principal "Puede que tú seas el Ejecutor, [player_name], pero yo soy el Director."
+    principal "Puede que tú seas el Ejecutor, [player_name], pero yo soy la Directora."
 
 # game/Days/dayFive.rpy:1253
 translate spanish dayFiveStart_12dd079f:
@@ -3094,13 +3096,13 @@ translate spanish dayFiveStart_39913100:
 translate spanish dayFiveStart_1add352c:
 
     # principal "I have."
-    principal "Tengo."
+    principal "Lo he hecho."
 
 # game/Days/dayFive.rpy:1273
 translate spanish dayFiveStart_6aad9e42:
 
     # principal "I need to. [school_name] is {b}mine{/b}. I've worked too hard. I'm not going to abandon it, nor the people studying here."
-    principal "Necesito. [school_name] es {b}mío{/b}. He trabajado demasiado duro. No lo voy a abandonar ni a la gente que estudia aquí."
+    principal "Lo tenía que hacer. [school_name] es {b}mía{/b}. He trabajado demasiado duro. No la voy a abandonar ni a la gente que estudia aquí."
 
 # game/Days/dayFive.rpy:1275
 translate spanish dayFiveStart_008f122d:
@@ -3124,7 +3126,7 @@ translate spanish dayFiveStart_5e446dd6:
 translate spanish dayFiveStart_79050910:
 
     # principal "Regardless...you...think you're going to punish {i}me{/i}?"
-    principal "Independientemente... ¿tú... crees que vas a castigarme {i}me{/i}?"
+    principal "Independientemente... ¿tú... crees que vas a castigarme {i}a mí{/i}?"
 
 # game/Days/dayFive.rpy:1282
 translate spanish dayFiveStart_3d47fb38:
@@ -3136,7 +3138,7 @@ translate spanish dayFiveStart_3d47fb38:
 translate spanish dayFiveStart_8615fe3f:
 
     # mc "As you're now more than aware, since you read the contract's fine print. The Enforcer can reprimand {i}you{/i} if he deems it worthy." id dayFiveStart_8615fe3f
-    mc "Como ya sabrás, ya que leíste la letra pequeña del contrato. El Enforcer puede reprenderte {i}te{/i} si lo considera digno." id dayFiveStart_8615fe3f
+    mc "Como ya sabrás, ya que leíste la letra pequeña del contrato. El Ejecutor puede reprenderte {i}a tí{/i} si lo considera digno." id dayFiveStart_8615fe3f
 
 # game/Days/dayFive.rpy:1285
 translate spanish dayFiveStart_9f676d66:
@@ -3286,7 +3288,7 @@ translate spanish dayFiveStart_845c4c57:
 translate spanish dayFiveStart_18569683:
 
     # principal "I said, \"fine\". Let's get this over with... How am I to be punished?"
-    principal "Dije: \"bien\". Terminemos con esto... ¿Cómo voy a ser castigado?"
+    principal "Dije: \"bien\". Terminemos con esto... ¿Cómo voy a ser castigada?"
 
 # game/Days/dayFive.rpy:1327
 translate spanish dayFiveStart_d2d6bafa:
@@ -3316,7 +3318,7 @@ translate spanish dayFiveStart_41ba0e87:
 translate spanish dayFiveStart_eecfae44:
 
     # mc "Whoa, I'm woeful."
-    mc "Vaya, estoy lamentable."
+    mc "Vaya, esto es lamentable."
 
 # game/Days/dayFive.rpy:1346
 translate spanish dayFiveStart_79884b99:
@@ -3424,7 +3426,7 @@ translate spanish dayFiveStart_a4c9141f:
 translate spanish dayFiveStart_a380ca2f:
 
     # principal "Why are you doing this? What does it achieve?"
-    principal "¿Por qué haces esto? ¿Qué logra?"
+    principal "¿Por qué haces esto? ¿Qué vas a lograr?"
 
 # game/Days/dayFive.rpy:1403
 translate spanish dayFiveStart_ccf71800:
@@ -3436,7 +3438,7 @@ translate spanish dayFiveStart_ccf71800:
 translate spanish dayFiveStart_fe238439:
 
     # mc "You've been the Principal here for...how long?"
-    mc "Has sido el director aquí durante... ¿cuánto tiempo?"
+    mc "Has sido la directora aquí durante... ¿cuánto tiempo?"
 
 # game/Days/dayFive.rpy:1406
 translate spanish dayFiveStart_f92f19d4:
@@ -3472,7 +3474,7 @@ translate spanish dayFiveStart_403f8469:
 translate spanish dayFiveStart_f5e2efd9:
 
     # mc "We need them to pass, now more than ever. I want to be the best Enforcer I can be, too."
-    mc "Necesitamos que pasen, ahora más que nunca. Yo también quiero ser el mejor Enforcer que pueda ser."
+    mc "Necesitamos que pasen, ahora más que nunca. Yo también quiero ser el mejor Ejecutor que pueda ser."
 
 # game/Days/dayFive.rpy:1422
 translate spanish dayFiveStart_5b6c2f31:
@@ -3694,7 +3696,7 @@ translate spanish d5_pick_vibration_value_df6001ea:
 translate spanish d5_pick_vibration_value_253ede5d:
 
     # mc "Well, you did indeed \"fuck around, and find out\". I applaud your braveness, [principal]."
-    mc "Bueno, efectivamente lo hiciste \"joder y descubrirlo\". Aplaudo tu valentía, [principal]."
+    mc "Bueno, efectivamente lo hiciste \"ves jodiendo y descúbrelo\". Aplaudo tu valentía, [principal]."
 
 # game/Days/dayFive.rpy:1534
 translate spanish d5_pick_vibration_value_376943c0:
@@ -3796,7 +3798,7 @@ translate spanish d5_pick_vibration_value_43dee5c3:
 translate spanish d5_pick_vibration_value_1540a0e6:
 
     # mc "[player_name]? That's [school_player_name] to you."
-    mc "[player_name]? Eso es [school_player_name] para ti."
+    mc "[player_name]? Yo soy [school_player_name] para ti."
 
 # game/Days/dayFive.rpy:1631
 translate spanish d5_pick_vibration_value_dfd706f7:
@@ -3820,7 +3822,7 @@ translate spanish d5_pick_vibration_value_6e415e90:
 translate spanish d5_pick_vibration_value_3c086aec:
 
     # principal "I..-I mean, this is {i}nothing{/i}!"
-    principal "Yo... quiero decir, ¡esto es {i}nada{/i}!"
+    principal "Yo... quería decir, ¡esto no es {i}nada{/i}!"
 
 # game/Days/dayFive.rpy:1640
 translate spanish d5_pick_vibration_value_886cb829:
@@ -3838,7 +3840,7 @@ translate spanish d5_pick_vibration_value_5cb9ddb1:
 translate spanish d5_pick_vibration_value_c5a009e5:
 
     # mc "Oh, will I? Are you sure about that?"
-    mc "Ah, ¿lo haré? ¿Estás seguro de eso?"
+    mc "Ah, ¿lo haré? ¿Estás segura de eso?"
 
 # game/Days/dayFive.rpy:1646
 translate spanish d5_pick_vibration_value_31f441af:
@@ -3880,7 +3882,7 @@ translate spanish d5_pick_vibration_value_5cb9ddb1_1:
 translate spanish d5_pick_vibration_value_8683a401:
 
     # "You turn {i}BoB{/i} off."
-    "Desactivas {i}BoB{/i}."
+    "Desactivas {i}NcP{/i}."
 
 # game/Days/dayFive.rpy:1666
 translate spanish d5_pick_vibration_value_8c56cc0e:
@@ -4012,13 +4014,13 @@ translate spanish d5_pick_vibration_value_d0dbbfdd:
 translate spanish d5_pick_vibration_value_9771177a:
 
     # mc "And of course, we're keeping BoB attached to you, until I tell you to take it off."
-    mc "Y por supuesto, mantendremos a BoB pegado a ti hasta que te diga que te lo quites."
+    mc "Y por supuesto, mantendremos a NcP pegado a ti hasta que te diga que te lo quites."
 
 # game/Days/dayFive.rpy:1715
 translate spanish d5_pick_vibration_value_3659250d:
 
     # mc "It is still attached, right?"
-    mc "Todavía está adjunto, ¿verdad?"
+    mc "Todavía está puesto, ¿verdad?"
 
 # game/Days/dayFive.rpy:1717
 translate spanish d5_pick_vibration_value_0d9eca9d:
@@ -4066,7 +4068,7 @@ translate spanish d5_pick_vibration_value_ae7fb0c1:
 translate spanish d5_pick_vibration_value_91384964:
 
     # mc "I am. Everyone's in the lecture hall waiting."
-    mc "Soy. Todos están en la sala de conferencias esperando."
+    mc "Asi es. Todos están en la sala de conferencias esperando."
 
 # game/Days/dayFive.rpy:1782
 translate spanish d5_pick_vibration_value_8bb823d0:
@@ -4120,7 +4122,7 @@ translate spanish d5_pick_vibration_value_d176e4dc:
 translate spanish d5_pick_vibration_value_7e941ac3:
 
     # mcT "Maybe she can't handle power setting [d5_vibrationPower] on BoB..."
-    mcT "Tal vez no pueda manejar la configuración de energía [d5_vibrationPower] en BoB..."
+    mcT "Tal vez no pueda manejar la configuración de energía [d5_vibrationPower] en NcP..."
 
 # game/Days/dayFive.rpy:1812
 translate spanish d5_pick_vibration_value_d6927f21:
@@ -4210,7 +4212,7 @@ translate spanish d5_pick_vibration_value_5f061a9b:
 translate spanish d5_pick_vibration_value_1506ea97:
 
     # principal "Grow up."
-    principal "Crecer."
+    principal "Crece."
 
 # game/Days/dayFive.rpy:1857
 translate spanish d5_pick_vibration_value_21b21225:
@@ -4420,13 +4422,13 @@ translate spanish d5_pick_vibration_value_c06592ed:
 translate spanish d5_pick_vibration_value_f902d158:
 
     # principal "I'm excited to be in front of you this morning."
-    principal "Estoy emocionado de estar frente a ustedes esta mañana."
+    principal "Estoy emocionada de estar frente a ustedes esta mañana."
 
 # game/Days/dayFive.rpy:1950
 translate spanish d5_pick_vibration_value_f606b25a:
 
     # principal "As you probably know by now, we have a new person on the team."
-    principal "Como probablemente ya sabrás, tenemos una nueva persona en el equipo."
+    principal "Como probablemente ya sabreis, tenemos una nueva persona en el equipo."
 
 # game/Days/dayFive.rpy:1952
 translate spanish d5_pick_vibration_value_f05cbbdc:
@@ -4468,7 +4470,7 @@ translate spanish d5_pick_vibration_value_ff404781:
 translate spanish d5_pick_vibration_value_9d9238d1:
 
     # mc "Thank you, thank you. You're all too kind!"
-    mc "Gracias, gracias. ¡Sois todos muy amables!"
+    mc "Gracias, gracias. ¡Sois todas muy amables!"
 
 # game/Days/dayFive.rpy:1979
 translate spanish d5_pick_vibration_value_0a838327:
@@ -4486,13 +4488,13 @@ translate spanish d5_pick_vibration_value_ca2b13ef:
 translate spanish d5_pick_vibration_value_73a00f1b:
 
     # suz "Shush [nova]! I'm allowed to be excited!"
-    suz "¡Silencio [nova]! ¡Puedo estar emocionado!"
+    suz "¡Silencio [nova]! ¡Puedo estar emocionada!"
 
 # game/Days/dayFive.rpy:1987
 translate spanish d5_pick_vibration_value_c8711c00:
 
     # nova "Awee, someone still upset about me messaging [school_player_name]??"
-    nova "Vaya, ¿alguien todavía está molesto porque le he enviado mensajes a [school_player_name]?"
+    nova "Vaya, ¿alguien todavía está molesta porque le he enviado mensajes a [school_player_name]?"
 
 # game/Days/dayFive.rpy:1991
 translate spanish d5_pick_vibration_value_a2414c4d:
@@ -4522,7 +4524,7 @@ translate spanish d5_pick_vibration_value_0da3ade1:
 translate spanish d5_pick_vibration_value_d63aff7a:
 
     # mcT "Not being the one in charge anymore?"
-    mcT "¿Ya no ser el que está a cargo?"
+    mcT "¿Ya no ser la que está a cargo?"
 
 # game/Days/dayFive.rpy:2020
 translate spanish d5_pick_vibration_value_5b1b6186:
@@ -4624,7 +4626,7 @@ translate spanish D5_Principal_2_f4ab4a5e:
 translate spanish D5_Principal_2_ab4751e8:
 
     # mcT "...Stop?"
-    mcT "...¿Detener?"
+    mcT "...¿parar?"
 
 # game/Days/dayFive.rpy:2069
 translate spanish D5_Principal_2_0f25fae1:
@@ -4666,31 +4668,31 @@ translate spanish D5_Principal_2_2f17b641:
 translate spanish D5_Principal_2_416c2859:
 
     # principal "{bt=1}Singery. Ooh~ S-sinergy have provided us with the f-funds to continue our p-practices here~.{/bt}"
-    principal "{bt=1}Canto. Ooh~ S-sinergy nos ha proporcionado los fondos f para continuar con nuestras prácticas p aquí~.{/bt}"
+    principal "{bt=1}Canto. Ooh~ S-sinergy nos ha proporcionado los f-fondos para continuar con nuestras prácticas p aquí~.{/bt}"
 
 # game/Days/dayFive.rpy:2088
 translate spanish D5_Principal_2_432376c7:
 
     # principal "{b}Singery{/b}. They have provided us with the funds to enable your continued education here."
-    principal "{b}Canto{/b}. Nos han proporcionado los fondos para permitirle continuar su educación aquí."
+    principal "{b}Singery{/b}. Nos han proporcionado los fondos para permitirle continuar su educación aquí."
 
 # game/Days/dayFive.rpy:2092
 translate spanish D5_Principal_2_e66289f1:
 
     # principal "Nn-ow I.. know, You {sc=1}{i}fucking{/i}{/sc} enrolled here as a fff~"
-    principal "Ya... lo sé, {sc=1}{i}jodidamente{/i}{/sc} te inscribiste aquí como un fff~"
+    principal "Ya... lo sé{sc=1}{i}joder{/i}{/sc}, te inscribiste aquí como un fff~"
 
 # game/Days/dayFive.rpy:2097
 translate spanish D5_Principal_2_11a8851f:
 
     # principal "~form of h-higher education becaws you all have c-certain~ {i}Mmmm~{/i} that need the kinks {sc=1}{i}fucking kinks~{/i}{/sc} cumming, I-I mean-n, weeded oo-ut, before you're r-ready to provide for this {sc=1}{i}Mmm~{/i}{/sc} nation."
-    principal "~una forma de h-educación superior porque todos ustedes tienen c-cierto~ {i}Mmmm~{/i} que necesitan los problemas {sc=1}{i}malditos problemas~{/i}{/sc} correrse, quiero decir, desmalezado Fuera, antes de que estés listo para proveer a esta nación {sc=1}{i}Mmm~{/i}{/sc}."
+    principal "~una forma de e-educación superior porque todos ustedes tienen c-cierto~ {i}Mmmm~{/i} que necesitan los problemas {sc=1}{i}malditos problemas~{/i}{/sc} correrse, quiero decir, desmalezado Fuera, antes de que estés listo para proveer a esta nación {sc=1}{i}Mmm~{/i}{/sc}."
 
 # game/Days/dayFive.rpy:2099
 translate spanish D5_Principal_2_49f1dedf:
 
     # esme "[belle]... are you sure your mom is.. doing okay?"
-    esme "[belle]... ¿estás seguro de que tu mamá está... bien?"
+    esme "[belle]... ¿estás segura de que tu mamá está... bien?"
 
 # game/Days/dayFive.rpy:2101
 translate spanish D5_Principal_2_50ab7269:
@@ -4708,7 +4710,7 @@ translate spanish D5_Principal_2_dbdfd979:
 translate spanish D5_Principal_2_460ef99f:
 
     # yui "Her? No chance! Maybe she's sick?"
-    yui "¿Su? ¡No hay posibilidad! ¿Quizás esté enferma?"
+    yui "¿Ella? ¡No hay posibilidad! ¿Quizás esté enferma?"
 
 # game/Days/dayFive.rpy:2109
 translate spanish D5_Principal_2_730f9137:
@@ -4720,7 +4722,7 @@ translate spanish D5_Principal_2_730f9137:
 translate spanish D5_Principal_2_cc82842f:
 
     # principal "A-and~ as such, the enrollment {sc=1}fuck{/sc} was d-deeply dis{sc=1}cunt{/sc}ed, {i}especially{/i} for aa-n i-institute of this caliber out hh-ere in the s-sticks. You... ought~ to think y-yourselves...p-privileged in this r-regard. {size=-10}MhMmm{/size}"
-    principal "A-and~ as such, the enrollment {sc=1}fuck{/sc} was d-deeply dis{sc=1}cunt{/sc}ed, {i}especially{/i} for aa-n i-institute of this caliber out hh-ere in the s-sticks. You... ought~ to think y-yourselves...p-privileged in this r-regard. {size=-10}MhMmm{/size}"
+    principal "Y-y~ por ello, la matrícula {sc=1}mierda{/sc} fue p-profundamente des{sc=1}con{/sc}tada, {i}especialmente{/i} para uu-un i-instituto de este calibre. De-Deberían considerarse p-privilegiadas en este aspecto. {size=-10}MhMmm{/size}"
 
 # game/Days/dayFive.rpy:2116
 translate spanish D5_Principal_2_4f78a78d:
@@ -4744,7 +4746,7 @@ translate spanish D5_Principal_2_ab393a24:
 translate spanish D5_Principal_2_e3cedd96:
 
     # principal "The rights you are o-owed~, however, are w-written in the {i}cunt{/i}ract."
-    principal "Sin embargo, los derechos que se te deben~ están escritos en el contrato {i}cunt{/i}."
+    principal "Sin embargo, los derechos que se te deben~ están escritos en el {i}coño{/i}trato."
 
 # game/Days/dayFive.rpy:2130
 translate spanish D5_Principal_2_ab83bd0a:
@@ -4768,7 +4770,7 @@ translate spanish D5_Principal_2_8c2e1f6c:
 translate spanish D5_Principal_2_d23c8957:
 
     # principal "I-I won't go over~ every l-little detail inside it~ B-but, you do have the option to {i}fuck~{/i} with [d5_principal_stumble_mc_name] on matters there-in."
-    principal "N-no repasaré~ cada pequeño detalle que contiene~ P-pero tienes la opción de {i}joder~{/i} con [d5_principal_stumble_mc_name] en los asuntos allí incluidos."
+    principal "N-no repasaré~ cada pequeño detalle que contiene~ P-pero tieneis la opción de {i}joder~{/i} con [d5_principal_stumble_mc_name] en los asuntos allí incluidos."
 
 # game/Days/dayFive.rpy:2144
 translate spanish D5_Principal_2_c34701ed:
@@ -5038,7 +5040,7 @@ translate spanish D5_Principal_2_3903b3cf:
 translate spanish D5_Principal_2_b7ddd54b:
 
     # stella "Do I get a reward from {b}the{/b} Enforcer now!?"
-    stella "¿Recibiré una recompensa de {b}the{/b} Enforcer ahora?"
+    stella "¿Recibiré una recompensa de {b}el{/b} Ejecutor ahora?"
 
 # game/Days/dayFive.rpy:2298
 translate spanish D5_Principal_2_e4db1fd1:
@@ -5068,7 +5070,7 @@ translate spanish D5_Principal_2_8213e191:
 translate spanish D5_Principal_2_31ca440a:
 
     # principal "A-ass [stella] graciously pointed out; [d5_principal_stumble_mc_name] is {i}the{/i} new {i}{b}f-fuckk{/b}{/i}er~ appointed by Sinergy. H-he carries out their c-curriculum~ and demands."
-    principal "A-culo [stella] señaló gentilmente; [d5_principal_stumble_mc_name] es {i}el{/i} nuevo {i}{b}jodido{/b}{/i}er~ designado por Sinergy. H-lleva a cabo su c-curriculum~ y demandas."
+    principal "A-culo [stella] señaló gentilmente; [d5_principal_stumble_mc_name] es {i}el{/i} nuevo {i}{b}jodido{/b}{/i}oo~ designado por Sinergy. L-lleva a cabo su c-curriculum~ y demandas."
 
 # game/Days/dayFive.rpy:2319
 translate spanish D5_Principal_2_2229951a:
@@ -5104,13 +5106,13 @@ translate spanish D5_Principal_2_0e8ef3f8:
 translate spanish D5_Principal_2_6eccab6c:
 
     # principal "And now, I'll let the Enforcer themselves continue with the rest of the d-discussion. [d5_principal_stumble_mc_name] has some key things he'd like to {i}ff~fuck{/i} you all."
-    principal "Y ahora, dejaré que los Enforcer continúen con el resto de la discusión. [d5_principal_stumble_mc_name] tiene algunas cosas clave que le gustaría {i}ff~joder{/i} a todos."
+    principal "Y ahora, dejaré que el Ejecutor continúe con el resto de la discusión. [d5_principal_stumble_mc_name] tiene algunas cosas clave que le gustaría {i}ff~joder{/i} a todos."
 
 # game/Days/dayFive.rpy:2348
 translate spanish D5_Principal_2_5b91b350:
 
     # principal "And now, I'll let the Enforcer themselves continue with the rest of the discussion. [school_player_name] has some key things he'd like to discuss with you all."
-    principal "Y ahora dejaré que los Enforcer continúen con el resto de la discusión. [school_player_name] tiene algunas cosas clave que le gustaría discutir con todos ustedes."
+    principal "Y ahora dejaré que el Ejecutor continúe con el resto de la discusión. [school_player_name] tiene algunas cosas clave que le gustaría discutir con todos ustedes."
 
 # game/Days/dayFive.rpy:2359
 translate spanish D5_Principal_3_e4d4a70d:
@@ -5230,13 +5232,13 @@ translate spanish D5_Principal_3_ae69bc5b:
 translate spanish D5_Principal_3_b0bfa2f3:
 
     # mc "Oh my god, [principal]! Are you okay!? What happened!?"
-    mc "¡Dios mío, [principal]! ¿¡Estás bien!? ¿¡Qué pasó!?"
+    mc "¡Dios mío, [principal]! ¿¡Estás bien!? ¿¡Qué ha pasado!?"
 
 # game/Days/dayFive.rpy:2431
 translate spanish D5_Principal_3_b0ff607e:
 
     # principal "You... know damn well what happened, don't play games with me b-boy."
-    principal "Tú... sabes muy bien lo que pasó, no juegues conmigo b-boy."
+    principal "Tú... sabes muy bien lo que pasó, no juegues conmigo c-chico."
 
 # game/Days/dayFive.rpy:2433
 translate spanish D5_Principal_3_fc896afd:
@@ -5314,7 +5316,7 @@ translate spanish D5_Principal_3_2fb47bd6:
 translate spanish D5_Principal_3_7894a5fe:
 
     # nurse "And you! Stop being lazy, this is no time to lie down!"
-    nurse "¡Y tú! ¡Deja de ser perezoso, no es momento de tumbarte!"
+    nurse "¡Y tú! ¡Deja de ser perezosa, no es momento de tumbarte!"
 
 # game/Days/dayFive.rpy:2474
 translate spanish D5_Principal_3_42347492:
@@ -5326,7 +5328,7 @@ translate spanish D5_Principal_3_42347492:
 translate spanish D5_Principal_3_1f5a610b:
 
     # nurse "Oooh boy, did anyone ever tell you, you're quite heavy?"
-    nurse "Oooh chico, ¿alguien te dijo alguna vez que pesas bastante?"
+    nurse "Oooh chica, ¿alguien te dijo alguna vez que pesas bastante?"
 
 # game/Days/dayFive.rpy:2492
 translate spanish D5_Principal_3_b5813ccd:
@@ -5494,7 +5496,7 @@ translate spanish D5_Principal_3_6f1dcd77_1:
 translate spanish D5_Principal_3_7170ce3c:
 
     # "Her strides were wide and powerful, since you resisted the temptation to use BoB."
-    "Sus zancadas eran amplias y poderosas, ya que resististe la tentación de usar a BoB."
+    "Sus zancadas eran amplias y poderosas, ya que resististe la tentación de usar a NcP."
 
 # game/Days/dayFive.rpy:2569
 translate spanish D5_Principal_3_bb979dc3:
@@ -5518,7 +5520,7 @@ translate spanish D5_Principal_3_3c421765:
 translate spanish D5_Principal_3_aa3352c9:
 
     # "Her strides were wide and powerful, since you {i}somewhat{/i} resisted the temptation to use BoB."
-    "Sus zancadas eran amplias y poderosas, ya que {i}en cierto modo{/i} resististe la tentación de usar BoB."
+    "Sus zancadas eran amplias y poderosas, ya que {i}en cierto modo{/i} resististe la tentación de usar NcP."
 
 # game/Days/dayFive.rpy:2575
 translate spanish D5_Principal_3_bb979dc3_1:
@@ -5692,7 +5694,7 @@ translate spanish D5_Principal_3_05815928:
 translate spanish D5_Principal_3_f3e5bfa9:
 
     # mc "You should be checking up on [principal]...."
-    mc "Deberías comprobar [principal]..."
+    mc "Deberías comprobar a [principal]..."
 
 # game/Days/dayFive.rpy:2658
 translate spanish D5_Principal_3_7b1384af:
@@ -5842,7 +5844,7 @@ translate spanish D5_Principal_3_26808668:
 translate spanish D5_Principal_3_0a0f6250:
 
     # mc "As of now, I will allow them, but this might change in the future. You have been warned."
-    mc "Por ahora lo permitiré, pero esto podría cambiar en el futuro. Has sido advertido."
+    mc "Por ahora lo permitiré, pero esto podría cambiar en el futuro. Ha sido advertido."
 
 # game/Days/dayFive.rpy:2744
 translate spanish D5_Principal_3_ee985028:
@@ -5854,7 +5856,7 @@ translate spanish D5_Principal_3_ee985028:
 translate spanish D5_Principal_3_ebf6b79f:
 
     # mc "You are fine for today, of course. You didn't know about this rule change. So whatever you have on right now is A-okay."
-    mc "Estás bien por hoy, por supuesto. No sabías sobre este cambio de reglas. Entonces, cualquier cosa que tengas puesta ahora está bien."
+    mc "Está bien por hoy, por supuesto. No sabíais sobre este cambio de reglas. Entonces, cualquier cosa que tengais puesto ahora está bien."
 
 # game/Days/dayFive.rpy:2748
 translate spanish D5_Principal_3_3f3875ff:
@@ -5896,7 +5898,7 @@ translate spanish D5_Principal_3_7a8c6a30:
 translate spanish D5_Principal_3_6f7e5f8e:
 
     # mc "Feel free to come to my office and discuss further if this rule change applies to you."
-    mc "No dude en venir a mi oficina y discutir más a fondo si este cambio de regla se aplica a usted."
+    mc "No dudeis en venir a mi oficina y discutir más a fondo si este cambio de regla se aplica a vosotras."
 
 # game/Days/dayFive.rpy:2776
 translate spanish D5_Principal_3_e6b3641c:
@@ -5986,7 +5988,7 @@ translate spanish D5_Principal_3_3e9851b1:
 translate spanish D5_Principal_3_b4a98825:
 
     # lily "I'm [lily]!"
-    lily "I'm [lily]!"
+    lily "Yo soy [lily]!"
 
 # game/Days/dayFive.rpy:2832
 translate spanish D5_Principal_3_4675d718:
@@ -6016,7 +6018,7 @@ translate spanish D5_Principal_3_4f2c4341:
 translate spanish D5_Principal_3_2f41d9af:
 
     # stella "[raya]! Don't be such a sourpuss!"
-    stella "[raya]! ¡No seas tan amargado!"
+    stella "[raya]! ¡No seas tan amargada!"
 
 # game/Days/dayFive.rpy:2854
 translate spanish D5_Principal_3_72f41934:
@@ -6028,7 +6030,7 @@ translate spanish D5_Principal_3_72f41934:
 translate spanish D5_Principal_3_fa39bf3f:
 
     # mc "It wasn't your turn, [stella]..."
-    mc "No te tocó, [stella]..."
+    mc "No te toca, [stella]..."
 
 # game/Days/dayFive.rpy:2859
 translate spanish D5_Principal_3_65e9a215:
@@ -6148,7 +6150,7 @@ translate spanish D5_Principal_3_7c74ccb1:
 translate spanish D5_Principal_3_0eee7aae:
 
     # mc "Hmmm... I've never seen you two around before."
-    mc "Hmmm... Nunca los había visto por aquí antes."
+    mc "Hmmm... Nunca las había visto por aquí antes."
 
 # game/Days/dayFive.rpy:2947
 translate spanish D5_Principal_3_2878b4bf:
@@ -6274,7 +6276,7 @@ translate spanish D5_Principal_3_f997b52b:
 translate spanish D5_Principal_3_c0554282:
 
     # atem_riley "Tell me more about this Stormside place you keep bringing up?"
-    atem_riley "¿Cuéntame más sobre ese lugar de Stormside que sigues mencionando?"
+    atem_riley "¿Cuéntame más sobre ese lugar de Stormside que sigues diciendo?"
 
 # game/Days/dayFive.rpy:3018
 translate spanish D5_Principal_3_78149d78:
@@ -6298,7 +6300,7 @@ translate spanish D5_Principal_3_ab8b1ec6:
 translate spanish D5_Principal_3_c6436898:
 
     # mc "{size=-8}{s}Speaking{/s}{/size} Thinking of answering things... does anyone have any questions?"
-    mc "{size=-8}{s}Hablar{/s}{/size} Pensando en responder cosas... ¿alguien tiene alguna pregunta?"
+    mc "{size=-8}{s}Hablando{/s}{/size} Pensando en responder cosas... ¿alguien tiene alguna pregunta?"
 
 # game/Days/dayFive.rpy:3028
 translate spanish D5_Principal_3_cd7baefd:
@@ -6328,7 +6330,7 @@ translate spanish D5_Principal_3_0f8e220f:
 translate spanish D5_Principal_3_a9fbbd7d:
 
     # chrissy "D-do you just pick and choose when to do these 'Spot Inspections', or is there a g-guideline?"
-    chrissy "¿Se limita a elegir cuándo realizar estas 'inspecciones puntuales' o existe una pauta g?"
+    chrissy "¿Se limita a elegir cuándo realizar estas 'inspecciones puntuales' o existe una guía?"
 
 # game/Days/dayFive.rpy:3054
 translate spanish D5_Principal_3_407bb6b0:
@@ -6448,7 +6450,7 @@ translate spanish D5_Principal_3_4d99759d:
 translate spanish D5_Principal_3_d3503b72:
 
     # nova "I have one!"
-    nova "¡Tengo uno!"
+    nova "¡Tengo una!"
 
 # game/Days/dayFive.rpy:3095
 translate spanish D5_Principal_3_0bbed029:
@@ -6922,7 +6924,7 @@ translate spanish D5_Principal_3_78dd12b5:
 translate spanish D5_Principal_3_1311f891:
 
     # mc "If you have been previously punished and not permitted to climax, I can give you that release."
-    mc "Si has sido castigado previamente y no se te ha permitido llegar al clímax, puedo darte esa liberación."
+    mc "Si has sido castigada previamente y no se te ha permitido llegar al clímax, puedo darte esa liberación."
 
 # game/Days/dayFive.rpy:3290
 translate spanish D5_Principal_3_b25a4b03:
@@ -6934,19 +6936,20 @@ translate spanish D5_Principal_3_b25a4b03:
 translate spanish D5_Principal_3_02a0c960:
 
     # mc "A reward should be something {i}you{/i} want, primarily."
-    mc "Una recompensa debe ser algo que {i}usted{/i} desee, principalmente."
+    mc "Una recompensa debe ser algo que {i}tu{/i} desees, principalmente."
 
 # game/Days/dayFive.rpy:3293
 translate spanish D5_Principal_3_6b697f95:
 
     # belle "What if we don't intend on being punished, therefore can we never get a reward?"
-    belle "¿Qué pasa si no tenemos la intención de ser castigados y por lo tanto, nunca podremos obtener una recompensa?"
+    belle "¿Qué pasa si no tenemos la intención de ser castigadas y, por lo tanto, nunca podremos obtener una recompensa?"
+
 
 # game/Days/dayFive.rpy:3295
 translate spanish D5_Principal_3_565fbf05:
 
     # belle "Are you saying that in order to get a reward, we must be punished beforehand?"
-    belle "¿Estás diciendo que para obtener una recompensa debemos ser castigados de antemano?"
+    belle "¿Estás diciendo que para obtener una recompensa debemos ser castigadas de antemano?"
 
 # game/Days/dayFive.rpy:3298
 translate spanish D5_Principal_3_d1425716:
@@ -7342,7 +7345,7 @@ translate spanish D5_Principal_3_2782bb38:
 translate spanish D5_Principal_3_ed56aa0a:
 
     # mc "You are dismissed."
-    mc "Estás despedido."
+    mc "Os podeis marchar."
 
 # game/Days/dayFive.rpy:3425
 translate spanish D5_Principal_3_e5953e1d:
@@ -7378,7 +7381,7 @@ translate spanish D5_Principal_3_fcca757d:
 translate spanish D5_Principal_3_8c2557c5:
 
     # "The students get up one by one and head out to the canteen, speaking amongst themselves."
-    "Los alumnos se levantan uno a uno y se dirigen al comedor, hablando entre ellos."
+    "Las alumnas se levantan una a una y se dirigen al comedor, hablando entre ellas."
 
 # game/Days/dayFive.rpy:3440
 translate spanish D5_Principal_3_533c2671:
@@ -7486,7 +7489,7 @@ translate spanish D5_Principal_3_31fea59f:
 translate spanish D5_Principal_3_d1658ff2:
 
     # mc "Mornin' team. This is [clarissa]. She is my new assistant to help with my duties around here."
-    mc "Equipo de la mañana. Este es [clarissa]. Ella es mi nueva asistente para ayudarme con mis deberes aquí."
+    mc "Equipo de la mañana. Esta es [clarissa]. Ella es mi nueva asistente para ayudarme con mis deberes aquí."
 
 # game/Days/dayFive.rpy:3479
 translate spanish D5_Principal_3_9220b570:
@@ -7588,7 +7591,7 @@ translate spanish D5_Principal_3_ab37b3c4:
 translate spanish D5_Principal_3_daa2bc55:
 
     # mel "Pfft. Like I need to."
-    mel "Pfff. Como lo necesito."
+    mel "Pfff. Como si lo necesitara."
 
 # game/Days/dayFive.rpy:3537
 translate spanish D5_Principal_3_428a4bde:
@@ -7600,7 +7603,7 @@ translate spanish D5_Principal_3_428a4bde:
 translate spanish D5_Principal_3_ced7dc2a:
 
     # mel "I don't want rewards, and I sure as hell am not going to be punished."
-    mel "No quiero recompensas y estoy seguro de que no seré castigado."
+    mel "No quiero recompensas y estoy segura de que no seré castigada."
 
 # game/Days/dayFive.rpy:3544
 translate spanish D5_Principal_3_f3407823:
@@ -7612,7 +7615,7 @@ translate spanish D5_Principal_3_f3407823:
 translate spanish D5_Principal_3_d06dfed8:
 
     # mel "You are no {i}Enforcer{/i} to me."
-    mel "Para mí no eres un {i}Enforcer{/i}."
+    mel "Para mí no eres un {i}Ejecutor{/i}."
 
 # game/Days/dayFive.rpy:3549
 translate spanish D5_Principal_3_273d9204:
@@ -7636,7 +7639,7 @@ translate spanish D5_Principal_3_1031fadf:
 translate spanish D5_Principal_3_8a0599df:
 
     # mel "Ha. Play into your hands?"
-    mel "Ja. ¿Jugar en tus manos?"
+    mel "Ja. ¿Juego en tus manos?"
 
 # game/Days/dayFive.rpy:3557
 translate spanish D5_Principal_3_d859766e:
@@ -8194,7 +8197,7 @@ translate spanish D5_Nova_afa85d2d:
 translate spanish D5_Nova_ee4231f4:
 
     # mc "With enough practice, you'll instinctively know how I'd like you positioned."
-    mc "Con suficiente práctica, sabrás instintivamente cómo te gustaría que estés posicionado."
+    mc "Con suficiente práctica, sabrás instintivamente cómo te gustaría que estés posicionada."
 
 # game/Days/dayFive.rpy:3796
 translate spanish D5_Nova_bccae72a:
@@ -8212,7 +8215,7 @@ translate spanish D5_Nova_9ec0ecd8:
 translate spanish D5_Nova_2371faec:
 
     # mcT "I've missed this sight. It's such a nice ass."
-    mcT "Me perdí esta vista. Es un lindo trasero."
+    mcT "Me perdí esta vista. Es un lindo culo."
 
 # game/Days/dayFive.rpy:3804
 translate spanish D5_Nova_c8ab867f:
@@ -8296,7 +8299,7 @@ translate spanish D5_Nova_87e26eb2_1:
 translate spanish D5_Nova_dba802a0:
 
     # mc "Are you ready to start your punishment now, [nova]?"
-    mc "¿Estás listo para comenzar tu castigo ahora, [nova]?"
+    mc "¿Estás lista para comenzar tu castigo ahora, [nova]?"
 
 # game/Days/dayFive.rpy:3833
 translate spanish D5_Nova_c4e2f3ce_1:
@@ -8494,7 +8497,7 @@ translate spanish d5_spank1_pov_1681f886:
 translate spanish d5_spank1_pov_11f36ed7:
 
     # mc "Your wish is my command."
-    mc "Tu deseo es mi orden."
+    mc "Tu deseos son ordenes."
 
 # game/Days/dayFive.rpy:3928
 translate spanish d5_spank1_pov_85b6acb8:
@@ -8884,7 +8887,7 @@ translate spanish d5_spank2_pov_5839629f:
 translate spanish d5_spank2_pov_5571ba28:
 
     # mc "Sort of the idea that one, [nova]. It's a punishment."
-    mc "Algo así como la idea de esa, [nova]. Es un castigo."
+    mc "Esa es la idea, [nova]. Es un castigo."
 
 # game/Days/dayFive.rpy:4117
 translate spanish d5_spank2_pov_6f00c338:
@@ -9814,19 +9817,19 @@ translate spanish d5_endSpank_3ce10b1f:
 translate spanish d5_endSpank_057249bb:
 
     # mc "Good afternoon, [ver]. Is he now?"
-    mc "Buenas tardes, [ver]. ¿Lo es ahora?"
+    mc "Buenas tardes, [ver]. ¿Lo sigue siendo ahora?"
 
 # game/Days/dayFive.rpy:4601
 translate spanish d5_endSpank_c6c18aba:
 
     # ver "You betcha! Best in town too!"
-    ver "¡Puedes apostarlo! ¡Lo mejor de la ciudad también!"
+    ver "¡Claro que si! ¡El mejor de la ciudad también!"
 
 # game/Days/dayFive.rpy:4603
 translate spanish d5_endSpank_f586d44a:
 
     # ver "You might of heard of it! It's called-"
-    ver "¡Es posible que hayas oído hablar de ello! Se llama-"
+    ver "¡Es posible que hayas oído hablar de el! Se llama-"
 
 # game/Days/dayFive.rpy:4605
 translate spanish d5_endSpank_ff2e2469:
@@ -10168,7 +10171,7 @@ translate spanish D5_Esme_17a78ae4:
 translate spanish D5_Esme_4a2a6ac4:
 
     # mcT "Is that.. [esme]? Let's go say hi."
-    mcT "¿Eso es... [esme]? Vamos a saludar."
+    mcT "¿Esa es... [esme]? Vamos a saludar."
 
 # game/Days/dayFive.rpy:4747
 translate spanish D5_Esme_2b35b6fe:
@@ -10306,7 +10309,7 @@ translate spanish D5_Esme_9e88cf83:
 translate spanish D5_Esme_bae6fcfc:
 
     # esmeT "I'm not that heavy, am I???"
-    esmeT "No pesa tanto verdad???"
+    esmeT "No peso tanto verdad???"
 
 # game/Days/dayFive.rpy:4829
 translate spanish D5_Esme_89617966:
@@ -10354,7 +10357,7 @@ translate spanish D5_Esme_7d3ebbc7:
 translate spanish D5_Esme_4feaf864:
 
     # mc "You knocked down the {i}Enforcer{/i}..."
-    mc "Derribaste al {i}Enforcer{/i}...."
+    mc "Derribaste al {i}Ejecutor{/i}...."
 
 # game/Days/dayFive.rpy:4853
 translate spanish D5_Esme_fa5754ad:
@@ -10522,7 +10525,7 @@ translate spanish D5_Esme_c6a78879:
 translate spanish D5_Esme_9e91ba8a:
 
     # mc "Hold that thought."
-    mc "Mantenga ese pensamiento."
+    mc "Manten ese pensamiento."
 
 # game/Days/dayFive.rpy:4931
 translate spanish D5_Esme_c6bfd10f:
@@ -10564,7 +10567,7 @@ translate spanish D5_Esme_c1c25647:
 translate spanish D5_Esme_a643f6d8:
 
     # esme "L-like this, Sensei?"
-    esme "¿Me gusta esto, Sensei?"
+    esme "¿T-Te gusta esto, Sensei?"
 
 # game/Days/dayFive.rpy:4950
 translate spanish D5_Esme_03662de5:
@@ -10624,7 +10627,7 @@ translate spanish D5_Esme_0172d625:
 translate spanish D5_Esme_8d8c8e98:
 
     # esme "Nom~"
-    esme "Nombre~"
+    esme "Nom~"
 
 # game/Days/dayFive.rpy:4978
 translate spanish D5_Esme_c44be0f2:
@@ -10756,7 +10759,7 @@ translate spanish D5_Esme_dfbd8718:
 translate spanish D5_Esme_ddba0f13:
 
     # esme "Yhis Syr..."
-    esme "Y su señor..."
+    esme "S-Shi señor..."
 
 # game/Days/dayFive.rpy:5033
 translate spanish D5_Esme_4342b19e:
@@ -11026,7 +11029,7 @@ translate spanish D5_Esme_4af4d122:
 translate spanish D5_Esme_28027f1d:
 
     # esme "Hehe, thanks for pointing out the...whole face thing... I'd have just walked around like nothing happened!"
-    esme "Jeje, gracias por señalarme... todo el asunto de la cara... ¡Simplemente habría caminado como si nada hubiera pasado!"
+    esme "Jeje, gracias por señalarme... toda la cosa de la cara... ¡Simplemente habría caminado como si nada hubiera pasado!"
 
 # game/Days/dayFive.rpy:5161
 translate spanish D5_Esme_067d9b7e:
@@ -11200,7 +11203,7 @@ translate spanish D5_Esme_ffcc7d48:
 translate spanish D5_Esme_a24240c2:
 
     # mc "Time for me to arrive."
-    mc "Es hora de que llegue."
+    mc "Es la hora de que llegue."
 
 # game/Days/dayFive.rpy:5257
 translate spanish D5_Esme_25f75821:
@@ -11296,7 +11299,7 @@ translate spanish D5_Esme_40b742fa:
 translate spanish D5_Esme_428dc3ac:
 
     # mc "I see, I see. To flip it on ya; do you feel my attire screams 'Enforcer'?"
-    mc "Ya veo, ya veo. Para voltearlo contigo; ¿Sientes que mi atuendo grita 'Enforcer'?"
+    mc "Ya veo, ya veo. Para voltearlo contigo; ¿Sientes que mi atuendo grita 'Ejecutor'?"
 
 # game/Days/dayFive.rpy:5297
 translate spanish D5_Esme_feda5fe0:
@@ -11314,7 +11317,7 @@ translate spanish D5_Esme_a9ee88e6:
 translate spanish D5_Esme_1345cd8e:
 
     # ver "Smart though. I'll give you that one."
-    ver "Aunque inteligente. Te daré ese."
+    ver "Aunque inteligente. Te daré ese punto."
 
 # game/Days/dayFive.rpy:5303
 translate spanish D5_Esme_eedbefe7:
@@ -11368,7 +11371,7 @@ translate spanish D5_Esme_2fbb7006:
 translate spanish D5_Esme_21403148:
 
     # ver "Let's go then! My husband closes shop at 5. We're gunna' cut it close!"
-    ver "¡Vamos entonces! Mi marido cierra la tienda a las 5. ¡Vamos a cerrar!"
+    ver "¡Vamos entonces! Mi marido cierra la tienda a las 5. ¡Vamos a estar cerca!"
 
 # game/Days/dayFive.rpy:5328
 translate spanish D5_Esme_e1e92919:
@@ -11410,7 +11413,7 @@ translate spanish D5_Esme_5fb8e64b:
 translate spanish D5_Esme_5186f448:
 
     # ver "You're staring..."
-    ver "Estás mirando..."
+    ver "Que estás mirando..."
 
 # game/Days/dayFive.rpy:5359
 translate spanish D5_Esme_4095b059:
@@ -11446,13 +11449,13 @@ translate spanish D5_Esme_3b9e6265:
 translate spanish D5_Esme_d9bba632:
 
     # mc "{i}Frunk?{/i}"
-    mc "{i}¿Frunco?{/i}"
+    mc "{i}¿Frunk?{/i}"
 
 # game/Days/dayFive.rpy:5375
 translate spanish D5_Esme_70e475cd:
 
     # ver "You're wearing a suit, Mr. Enforcer... People who wear suits should know what a frunk is."
-    ver "Está usando un traje, Sr. Enforcer... La gente que usa traje debería saber lo que es un frunk."
+    ver "Está usando un traje, Sr. Ejecutor... La gente que usa traje debería saber lo que es un frunk."
 
 # game/Days/dayFive.rpy:5390
 translate spanish D5_Esme_a6544f6b:
@@ -11512,7 +11515,7 @@ translate spanish D5_Esme_f146a4da:
 translate spanish D5_Esme_92eee832:
 
     # ver "You know what a trunk is?"
-    ver "¿Sabes qué es un baúl?"
+    ver "¿Sabes qué es un maletero?"
 
 # game/Days/dayFive.rpy:5423
 translate spanish D5_Esme_4eea8291:
@@ -11524,13 +11527,13 @@ translate spanish D5_Esme_4eea8291:
 translate spanish D5_Esme_012e1673:
 
     # mc "Wow, you think so little of me. {w}Trunk is a trunk... I don't really know else to explain it. The back end of the car..."
-    mc "Vaya, piensas tan poco en mí. {w}El baúl es un baúl... Realmente no sé cómo explicarlo de otra manera. La parte trasera del auto..."
+    mc "Vaya, piensas tan poco en mí. {w}El maletero es un maletero... Realmente no sé cómo explicarlo de otra manera. La parte trasera del auto..."
 
 # game/Days/dayFive.rpy:5429
 translate spanish D5_Esme_7dfaea0c:
 
     # ver "Yep! So...a frunk, is a trunk, but in the front of the car. Duh!"
-    ver "¡Sí! Entonces...un frunk, es un baúl, pero en la parte delantera del auto. ¡Eh!"
+    ver "¡Sí! Entonces...un frunk, es un maletero, pero en la parte delantera del auto. ¡Eh!"
 
 # game/Days/dayFive.rpy:5430
 translate spanish D5_Esme_73856a35:
@@ -11572,7 +11575,7 @@ translate spanish D5_Esme_4c4d7a47:
 translate spanish D5_Esme_cf22adcd:
 
     # august_casperT "It's not truck-kun, but it'll do.."
-    august_casperT "No es truck-kun, pero servirá..."
+    august_casperT "No es camión-kun, pero servirá..."
 
 # game/Days/dayFive.rpy:5458
 translate spanish D5_Esme_03e114a7:
@@ -11590,7 +11593,7 @@ translate spanish D5_Esme_676321bd:
 translate spanish D5_Esme_e5b28195:
 
     # august_casper "I'm... Not dea-{p}{nw=0.5}"
-    august_casper "Yo... no estoy muerto-{p}{nw=0.5}"
+    august_casper "Yo... no estoy muerta-{p}{nw=0.5}"
 
 # game/Days/dayFive.rpy:5476
 translate spanish D5_Esme_e0acda1b:
@@ -11602,7 +11605,7 @@ translate spanish D5_Esme_e0acda1b:
 translate spanish D5_Esme_abf961a1:
 
     # mc "Get off the fucking road! You could have been killed!"
-    mc "¡Salgan del maldito camino! ¡Te podrían haber matado!"
+    mc "¡Sal del maldito camino! ¡Te podrían haber matado!"
 
 # game/Days/dayFive.rpy:5485
 translate spanish D5_Esme_d1973449:
@@ -11638,7 +11641,7 @@ translate spanish D5_Esme_69c25b65:
 translate spanish D5_Esme_0ad01182:
 
     # "{color=[d5_kenCol]}???{/col}" "There she is! Good day at work?"
-    "{color=[d5_kenCol]}???{/col}" "¡Ahí está ella! ¿Buen día en el trabajo?"
+    "{color=[d5_kenCol]}???{/col}" "¡Ahí está ella! ¿Has tenido un buen día en el trabajo?"
 
 # game/Days/dayFive.rpy:5509
 translate spanish D5_Esme_137c18ea:
@@ -11698,7 +11701,7 @@ translate spanish D5_Esme_4e14b6b8:
 translate spanish D5_Esme_6b660e79:
 
     # ken "Ohh, you're that Enforcer dude I've heard about?"
-    ken "Ohh, ¿eres ese tipo Enforcer del que he oído hablar?"
+    ken "Ohh, ¿eres ese tipo Ejecutor del que he oído hablar?"
 
 # game/Days/dayFive.rpy:5536
 translate spanish D5_Esme_995d3a9b:
@@ -11710,7 +11713,7 @@ translate spanish D5_Esme_995d3a9b:
 translate spanish D5_Esme_12606df9:
 
     # ken "You got it easy. Sit around and give students discipline or some shit, hell if I know. But I'm jealous!"
-    ken "Lo tienes fácil. Sentarse y darles disciplina a los estudiantes o algo así, diablos si lo sé. ¡Pero estoy celoso!"
+    ken "Lo tienes fácil. Sentarse y darles disciplina a las estudiantes o algo así, diablos si lo sé. ¡Pero estoy celoso!"
 
 # game/Days/dayFive.rpy:5540
 translate spanish D5_Esme_478f2fa1:
@@ -11722,13 +11725,13 @@ translate spanish D5_Esme_478f2fa1:
 translate spanish D5_Esme_5c24ee85:
 
     # ken "Hmmm... Got some muscles on ya for sure! Ex-mil?"
-    ken "Hmmm... ¡Seguro que tienes algunos músculos! ¿Ex-mil?"
+    ken "Hmmm... ¡Seguro que tienes algunos músculos! ¿Ex-militar?"
 
 # game/Days/dayFive.rpy:5544
 translate spanish D5_Esme_1a205a96:
 
     # ken "Or convict?"
-    ken "¿O condenar?"
+    ken "¿O convicto?"
 
 # game/Days/dayFive.rpy:5546
 translate spanish D5_Esme_2b35b6fe_3:
@@ -11989,11 +11992,11 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:427
     old "Hehe, wouldn't u like to know!"
-    new "Jeje, ¿no te gustaría saberlo?"
+    new "Jeje, ¿no te va a gustar saberlo!"
 
     # game/Days/dayFive.rpy:428
     old "That's not important right now! I saaaaaid good morning!"
-    new "¡Eso no es importante ahora! ¡Te dije buenos días!"
+    new "¡Eso no es importante ahora! ¡Te dijeeees buenos días!"
 
     # game/Days/dayFive.rpy:431
     old "Good Morning, [nova]."
@@ -12025,7 +12028,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:589
     old "\nSuzie found out that Nova was texting me... I blame Clarissa, She'd have never found out otherwise if Clarissa was a good wingman!"
-    new "\nSuzie descubrió que Nova me estaba enviando mensajes de texto... Culpo a Clarissa. De lo contrario, nunca se habría enterado si Clarissa fuera una buena compañera."
+    new "\nSuzie descubrió que Nova me estaba enviando mensajes de texto... Culpé a Clarissa. De lo contrario, nunca se habría enterado si Clarissa fuera una buena compañera."
 
     # game/Days/dayFive.rpy:590
     old "\n{u}{b}Day 5:{/b}{/u}\nNote to self: Clarissa is a horrible wingman."
@@ -12041,7 +12044,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:871
     old "Hit me."
-    new "Pégame."
+    new "Dale."
 
     # game/Days/dayFive.rpy:871
     old "You monster."
@@ -12078,6 +12081,7 @@ translate spanish strings:
     # game/Days/dayFive.rpy:995
     old "PARE system punishment."
     new "Sistema de castigo ICR."
+
 
     # game/Days/dayFive.rpy:996
     old "I don't think so, no."
@@ -12141,7 +12145,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1461
     old "Try Again."
-    new "Intentar otra vez."
+    new "Intentar de nuevo."
 
     # game/Days/dayFive.rpy:1540
     old "\nI thought it'd be fun to play a little game, I let her pick the vibration power for the vibe herself. I didn't tell her what she was picking, but once she found out what it was for, she regretted picking power level [d5_vibrationPower]..."
@@ -12153,15 +12157,15 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1618
     old "\nAs I thought... Level [d5_vibrationPower] on BoB was too much for her. As soon as I pressed the button she instantly collapsed to the floor."
-    new "\nComo pensaba... El nivel [d5_vibrationPower] en BoB era demasiado para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
+    new "\nComo pensaba... El nivel [d5_vibrationPower] en NcP era demasiado para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
 
     # game/Days/dayFive.rpy:1621
     old "\nInteresting... Level [d5_vibrationPower] on BoB was too much for her. As soon as I pressed the button she instantly collapsed to the floor."
-    new "\nInteresante... El nivel [d5_vibrationPower] en BoB fue demasiado para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
+    new "\nInteresante... El nivel [d5_vibrationPower] en NcP fue demasiado para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
 
     # game/Days/dayFive.rpy:1623
     old "\nI had higher expectations, but level [d5_vibrationPower] on BoB was too difficult for her. As soon as I pressed the button she instantly collapsed to the floor."
-    new "\nTenía expectativas más altas, pero el nivel [d5_vibrationPower] en BoB era demasiado difícil para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
+    new "\nTenía expectativas más altas, pero el nivel [d5_vibrationPower] en NcP era demasiado difícil para ella. Tan pronto como presioné el botón, ella instantáneamente se desplomó en el suelo."
 
     # game/Days/dayFive.rpy:1702
     old "\nAfter the initial punishment... We got down to business and discussed what's going to change around [school_name] and we agreed on a plan-of-action."
@@ -12177,7 +12181,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1730
     old "Err... buttons? I think I'm on his...texts?"
-    new "Err... ¿botones? Creo que estoy en sus... ¿textos?"
+    new "Err... ¿botones? Creo que estoy en su... ¿chat?"
 
     # game/Days/dayFive.rpy:1731
     old "Is that how you call it? [clarissa]... come on girl."
@@ -12193,7 +12197,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1736
     old "Huh? Why are messages coming through?"
-    new "¿Eh? ¿Por qué llegan mensajes?"
+    new "¿Eh? ¿Por qué me estan llegando mensajes?"
 
     # game/Days/dayFive.rpy:1737
     old "Wait! It's sending everything I'm saying!?!?"
@@ -12269,7 +12273,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1760
     old "Talking to this brick like a crazy person, and... hhhhhh 😭"
-    new "Hablarle a este ladrillo como un loco, y... hhhhhh 😭"
+    new "Hablarle a este ladrillo como una loca, y... hhhhhh 😭"
 
     # game/Days/dayFive.rpy:1761
     old "I'm on my way. Don't use the salt, please."
@@ -12289,7 +12293,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:1767
     old "Er... [clarissa]...I think you have speech-to-text enabled..."
-    new "Er... [clarissa]...Creo que tienes habilitada la conversión de voz a texto..."
+    new "Ehhh... [clarissa]...Creo que tienes habilitada la conversión de voz a texto..."
 
     # game/Days/dayFive.rpy:1768
     old "There should be a microphone icon on your screen somewhere. Press it to turn it off, and the keypad should come up..."
@@ -12341,11 +12345,11 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:2005
     old "Turn on BoB."
-    new "Enciende a BoB."
+    new "Enciende el NcP."
 
     # game/Days/dayFive.rpy:2005
     old "Public humiliation of Mrs. Jackson.\n{size=-5}{i}(BoB = Battery Operated Boyfriend.){/i}{/size}"
-    new "Humillación pública de la señora Jackson.\n{size=-5}{i}(BoB = Novio operado por pilas).{/i}{/size}"
+    new "Humillación pública de la señora Jackson.\n{size=-5}{i}(NcP = Novio con Pilas).{/i}{/size}"
 
     # game/Days/dayFive.rpy:2188
     old "[clarissa], can [stella] do that? Can she photocopy the contract and sign it?"
@@ -12569,7 +12573,7 @@ translate spanish strings:
 
     # game/Days/dayFive.rpy:4618
     old "This Next Barber Shop?"
-    new "¿Esta próxima barbería?"
+    new "¿Esta cerca la barbería?"
 
     # game/Days/dayFive.rpy:4619
     old "That New Barber Shop?"
@@ -12684,8 +12688,8 @@ translate spanish strings:
     new "Recordaste su apellido."
 
     # game/Days/dayFive.rpy:5442
-    old "S hiiiiiiiiiiiiiiiit!!"
-    new "¡¡Jodeeeeeeeeeeeeeee!!"
+    old "Shiiiiiiiiiiiiiiiit!!"
+    new "¡¡Mierrrrrdaaaaaaaa!!"
 
     # game/Days/dayFive.rpy:5484
     old "{color=#39e16b98}Casper{/color} has been added to the Special Guests Page!"

@@ -364,7 +364,7 @@ translate spanish daySixStart_9531940c:
 translate spanish daySixStart_d9fe8cce:
 
     # soph "I'm married! You know that!"
-    soph "¡Estoy casado! ¡Lo sabes!"
+    soph "¡Estoy casada! ¡Lo sabes!"
 
 # game/Days/daySix.rpy:119
 translate spanish daySixStart_4108ace8:
