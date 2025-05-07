@@ -3628,7 +3628,7 @@ translate spanish D7_Morgana_344fa585:
 translate spanish D7_Morgana_f060f512:
 
     # morg "See? Just me."
-    morg "¿Ver? Sólo yo."
+    morg "¿Ver? Solo yo."
 
 # game/Days/daySeven.rpy:1378
 translate spanish D7_Morgana_d3b93b18:
@@ -7960,7 +7960,7 @@ translate spanish d7_gameContinuation_57d774f4:
 translate spanish d7_gameContinuation_cb248492:
 
     # mcT "Wine is quite nice, and the blend, age and ultimately price are reflected in the taste..."
-    mcT "El vino es bastante agradable, y la mezcla, la edad y, en última instancia, el precio se reflejan en el sabor ..."
+    mcT "El vino es bastante agradable, y la mezcla, la edad y en última instancia, el precio se reflejan en el sabor ..."
 
 # game/Days/daySeven.rpy:3135
 translate spanish d7_gameContinuation_4a6bae3e:

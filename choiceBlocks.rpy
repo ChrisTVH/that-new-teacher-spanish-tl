@@ -280,7 +280,7 @@ translate spanish AcceptJob_00c16b45:
 translate spanish AcceptJob_810f296e:
 
     # principal "Also, from time to time I'll voice announcements over the PA System. And if I ever need to talk to you directly, too."
-    principal "Además, de vez en cuando haré anuncios a través del sistema de megafonía. Si necesito hablar contigo directamente alguna vez también."
+    principal "Además, de vez en cuando haré anuncios a través del Sistema SDP. Si necesito hablar contigo directamente alguna vez también."
 
 # game/choiceBlocks.rpy:149
 translate spanish AcceptJob_dc16ebcd:

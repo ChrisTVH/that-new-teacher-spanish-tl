@@ -64,7 +64,7 @@ translate spanish strings:
 
     # game/phone/definitions/startingConversations.rpy:36
     old "But if you ever want to see me, you're more than welcome to my office. Just let me know when you're ready."
-    new "Pero si alguna vez quieres verme, eres más que bienvenido a mi oficina. Sólo avísame cuando estés listo."
+    new "Pero si alguna vez quieres verme, eres más que bienvenido a mi oficina. Solo avísame cuando estés listo."
 
     # game/phone/definitions/startingConversations.rpy:37
     old "Make sure [soph] is doing alright there without me. I know we haven't known each other for a very long time..."

@@ -334,7 +334,7 @@ translate spanish strings:
 
     # game/screens.rpy:1648
     old "audio"
-    new "audio"
+    new "sonido"
 
     # game/screens.rpy:1650
     old "content"
@@ -450,15 +450,15 @@ translate spanish strings:
 
     # game/screens.rpy:1741
     old "{size=+4}Audio Attributes{/size}"
-    new "{size=+4}Atributos del Audio{/size}"
+    new "{size=+4}Atributos del Sonido{/size}"
 
     # game/screens.rpy:1742
     old "{size=-10}UI Volume{/size}"
-    new "{size=-10}Volumen de la IU{/size}"
+    new "{size=-10}Volumen de la Interfaz{/size}"
 
     # game/screens.rpy:1746
     old "{size=-10}Ambience Volume{/size}"
-    new "{size=-10}Volumen Ambiental{/size}"
+    new "{size=-10}Volumen del Ambiente{/size}"
 
     # game/screens.rpy:1751
     old "{size=-10}Music Volume{/size}"

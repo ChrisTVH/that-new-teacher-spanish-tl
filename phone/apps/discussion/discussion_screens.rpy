@@ -20,7 +20,7 @@ translate spanish strings:
 
     # game/phone/apps/discussion/discussion_screens.rpy:246
     old "{u}{i}Loading Audio...{i}{/u}"
-    new "{u}{i}Cargando Audio...{i}{/u}"
+    new "{u}{i}Cargando Sonido...{i}{/u}"
 
     # game/phone/apps/discussion/discussion_screens.rpy:250
     old "{u}{i}Loading Video...{i}{/u}"
